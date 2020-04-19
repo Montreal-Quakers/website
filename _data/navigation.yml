@@ -1,0 +1,64 @@
+en:
+- title: About Us &nbsp;<i class='far fa-address-card'></i>
+  subtitle: About Us
+  children: 
+    - childtitle: For New Attenders
+      childlink: /about.html
+    - childtitle: Introduction to Quakers 
+      childlink: /intro.html
+    - childtitle: Links & History
+      childlink: /links_history.html
+- title: Where We Meet &nbsp;<i class='fas fa-map-marker-alt'></i>
+  subtitle: Where We Meet
+  children:
+    - childtitle: Sundays in Montreal
+      childlink: /directions.html
+    - childtitle: Midweek Meeting
+      childlink: /midweek.html
+    - childtitle: Quebec City
+      childlink: /qc.html
+    - childtitle: South Shore
+      childlink: /south_shore.html
+    - childtitle: Laurentian Worship Group
+      childlink: /laurentians.html
+- title: News &nbsp;<i class='fas fa-rss'></i></a>
+  subtitle: The Latest Updates
+  link: /posts.html
+- title: Calendar &nbsp;<i class='far fa-calendar-alt'></i>
+  link: /calendar.html
+- title: Contribute &nbsp;<i class='fas fa-coins'></i>
+  link: /donate.html
+- title: Contact Us &nbsp;<i class='far fa-envelope-open'></i>
+  link: /contact.html
+
+
+fr:
+- title: À propos &nbsp;<i class='far fa-address-card'></i>
+  children:
+    - childtitle: Déroulement
+      childlink: /a_propos.html
+    - childtitle: Présentation des Quakers
+      childlink: /intro-fr.html
+    - childtitle: Liens & histoire
+      childlink: /liens_histoire.html
+- title: Nous trouver &nbsp;<i class='fas fa-map-marker-alt'></i>
+  children:
+    - childtitle: Le dimanche à Montréal
+      childlink: /coordonnées.html
+    - childtitle: Mi-semaine à Montréal
+      childlink: /mi-semaine.html
+    - childtitle: À Québec
+      childlink: /quebec.html
+    - childtitle: Sur la Rive-Sud
+      childlink: /rive-sud.html
+    - childtitle: Dans les Laurentides
+      childlink: /laurentides.html
+- title: Nouvelles &nbsp;<i class='fas fa-rss'></i></a>
+  subtitle: Nos mises à jour
+  link: /nouvelles.html
+- title: Programmation &nbsp;<i class='far fa-calendar-alt'></i>
+  link: /calendrier.html
+- title: Faire un don &nbsp;<i class='fas fa-coins'></i>
+  link: /don.html
+- title: Contact &nbsp;<i class='far fa-envelope-open'></i>
+  link: /contact-fr.html
