@@ -1,0 +1,119 @@
+title: Montreal Quaker Meeting
+title-fr: Assemblée Quaker de Montréal
+keywords: quaker, montreal, quebec, friends, religious, society, religion, meditation
+short_title: Montreal Quakers
+short_title-fr: Quakers de Montréal
+email: 
+address: 1090 Greene Ave., Westmount
+adresse: 1090 ave. Greene, Westmount
+phone: (514) 307-0820
+
+# Certain types of media can be assigned to specific pages using this list. Everything in "media" is in the _include folder.
+
+media_pages:
+  - page_trans: index
+    media: yt_embed.html
+  - page_trans: directions
+    media: directions.html
+  - page_trans: laurentians
+    media: atelier.html
+  - page_trans: midweek
+    media: ryan.html
+  - page_trans: quebec
+    media: vieux_qc.html
+  - page_trans: calendar
+    media: calendar.html
+    media2: calendar2.html
+  - page_trans: sandbox
+    media: slideshow.html
+
+    # Turn alerts on and off using this variable below. 
+    # If you want alerts on all pages on the website, set 'alerts: all'.
+    # If you want alerts on only certain pages, (the ones listed under "alert_pages", set "alerts: some" 
+    # Anything else, like '"alerton = "off"' and alerts will be off.
+
+alerts: some
+alert_pages:
+  - page_trans: index
+  - page_trans: directions
+  - page_trans: quebec
+  - page_trans: midweek
+
+    #This section allows you to easily control which pages will have which bird and text animation
+bird_left: 
+  - animation: land_left_flip
+    trans: midweek
+  - animation: land_left_flip
+    trans: directions
+  - animation: land_left_flip
+    trans: quebec
+  - animation: land_left_flip
+    trans: laurentians
+  - animation: roll_bird1
+    trans: links_history
+  - animation: swing-in1
+    trans: index
+
+bird_right:
+  - animation: land_right
+    trans: directions
+  - animation: land_right
+    trans: midweek
+  - animation: land_right
+    trans: quebec
+  - animation: land_right
+    trans: laurentians
+  - animation: land_right
+    trans: directions
+  - animation: roll_bird2
+    trans: links_history
+  - animation: swing-in1
+    trans: index
+
+mobile_bird: 
+  - animation: roll_bird1
+    trans: links_history
+  - animation: land_right
+    trans: directions
+  - animation: land_right
+    trans: midweek
+  - animation: land_right
+    trans: quebec
+  - animation: land_right
+    trans: laurentians
+  - animation: land_right
+    trans: directions
+  - animation: swing-in1
+    trans: index
+
+    # the text at the top of each page on wide screens
+header_animation:
+  - animation: flicker-glow
+    trans: contribution
+  - animation: focustext
+    trans: index
+
+    # the text at the top of each page on mobile/narrow screens
+mobile_header_animation:
+  - animation: flicker-glow
+    trans: contribution
+
+markdown: kramdown
+include: ['_pages',".htaccess"]
+exclude: ["backup","notes","Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"] 
+sass:
+    sass_dir: ./_sass
+tipue_search:
+  include:
+    pages: true
+  exclude:
+    files: [search.html,search-fr.html]
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
+  - scope:
+      path: "assets/PDF"
+    values:
+      PDF: true
