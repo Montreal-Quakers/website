@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="{{ site.title}}">
+  <meta name="keywords" content="{{ site.keywords}}">
+  <meta name="author" content="{{ site.title}}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <html lang="{{ page.lang | default: 'en' }}">
+  <link rel="stylesheet" href="/assets/css/w3.css">
+  <link rel="stylesheet" href="/assets/css/all.min.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="icon" type="image/jpg" href="/assets/images/favicon.ico">
+  <!-- This code sets the default title to English but provides a French translation for French pages -->
+  <title>{% if page.lang == "fr" %}{{ site.title-fr }}{% else %}{{ site.title }}{% endif %}</title>
+  <! -- search header -->
+  {% if page.tipue_search_active or layout.tipue_search_active %}
+    <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/normalize.css" | relative_url }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
+    <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | relative_url }}">
+    <script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
+    <script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
+{% endif %}
+</head>
+<body>
+ <nav>
+	 <!-- This inserts the code for the navigation -->
+   {% include datanavigation.html %}
+   <!-- Turn alerts on and off using _config.yml, see the README -->
+   <div class="container-alert">
+   {% if site.alerts == "all" %}
+        {% if page.lang == "en" %}<div class="stickystart"><div> </div><div class="alert">{% capture alert %}{% include alert.md %}{% endcapture %}{{ alert | markdownify }}</div>{% include alert_closebtn.html %}</div>{% endif %}
+        {% if page.lang == "fr" %}<div class="stickystart"><div> </div><div class="alert">{% capture alerte %}{% include alerte.md %}{% endcapture %}{{ alerte | markdownify }}</div>{% include alert_closebtn.html %}</div>{% endif %}
+     {% endif %}
+
+   {% if site.alerts == "some" %}
+   {% for each in site.alert_pages %}
+       {% if page.lang == "en" and page.trans == each.page_trans %}<div class="stickystart"><div> </div><div class="alert">{% capture alert %}{% include alert.md %}{% endcapture %}{{ alert | markdownify }}</div>{% include alert_closebtn.html %}</div>{% endif %}
+       {% if page.lang == "fr" and page.trans == each.page_trans %}<div class="stickystart"><div> </div><div class="alert">{% capture alerte %}{% include alerte.md %}{% endcapture %}{{ alerte | markdownify }}</div>{% include alert_closebtn.html %}</div>{% endif %}
+   {% endfor %}
+   {% endif %}
+
+   </div>
+	</nav>
+   <main>
+	<br>
+   <!-- These are the headers, which are included only if the page has them. There's a weird bug for the homepage that forces it to have a title so... -->
+    {% unless page.trans == "index" %}
+    {% if page.title %} <h2 class="header">{{ page.title }}</h2>{% endif %}
+    {% if page.description %}<h3 class="header">{{ page.description }}</h3>{% endif %}
+    {% endunless %}
+	<br>
+<article class="container-content">
+	<!-- Tricky to get Google's iframes, especially the Calendar, to look good in mobile without serving a special page -->
+		{% unless page.trans == "calendar" %}
+	<div class="content">
+    {{ content }}
+    <br>
+	</div>
+       {% endunless %}
+       <!-- a special responsive media section for certain pages. Put the if statement on the next line and below "class="media" -->
+       {% for each in site.media_pages %}
+         {% if page.trans == each.page_trans %}
+	<div class="media">
+		{% if page.trans == each.page_trans %}{% include {{ each.media }} %}{% if each.media2 %}{% include {{ each.media2 }} %}{% endif %}{% endif %}
+	</div>
+       <br>
+       {% endif %}
+       {% endfor %}
+       <!-- Return to top button -->
+       <button title="Return to top of page" onclick="topFunction()" id="myBtn" class="w3-card-4 w3-circle" title="{% if page.lang == "fr" %}Retour en haut{% else %}Go to top{% endif %}"><i class="fas fa-arrow-circle-up"></i></button>
+</article>
+   </main>
+   <footer class="footer">
+	   <!-- for some reason can't include a markdown file as HTML, so the code below translates the markdown into HTML before including. Also note that there is some special footer-header styling in the stylesheet -->
+	   {% if page.lang =="fr" %}{% capture bas-de-page %} {% include bas-de-page.md %}{% endcapture %}{{ bas-de-page | markdownify }}{% else %}{% capture footer %} {% include footer.md %}{% endcapture %}{{ footer | markdownify }}{% endif %}
+	      </footer>
+<script src="/assets/js/navigation.js"></script>   
+</body>
+</html>
