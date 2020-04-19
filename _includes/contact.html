@@ -1,0 +1,13 @@
+<!-- <link rel="stylesheet" href="/assets/css/w3.css"> -->
+<form action="https://formspree.io/xaybodwa" method="POST" target="_blank">
+      <p><input class="w3-input w3-border w3-animate-input" type="text" style="width:50%" placeholder="{% if page.lang == "fr" %}Nom{% else %}Name{% endif %}" required name="{% if page.lang == "fr" %}Nom{% else %}Name{% endif %}"></p>
+      <p><input class="w3-input w3-border w3-animate-input" type="text" style="width:50%" placeholder="{% if page.lang == "fr" %}Courriel{% else %}Email{% endif %}" required name="{% if page.lang == "fr" %}Courriel{% else %}Email{% endif %}"></p>
+      <p><input class="w3-input w3-border w3-animate-input" type="text" style="width:50%" placeholder="{% if page.lang == "fr" %}Objet{% else %}Subject{% endif %}" required name="{% if page.lang == "fr" %}Objet{% else %}Subject{% endif %}"></p>
+      <input class="w3-input w3-border w3-animate-input" type="text" style="width:50%" placeholder="Message" required name="Message">
+      <p>
+        <button class="w3-button color-1-dark" type="submit">
+          <i class="fa fa-paper-plane"></i> &nbsp;{% if page.lang == "fr" %}Envoyer{% else %}SEND MESSAGE{% endif %}
+        </button>
+      </p>
+    </form>
+

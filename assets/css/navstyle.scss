@@ -1,0 +1,1206 @@
+---
+---
+@import "colors.scss";
+
+/* The header at the top of the page */
+
+ a#narrowheader,a#narrowheader:hover,a#narrowheader:visited, a#narrowheader:link, a#wideheader, a#wideheader:hover, a#wideheader:visited, a#wideheader:link, #nolink,#nolink:hover,#nolink:visited, #nolink:link {
+    text-decoration: none;
+   }
+
+/* WIDE screen */
+@media screen and (min-width: $mob-pixels) {
+ #wideheader * {
+    margin: 0px;
+    background-color: $color-1-dark;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    font-size: $header-font-size;
+    font-family: $font-serif;
+    color: $header-color-text;
+    position: relative;
+    text-decoration: none;
+    padding:20px 20px;
+  }
+  
+  .noback {
+	  background-color: transparent;
+  }
+
+ #widehome {
+    text-align: left;
+    color: $nav-color-text;
+    position: relative;
+    text-decoration: none;
+ }
+ #narrowheader {
+	 display: none
+ }
+
+   .navbar {
+	   display: flex;
+	   align-items: center;
+    background-color: $color-1;
+    }
+
+    .icon_right {
+	    display: none;
+    }
+    
+    #special {
+    display: block;
+    font-size: .00000001em;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    background-color: $color-1-dark;
+    color: $color-1-dark;
+    }
+
+
+   .show {display: inline !important;}
+   .hide {display: none !important;}
+   .input_show {visibility: visible !important;}
+   .input_hide {visibility: hidden !important;}
+}
+
+/* NARROW screen */
+@media screen and (max-width: $mob-pixels) {
+  #wideheader  {
+	display: none;
+  }
+  #widehome  {
+	display: none;
+  }
+  #narrowheader {
+    position: absolute;
+/*    margin-left: -160px; */
+    margin-top: 13px;
+    left: 50%;
+    font-size: $nav-font-size;
+    font-family: $font-serif;
+    transform: translate(-50%, 0%);
+	   border-radius: 25px;
+    background-color: $color-1-dark;
+    text-decoration: none;
+    color: $nav-color-text;
+   }
+   #nolink {
+	   color: $nav-color-text;
+	   white-space: nowrap;
+	   padding: 0;
+	   font-size: $header-font-size;
+   }
+
+    #special {
+    display: none;
+    }
+
+   .icon_right {
+	   display: block;
+	   float: right;
+	   text-decoration: none;
+	   z-index: 600;
+   }
+
+   .navbar {
+    background-color: $color-1-dark;
+    }
+   .navbar .search-container {
+	   display: none;
+   }
+   #searchsubmit,#unfold {display:none;}
+   #formy {flex: 1 0 auto;}
+}
+
+/* some animations */
+
+  .focustext {
+    -webkit-animation: text-focus-in 1.0s cubic-bezier(0.550, 0.085, 0.680, 0.530) -.40s both;
+    animation: text-focus-in 1.0s cubic-bezier(0.550, 0.085, 0.680, 0.530) -.40s both;
+  }
+
+  .roll_bird1 {
+	-webkit-animation: roll-in-left 1.0s ease-out -0.4s both;
+	        animation: roll-in-left 1.0s ease-out -0.4s both;
+  }
+  
+  .roll_bird2 {
+	-webkit-animation: roll-in-right 1.0s ease-out -0.4s both;
+	        animation: roll-in-right 1.0s ease-out -0.4s both;
+  }
+ 
+ .swing-in1 {
+	-webkit-animation: swing-in-top-fwd 1.0s cubic-bezier(0.175, 0.885, 0.320, 1.275) 0.40s both;
+	        animation: swing-in-top-fwd 1.0s cubic-bezier(0.175, 0.885, 0.320, 1.275) 0.40s both;
+  } 
+
+  .land_left_flip {
+    -webkit-animation: tilt-in-tl 0.65s cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.25s both, flip-vertical-left 0.4s cubic-bezier(0.455, 0.030, 0.515, 0.955) 0.75s reverse forwards;
+    animation: tilt-in-tl 0.65s cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.25s both, flip-vertical-left 0.4s cubic-bezier(0.455, 0.030, 0.515, 0.955) 0.75s reverse forwards;
+  }
+	
+  .land_right {
+	-webkit-animation: tilt-in-fwd-tr 0.6s cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.25s both;
+	        animation: tilt-in-fwd-tr 0.6s cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.25s both;
+  }
+
+  .rotate-hor-center {
+	-webkit-animation: rotate-hor-center 0.5s cubic-bezier(0.550, 0.085, 0.680, 0.530) reverse both;
+	        animation: rotate-hor-center 0.5s cubic-bezier(0.550, 0.085, 0.680, 0.530) reverse both;
+  }
+
+  /* wobbles for the contact page */
+
+.shake-tl {
+	-webkit-animation: shake-tl 0.8s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+	        animation: shake-tl 0.8s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+}
+
+.shake-bottom {
+	-webkit-animation: shake-bottom 0.8s cubic-bezier(0.455, 0.030, 0.515, 0.955) 0.65s both;
+	        animation: shake-bottom 0.8s cubic-bezier(0.455, 0.030, 0.515, 0.955) 0.65s both;
+}
+
+.flicker-glow {
+  -webkit-animation: text-flicker-in-glow 0.5s linear both, glow 2s ease-in-out infinite 0.5s alternate;
+  -moz-animation: text-flicker-in-glow 0.5s linear both, glow 2s ease-in-out infinite 0.5s alternate;
+  animation: text-flicker-in-glow 0.5s linear both, glow 2s ease-in-out infinite 0.5s alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #d6edff, 0 0 40px #d6edff, 0 0 50px #d6edff, 0 0 60px #d6edff, 0 0 70px #d6edff;
+  }
+  
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #abcbff, 0 0 40px #abcbff, 0 0 50px #abcbff, 0 0 60px #abcbff, 0 0 70px #abcbff, 0 0 80px #abcbff;
+  }
+
+}
+
+/* end of header stuff, now for regular dropdown */
+
+.navbar {
+  overflow: hidden;
+  z-index: 500;
+  width:100%;
+  font-family: $font-sans;
+  font-weight: bold;
+}
+
+.navbar a,.navbar #response,.navbar button,.navbar .search-container {
+  display: block;
+  color: $nav-color-text;
+  font-family: $font-sans;
+  font-size: $nav-font-size;
+  font-weight: bold;
+  text-align: center;
+  padding: 14px 12px;
+  text-decoration: none;
+}
+
+.navbar a.active,a.active:hover {
+  background-color: $color-active; /* was #4CAF50 */
+  color: $nav-color-text;
+}
+
+.navbar .icon {
+  display: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  display: block;
+  font-size: $nav-font-size;
+  border: none;
+  outline: none;
+  color: $nav-color-text;
+  font-family: $font-sans;
+  font-weight: bold;
+  padding: 14px 12px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropbtn {
+  color: $nav-color-text;
+  cursor: pointer;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: $color-1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 500;
+}
+
+.dropdown-content a  {
+  float: none;
+  color: $nav-color-text;
+  display: none;
+  padding: 12px 14px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.navbar a:hover {
+  background-color: $color-active;
+  color: $nav-color-text;
+}
+/* .dropdown:hover .dropbtn */
+
+.dropdown-content a:hover {
+  background-color: $color-active;
+  color: $nav-color-text;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* widescreen search */
+
+.navbar .search-container {
+	flex: 1 0 auto;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	margin: 0px 0 0;
+	padding: 0;
+}
+
+.navbar input[type=text] {
+  font-family: $font-sans;
+  width: 1px; 
+  flex: 1 1 210px;
+  padding: 14px 10px;
+  font-size: 1em;
+  font-weight: normal;
+  border: none;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+  -webkit-backface-visibility: hidden;
+}
+
+.navbar input[type=text].searchopen {
+  width: 210px; 
+  }
+
+.navbar .search-container button {
+  float: right;
+  flex: 0 0 auto;
+  padding: 14px;
+/*  margin-right: 4px; */
+  background-color: $color-1-light;
+  color: $nav-color-text;
+  font-size: 1em;
+  border: none;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.navbar .search-container button:hover {
+/*	color: $body-color-text; */
+}
+
+/* Narrow screen */
+@media screen and (max-width: $mob-pixels) {
+  .navbar a:not(:first-child), .dropdown .dropbtn, .navbar input[type=text], .navbar .search-container button,div.search-container, .navbar #response {
+    display: none;
+  }
+  .navbar a.icon {
+    font-size: $header-font-size;
+    float: left;
+    display: block;
+  }
+  .navbar a.icon_right {
+    float: right;
+    display: block;
+    }
+  .navbar a.icon:hover {
+  background-color: $color-1-light;
+  }
+
+  .navbar.responsive {position: relative;}
+  .navbar.responsive .icon {
+    position: relative;
+    right: 0;
+    top: 0;
+  }
+  .navbar.responsive .icon_right {
+	  display: none;
+  }
+
+  .navbar.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .navbar.responsive .dropdown {float: none;}
+  .navbar.responsive .dropdown-content {position: relative;}
+  .navbar.responsive .dropdown .dropbtn {
+    display: block; 
+    width: 100%;
+    text-align: left;
+  }
+  .navbar.responsive input[type=text], .navbar.responsive .search-container, .navbar.responsive #response {
+    float: none;
+    display: block;
+    text-align: left;
+    flex: 1 0 auto;
+    width: 100%;
+    margin: 0;
+    padding-top: 14px;
+    padding-bottom: 14px;
+  }
+  .navbar.responsive input[type=text] {
+    border: 1px solid #ccc;
+  }
+}
+
+/* SEARCH narrow */
+
+
+
+/* the goal of this code is to require a click to open in responsive mode */
+
+/* .show {display:block;} */
+
+/* Sticky navbar start */
+
+@media screen and (min-width: $mob-pixels) {
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: $color-1;
+  animation-name: change;
+  animation-duration: .4s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes change {
+  from {top: 0}
+  to {background-color: $color-1-dark;}
+ }
+
+@keyframes change-light {
+  from {top: 0}
+  to {background-color: $color-1-dark;}
+ }
+
+.sticky + .container-alert {
+ /*  padding-top: 36px; */
+	padding-top: 54px;
+ }
+.sticky + .stickystart {
+ /*  padding-top: 36px; */
+	padding-top: 54px;
+ }
+
+ .navbar.sticky .dropdown-content {
+     position: fixed;
+ }
+
+ /* Keeping page anchors in the right place */
+.stanchor {
+  position: relative;
+}
+
+.stanchor a {
+        position: absolute;
+        left: 0px;
+        top: -60px;
+ } 
+.change_color {
+  animation-name: change;
+  animation-duration: .4s;
+  animation-fill-mode: forwards;
+}
+
+.return_color {
+  background: $color-1;
+  animation-name: return;
+  animation-duration: .25s;  
+  animation-fill-mode: forwards;
+}
+
+@keyframes return {
+  from {top: 0;}
+  to {background-color: $color-1;}
+  }
+
+@keyframes return-light {
+  from {top: 0;}
+  to {background-color: $color-1-light;}
+  }
+}
+/* Sticky navbar end */
+
+/* ----------------------------------------------
+ * Generated by Animista on 2020-4-15 1:32:10
+ * Licensed under FreeBSD License.
+ * See http://animista.net/license for more info.
+ * w: http://animista.net, t: @cssanimista
+ * ---------------------------------------------- */
+
+/* land_left_flip */
+
+/* ----------------------------------------------
+ * Generated by Animista on 2020-4-15 1:58:22
+ * Licensed under FreeBSD License.
+ * See http://animista.net/license for more info.
+ * w: http://animista.net, t: @cssanimista
+ * ---------------------------------------------- */
+
+/**
+ * ----------------------------------------
+ * animation roll-in-left
+ * ----------------------------------------
+ */
+@-webkit-keyframes roll-in-left {
+  0% {
+    -webkit-transform: translateX(-800px) rotate(-540deg);
+            transform: translateX(-800px) rotate(-540deg);
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: translateX(0) rotate(0deg);
+            transform: translateX(0) rotate(0deg);
+    opacity: 1;
+  }
+}
+@keyframes roll-in-left {
+  0% {
+    -webkit-transform: translateX(-800px) rotate(-540deg);
+            transform: translateX(-800px) rotate(-540deg);
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: translateX(0) rotate(0deg);
+            transform: translateX(0) rotate(0deg);
+    opacity: 1;
+  }
+}
+
+/* land_right roll in */
+
+/* ----------------------------------------------
+ * Generated by Animista on 2020-4-16 14:53:17
+ * Licensed under FreeBSD License.
+ * See http://animista.net/license for more info. 
+ * w: http://animista.net, t: @cssanimista
+ * ---------------------------------------------- */
+
+/**
+ * ----------------------------------------
+ * animation roll-in-right
+ * ----------------------------------------
+ */
+@-webkit-keyframes roll-in-right {
+  0% {
+    -webkit-transform: translateX(800px) rotate(540deg);
+            transform: translateX(800px) rotate(540deg);
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: translateX(0) rotate(0deg);
+            transform: translateX(0) rotate(0deg);
+    opacity: 1;
+  }
+}
+@keyframes roll-in-right {
+  0% {
+    -webkit-transform: translateX(800px) rotate(540deg);
+            transform: translateX(800px) rotate(540deg);
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: translateX(0) rotate(0deg);
+            transform: translateX(0) rotate(0deg);
+    opacity: 1;
+  }
+}
+
+/* land_left_flip tilt in */
+
+/* ----------------------------------------------
+ * Generated by Animista on 2020-4-16 14:5:50
+ * Licensed under FreeBSD License.
+ * See http://animista.net/license for more info. 
+ * w: http://animista.net, t: @cssanimista
+ * ---------------------------------------------- */
+
+/**
+ * ----------------------------------------
+ * animation tilt-in-tl
+ * ----------------------------------------
+ */
+@-webkit-keyframes tilt-in-tl {
+  0% {
+    -webkit-transform: rotateY(145deg) rotateX(20deg) translate(750px, -250px) skew(12deg, 15deg);
+            transform: rotateY(145deg) rotateX(20deg) translate(750px, -250px) skew(12deg, 15deg);
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: rotateY(180deg) rotateX(0deg) translate(0, 0) skew(0deg, 0deg);
+            transform: rotateY(180deg) rotateX(0deg) translate(0, 0) skew(0deg, 0deg);
+    opacity: 1;
+  }
+}
+@keyframes tilt-in-tl {
+  0% {
+    -webkit-transform: rotateY(145deg) rotateX(20deg) translate(750px, -250px) skew(12deg, 15deg);
+            transform: rotateY(145deg) rotateX(20deg) translate(750px, -250px) skew(12deg, 15deg);
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: rotateY(180deg) rotateX(0deg) translate(0, 0) skew(0deg, 0deg);
+            transform: rotateY(180deg) rotateX(0deg) translate(0, 0) skew(0deg, 0deg);
+    opacity: 1;
+  }
+}
+
+/* land_left_flip flip after */
+
+/* ----------------------------------------------
+ * Generated by Animista on 2020-4-16 14:22:29
+ * Licensed under FreeBSD License.
+ * See http://animista.net/license for more info.
+ * w: http://animista.net, t: @cssanimista
+ * ---------------------------------------------- */
+
+/**
+ * ----------------------------------------
+ * animation flip-vertical-left
+ * ----------------------------------------
+ */
+@-webkit-keyframes flip-vertical-left {
+  0% {
+    -webkit-transform: rotateY(0);
+            transform: rotateY(0);
+  }
+  100% {
+    -webkit-transform: rotateY(-180deg);
+            transform: rotateY(-180deg);
+  }
+}
+@keyframes flip-vertical-left {
+  0% {
+    -webkit-transform: rotateY(0);
+            transform: rotateY(0);
+  }
+  100% {
+    -webkit-transform: rotateY(-180deg);
+            transform: rotateY(-180deg);
+  }
+}
+
+
+/* land_right */
+
+/* ----------------------------------------------
+ * Generated by Animista on 2020-4-15 2:25:10
+ * Licensed under FreeBSD License.
+ * See http://animista.net/license for more info. 
+ * w: http://animista.net, t: @cssanimista
+ * ---------------------------------------------- */
+
+/**
+ * ----------------------------------------
+ * animation tilt-in-fwd-tr
+ * ----------------------------------------
+ */
+@-webkit-keyframes tilt-in-fwd-tr {
+  0% {
+    -webkit-transform: rotateY(20deg) rotateX(35deg) translate(500px, -300px) skew(-35deg, 10deg);
+            transform: rotateY(20deg) rotateX(35deg) translate(500px, -300px) skew(-35deg, 10deg);
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: rotateY(0) rotateX(0deg) translate(0, 0) skew(0deg, 0deg);
+            transform: rotateY(0) rotateX(0deg) translate(0, 0) skew(0deg, 0deg);
+    opacity: 1;
+  }
+}
+@keyframes tilt-in-fwd-tr {
+  0% {
+    -webkit-transform: rotateY(20deg) rotateX(35deg) translate(500px, -300px) skew(-35deg, 10deg);
+            transform: rotateY(20deg) rotateX(35deg) translate(500px, -300px) skew(-35deg, 10deg);
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: rotateY(0) rotateX(0deg) translate(0, 0) skew(0deg, 0deg);
+            transform: rotateY(0) rotateX(0deg) translate(0, 0) skew(0deg, 0deg);
+    opacity: 1;
+  }
+}
+
+
+
+/* focus in text */
+
+/* ----------------------------------------------
+ * Generated by Animista on 2020-4-15 1:47:40
+ * Licensed under FreeBSD License.
+ * See http://animista.net/license for more info. 
+ * w: http://animista.net, t: @cssanimista
+ * ---------------------------------------------- */
+
+/**
+ * ----------------------------------------
+ * animation text-focus-in
+ * ----------------------------------------
+ */
+@-webkit-keyframes text-focus-in {
+  0% {
+    -webkit-filter: blur(12px);
+            filter: blur(12px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-filter: blur(0px);
+            filter: blur(0px);
+    opacity: 1;
+  }
+}
+@keyframes text-focus-in {
+  0% {
+    -webkit-filter: blur(12px);
+            filter: blur(12px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-filter: blur(0px);
+            filter: blur(0px);
+    opacity: 1;
+  }
+}
+
+/* ----------------------------------------------
+ * Generated by Animista on 2020-4-15 2:12:21
+ * Licensed under FreeBSD License.
+ * See http://animista.net/license for more info. 
+ * w: http://animista.net, t: @cssanimista
+ * ---------------------------------------------- */
+
+/**
+ * ----------------------------------------
+ * animation text-flicker-in-glow
+ * ----------------------------------------
+ */
+@-webkit-keyframes text-flicker-in-glow {
+  0% {
+    opacity: 0;
+  }
+  10% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  10.1% {
+    opacity: 1;
+    text-shadow: none;
+  }
+  10.2% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  20% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  20.1% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.25);
+  }
+  20.6% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  30% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  30.1% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.45), 0 0 60px rgba(255, 255, 255, 0.25);
+  }
+  30.5% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.45), 0 0 60px rgba(255, 255, 255, 0.25);
+  }
+  30.6% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  45% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  45.1% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.45), 0 0 60px rgba(255, 255, 255, 0.25);
+  }
+  50% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.45), 0 0 60px rgba(255, 255, 255, 0.25);
+  }
+  55% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.45), 0 0 60px rgba(255, 255, 255, 0.25);
+  }
+  55.1% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  57% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  57.1% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.35);
+  }
+  60% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.35);
+  }
+  60.1% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  65% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  65.1% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.35), 0 0 100px rgba(255, 255, 255, 0.1);
+  }
+  75% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.35), 0 0 100px rgba(255, 255, 255, 0.1);
+  }
+  75.1% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  77% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  77.1% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.4), 0 0 110px rgba(255, 255, 255, 0.2), 0 0 100px rgba(255, 255, 255, 0.1);
+  }
+  85% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.4), 0 0 110px rgba(255, 255, 255, 0.2), 0 0 100px rgba(255, 255, 255, 0.1);
+  }
+  85.1% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  86% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  86.1% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.6), 0 0 60px rgba(255, 255, 255, 0.45), 0 0 110px rgba(255, 255, 255, 0.25), 0 0 100px rgba(255, 255, 255, 0.1);
+  }
+  100% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.6), 0 0 60px rgba(255, 255, 255, 0.45), 0 0 110px rgba(255, 255, 255, 0.25), 0 0 100px rgba(255, 255, 255, 0.1);
+  }
+}
+@keyframes text-flicker-in-glow {
+  0% {
+    opacity: 0;
+  }
+  10% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  10.1% {
+    opacity: 1;
+    text-shadow: none;
+  }
+  10.2% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  20% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  20.1% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.25);
+  }
+  20.6% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  30% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  30.1% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.45), 0 0 60px rgba(255, 255, 255, 0.25);
+  }
+  30.5% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.45), 0 0 60px rgba(255, 255, 255, 0.25);
+  }
+  30.6% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  45% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  45.1% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.45), 0 0 60px rgba(255, 255, 255, 0.25);
+  }
+  50% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.45), 0 0 60px rgba(255, 255, 255, 0.25);
+  }
+  55% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.45), 0 0 60px rgba(255, 255, 255, 0.25);
+  }
+  55.1% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  57% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  57.1% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.35);
+  }
+  60% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.35);
+  }
+  60.1% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  65% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  65.1% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.35), 0 0 100px rgba(255, 255, 255, 0.1);
+  }
+  75% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.35), 0 0 100px rgba(255, 255, 255, 0.1);
+  }
+  75.1% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  77% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  77.1% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.4), 0 0 110px rgba(255, 255, 255, 0.2), 0 0 100px rgba(255, 255, 255, 0.1);
+  }
+  85% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.4), 0 0 110px rgba(255, 255, 255, 0.2), 0 0 100px rgba(255, 255, 255, 0.1);
+  }
+  85.1% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  86% {
+    opacity: 0;
+    text-shadow: none;
+  }
+  86.1% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.6), 0 0 60px rgba(255, 255, 255, 0.45), 0 0 110px rgba(255, 255, 255, 0.25), 0 0 100px rgba(255, 255, 255, 0.1);
+  }
+  100% {
+    opacity: 1;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.6), 0 0 60px rgba(255, 255, 255, 0.45), 0 0 110px rgba(255, 255, 255, 0.25), 0 0 100px rgba(255, 255, 255, 0.1);
+  }
+}
+
+/* ----------------------------------------------
+ * Generated by Animista on 2020-4-15 23:53:1
+ * Licensed under FreeBSD License.
+ * See http://animista.net/license for more info. 
+ * w: http://animista.net, t: @cssanimista
+ * ---------------------------------------------- */
+
+/* both birds on index */
+
+/* bird swing ins */
+
+/* ----------------------------------------------
+ * Generated by Animista on 2020-4-15 12:17:40
+ * Licensed under FreeBSD License.
+ * See http://animista.net/license for more info. 
+ * w: http://animista.net, t: @cssanimista
+ * ---------------------------------------------- */
+
+/**
+ * ----------------------------------------
+ * animation swing-in-top-fwd
+ * ----------------------------------------
+ */
+@-webkit-keyframes swing-in-top-fwd {
+  0% {
+    -webkit-transform: rotateX(-100deg);
+            transform: rotateX(-100deg);
+    -webkit-transform-origin: top;
+            transform-origin: top;
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: rotateX(0deg);
+            transform: rotateX(0deg);
+    -webkit-transform-origin: top;
+            transform-origin: top;
+    opacity: 1;
+  }
+}
+@keyframes swing-in-top-fwd {
+  0% {
+    -webkit-transform: rotateX(-100deg);
+            transform: rotateX(-100deg);
+    -webkit-transform-origin: top;
+            transform-origin: top;
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: rotateX(0deg);
+            transform: rotateX(0deg);
+    -webkit-transform-origin: top;
+            transform-origin: top;
+    opacity: 1;
+  }
+}
+
+/* rotate translate button */
+
+/* ----------------------------------------------
+ * Generated by Animista on 2020-4-15 17:1:57
+ * Licensed under FreeBSD License.
+ * See http://animista.net/license for more info.
+ * w: http://animista.net, t: @cssanimista
+ * ---------------------------------------------- */
+
+/**
+ * ----------------------------------------
+ * animation rotate-hor-center
+ * ----------------------------------------
+ */
+@-webkit-keyframes rotate-hor-center {
+  0% {
+    -webkit-transform: rotateX(0);
+            transform: rotateX(0);
+  }
+  100% {
+    -webkit-transform: rotateX(-360deg);
+            transform: rotateX(-360deg);
+  }
+}
+@keyframes rotate-hor-center {
+  0% {
+    -webkit-transform: rotateX(0);
+            transform: rotateX(0);
+  }
+  100% {
+    -webkit-transform: rotateX(-360deg);
+            transform: rotateX(-360deg);
+  }
+}
+
+
+/* wobbles for the contact page */
+
+/* ----------------------------------------------
+ * Generated by Animista on 2020-4-16 0:24:29
+ * Licensed under FreeBSD License.
+ * See http://animista.net/license for more info. 
+ * w: http://animista.net, t: @cssanimista
+ * ---------------------------------------------- */
+
+/**
+ * ----------------------------------------
+ * animation shake-tl
+ * ----------------------------------------
+ */
+@-webkit-keyframes shake-tl {
+  0%,
+  100% {
+    -webkit-transform: rotate(270deg);
+            transform: rotate(270deg);
+    -webkit-transform-origin: 50% 50%;
+            transform-origin: 50% 50%;
+  }
+  10% {
+    -webkit-transform: rotate(279deg);
+            transform: rotate(279deg);
+  }
+  20%,
+  40%,
+  60% {
+    -webkit-transform: rotate(266deg);
+            transform: rotate(266deg);
+  }
+  30%,
+  50%,
+  70% {
+    -webkit-transform: rotate(274deg);
+            transform: rotate(274deg);
+  }
+  80% {
+    -webkit-transform: rotate(268deg);
+            transform: rotate(268deg);
+  }
+  90% {
+    -webkit-transform: rotate(272deg);
+            transform: rotate(272deg);
+  }
+}
+@keyframes shake-tl {
+  0%,
+  100% {
+    -webkit-transform: rotate(270deg);
+            transform: rotate(270deg);
+    -webkit-transform-origin: 50% 50%;
+            transform-origin: 50% 50%;
+  }
+  10% {
+    -webkit-transform: rotate(272deg);
+            transform: rotate(272deg);
+  }
+  20%,
+  40%,
+  60% {
+    -webkit-transform: rotate(266deg);
+            transform: rotate(266deg);
+  }
+  30%,
+  50%,
+  70% {
+    -webkit-transform: rotate(274deg);
+            transform: rotate(274deg);
+  }
+  80% {
+    -webkit-transform: rotate(268deg);
+            transform: rotate(268deg);
+  }
+  90% {
+    -webkit-transform: rotate(272deg);
+            transform: rotate(272deg);
+  }
+}
+
+
+
+/* ----------------------------------------------
+ * Generated by Animista on 2020-4-15 18:47:55
+ * Licensed under FreeBSD License.
+ * See http://animista.net/license for more info.
+ * w: http://animista.net, t: @cssanimista
+ * ---------------------------------------------- */
+
+/**
+ * ----------------------------------------
+ * animation shake-bottom
+ * ----------------------------------------
+ */
+@-webkit-keyframes shake-bottom {
+  0%,
+  100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+    -webkit-transform-origin: 50% 100%;
+            transform-origin: 50% 100%;
+  }
+  10% {
+    -webkit-transform: rotate(2deg);
+            transform: rotate(2deg);
+  }
+  20%,
+  40%,
+  60% {
+    -webkit-transform: rotate(-4deg);
+            transform: rotate(-4deg);
+  }
+  30%,
+  50%,
+  70% {
+    -webkit-transform: rotate(4deg);
+            transform: rotate(4deg);
+  }
+  80% {
+    -webkit-transform: rotate(-2deg);
+            transform: rotate(-2deg);
+  }
+  90% {
+    -webkit-transform: rotate(2deg);
+            transform: rotate(2deg);
+  }
+}
+@keyframes shake-bottom {
+  0%,
+  100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+    -webkit-transform-origin: 50% 100%;
+            transform-origin: 50% 100%;
+  }
+  10% {
+    -webkit-transform: rotate(2deg);
+            transform: rotate(2deg);
+  }
+  20%,
+  40%,
+  60% {
+    -webkit-transform: rotate(-4deg);
+            transform: rotate(-4deg);
+  }
+  30%,
+  50%,
+  70% {
+    -webkit-transform: rotate(4deg);
+            transform: rotate(4deg);
+  }
+  80% {
+    -webkit-transform: rotate(-2deg);
+            transform: rotate(-2deg);
+  }
+  90% {
+    -webkit-transform: rotate(2deg);
+            transform: rotate(2deg);
+  }
+}
+

@@ -1,0 +1,20 @@
+$color-1:  #205592;
+$color-1-light: #4287D6;    //*#f44336;
+$color-1-dark: #0D2541;    //*#f44336;
+$color-active: #4287D6; //#555
+$body-font-size: 17px;
+$body-color: white;
+$body-color-text: black;
+$header-color-text: white;
+$nav-color-text: white;
+$header-font-size: 140%;
+$alert-color: #bf5608; // old orange: #d8640b Soft red:  920300 Google red: #B00020;#FF8000;B44E09
+$alert-text-color: white;  // #FF8000;
+$alert-link-color: white;   //#bababa
+$mob-pixels: 1313px; //763px;
+/// Don't forget to update the pixel width in assets/js/navigation.js. If these values are different, some coloration will be weird.
+$nav-font-size: 1em;
+$font-mono: "Courier New", Courier, monospace; 
+$font-sans: Helvetica, Arial, sans-serif;
+$font-serif: Georgia, serif;
+$text-width: 650px; //Sets the widge of the text on the page

@@ -1,0 +1,311 @@
+---
+---
+@import "colors.scss";
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0px; 
+    border: 0px; 
+    padding: 0px; 
+    font-size: $body-font-size;
+    color: $body-color-text;
+    background-color: $body-color;
+    height: 100%;
+    min-height: 100vh;
+}
+
+img {
+	max-width: 100%;
+}
+
+/* body:not(p,h1,h2,h3,h4,h5,h6,a) {  
+  font-family: Arial, Helvetica, sans-serif; 
+    margin: 0px; 
+    border: 0px; 
+    padding: 0px; 
+  background-color: white; 
+} */
+
+h1.header,h2.header,h3.header,h4.header {
+	font-family: $font-serif;
+	text-align: center;
+        background-color: $body-color;
+        color: $body-color-text;
+        padding: 10px;
+	margin: 0 auto 0;
+}
+
+.content.mono {
+	font-family: $font-mono;
+}
+	
+.content.serif {
+	font-family: $font-serif;
+}
+.footer {
+    color: $nav-color-text;
+    font-family: $font-sans;
+    font-size: 0.8em;
+    padding: 0px 0 5px 0;
+    background-color: $color-1;
+    text-align: center;
+}
+
+.footer h3 {
+	padding-top: .5em;
+        font-family: $font-serif;
+	font-size: 2em;
+}
+
+.footer.smaller {
+	font-size: 0.75em;
+}
+
+.stickystart { // Ends at alert.html
+  background-color: $alert-color; /* Red */
+  display: flex;
+  /*justify-content: center;*/
+	justify-content: space-between;
+}
+
+.alert {
+  text-align: center;
+  max-width: $text-width;
+  font-family: $font-sans;
+  padding: 20px;
+  color: $alert-text-color;
+  margin: 0 0 ;
+  opacity: 1;
+  transition: opacity 0.6s; /* 600ms to fade out */
+}
+
+.alert a {
+   color: $alert-link-color;
+   font-weight: bold;
+   font-family: $font-sans;
+   }
+
+.alert p {
+	margin: 0;
+}
+
+/* The alert close button */
+.closebtn {
+  margin: 0 0 0 0;
+  font-family: $font-sans;
+  padding: 12px 20px 0 15px;
+  color: white;
+  background-color: $alert-color; /* Red */
+  font-weight: bold;
+  float: right;
+  font-size: 1em;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+  display: block;
+  z-index: 100;
+}
+
+/* When moving the mouse over the close button */
+.closebtn:hover {
+  color: black;
+}
+
+.theme-gradient {
+  color: #000;
+  background: linear-gradient(top,$color-1 25%,$color-1-dark 75%)}
+
+.img_center25 {
+    margin: 0 auto;
+    display: block;
+    padding: 15px;
+    width: 25%;
+    }
+
+.img_center50 {
+    margin: 0 auto;
+    display: block;
+    padding: 15px;
+    width: 50%;
+    }
+
+.img_center75 {
+    margin: 0 auto;
+    display: block;
+    padding: 15px;
+    width: 75%;
+    }
+
+.img_center100 {
+    margin: 0 auto;
+    display: block;
+    padding: 15px;
+    width: 100%;
+    }
+
+.img_center {
+    margin: 0 auto;
+    display: block;
+    padding: 15px;
+    }
+
+.img_center_no_pad {
+    margin: 0 auto;
+    display: block;
+    }
+
+.img_floatleft {
+	margin: auto;
+	display: block;
+	float: left;
+	padding: 15px;
+}
+
+.color-1 {
+	background-color: $color-1;
+	color: white
+}
+
+.color-1-text {
+	background-color: $body-color;
+	color: $color-1
+}
+
+.color-1-dark-text {
+	background-color: $body-color;
+	color: $color-1-dark
+}
+
+.color-1-light-text {
+	background-color: $body-color;
+	color: $color-1-light
+}
+
+.color-1-dark {
+	background-color: $color-1-dark;
+	color: white
+}
+
+.color-1-light {
+	background-color: $color-1-light;
+}
+
+.container-alert {
+   width: 100%;
+   margin: 0 auto;
+   background-color: $body-color;
+   position: relative;
+   margin-bottom: 0;
+   height: 100%;
+}
+
+main {
+   flex: 1 0 auto; /* can grow, cannot shrink auto size */
+   /*margin: 0 auto 0; /* this might result in centered text, we'll see */
+   min-height: auto;
+   background-color: $body-color;
+   height: 100%;
+}
+
+.container-content {
+   width: 100%;
+   margin: 0 auto 0; /* this might result in centered text, we'll see */
+   background-color: $body-color;
+   height: 100%;
+   display: flex;
+   justify-content: space-around;
+}
+
+.content {  /* always on the left if there's media */
+   flex: 0 1 $text-width; /* don't grow, can shrink, and starts at $text-width */
+   padding: 0 66px 0;
+   font-family: $font-sans; 
+   font-size:1em;
+   text-align:left;
+   background-color: $body-color;
+   color: $body-color-text;
+   margin-bottom: 0;
+}
+
+.media {
+   flex: 1 0 400px; /* can grow, can't shrink, and set to min 400px */
+   padding: 0 35px;
+  }
+/* large calendar is embed-container2. I don't apply any styling to the mobile sized calendar */
+.embed-container2 {
+  position: relative; 
+  padding-bottom: 56.25%; 
+  height: 0; 
+  overflow: hidden; 
+  max-width: 100%; 
+} 
+  
+.embed-container2 iframe, .embed-container2 object, .embed-container2 embed {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  width: 100%; 
+  height: 100%; 
+}
+/* the google map */
+.embed-container-map { 
+  position: relative; 
+  padding-bottom: 56.25%; height: 0; 
+  overflow: hidden; max-width: 100%; 
+  } 
+
+.embed-container-map iframe, .embed-container-map object, .embed-container-map embed {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  width: 100%; 
+  height: 100%; 
+}
+
+@media screen and (max-width: 800px) {
+  .container-content {   
+    flex-direction: column;
+  }
+
+  .embed-container2 {
+	  display: none
+  }
+  .embed-container1 {
+	  display: default;
+  }
+  .media {
+	  padding: 3px;
+  }
+  .content {
+	  padding: 20px;
+  }
+  
+}
+
+@media screen and (min-width: 801px) {
+  .embed-container2 {
+	  display: default
+  }
+  .embed-container1 {
+	  display: none;
+  }
+}
+
+
+/* scroll up button */
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 599;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: $color-1-dark;
+  color: white;
+  cursor: pointer;
+  padding: 5px 10px;
+}

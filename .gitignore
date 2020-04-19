@@ -1,0 +1,12 @@
+.jekyll-cache
+_site/
+_site
+backup
+backup/
+notes
+notes/
+.git
+.sass-cache
+.jekyll-metadata
+vendor
+vendor/
