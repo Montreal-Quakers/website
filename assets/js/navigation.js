@@ -15,16 +15,19 @@ window.onscroll = function() {
 var y = document.getElementById("myNavbar");
 var sticky = y.offsetTop;
 var btn = document.getElementById("searchbutton");
+var media = document.getElementById("media");
 
 // Gonna try adding some code to make it stop sticking while responsive  && (y.className = !y.className.includes(" responsive"))
 function scrollBar() {
   if ((window.pageYOffset > sticky)) {
     y.classList.add("sticky");
+    media.classList.add("media_sticky");
     y.classList.remove("return_color");
   } else {
     if (y.classList.contains("sticky")) {
 	  y.classList.add("return_color");
           y.classList.remove("sticky");
+          media.classList.remove("media_sticky");
     }
  }
 }
