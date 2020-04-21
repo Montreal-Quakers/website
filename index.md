@@ -20,10 +20,10 @@ We are Quakers of all kinds -- nontheist Quakers, Christian Quakers, Buddhist Qu
 ### [Where we meet](/directions.html)
 
 Our largest meeting is on Sundays at the [Greene Centre](/directions.html). Here are all our opportunities to join us: 
-* [Sunday Meeting](directions.html) every Sunday at 11 AM
+* [Sunday Meeting](directions.html), every Sunday at 11 AM at the [Greene Centre](/directions.html)
 * [Midweek Meeting](midweek.html), Wednesdays at 5:30 PM near McGill during the academic year
-* [Quebec City Worship Group](quebec.html), once a month at 11 AM in old Quebec
-* [Laurentian Worship Group](laurentians.html) Sundays at 10:30 AM
+* [Quebec City Worship Group](quebec.html), first Sunday of the month at 11 AM in old Quebec
+* [Laurentian Worship Group](laurentians.html), Sundays at 10:30 AM
 * We may soon form a [South Shore Worship Group](south_shore.html), likely in St. Lambert
 
-Once a month we have singing and most of the year we have a children’s program — please [contact us](/contact.html) to confirm the details or join us any [Sunday](/directions.html).
+Most of the year we have a children’s program and we also have a singing potluck — please [contact us](/contact.html) to confirm the details or join us any [Sunday](/directions.html).
