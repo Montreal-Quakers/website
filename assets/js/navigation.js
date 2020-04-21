@@ -20,9 +20,10 @@ var media = document.getElementById("media");
 // Gonna try adding some code to make it stop sticking while responsive  && (y.className = !y.className.includes(" responsive"))
 function scrollBar() {
   if ((window.pageYOffset > sticky)) {
-    y.classList.add("sticky");
-    media.classList.add("media_sticky");
-    y.classList.remove("return_color");
+          y.classList.remove("return_color");
+	  y.classList.add("sticky");
+          media.classList.add("media_sticky");
+    
   } else {
     if (y.classList.contains("sticky")) {
 	  y.classList.add("return_color");
