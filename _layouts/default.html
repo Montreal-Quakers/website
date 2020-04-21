@@ -62,7 +62,7 @@
        <!-- a special responsive media section for certain pages. Put the if statement on the next line and below "class="media" -->
        {% for each in site.media_pages %}
          {% if page.trans == each.page_trans %}
-	<div class="media">
+	<div class="media" id="media">
 		{% if page.trans == each.page_trans %}{% include {{ each.media }} %}{% if each.media2 %}{% include {{ each.media2 }} %}{% endif %}{% endif %}
 	</div>
        <br>
