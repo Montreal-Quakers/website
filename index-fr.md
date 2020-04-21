@@ -9,7 +9,7 @@ Les Quakers parlent d’une «Lumière intérieure» ou «une étincelle divine�
 
 [![Drapeau arc-en-ciel](/assets/images/Rainbow-Flag.jpg){: height="82" class="img_center"}](/a_propos.html)
 
-Notre communauté est [ouverte à la diversité](/a_propos.html)
+Notre communauté est [ouverte à la diversité](/a_propos.html). Toutes et tous sont les bienvenus.
 
 <br>
 ### [Les pratiques Quaker](/a_propos.html)
