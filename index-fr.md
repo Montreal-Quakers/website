@@ -22,7 +22,7 @@ Notre plus grande assemblée a lieu le dimanche à 11h au [Centre Greene](coordo
 * [Notre assemblée le dimanche](coordonnées.html) à 11h00 au [Centre Greene](coordonnées.html)
 * Un groupe de [mi-semaine](mi-semaine.html)
 * Un groupe aux [Laurentides](laurentides.html)
-* Un groupe à [Québec](quebec.html)
+* Un groupe à [Québec](quebec.html), le premier dimanche du mois
 * Nous espérons bientôt former un groupe de la [Rive-Sud](rive-sud.html). 
 
 Une fois par mois nous chantons et nous offrons des activités pour les jeunes la plupart de l’année. Contactez-nous pour confirmer ou venez vous joindre à nous n'importe quel [dimanche](coordonnées.html).
