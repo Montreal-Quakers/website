@@ -14,7 +14,7 @@ We are an [active and affirming](/intro.html) community
 
 <br>
 ### [Quaker practice](/about.html)
-We are Quakers of all kinds -- nontheist Quakers, Christian Quakers, buddhist Quakers, and more -- gathered around our traditional form of [silent worship](about.html) and our common quest to [live love](intro.html).
+We are Quakers of all kinds -- nontheist Quakers, Christian Quakers, Buddhist Quakers, and more -- gathered around our traditional form of [silent worship](about.html) and our common quest to [live love](intro.html).
 
 <br>
 ### [Where we meet](/directions.html)
