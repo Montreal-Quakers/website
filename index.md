@@ -10,7 +10,7 @@ Quakers, sometimes known as "Friends", speak of an Inner Light or “that of God
 
 ![Rainbow flag](/assets/images/Rainbow-Flag.jpg){: height="82" class="img_center"}
 
-We are an [active and affirming](/intro.html) community
+We are an [active and affirming](/intro.html) community. All are welcome.
 
 <br>
 ### [Quaker practice](/about.html)
