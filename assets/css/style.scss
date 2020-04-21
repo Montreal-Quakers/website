@@ -235,6 +235,16 @@ main {
    padding: 0 35px;
   }
 /* large calendar is embed-container2. I don't apply any styling to the mobile sized calendar */
+
+ .media_sticky {
+         position: sticky;
+         align-self: flex-start;
+         right: 0;
+         top: 145px;
+         max-width: 100%;
+ }
+
+
 .embed-container2 {
   position: relative; 
   padding-bottom: 56.25%; 
