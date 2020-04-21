@@ -237,7 +237,11 @@ main {
 /* large calendar is embed-container2. I don't apply any styling to the mobile sized calendar */
 
  .media_sticky {
-         position: sticky;
+         position: -webkit-sticky;
+         position: -moz-sticky;
+         position: -ms-sticky;
+         position: -o-sticky;
+	 position: sticky;
          align-self: flex-start;
          right: 0;
          top: 145px;
