@@ -7,7 +7,7 @@ lang: fr
 
 Les Quakers parlent d’une «Lumière intérieure» ou «une étincelle divine» dans chaque être humain. Les incitations de l’amour, dont nous sommes toutes et tous porteurs, sont au fond de notre engagement au niveau des droits humains, de la justice sociale, de la réforme des prisons, du développement durable et de la paix; l'amour est à la source des [valeurs Quaker](intro.html).
 
-Notre communauté est [ouverte à la diversité](/a_propos.html) [![Drapeau arc-en-ciel](/assets/images/Rainbow-Flag.jpg){: height="42" class="img_center"}](/a_propos.html). Toutes et tous sont les bienvenus.
+Notre communauté est [ouverte à la diversité](/a_propos.html) [![Drapeau arc-en-ciel](/assets/images/Rainbow-Flag.jpg){: height="42"}](/a_propos.html). Toutes et tous sont les bienvenus.
 
 <br>
 ### [Les pratiques Quaker](/a_propos.html)
