@@ -7,7 +7,7 @@ permalink: /covid-19-fr.html
 ---
 ![COVID image](/assets/images/Virus.png){: .img_center25}
 
-Comme mesure préventive contre la COVID-19, les assemblées Quaker de dimanche, de Québec, et de mi-semaine seront en ligne au moins jusqu’au 1er mai, 2020. Cette page et notre [page Facebook](https://www.facebook.com/MontrealQuakers/) aura des options de culte en ligne et d’autres mises à jours.
+Comme mesure préventive contre la COVID-19, les assemblées Quaker de dimanche, de Québec, et de mi-semaine seront en ligne au moins jusqu’au 1er mai, 2020. Cette page et notre [page Facebook](https://www.facebook.com/MontrealQuakers/) auront des options de culte en ligne et d’autres mises à jours.
 
 **Mise à jour: nos rencontres se tiennent maintenant en ligne! [Contactez-nous](/contact-fr.html) pour connaître les modalités.**
 
