@@ -96,6 +96,7 @@ h1.header,h2.header,h3.header,h4.header {
 /* The alert close button */
 .closebtn {
   margin: 0 0 0 0;
+  align-self: center;
   font-family: $font-sans;
   padding: 0px 20px 0 15px;
   color: white;
