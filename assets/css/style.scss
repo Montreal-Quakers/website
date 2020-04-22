@@ -68,7 +68,8 @@ h1.header,h2.header,h3.header,h4.header {
   background-color: $alert-color; /* Red */
   display: flex;
   /*justify-content: center;*/
-	justify-content: space-between;
+  justify-content: space-between;
+  align-content: center;
 }
 
 .alert {
@@ -96,7 +97,7 @@ h1.header,h2.header,h3.header,h4.header {
 .closebtn {
   margin: 0 0 0 0;
   font-family: $font-sans;
-  padding: 12px 20px 0 15px;
+  padding: 0px 20px 0 15px;
   color: white;
   background-color: $alert-color; /* Red */
   font-weight: bold;
