@@ -8,9 +8,7 @@ trans: index
 
 Quakers, sometimes known as "Friends", speak of an Inner Light or “that of God” in every human being. The promptings of love we find within are the source of our commitment to human rights, global justice, prison abolition, sustainability and peace, and inspire our [Quaker values](/intro.html).
 
-![Rainbow flag](/assets/images/Rainbow-Flag.jpg){: height="82" class="img_center"}
-
-We are an [active and affirming](/intro.html) community. All are welcome.
+We are an [active and affirming](/intro.html) community ![Rainbow flag](/assets/images/Rainbow-Flag.jpg){: height="22"} All are welcome.
 
 <br>
 ### [Quaker practice](/about.html)
