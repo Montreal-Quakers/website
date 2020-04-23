@@ -6,13 +6,13 @@ trans: index
  
 ### [About Quakers](/about.html)
 
-Quakers, sometimes known as "Friends", speak of an Inner Light or “that of God” in every human being. The promptings of love we find within are the source of our commitment to human rights, global justice, prison abolition, sustainability and peace, and inspire our [Quaker values](/intro.html).
+Quakers, known as "Friends", speak of an Inner Light or “that of God” in every human being. The promptings of love we find within are the source of our commitment to human rights, global justice, prison abolition, sustainability and peace, and inspire our [Quaker values](/intro.html).
 
 We are an [active and affirming](/intro.html) community ![Rainbow flag](/assets/images/Rainbow-Flag.jpg){: height="22"} All are welcome.
 
 <br>
 ### [Quaker practice](/about.html)
-We are Quakers of all kinds -- nontheist Quakers, Christian Quakers, Buddhist Quakers, and more -- gathered in a circle around our traditional form of [silent worship](about.html) and our common quest to [live love](intro.html).
+We are Quakers of all kinds -- Christian Quakers, nontheist Quakers, Buddhist Quakers, and more -- gathered in a circle around our traditional form of [silent worship](about.html) and our common quest to [live love](intro.html).
 
 <br>
 ### [Where we meet](/directions.html)
