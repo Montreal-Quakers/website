@@ -24,4 +24,4 @@ Our main meeting is on Sundays at the [Greene Centre](/directions.html). Here ar
 * [Laurentian Worship Group](laurentians.html), Sundays at 10:30 AM
 * We may soon form a [South Shore Worship Group](south_shore.html), likely in St. Lambert
 
-Most of the year we have a children’s program and we also have a singing potluck — please [contact us](/contact.html) to confirm the details or join us any [Sunday](/directions.html).
+We have a children’s program and a music group — please [contact us](/contact.html) to confirm the details. Please feel welcome to join us any [Sunday](/directions.html).
