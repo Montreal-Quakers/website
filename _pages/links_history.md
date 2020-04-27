@@ -34,7 +34,5 @@ permalink: /links_history.html
 * [Women's Speaking](http://www.qhpress.org/texts/fell.html) has some texts by notable Quaker women, for instance, one of the founders of Quakerism, Margaret Fell. Text placed online by [Quaker Heritage Press](http://www.qhpress.org).
 * [History of Montreal Meeting (1929-1964) Lloyd Williams](/assets/PDF/MMM_history-Lloyd-Williams.pdf)
 
-### Quaker service in the world:
-
 ##### Our previous meetinghouse on de Maisonneuve:
 ![Our previous meetinghouse on de Maisonneuve](/assets/images/1974%20MaisW%20(1).JPG){:class="img_center75"}
