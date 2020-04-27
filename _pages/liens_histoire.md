@@ -5,32 +5,26 @@ lang: fr
 trans: links_history
 permalink: /liens_histoire.html
 ---
-![Benches with light](assets/images/benches2-243x300.gif){:class="img_center"}
-## Voici quelques sites intéressants:
+![Des bancs dans la lumière](assets/images/benches2-243x300.gif){:class="img_center"}
 
-**Sur les Quakers:**
+### Sur les Quakers (en français)
 
-[Le groupe de discussion des Quakers au Canada](https://www.facebook.com/groups/532516183429702/) (majoritairement en anglais) sans oublier quelques autres groupes sur Facebook, de l'[informatif](https://www.facebook.com/groups/2207263944/) au [loufoque](https://www.facebook.com/groups/assbadfriends/)
+* [http://quaker.chez-alice.fr/plus_histoire.htm#origine](http://quaker.chez-alice.fr/plus_histoire.htm#origine)
+* [Un cours en ligne sur les Quakers](http://moodle.woodbrooke.org.uk/course/view.php?id=60#section-0)
+* [Glossaire Quaker anglais-français](http://www.simongrant.org/quaker/gloss/enfr.html)
 
-[Un cours en ligne sur les Quakers](http://moodle.woodbrooke.org.uk/course/view.php?id=60#section-0)
+### Pour participer à la discussion, poser vos questions:
+* Majoritairement en anglais): [Le groupe de discussion des Quakers au Canada](https://www.facebook.com/groups/532516183429702/)  sans oublier quelques autres groupes sur Facebook, de l'[informatif](https://www.facebook.com/groups/2207263944/) au [loufoque](https://www.facebook.com/groups/assbadfriends/).
+* Majoritairement en français: [Amis isolés de France et d'ailleurs](https://www.facebook.com/groups/1693742737383648/)
 
-[http://www.quakersenfrance.org/faq](http://www.quakersenfrance.org/faq)
-
-[http://quaker.chez-alice.fr/plus_histoire.htm#origine](http://quaker.chez-alice.fr/plus_histoire.htm#origine)
-
-[Wikipédia](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_religieuse_des_Amis)
-
-[http://quaker.chez-alice.fr/](http://quaker.chez-alice.fr/)
+### Groupes Quakers francophones non-programmés en dehors du Québec
+* [http://www.quakersenfrance.org/faq](http://www.quakersenfrance.org/faq), par exemple, [la Centre Quaker de Congénies](https://www.maison-quaker-congenies.org/) ou [à Paris](https://www.facebook.com/CentreQuakerParis/)
+* [Quakers en suisse](https://swiss-quakers.ch/fr/accueil/)
 
 **Pour promouvoir nos valeurs:**
 
 [Réseau œcuménique justice et paix](http://www.justicepaix.org)
-
 [Campagne d'appui aux objecteurs de conscience](http://www.resisters.ca/)
-
-[Communautique](http://www.communautique.qc.ca/)
-
-[Projet d'économie morale](http://www.moraleconomy.org)
 
 ### Histoire
 
