@@ -46,6 +46,7 @@ h1.header,h2.header,h3.header,h4.header {
 	font-family: $font-serif;
 }
 .footer {
+    flex: 1 0 auto;
     color: $nav-color-text;
     font-family: $font-sans;
     font-size: 0.8em;
