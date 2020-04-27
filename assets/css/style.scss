@@ -112,6 +112,10 @@ h1.header,h2.header,h3.header,h4.header {
   z-index: 100;
 }
 
+.alert-color-text {
+   color: $alert-color;
+}
+
 /* When moving the mouse over the close button */
 .closebtn:hover {
   color: black;
