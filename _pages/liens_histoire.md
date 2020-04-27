@@ -9,13 +9,13 @@ permalink: /liens_histoire.html
 
 ### Sur les Quakers (en français)
 
-* [http://quaker.chez-alice.fr/plus_histoire.htm#origine](http://quaker.chez-alice.fr/plus_histoire.htm#origine)
 * [Un cours en ligne sur les Quakers](http://moodle.woodbrooke.org.uk/course/view.php?id=60#section-0)
+* [Un résumé du Quakerisme en français](http://quaker.chez-alice.fr/)
 * [Glossaire Quaker anglais-français](http://www.simongrant.org/quaker/gloss/enfr.html)
 
-### Pour participer à la discussion, poser vos questions:
-* Majoritairement en anglais): [Le groupe de discussion des Quakers au Canada](https://www.facebook.com/groups/532516183429702/)  sans oublier quelques autres groupes sur Facebook, de l'[informatif](https://www.facebook.com/groups/2207263944/) au [loufoque](https://www.facebook.com/groups/assbadfriends/).
-* Majoritairement en français: [Amis isolés de France et d'ailleurs](https://www.facebook.com/groups/1693742737383648/)
+### Pour participer à la discussion et poser vos questions:
+* Majoritairement **en anglais**: [Le groupe de discussion des Quakers au Canada](https://www.facebook.com/groups/532516183429702/)  sans oublier quelques autres groupes sur Facebook, de l'[informatif](https://www.facebook.com/groups/2207263944/) au [loufoque](https://www.facebook.com/groups/assbadfriends/).
+* Majoritairement **en français**: [Amis isolés de France et d'ailleurs](https://www.facebook.com/groups/1693742737383648/)
 
 ### Groupes Quakers francophones non-programmés en dehors du Québec
 * [http://www.quakersenfrance.org/faq](http://www.quakersenfrance.org/faq), par exemple, [la Centre Quaker de Congénies](https://www.maison-quaker-congenies.org/) ou [à Paris](https://www.facebook.com/CentreQuakerParis/)
