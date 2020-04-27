@@ -29,4 +29,5 @@ permalink: /liens_histoire.html
 
 [Petit à petit, l’oiseau fait son nid Par Chantal Fournier](/assets/PDF/MM-History-CF.V100.05.15.pdf)
 
+##### Auparavant, notre Centre Quaker à Montréal sur de Maisonneuve
 ![Our previous meetinghouse on de Maisonneuve](/assets/images/1974%20MaisW%20(1).JPG){:class="img_center75"}
