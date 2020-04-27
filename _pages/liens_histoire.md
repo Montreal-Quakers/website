@@ -18,7 +18,7 @@ permalink: /liens_histoire.html
 * Majoritairement **en français**: [Amis isolés de France et d'ailleurs](https://www.facebook.com/groups/1693742737383648/)
 
 ### Groupes Quakers francophones non-programmés en dehors du Québec
-* [http://www.quakersenfrance.org/faq](http://www.quakersenfrance.org/faq), par exemple, [la Centre Quaker de Congénies](https://www.maison-quaker-congenies.org/) ou [à Paris](https://www.facebook.com/CentreQuakerParis/)
+* [Quakers en France](http://www.quakersenfrance.org/faq), par exemple, [la Centre Quaker de Congénies](https://www.maison-quaker-congenies.org/) ou [à Paris](https://www.facebook.com/CentreQuakerParis/)
 * [Quakers en suisse](https://swiss-quakers.ch/fr/accueil/)
 
 **Pour promouvoir nos valeurs:**
