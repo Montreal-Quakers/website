@@ -392,12 +392,12 @@
 }
 
 @keyframes change {
-  from {top: 0}
+  from {}
   to {background-color: $color-1-dark;}
  }
 
 @keyframes change-light {
-  from {top: 0}
+  from {}
   to {background-color: $color-1-dark;}
  }
 
@@ -438,12 +438,12 @@
 }
 
 @keyframes return {
-  from {top: 0;}
+  from {background-color: $color-1-dark;}
   to {background-color: $color-1;}
   }
 
 @keyframes return-light {
-  from {top: 0;}
+  from {background-color: inherit}
   to {background-color: $color-1-light;}
   }
 }

@@ -46,6 +46,7 @@ h1.header,h2.header,h3.header,h4.header {
 	font-family: $font-serif;
 }
 .footer {
+    flex: 1 0 auto;
     color: $nav-color-text;
     font-family: $font-sans;
     font-size: 0.8em;
@@ -114,6 +115,10 @@ h1.header,h2.header,h3.header,h4.header {
   transition: 0.3s;
   display: block;
   z-index: 100;
+}
+
+.alert-color-text {
+   color: $alert-color;
 }
 
 /* When moving the mouse over the close button */
@@ -240,7 +245,7 @@ main {
 
 .media {
    flex: 1 0 400px; /* can grow, can't shrink, and set to min 400px */
-   padding: 0 35px;
+   padding: 0 3px;
   }
 /* large calendar is embed-container2. I don't apply any styling to the mobile sized calendar */
 
