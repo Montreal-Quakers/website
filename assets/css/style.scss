@@ -60,6 +60,10 @@ h1.header,h2.header,h3.header,h4.header {
 	font-size: 2em;
 }
 
+.footer h6 {
+	font-family: $font-sans;
+}
+
 .footer.smaller {
 	font-size: 0.75em;
 }
@@ -76,6 +80,7 @@ h1.header,h2.header,h3.header,h4.header {
   text-align: center;
   max-width: $text-width;
   font-family: $font-sans;
+  font-weight: bold;
   padding: 20px;
   color: $alert-text-color;
   margin: 0 0 ;
@@ -85,7 +90,7 @@ h1.header,h2.header,h3.header,h4.header {
 
 .alert a {
    color: $alert-link-color;
-   font-weight: bold;
+   font-weight: 800;
    font-family: $font-sans;
    }
 
@@ -225,6 +230,7 @@ main {
    flex: 0 1 $text-width; /* don't grow, can shrink, and starts at $text-width */
    padding: 0 66px 0;
    font-family: $font-sans; 
+   font-weight: lighter;
    font-size:1em;
    text-align:left;
    background-color: $body-color;
