@@ -58,6 +58,10 @@
     color: $color-1-dark;
     }
 
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
 
    .show {display: inline !important;}
    .hide {display: none !important;}
@@ -262,10 +266,6 @@
 .dropdown-content a:hover {
   background-color: $color-active;
   color: $nav-color-text;
-}
-
-.dropdown:hover .dropdown-content {
-  display: block;
 }
 
 /* widescreen search */

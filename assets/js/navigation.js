@@ -22,13 +22,13 @@ function scrollBar() {
   if ((window.pageYOffset > sticky)) {
           y.classList.remove("return_color");
 	  y.classList.add("sticky");
-          media.classList.add("media_sticky");
+       //   media.classList.add("media_sticky");
     
   } else {
     if (y.classList.contains("sticky")) {
 	  y.classList.add("return_color");
           y.classList.remove("sticky");
-          media.classList.remove("media_sticky");
+        //  media.classList.remove("media_sticky");
     }
  }
 }
@@ -41,6 +41,27 @@ function respondBar() {
     x.className += " responsive";
   } else {
     x.className = "navbar";
+  }
+}
+
+/* When the user clicks on the button, toggle between hiding and showing the dropdown content */
+
+
+function responsiveClick(id) {
+  document.getElementById(id).classList.toggle("w3-show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('w3-show')) {
+        openDropdown.classList.remove('w3-show');
+      }
+    }
   }
 }
 

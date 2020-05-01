@@ -17,9 +17,9 @@ Your donations make possible functions such as:
 * Travel expenses for speakers and delegates
 * Donations to worthy causes approved by the Religious Society of Friends (Quakers), Montreal Meeting for Worship for Business.
 
-Thank you for your consideration. We do not pass a collections plate during Meeting on Sunday. 
+Thank you for your consideration.
 
-In order to donate, you may:
+We do not pass a collections plate during Meeting on Sunday. In order to donate, you may:
 * use the [CanadaHelps form](https://www.canadahelps.org/en/charities/religious-society-of-friends-quakers-montreal-monthly-meet/) below
 * use our donation box at meeting
 * make a cheque payable to “Religious Society of Friends (Quakers) Montreal Monthly Meeting”, mailed c/o Montreal Quakers, 1090 Greene Ave., H3Z 1Z9.

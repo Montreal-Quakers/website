@@ -29,14 +29,16 @@
 
 <div class="navbar" id="myNavbar">
 	<a id="widehome" title="Home" class="{% case page.url %}{% when '/index.html' or '/index-fr.html' or '/' %}active{% endcase %}"  href={% if page.lang =="fr" %}"/index-fr.html"{% else %}"/index.html"{% endif %}  title="{% if page.lang == "fr" %}Accueil{% else %}Home{% endif %}">{% if page.lang == "fr" %}{% else %}{% endif %} <i class="fas fa-home fa-lg" style="padding=0;"></i></a>
-  <a title="Dropdown menu" href="javascript:void(0);" class="icon" onclick="respondBar()"><i class="fas fa-bars"></i></a>
+  <a title="Dropdown menu" class="icon" onclick="respondBar()"><i class="fas fa-bars"></i></a>
+         {% assign counter = 0 %}
 	  {% if page.lang == "fr" %} {% assign doclist = site.data.navigation.fr %}{% else %} {% assign doclist = site.data.navigation.en %}{% endif %}
 	  {% for item in doclist %} 
 		{% if item.children != nil %}
+		{% assign counter = counter | plus: 1 %}
   <div class="dropdown">
-		<button title="dropdown menu" class="dropbtn" title="{{ item.subtitle }}" ><i class="fa fa-caret-down"></i> {{ item.title }} 
+	  <button title="{{ item.title }}" onclick="responsiveClick('dropdown{{ counter }}')" class="dropbtn" title="{{ item.subtitle }}" ><i class="fa fa-caret-down"></i> {{ item.title }} 
     </button>
-    <div class="dropdown-content">
+    <div class="dropdown-content" id="dropdown{{ counter }}">
 	    {% for child in item.children %}
 	    <a href="{{ child.childlink }}" class="{% if child.childlink == page.url %}active{% endif %}">{{ child.childtitle }}</a>
          {% endfor %}
@@ -62,7 +64,7 @@
   {% endunless %}
   {% if otherurl %}
 			     <!-- language changer button, which flip animation -->
-  <a href="javascript:void(1);" class="icon" id="response" onclick="flipIcon()">{% if page.lang == "fr" %}English{% elsif page.lang == "en" %}Français{% endif %} &nbsp;<i id="flippy" class="fas fa-random"></i></a>
+  <a class="icon" id="response" onclick="flipIcon()">{% if page.lang == "fr" %}English{% elsif page.lang == "en" %}Français{% endif %} &nbsp;<i id="flippy" class="fas fa-random"></i></a>
   <a href="{{ otherurl }}" id="flippy2" style="display: none;"></a>
   {% endif %}
   {% endif %}
