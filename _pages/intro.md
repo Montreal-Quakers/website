@@ -20,7 +20,7 @@ Over countless generations, our encounter with Spirit has led us over and over t
 <i class="fab fa-pagelines fa-fw fa-2x" style="color: darkgreen;"></i> <u>S</u>tewardship. Respect and gratitude for what sustains us.
 
 <br>
-These values are not easy, but they are our understanding of how Spirit calls us to live in this world.
+These values are not easy to uphold, but they are our understanding of how Spirit calls us to live in this world.
 
 
 *************

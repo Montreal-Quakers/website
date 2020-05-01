@@ -5,20 +5,19 @@ lang: en
 trans: contribution
 permalink: /donate.html
 ---
-To those who find a spiritual home in our meeting, we encourage you to consider making a donation to help support the running of the meeting. Since we are entirely run by volunteers, most of our expenses are simply overhead.
+To those who find a spiritual home in our meeting, we encourage you to consider making a donation to help support the running of the meeting. Our members and regular attenders donate their time and skills to keep the meeting running, so most of our expenses are simply overhead.
 
 Your donations make possible functions such as:
 
 * Rental of the room used for Meeting for Worship every Sunday, and Wednesdays for Mid-week Meeting
 * Rental of the room used for Monthly meetings and other special meetings
 * Listing of information about our Meeting on a website
-* Fulfilling our annual quota for Canadian Yearly meeting
+* Supporting the work of Canadian Yearly Meeting
 * Purchasing pamphlets and books for Montreal Meeting
 * Travel expenses for speakers and delegates
 * Donations to worthy causes approved by the Religious Society of Friends (Quakers), Montreal Meeting for Worship for Business.
-* Thank you for your consideration.
 
-We do not pass a collections plate during Meeting on Sunday. 
+Thank you for your consideration. We do not pass a collections plate during Meeting on Sunday. 
 
 In order to donate, you may:
 * use the [CanadaHelps form](https://www.canadahelps.org/en/charities/religious-society-of-friends-quakers-montreal-monthly-meet/) below

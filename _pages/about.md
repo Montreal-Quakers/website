@@ -5,17 +5,22 @@ lang: en
 trans: about
 permalink: /about.html
 ---
-1. ![](/assets/images/no-tie_color.png){: img_left height="40" } [You're welcome as you are. Dress comfortably (ties are fine too)](#notie)
+1. ![](/assets/images/no-tie_color.png){: img_left height="40" } [You're welcome as you are. Dress comfortably (ties are fine too)](#notie){: id="nolink"}
   
-1. <i class="fas fa-chair fa-fw fa-2x" style="color: #4d1a00;"></i> [Sit anywhere you like](#chair)
-  
-1. <i class="fas fa-search fa-fw fa-2x color-1-text"></i> [In the quiet of Quaker meeting, look inside](#look)
-  
-1. <i class="fas fa-hand-holding-heart fa-fw fa-2x" style="color: crimson"></i> [If moved, speak from the heart. If not, listen](#heart)
+1. <i class="fas fa-chair fa-fw fa-2x" style="color: #4d1a00;"></i> [Sit anywhere you like](#chair){: id="nolink"}
 
-1. <i class="far fa-pause-circle fa-fw fa-2x color-1-light-text"></i> [After people speak, allow a moment for reflection. Out of respect, we avoid responding to others during worship](#wait)
+  
+1. <i class="fas fa-search fa-fw fa-2x color-1-text"></i> [In the quiet of Quaker meeting, look inside](#look){: id="nolink"}
 
-1. <i class="fas fa-mug-hot fa-fw fa-2x color-1-dark-text"></i> [Please do stay after for tea if you are able](#tea)
+  
+1. <i class="fas fa-hand-holding-heart fa-fw fa-2x" style="color: crimson"></i> [If moved, speak from the heart. If not, listen](#heart){: id="nolink"}
+
+
+1. <i class="far fa-pause-circle fa-fw fa-2x color-1-light-text"></i> [After people speak, allow a moment for reflection. Out of respect, we avoid responding to others during worship](#wait){: id="nolink"}
+
+
+1. <i class="fas fa-mug-hot fa-fw fa-2x color-1-dark-text"></i> [We encourage you to stay for tea after if you are able](#tea){: id="nolink"}
+
   
 ************
 
@@ -25,7 +30,7 @@ A Quaker Meeting is based on silence, but it is a silence of waiting in expectan
 
 ![](/assets/images/no-tie_color.png){: img_left height="36"}<span class="stanchor"><a name="notie"> </a></span> There is no dress code so come as you are and feel free to wear whatever makes you feel your best. Meeting for Worship starts as soon as the first person enters the room and sits down. It is helpful if the Meeting can settle a few minutes before the appointed time.
 
-Go in as soon as you are ready. <i class="fas fa-chair" style="color: #4d1a00;"></i><span class="stanchor"><a name="chair"> </a></span> Sit anywhere you like but if possible leave seats near the door for latecomers. Children may be present for a time at the beginning or the end of Meeting, and may have their own activities with us or in another room.
+<i class="fas fa-chair" style="color: #4d1a00;"></i><span class="stanchor"><a name="chair"> </a></span> Go in as soon as you are ready. Sit anywhere you like but if possible leave seats near the door for latecomers. Children may be present for a time at the beginning or the end of Meeting, and may have their own activities with us or in another room.
 
 <i class="fas fa-search color-1-text"></i><span class="stanchor"><a name="look"> </a></span> You may find it easy to relax in the silence and thus to enter into the spirit of the Meeting, or you may be disturbed by the strangeness of the silence, by distractions outside or by your own roving thoughts. Do not worry about this; we all find it difficult to settle at times, but we return again and again to the still centre of our being, where the presence of God can be known. Try, if only for brief periods, to be quiet in body, mind and spirit. Bring whatever is pressing on your mind to the Meeting. It can be a time of insight, revelation, healing, or calm.
 

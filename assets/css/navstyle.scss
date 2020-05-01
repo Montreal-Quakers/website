@@ -40,7 +40,6 @@
 
    .navbar {
 	   display: flex;
-	   position: sticky;
 	   align-items: center;
     background-color: $color-1;
     }
@@ -77,9 +76,9 @@
   #narrowheader {
     position: absolute;
 /*    margin-left: -160px; */
-    margin-top: 23px;
+    margin-top: 13px;
     left: 50%;
-    font-size: $header-font-size;
+    font-size: $nav-font-size;
     font-family: $font-serif;
     transform: translate(-50%, 0%);
 	   border-radius: 25px;
@@ -107,7 +106,6 @@
 
    .navbar {
     background-color: $color-1-dark;
-    padding: 20px;
     }
    .navbar .search-container {
 	   display: none;

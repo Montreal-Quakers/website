@@ -13,8 +13,8 @@ permalink: /directions.html
 
 * Near **Lionel-Groulx and Atwater metros** (Lionel-Groulx is slightly closer)
 * **Parking** available behind the Greene Centre
-* Please note that the Greene Centre is a **nut-free and scent-free environment**
-* Our worship space is **fully accessible** via the front and rear entrance of the Greene Centre
+* Please note that the Greene Centre is a **nut-free environment**. We are working toward becoming a **scent-reduced meeting**.
+* Our worship space is **accessible** via the front ramp and the rear entrance of the Greene Centre; the Greene Centre has an accessible washroom
 
 We meet in the sunroom on the Greene Centre's main floor. All are welcome.
 ### Time
