@@ -5,17 +5,17 @@ lang: fr
 trans: about
 permalink: /a_propos.html
 ---
-1. ![](/assets/images/no-tie_color.png){: img_left height="40"} [Soyez le bienvenu, habillez-vous à votre goût (une cravate ça va aussi)](#cravate)
+1. ![](/assets/images/no-tie_color.png){: img_left height="40"} [Soyez le bienvenu, habillez-vous à votre goût (une cravate ça va aussi)](#cravate){: id="linkoff"}
   
-1. <i class="fas fa-chair fa-fw fa-2x" style="color: #4d1a00;"></i> [Prenez n'importe quel siège](#chaise)
+1. <i class="fas fa-chair fa-fw fa-2x" style="color: #4d1a00;"></i> [Prenez n'importe quel siège](#chaise){: id="linkoff"}
   
-1. <i class="fas fa-search fa-fw fa-2x color-1-text"></i> [Dans le silence, écoutez](#regarde)
+1. <i class="fas fa-search fa-fw fa-2x color-1-text"></i> [Dans le silence, écoutez](#regarde){: id="linkoff"}
   
-1. <i class="fas fa-hand-holding-heart fa-fw fa-2x" style="color: crimson"></i> [Si vous vous y sentez incité intérieurement, parlez avec votre cœur. Sinon, écoutez](#coeur)
+1. <i class="fas fa-hand-holding-heart fa-fw fa-2x" style="color: crimson"></i> [Si vous vous y sentez incité intérieurement, parlez avec votre cœur. Sinon, écoutez](#coeur){: id="linkoff"}
 
-1. <i class="far fa-pause-circle fa-fw fa-2x color-1-light-text"></i> [Recueillez-vous un moment après chaque intervention; par souci de respect, nous évitons de répondre aux propos des autres](#attendre)
+1. <i class="far fa-pause-circle fa-fw fa-2x color-1-light-text"></i> [Recueillez-vous un moment après chaque intervention; par souci de respect, nous évitons de répondre aux propos des autres](#attendre){: id="linkoff"}
    
-1. <i class="fas fa-mug-hot fa-fw fa-2x color-1-dark-text"></i> [Prenez un thé avec nous après, si possible](#thé)
+1. <i class="fas fa-mug-hot fa-fw fa-2x color-1-dark-text"></i> [Prenez un thé avec nous après, si possible](#thé){: id="linkoff"}
     
 ************
 

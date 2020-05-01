@@ -5,21 +5,21 @@ lang: en
 trans: about
 permalink: /about.html
 ---
-1. ![](/assets/images/no-tie_color.png){: img_left height="40" } [You're welcome as you are. Dress comfortably (ties are fine too)](#notie){: id="nolink"}
+1. ![](/assets/images/no-tie_color.png){: img_left height="40" } [You're welcome as you are. Dress comfortably (ties are fine too)](#notie){: id="linkoff"}
   
-1. <i class="fas fa-chair fa-fw fa-2x" style="color: #4d1a00;"></i> [Sit anywhere you like](#chair){: id="nolink"}
-
-  
-1. <i class="fas fa-search fa-fw fa-2x color-1-text"></i> [In the quiet of Quaker meeting, look inside](#look){: id="nolink"}
+1. <i class="fas fa-chair fa-fw fa-2x" style="color: #4d1a00;"></i> [Sit anywhere you like](#chair){: id="linkoff"}
 
   
-1. <i class="fas fa-hand-holding-heart fa-fw fa-2x" style="color: crimson"></i> [If moved, speak from the heart. If not, listen](#heart){: id="nolink"}
+1. <i class="fas fa-search fa-fw fa-2x color-1-text"></i> [In the quiet of Quaker meeting, look inside](#look){: id="linkoff"}
+
+  
+1. <i class="fas fa-hand-holding-heart fa-fw fa-2x" style="color: crimson"></i> [If moved, speak from the heart. If not, listen](#heart){: id="linkoff"}
 
 
-1. <i class="far fa-pause-circle fa-fw fa-2x color-1-light-text"></i> [After people speak, allow a moment for reflection. Out of respect, we avoid responding to others during worship](#wait){: id="nolink"}
+1. <i class="far fa-pause-circle fa-fw fa-2x color-1-light-text"></i> [After people speak, allow a moment for reflection. Out of respect, we avoid responding to others during worship](#wait){: id="linkoff"}
 
 
-1. <i class="fas fa-mug-hot fa-fw fa-2x color-1-dark-text"></i> [We encourage you to stay for tea after if you are able](#tea){: id="nolink"}
+1. <i class="fas fa-mug-hot fa-fw fa-2x color-1-dark-text"></i> [We encourage you to stay for tea after if you are able](#tea){: id="linkoff"}
 
   
 ************
