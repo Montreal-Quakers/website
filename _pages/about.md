@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your first meeting for worship in six steps
+title: Your first Quaker meeting for worship in six steps
 lang: en
 trans: about
 permalink: /about.html
