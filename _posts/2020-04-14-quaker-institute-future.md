@@ -8,7 +8,7 @@ tags: [learning]
 
 Sunday, April 19th after meeting on Zoom, so around 12:30 pm, we'll have a short presentation from Geoff Garver about the Quaker Institute for the Future. Here's a little blurb about that:
 
-> Geoff Garver will give a short presentation and lead a discussion about the [Quaker Institute for the Future (QIF)](www.quakerinstitute.org).  QIF’s mission is: 
+> Geoff Garver will give a short presentation and lead a discussion about the [Quaker Institute for the Future (QIF)](www.quakerinstitute.org){: target="_blank"}.  QIF’s mission is: 
   > * Advancing a global future of inclusion, social justice, and ecological integrity through participatory research and discernment.
 >
 > QIF does this mostly by running a Summer Research Seminar every summer, holding Circles of Discernment that conduct research using Quaker-inspired methods and produce Focus Books, and leading workshops at FGC Gatherings and other Quaker gatherings.  Geoff is on the QIF Board of Trustees and he will talk about QIFs work and ways that Friends can get involved.
