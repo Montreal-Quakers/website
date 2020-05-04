@@ -7,7 +7,7 @@ permalink: /qc.html
 ---
 ![Circle of chairs](/assets/images/quebec_wg.jpg){: .img_center75}
 
-Great news! The Quaker Worship Group in Quebec City has begun! Every first Sunday of the month, Quebec City Quakers will meet at 11 a.m. at [31 rue des Jardins, Québec](https://www.google.com/maps/search/31%20rue%20des%20Jardins,%20Qu%C3%A9bec) (the building in the courtyard of the Holy Trinity Anglican Cathedral in Old Québec)
+Great news! The Quaker Worship Group in Quebec City has begun! Every first Sunday of the month, Quebec City Quakers will meet at 11 a.m. at [31 rue des Jardins, Québec](https://www.google.com/maps/search/31%20rue%20des%20Jardins,%20Qu%C3%A9bec){: target="_blank"} (the building in the courtyard of the Holy Trinity Anglican Cathedral in Old Québec)
 
 ![Quebec worship group logo](/assets/images/quebec.jpg){: .img_center100}
 
