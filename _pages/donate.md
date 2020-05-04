@@ -20,7 +20,7 @@ Your donations make possible functions such as:
 Thank you for your consideration.
 
 We do not pass a collections plate during Meeting on Sunday. In order to donate, you may:
-* use the [CanadaHelps form](https://www.canadahelps.org/en/charities/religious-society-of-friends-quakers-montreal-monthly-meet/) below
+* use the [CanadaHelps form](https://www.canadahelps.org/en/charities/religious-society-of-friends-quakers-montreal-monthly-meet/){: target="_blank"} below
 * use our donation box at meeting
 * make a cheque payable to “Religious Society of Friends (Quakers) Montreal Monthly Meeting”, mailed c/o Montreal Quakers, 1090 Greene Ave., H3Z 1Z9.
 
