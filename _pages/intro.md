@@ -7,7 +7,7 @@ permalink: /intro.html
 ---
 <i class="fab fa-fly fa-fw fa-2x color-1-light-text"></i> Meaningful life. Quakers seek clarity of purpose.
   * <i class="fab fa-gratipay fa-fw color-1-dark-text"></i> We aim to be in touch with what is truthful, important, and joyous. 
-  * <i class="fas fa-bullseye fa-fw color-1-dark-text"></i> Each individual will be called to live differently. 
+  * <i class="fas fa-pied-piper-hat fa-fw color-1-dark-text"></i> Each individual will be called to live differently. 
   * <i class="fas fa-icons fa-fw color-1-dark-text"></i> Our community exists to give us the strength to live boldly.
 
 <i class="fas fa-arrows-alt-h fa-fw fa-2x color-1-text"></i> An accepting community. Quakers are egalitarian.
