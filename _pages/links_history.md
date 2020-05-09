@@ -7,7 +7,7 @@ permalink: /links_history.html
 ---
 ![Benches with light](assets/images/benches2-243x300.gif){:class="img_center"}
 ### For newcomers, about Quakers
-* [QuakerSpeak videos](https://quakerspeak.com/){: target="_blank"} for instance, [this one](https://www.youtube.com/watch?time_continue=1&v=I63xA-VZGXw&feature=emb_title){: target="_blank"}, are an excellent resource.
+* [QuakerSpeak videos](https://quakerspeak.com/){: target="_blank"}, for instance [this one](https://www.youtube.com/watch?time_continue=1&v=I63xA-VZGXw&feature=emb_title){: target="_blank"}, are an excellent resource.
 * Letters to a fellow seeker by Steve Chase, 
   * [Chapter 1](https://drive.google.com/file/d/0B8iS545He0DEcmV2NFhHb1J2ak0/view){: target="_blank"}
   * [Chapter 2](https://drive.google.com/file/d/0B8iS545He0DEVnRLRWdlM1ZZdFk/view){: target="_blank"}
