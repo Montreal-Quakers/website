@@ -1,34 +1,26 @@
 ---
-title: Our Testimonies (the SPICES)
+title: Introduction to Quakers
 layout: default
 lang: en
 trans: intro
 permalink: /intro.html
 ---
-Over countless generations, our encounter with Spirit has led us over and over to these six core values:
 
-<i class="far fa-circle fa-fw fa-2x color-1-dark-text" style=""></i> <u>S</u>implicity. Simple living helps us focus on what matters most.
+<i class="fab fa-fly fa-fw fa-2x color-1-light-text"></i> Meaningful life. This requires listening.
+  * <i class="fab fa-gratipay fa-fw color-1-dark-text"></i> We aim to be in touch with what is truthful, important, and joyous. 
+  * <i class="fas fa-bullseye fa-fw color-1-dark-text"></i> Each individual will be called to live differently. 
+  * <i class="fas fa-swimming-pool fa-fw color-1-dark-text"></i> Our community exists to give us the strength to live that way.
 
-<i class="fas fa-dove fa-fw fa-2x color-1-light-text" style=""></i> <u>P</u>eace. Quakers have a long history of building peace. 
+<i class="fas fa-arrows-alt-h fa-fw fa-2x color-1-text"></i> Accepting community. Quakers are egalitarian: no priests, no hierarchy.
+  * <i class="fas fa-cubes fa-fw color-1-light-text"></i> We celebrate the leadership within our community, but minimize special roles. 
+  * <i class="fas fa-chess-bishop fa-fw color-1-light-text"></i> Everyone can be a "minister"; we have no paid positions.
+  * <i class="fas fa-building fa-fw color-1-light-text"></i> Quakers in Canada and elsewhere do not make decisions for Montreal Meeting.
 
-<i class="fas fa-handshake fa-fw fa-2x color-1-dark-text" style=""></i> <u>I</u>ntegrity. Speaking and living truth as best we can.
-
-<i class="fas fa-comments fa-fw fa-2x color-1-text" style=""></i> <u>C</u>ommunity. Valuing our ties to others.
-
-<i class="fab fa-creative-commons-nd fa-fw fa-2x color-1-light-text" style=""></i> <u>E</u>quality. Seeing the equal createdness of everything that is.
-
-<i class="fab fa-pagelines fa-fw fa-2x" style="color: darkgreen;"></i> <u>S</u>tewardship. Respect and gratitude for what sustains us.
-
-<br>
-These values are not easy to uphold, but they are our understanding of how Spirit calls us to live in this world.
-
-
-*************
-
-<i class="fas fa-heart fa-fw fa-2x" style="color: indianred"></i> The greatest gift which we have all been given is Love
-  
-![](/assets/images/Rainbow-Flag.jpg){: img_left height="25"} &nbsp;Our community is open to all and is LGBTQ+-friendly.
+<i class="fas fa-road fa-fw fa-2x color-1-dark-text"></i> Open-ended quest. We can't tell anyone what to believe. 
+  * <i class="fas fa-book fa-fw color-1-text"></i> Many among us cherish holy texts, particularly the Bible, but many don't.
+     * We have no communal holy book, even if we cherish Quaker authors.
+  * <i class="fas fa-globe-americas fa-fw color-1-text"></i> We seek to live loving, meaningful lives as best we can, using any means that speak to us.
 
 See [how a meeting works](/about.html) for more about what worshipping with us is like.
 
-See our [links and resources](links_history.html) for more information about many topics such as Quakers at the UN and Quaker service work in Canada.
+See [Quaker values](/testimonies.html) to learn more about our values.

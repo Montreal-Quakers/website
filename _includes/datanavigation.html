@@ -33,21 +33,21 @@
          {% assign counter = 0 %}
 	  {% if page.lang == "fr" %} {% assign doclist = site.data.navigation.fr %}{% else %} {% assign doclist = site.data.navigation.en %}{% endif %}
 	  {% for item in doclist %} 
-		{% if item.children != nil %}
+		{% if item.submenu != nil %}
 		{% assign counter = counter | plus: 1 %}
   <div class="dropdown">
-	  <button title="{{ item.title }}" onclick="responsiveClick('dropdown{{ counter }}')" class="dropbtn" title="{{ item.subtitle }}" ><i class="fa fa-caret-down"></i> {{ item.title }} 
+	  <button title="{{ item.title }}" onclick="responsiveClick('dropdown{{ counter }}')" class="dropbtn" title="{% if item.hovertitle %}{{ item.hovertitle }}{% else %}{{item.title}}{% endif %}" ><i class="fa fa-caret-down"></i> {{ item.title }}{% if item.icon %} &nbsp;{{ item.icon }}{% endif %}
     </button>
     <div class="dropdown-content" id="dropdown{{ counter }}">
-	    {% for child in item.children %}
-	    <a href="{{ child.childlink }}" class="{% if child.childlink == page.url %}active{% endif %}">{{ child.childtitle }}</a>
+	    {% for subitem in item.submenu %}
+	    <a href="{{ subitem.sublink }}" class="{% if subitem.sublink == page.url %}active{% endif %}">{{ subitem.subtitle }}</a>
          {% endfor %}
     </div>
   </div>
   {% endif %}
-		{% if item.children == null %}
+		{% if item.submenu == null %}
 
-		<a href="{{ item.link }}" title="{{ item.subtitle }}" class="{% if item.link == page.url %}active{% endif %}">{{ item.title }}</a>
+		<a href="{{ item.link }}" title="{% if item.hovertitle %}{{ item.hovertitle }}{% else %}{{item.title}}{% endif %}" class="{% if item.link == page.url %}active{% endif %}">{{ item.title }} &nbsp;{{ item.icon }}</a>
 		{% endif %}
   {% endfor %}
   <!-- Language changer button -->
