@@ -223,6 +223,12 @@ main {
    height: 100%;
 }
 
+.down_a_bit {
+        vertical-align: sub;
+//        position: relative;
+//        bottom: 4px;
+}
+
 .container-content {
    width: 100%;
    margin: 0 auto 0; /* this might result in centered text, we'll see */
