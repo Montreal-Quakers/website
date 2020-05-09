@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Links and History of the Meeting and Quakers
+title: Links and History
 lang: en
 trans: links_history
 permalink: /links_history.html
