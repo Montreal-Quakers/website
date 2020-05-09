@@ -18,7 +18,7 @@ permalink: /intro.html
 <i class="fas fa-road fa-fw fa-2x color-1-dark-text"></i> Open-ended quest. We can't tell anyone [what to believe](/testimonies.html). 
   * <i class="fas fa-book fa-fw color-1-text"></i> Many among us cherish holy texts, particularly the Bible, but many don't.
      * We have no communal holy book, even if we celebrate Quaker authors.
-  * <i class="fas fa-globe-americas fa-fw color-1-text"></i> We seek to live loving, meaningful lives as best we can, using any means that speak to us.
+  * <i class="fas fa-globe-americas fa-fw color-1-text"></i> We seek loving, meaningful lives as best we can, using any means that speak to us.
 
 See [how a meeting works](/about.html) for more about what worshipping with us is like.
 
