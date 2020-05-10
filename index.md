@@ -4,7 +4,7 @@ lang: en
 trans: index
 ---
  
-### [About Quakers](/about.html)
+### [About Quakers](/intro.html)
 
 Quakers are a community of seekers of diverse beliefs. We seek to meaningful life, an accepting community, and doing good in the world. Quakers cherish humanity, speaking of an Inner Light or “that of God” in every human being. Promptings of love are the source of our commitment to human rights, prison abolition, sustainability and peace, our [Quaker values](/intro.html).
 

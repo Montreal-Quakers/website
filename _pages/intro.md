@@ -7,12 +7,12 @@ permalink: /intro.html
 ---
 #### <i class="fab fa-fly fa-fw fa-2x color-1-light-text down_a_bit"></i> Meaningful life: Quakers seek clear purpose
   * {% comment %}<i class="fas fa-heartbeat fa-lg fa-fw color-1-dark-text"></i>{% endcomment %} We aim to be in touch with what is truthful, important, joyous 
-  * {% comment %}<i class="fab fa-pied-piper-hat fa-lg fa-fw color-1-dark-text"></i>{% endcomment %} Each person will be called to live differently 
+  * {% comment %}<i class="fab fa-pied-piper-hat fa-lg fa-fw color-1-dark-text"></i>{% endcomment %} Each person is called to live differently 
   * {% comment %}<i class="fas fa-icons fa-lg fa-fw color-1-dark-text"></i>{% endcomment %} Our community exists to give us strength to live boldly
 
 #### <i class="fas fa-arrows-alt-h fa-lg fa-fw fa-2x color-1-text down_a_bit"></i> An accepting community of equals
-  * {% comment %}<i class="fas fa-cubes fa-lg fa-fw color-1-light-text"></i>{% endcomment %} We celebrate the leadership within our community, but minimize special roles 
-  * {% comment %}<i class="fas fa-chess-bishop fa-lg fa-fw color-1-light-text"></i>{% endcomment %} Everyone, including children, may be a "minister"; we have no paid positions, no hierarchy
+  * {% comment %}<i class="fas fa-cubes fa-lg fa-fw color-1-light-text"></i>{% endcomment %} We celebrate the leadership within our community, but minimize hierarchy; we have no paid positions
+  * {% comment %}<i class="fas fa-chess-bishop fa-lg fa-fw color-1-light-text"></i>{% endcomment %} Everyone, including children, may be a "minister"
   * {% comment %}<i class="fas fa-building fa-lg fa-fw color-1-light-text"></i>{% endcomment %} No national organization makes decisions for Montreal Quakers
 
 #### <i class="fas fa-road fa-lg fa-fw fa-2x color-1-dark-text down_a_bit"></i> Open-ended quest: Quakers don't tell people [what to believe](/testimonies.html) 
