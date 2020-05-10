@@ -5,18 +5,18 @@ lang: en
 trans: about
 permalink: /about.html
 ---
-1. ![](/assets/images/no-tie_color.png){: img_left height="40" } [You're welcome as you are. Dress comfortably (ties are fine too)](#notie){: id="linkoff"}
+1. ![](/assets/images/no-tie_color.png){: img_left height="40" class="down_a_bit_more"} [You're welcome as you are. Dress comfortably (ties are fine too)](#notie){: id="linkoff"}
   
-1. <i class="fas fa-chair fa-fw fa-2x" style="color: #4d1a00;"></i> [Sit anywhere you like](#chair){: id="linkoff"}
+1. <i class="fas fa-chair fa-fw fa-2x down_a_bit_more" style="color: #4d1a00;"></i> [Sit anywhere you like](#chair){: id="linkoff"}
 
   
-1. <i class="fas fa-search fa-fw fa-2x color-1-text"></i> [In the quiet of Quaker meeting, look inside](#look){: id="linkoff"}
+1. <i class="fas fa-search fa-fw fa-2x color-1-text down_a_bit_more"></i> [In the quiet of Quaker meeting, look inside](#look){: id="linkoff"}
 
   
 1. <i class="fas fa-hand-holding-heart fa-fw fa-2x" style="color: crimson"></i> [If moved, speak from the heart. If not, listen](#heart){: id="linkoff"}
 
 
-1. <i class="far fa-pause-circle fa-fw fa-2x color-1-light-text"></i> [After people speak, allow a moment for reflection. Out of respect, we avoid responding to others during worship](#wait){: id="linkoff"}
+1. <i class="far fa-pause-circle fa-fw fa-2x color-1-light-text down_a_bit_more"></i> [After people speak, allow a moment for reflection. Out of respect, we avoid responding to others during worship](#wait){: id="linkoff"}
 
 
 1. <i class="fas fa-mug-hot fa-fw fa-2x color-1-dark-text"></i> [We encourage you to stay for tea after if you are able](#tea){: id="linkoff"}
@@ -28,7 +28,7 @@ Welcome.
 
 A Quaker Meeting is based on silence, but it is a silence of waiting in expectancy. The silence may last for quite some time, perhaps a half hour or more. But that does not mean that nothing is happening. All of us are trying to come nearer to each other and to God as we are caught up in the still spirit of the Meeting. We do not worship in isolation but try to hold an awareness of all those gathered with us, uniting in a common purpose, so that the waiting and listening becomes an act of sharing.
 
-![](/assets/images/no-tie_color.png){: img_left height="36"}<span class="stanchor"><a name="notie"> </a></span> There is no dress code so come as you are and feel free to wear whatever makes you feel your best. Meeting for Worship starts as soon as the first person enters the room and sits down. It is helpful if the Meeting can settle a few minutes before the appointed time.
+![](/assets/images/no-tie_color.png){: img_left height="36" class="down_a_bit_more"}<span class="stanchor"><a name="notie"> </a></span> There is no dress code so come as you are and feel free to wear whatever makes you feel your best. Meeting for Worship starts as soon as the first person enters the room and sits down. It is helpful if the Meeting can settle a few minutes before the appointed time.
 
 <i class="fas fa-chair" style="color: #4d1a00;"></i><span class="stanchor"><a name="chair"> </a></span> Go in as soon as you are ready. Sit anywhere you like but if possible leave seats near the door for latecomers. Children may be present for a time at the beginning or the end of Meeting, and may have their own activities with us or in another room.
 
@@ -42,6 +42,6 @@ Each of us brings our own life’s experiences to Meeting. Some will thankfully 
 
 In the quietness of a Quaker Meeting those present can become aware of a deep and powerful spirit of love and truth that transcends their ordinary experience. We seek to become united in love and strengthened by truth so that we enter a new level of living, despite the different ways in which we may account for this life-expanding experience.
 
-After about an hour, two Friends will shake hands to mark the end of the worship. The Clerk then may announce forthcoming events and give news of members. <i class="fas fa-mug-hot color-1-dark-text"></i><span class="stanchor"><a name="tea"> </a></span> Afterwards, do feel free to stay for tea and snacks. Speak to someone nearby, particularly if you wish to know more about Quakers. <i class="fas fa-book-reader color-1-text"></i> Literature is usually available, and books can often be borrowed from the library about Quaker [values](intro.html) and [history](links_history.html).
+After about an hour, two Friends will shake hands to mark the end of the worship. The Clerk then may announce forthcoming events and give news of members. <i class="fas fa-mug-hot color-1-dark-text"></i><span class="stanchor"><a name="tea"> </a></span> Afterwards, do feel free to stay for tea and snacks. Speak to someone nearby, particularly if you wish to know more about Quakers. <i class="fas fa-book-reader color-1-text"></i> Literature is usually available, and books can often be borrowed from the library about Quaker [values](intro.html), [work](/testimonies.html), and [history](links_history.html).
 
 ![](assets/images/benches2-243x300.gif){:class="img_center"}

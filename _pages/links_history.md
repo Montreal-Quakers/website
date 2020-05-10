@@ -25,7 +25,7 @@ permalink: /links_history.html
 * [The Canadian Friend](https://quaker.ca/resources/the-canadian-friend/){: target="_blank"} - the magazine of Canadian Yearly Meeting, available online. 
 * [Canadian Young Friends Yearly Meeting](http://yf.quaker.ca){: target="_blank"}, focused on Young Friends (13-18) and Young Adult Friends (18-35). 
 * [Canadian Friends Service Committee](quakerservice.ca){: target="_blank"}: Quakers in Canada actively working on peace, indigenous issues, and the criminal justice system.
-* [Quaker Earthcare](https://www.quakerearthcare.org/){: target="_blank"} ([video](https://www.youtube.com/watch?v=5GBZUEeX1M0)){: target="_blank"}
+* [Quaker Earthcare Witness](https://www.quakerearthcare.org/){: target="_blank"} ([video](https://www.youtube.com/watch?v=5GBZUEeX1M0){: target="_blank"})
 * [The War Resisters Support Campaign](http://www.resisters.ca/){: target="_blank"}, supporting American soldiers seeking asylum in Canada. 
 
 ### History of the meeting
