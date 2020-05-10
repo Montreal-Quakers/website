@@ -1,12 +1,13 @@
 en:
 - title: About Us
   hovertitle: About Us
+  link: /intro.html
   icon: <i class='far fa-address-card'></i>
   submenu: 
     - subtitle: For New Attenders
       sublink: /about.html
-      #    - subtitle: Introduction to Quakers 
-      #    sublink: /intro.html
+    - subtitle: Introduction to Quakers 
+      sublink: /intro.html
     - subtitle: Quaker Values (Testimonies)
       sublink: /testimonies.html
     - subtitle: Links & History
