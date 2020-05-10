@@ -286,9 +286,15 @@ input:checked + .slider:before {
 }
 
 .down_a_bit {
-        vertical-align: sub;
+        vertical-align: bottom;
 //        position: relative;
 //        bottom: 4px;
+}
+
+.down_a_bit_more {
+        vertical-align: bottom;
+        position: relative;
+        bottom: -4px;
 }
 
 .container-content {

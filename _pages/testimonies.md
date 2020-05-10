@@ -7,22 +7,22 @@ permalink: /testimonies.html
 ---
 Over countless generations, our encounter with Spirit has led us over and over to these six core values:
 
-<i class="far fa-circle fa-fw fa-2x color-1-dark-text" style=""></i> <u>S</u>implicity. Simple living helps us focus on what matters most.
+<i class="far fa-circle fa-fw fa-2x color-1-dark-text down_a_bit_more"></i> <u>S</u>implicity. Simple living helps us focus on what matters most.
 
-<i class="fas fa-dove fa-fw fa-2x color-1-light-text" style=""></i> <u>P</u>eace. Quakers have a long history of building peace. 
+<i class="fas fa-dove fa-fw fa-2x color-1-light-text down_a_bit_more"></i> <u>P</u>eace. Quakers have a long history of building peace. 
 
-<i class="fas fa-handshake fa-fw fa-2x color-1-dark-text" style=""></i> <u>I</u>ntegrity. Speaking and living truth as best we can.
+<i class="fas fa-handshake fa-fw fa-2x color-1-dark-text down_a_bit_more"></i> <u>I</u>ntegrity. Speaking and living truth as best we can.
 
-<i class="fas fa-comments fa-fw fa-2x color-1-text" style=""></i> <u>C</u>ommunity. Valuing our ties to others.
+<i class="fas fa-comments fa-fw fa-2x color-1-text down_a_bit_more"></i> <u>C</u>ommunity. Valuing our ties to others.
 
-<i class="fab fa-creative-commons-nd fa-fw fa-2x color-1-light-text" style=""></i> <u>E</u>quality. Seeing the equal createdness of everything that is.
+<i class="fab fa-creative-commons-nd fa-fw fa-2x color-1-light-text down_a_bit_more"></i> <u>E</u>quality. Seeing the equal createdness of everything that is.
 
-<i class="fab fa-pagelines fa-fw fa-2x" style="color: darkgreen;"></i> <u>S</u>tewardship. Respect and gratitude for what sustains us.
+<i class="fab fa-pagelines fa-fw fa-2x down_a_bit_more" style="color: darkgreen;"></i> <u>S</u>tewardship. Respect and gratitude for what sustains us.
 <br>
 
-They are not rules to be imposed; rather, these traditional — and quite challenging — values emerge from our Quaker practice. 
+They are not rules to be imposed; rather, these traditional, simple — yet quite challenging — values represent our experience in Quaker worship. 
 
-They represent our experience of how Spirit calls us to live in this world.
+They are our testimony of how Spirit calls us to live in this world.
 
 *************
 
