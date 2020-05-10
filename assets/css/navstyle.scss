@@ -141,8 +141,8 @@
   } 
 
   .land_left_flip {
-    -webkit-animation: tilt-in-tl 0.45s cubic-bezier(0.250, 0.460, 0.450, 0.940) -0.15s both, flip-vertical-left 0.4s cubic-bezier(0.455, 0.030, 0.515, 0.955) 0.7s reverse forwards;
-    animation: tilt-in-tl 0.45s cubic-bezier(0.250, 0.460, 0.450, 0.940) -0.15s both, flip-vertical-left 0.4s cubic-bezier(0.455, 0.030, 0.515, 0.955) 0.7s reverse forwards;
+    -webkit-animation: tilt-in-tl 0.45s cubic-bezier(0.250, 0.460, 0.450, 0.940) -0.15s both, flip-vertical-left 0.3s cubic-bezier(0.455, 0.030, 0.515, 0.955) 0.7s reverse forwards;
+    animation: tilt-in-tl 0.45s cubic-bezier(0.250, 0.460, 0.450, 0.940) -0.15s both, flip-vertical-left 0.3s cubic-bezier(0.455, 0.030, 0.515, 0.955) 0.7s reverse forwards;
   }
 	
   .land_right {
