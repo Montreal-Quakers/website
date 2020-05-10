@@ -141,13 +141,13 @@
   } 
 
   .land_left_flip {
-    -webkit-animation: tilt-in-tl 0.65s cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.25s both, flip-vertical-left 0.4s cubic-bezier(0.455, 0.030, 0.515, 0.955) 0.75s reverse forwards;
-    animation: tilt-in-tl 0.65s cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.25s both, flip-vertical-left 0.4s cubic-bezier(0.455, 0.030, 0.515, 0.955) 0.75s reverse forwards;
+    -webkit-animation: tilt-in-tl 0.45s cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.25s both, flip-vertical-left 0.4s cubic-bezier(0.455, 0.030, 0.515, 0.955) 1.1s reverse forwards;
+    animation: tilt-in-tl 0.45s cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.25s both, flip-vertical-left 0.4s cubic-bezier(0.455, 0.030, 0.515, 0.955) 1.1s reverse forwards;
   }
 	
   .land_right {
-	-webkit-animation: tilt-in-fwd-tr 0.6s cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.25s both;
-	        animation: tilt-in-fwd-tr 0.6s cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.25s both;
+	-webkit-animation: tilt-in-fwd-tr 0.45s cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.25s both;
+	        animation: tilt-in-fwd-tr 0.45s cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.25s both;
   }
 
   .rotate-hor-center {
