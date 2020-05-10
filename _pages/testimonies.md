@@ -20,7 +20,7 @@ Over countless generations, our encounter with Spirit has led us over and over t
 <i class="fab fa-pagelines fa-fw fa-2x down_a_bit_more" style="color: darkgreen;"></i> <u>S</u>tewardship. Respect and gratitude for what sustains us.
 <br>
 
-They are not rules to be imposed; rather, these traditional, simple — yet quite challenging — values represent our experience in Quaker worship. 
+These are not rules to be imposed; rather, our traditional, simple — yet quite challenging — values represent our experience in Quaker worship. 
 
 They are our testimony of how Spirit calls us to live in this world.
 
