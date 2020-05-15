@@ -34,6 +34,10 @@
     position: relative;
     text-decoration: none;
  }
+ #narrowhome {
+     display: none;
+ }
+
  #narrowheader {
 	 display: none
  }
@@ -77,6 +81,7 @@
   #widehome  {
 	display: none;
   }
+
   #narrowheader {
     position: absolute;
 /*    margin-left: -160px; */
@@ -315,9 +320,10 @@
 
 /* Narrow screen */
 @media screen and (max-width: $mob-pixels) {
-  .navbar a:not(:first-child), .dropdown .dropbtn, .navbar input[type=text], .navbar .search-container button,div.search-container, .navbar #response {
+  .navbar a, .navbar #narrowhome, .dropdown .dropbtn, .navbar input[type=text], .navbar .search-container button,div.search-container, .navbar #response {
     display: none;
   }
+
   .navbar a.icon {
     font-size: $header-font-size;
     float: left;
@@ -347,13 +353,15 @@
     text-align: left;
   }
   .navbar.responsive .dropdown {float: none;}
+
   .navbar.responsive .dropdown-content {position: relative;}
+
   .navbar.responsive .dropdown .dropbtn {
     display: block; 
     width: 100%;
     text-align: left;
   }
-  .navbar.responsive input[type=text], .navbar.responsive .search-container, .navbar.responsive #response {
+  .navbar.responsive input[type=text], .navbar.responsive .search-container, .navbar.responsive #response, .navbar.responsive #narrowhome {
     float: none;
     display: block;
     text-align: left;

@@ -28,8 +28,9 @@
 </div>
 
 <div class="navbar" id="myNavbar">
-	<a id="widehome" title="Home" class="{% case page.url %}{% when '/index.html' or '/index-fr.html' or '/' %}active{% endcase %}"  href={% if page.lang =="fr" %}"/index-fr.html"{% else %}"/index.html"{% endif %}  title="{% if page.lang == "fr" %}Accueil{% else %}Home{% endif %}">{% if page.lang == "fr" %}{% else %}{% endif %} <i class="fas fa-home fa-lg" style="padding=0;"></i></a>
   <a title="Dropdown menu" class="icon" onclick="respondBar()"><i class="fas fa-bars"></i></a>
+	<a id="widehome" title="Home" class="{% case page.url %}{% when '/index.html' or '/index-fr.html' or '/' %}active{% endcase %}"  href={% if page.lang =="fr" %}"/index-fr.html"{% else %}"/index.html"{% endif %}  title="{% if page.lang == "fr" %}Accueil{% else %}Home{% endif %}">{% if page.lang == "fr" %}{% else %}{% endif %} <i class="fas fa-home fa-lg" style="padding=0;"></i></a>
+	<a id="narrowhome" title="Home" class="{% case page.url %}{% when '/index.html' or '/index-fr.html' or '/' %}active{% endcase %}"  href={% if page.lang =="fr" %}"/index-fr.html"{% else %}"/index.html"{% endif %}  title="{% if page.lang == "fr" %}Accueil{% else %}Home{% endif %}">{% if page.lang == "fr" %}Accueil{% else %}Home{% endif %} &nbsp;<i class="fas fa-home" style="padding=0;"></i></a>
          {% assign counter = 0 %}
 	  {% if page.lang == "fr" %} {% assign doclist = site.data.navigation.fr %}{% else %} {% assign doclist = site.data.navigation.en %}{% endif %}
 	  {% for item in doclist %} 
