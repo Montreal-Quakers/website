@@ -329,11 +329,11 @@
     float: left;
     display: block;
   }
-  .navbar a.icon_right {
+  .navbar .icon_right a {
     float: right;
     display: block;
     }
-  .navbar a.icon:hover {
+  .navbar .icon:hover a {
   background-color: $color-1-light;
   }
 
