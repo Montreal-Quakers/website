@@ -75,7 +75,7 @@ Once created, your new post will automatically appear in the "News" page with th
 
 There are only four things you need to know about writing a blog post using this system: 
   * To format a header, that is, to format large bold text at the top of paragraphs, put a few ```#``` symbols in front of your header like so: ```# About this website``` which will look like [this](#about-this-website)
-  * _Format_ **text** ~~like~~ _this_ ```_Format_ **text** ~~like~~ _this_```. _Italics_, **bold**, ~~strikethrough~~.
+  * _Format_ **text** ~~like~~ _this_ ```_Format_ **text** ~~like~~ _this_```. _Italics_, **bold**, ~~strikethrough~~, ```_Italics_, **bold**, ~~strikethrough~~```.
   * Links like so: ```[your text describing Google](https://google.ca)```, which will look like this: [your text describing Google](https://google.ca). Description in brackets (```[description]```), link in parentheses (```(example.com)```)
   * Images like so: ```![](/assets/images/yourimage.png)```. Same format as links except with an exclamation mark (```!```) at the beginning. See the codepen above.
 Most of the pages and posts on this website are just plain text, just like Wordpress.
