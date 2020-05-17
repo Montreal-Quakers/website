@@ -56,6 +56,21 @@ author: clerk
      * If you do not have a translated version of the post, you don't need a ```trans```. If you have a translated version of the post, choose a unique code for the ```trans``` (for instance, ```trans: helloworld```), and the website will automatically link between English and French pages that have the same ```trans``` code.  
 6. Write your blog post after the second three dashes (```---```) the way you would write an email. GitHub will translate this into HTML.
 
+The full sample blog post would look like this (```_posts/2020-05-24-hello-world.md```):
+```
+---
+layout: post
+title: Hello World!
+description: My first post
+tags: [announcements, testing]
+lang: en
+trans: hello-world
+author: Shelly
+---
+Hello world!
+This is my first blog post.
+```
+
 Once created, your new post will automatically appear in the "News" page with the post title and date extracted from the filename and the front matter.
 
 There are only four things you need to know about writing a blog post using this system: 
@@ -64,6 +79,14 @@ There are only four things you need to know about writing a blog post using this
   * Links like so: ```[your text describing Google](https://google.ca)```, which will look like this: [your text describing Google](https://google.ca). Description in brackets (```[description]```), link in parentheses (```(example.com)```)
   * Images like so: ```![](/assets/images/yourimage.png)```. Same format as links except with an exclamation mark (```!```) at the beginning. See the codepen above.
 Most of the pages and posts on this website are just plain text, just like Wordpress.
+
+So you could make that sample post above a bit more fancy by adding a bit of formatting: 
+```
+# Hello world!
+This is my _first_ blog post.
+
+Go back to the [home](/index.html) page.
+```
 
 # Some basics
 Some basics about how this website works:
