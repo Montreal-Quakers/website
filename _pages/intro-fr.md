@@ -1,32 +1,33 @@
 ---
-title: Nos témoignages (les ÉPICES)
+title: Présentation des quakers
 layout: default
 lang: fr
 trans: intro
 permalink: /intro-fr.html
 ---
-Depuis d'innombrables générations, notre contact avec l'Esprit nous rappelle ces six valeurs:
+#### <i class="fab fa-fly fa-fw fa-2x color-1-light-text down_a_bit"></i> Une vie remplie de sens: les quakers recherchent la clarté
+  * Nous entrons en contact avec ce qui est vrai, important, joyeux
+  * Chaqu'un sera appelé à vivre différemment
+  * Notre communauté existe pour nous permettre de vivre avec audace
 
-<i class="fab fa-creative-commons-nd fa-fw fa-2x color-1-dark-text"></i> <u>É</u>galité. Nous sommes tous fait de la même étoile.
+#### <i class="fas fa-arrows-alt-h fa-lg fa-fw fa-2x color-1-text down_a_bit"></i> Une communauté ouverte entre égaux
+  * Nous célébrons les leaders dans notre communauté, mais nous minimisons l'hiérarchie; nous sommes des bénévoles
+  * Toutes et tous, même les enfants, peuvent être un « ministère »
+  * Aucun organisme national prend des décisions pour les quakers de Montréal
 
-<i class="fas fa-dove fa-fw fa-2x color-1-light-text"></i> <u>P</u>aix. Les Quakers ont une longue histoire d'implication en faveur de la paix. 
+#### <i class="fas fa-road fa-lg fa-fw fa-2x color-1-dark-text down_a_bit"></i> Une quête libre : les quakers ne disent jamais quoi [croire](/temoignages.html) 
+  * De racines chrétiennes, aujourd'hui l'arbre quaker a de nombreuses branches, du christianisme jusqu'à l'agnosticisme
+  * Nous chérissons des auteurs quakers mais nous n'avons aucun livre saint, aucun acte de foi
+  * Nous recherchons des vies remplies d'amour et de sens par n'importe quels moyens
 
-<i class="fas fa-handshake fa-fw fa-2x color-1-dark-text"></i> <u>I</u>ntegrité. Dire et vivre la vérité, au meilleur de nos possibilités.
+#### <i class="fas fa-vial fa-lg fa-fw fa-2x color-1-light-text down_a_bit"></i> Le quakerisme est une expérience
+  * Chaque semaine est unique
+  * 400 ans plus tard, nous nous amusons
+  * La plupart entre nous ont découvert le quakerisme à l'âge adulte; on se souvient d'être nouvelle venue / nouveau venu
+  * Vous êtes le bienvenu de vous joindre à nous en faisant un meilleur monde
 
-<i class="fas fa-comments fa-fw fa-2x color-1-text"></i> <u>C</u>ommunauté. Chérir nos liens avec les autres.
+Voir [le déroulement d'une assemblée quaker](/a_propos.html) pour plus d'informations sur nos pratiques.
 
-<i class="fab fa-pagelines fa-fw fa-2x" style="color: darkgreen;"></i>  <u>É</u>co-responsabilité. Le respect et la gratitude pour tout ce qui nous est donné.
+Voir [les valeurs quaker](/temoignages.html) pour apprendre plus sur nos témoignages.
 
-<i class="far fa-circle fa-fw fa-2x color-1-text"></i> <u>S</u>implicité. Vivre simplement aide à nous concentrer sur cer qui est important dans la vie.    
-<br>
-<br>
-Ces valeurs ne sont pas faciles, mais elles reflètent notre compréhension de la direction que l'Esprit nous enseigne afin de vivre dans ce monde.
-
-*************
-
-<i class="fas fa-heart fa-fw fa-2x" style="color: indianred;"></i> Le plus grand don, c'est l'amour.
-  
-  
-![](/assets/images/Rainbow-Flag.jpg){: img_left height="25"} &nbsp;Notre communauté est ouverte à toutes et à tous.
-
-Si ces valeurs vous parlent, voici comment en apprendre plus sur [comment fonctionne](a_propos.html) une assemblée Quaker ou bien [en apprendre plus](liens_histoire.html) sur plusieurs autres sujets, dont le travail des Quakers au Canada.
+N'hésitez pas de nous [écrire ou appeler](/contact-fr.html) avec des questions.
