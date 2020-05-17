@@ -51,7 +51,7 @@ author: clerk
      * The title (for instance to ```title: Hello World```)
      * Description (for instance to ```description: My first post```)
      * Tags (for instance to ```tags: [announcements]```)
-     * The ```lang``` (which tells the system to display a page in English (```lang: en```) or in French (```lang: fr```))
+     * The ```lang``` (which tells the system to display a page, in English (```lang: en```) or in French (```lang: fr```))
      * Author (to your name, for instance ```author: Shelly```)
      * If you do not have a translated version of the post, you don't need a ```trans```. If you have a translated version of the post, choose a unique code for the ```trans``` (for instance, ```trans: helloworld```), and the website will automatically link between English and French pages that have the same ```trans``` code.  
 6. Write your blog post after the second three dashes (```---```) the way you would write an email. GitHub will translate this into HTML.
