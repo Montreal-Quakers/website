@@ -1,9 +1,10 @@
 - [About this website](#about-this-website)
+- [The short version](#the-short-version)
+- [Some basics](#some-basics)
 - [Where to find stuff](#where-to-find-stuff)
   * [Where to find more advanced stuff](#where-to-find-more-advanced-stuff)
 - [For beginners](#for-beginners)
 - [How to create a new page](#how-to-create-a-new-page)
-- [How to create a new post](#how-to-create-a-new-post)
 - [Changing colours, finding old drafts, and site alerts](#changing-colours-finding-old-drafts-and-site-alerts)
 - [Adding images](#adding-images)
 - [More advanced changes](#more-advanced-changes)
@@ -19,8 +20,50 @@
 - [This site vs. Wordpress](#this-site-vs-wordpress)
 
 # About this website
-This GitHub hosts the Montreal Quaker meeting website using a code that converts simplified text into webpages. It should be possible to fairly easily add pages and blog posts, and even edit existing pages.
+This GitHub hosts the Montreal Quaker meeting website using system that converts text into webpages. Like Wordpress, it shouldn't be too tricky to add pages and blog posts, or edit existing pages.
 
+# The short version
+The only thing people are likely to need to change regularly are blog posts. This section contains EVERYTHING you need to know to do so.
+
+No need to memorize ANY of this information. Throughout this README, if you're planning to do a task, just look up the instructions one step at a time as you're doing the task.
+
+The blog posts are in the ```_posts``` folder. Existing posts are organized chronologically and end in ```.md```.
+
+In order to create a new post, follow these steps.
+1. Open the ```_posts``` folder. 
+2. Click on ```Create new file```
+3. Name the file, beginning with the date, in this format: ```YYYY-MM-DD-your-title.md```. For instance, you could name a post ```2020-05-24-hello-world.md```. 
+4. Copy and paste the front matter below. This front matter is explained in detail in this README, but all you need to do is copy and paste this:
+```--- 
+layout: post
+title: Introduction to Quakers Event
+description: Monthly Events Introducing Quakers
+tags: [introduction, learning]
+lang: en
+trans: intro2us
+author: clerk
+---```
+5. In the "front matter" (the text separated by three dashes ```---```)
+  * Do NOT change the line that says ```layout: post```. For a post, the ```layout``` should always be ```post```. 
+  * DO change:
+     * The title (for instance to ```title: Hello World```)
+     * Description (for instance to ```description: My first post```)
+     * Tags (for instance to ```tags: [announcements]```)
+     * The ```lang``` (which tells the system to display a page in English (```lang: en```) or in French (```lang: fr```))
+     * Author (to your name, for instance ```author: Shelly```)
+     * If you do not have a translated version of the post, you don't need a ```trans```. If you have a translated version of the post, choose a unique code for the ```trans``` (for instance, ```trans: helloworld```), and the website will automatically link between English and French pages that have the same ```trans``` code.  
+6. Write your blog post after the second three dashes (```---```) the way you would write an email. GitHub will translate this into HTML.
+
+Once created, your new post will automatically appear in the "News" page with the post title and date extracted from the filename and the front matter.
+
+There are only four things you need to know about writing a blog post using this system: 
+  * To format a header, that is, to format large bold text at the top of paragraphs, put a few ```#``` symbols in front of your header like so: ```# About this website``` which will look like [this](#about-this-website)
+  * _Format_ **text** ~~like~~ _this_ ```_Format_ **text** ~~like~~ _this_```. _Italics_, **bold**, ~~strikethrough~~.
+  * Links like so: ```[your text describing Google](https://google.ca)```, which will look like this: [your text describing Google](https://google.ca). Description in brackets (```[description]```), link in parentheses (```(example.com)```)
+  * Images like so: ```![](/assets/images/yourimage.png)```. Same format as links except with an exclamation mark (```!```) at the beginning. See the codepen above.
+Most of the pages and posts on this website are just plain text, just like Wordpress.
+
+# Some basics
 Some basics about how this website works:
 * A [tutorial](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository) on how to change files on GitHub.
 * Posts are in the simplified [Markdown](https://guides.github.com/features/mastering-markdown/) format. 
@@ -50,11 +93,9 @@ Just to give an idea of the basic structure, navigation (all the links at the to
 Now let's get into how to do stuff.
 
 # For beginners
-Changing a website is intimidating -- there are many moving parts, many details. Anyone interested in making changes should set aside at least 15 minutes a day in the Codepen above, just writing text, making links, and seeing how it appears on the screen until they're confident that they have a basic understanding of how Markdown will appear. Markdown isn't too far removed from email, so perhaps this take won't take long. 
-
 Next, no HTML is needed to make basic changes to the site, but it's good to know one thing: HTML works by putting "tags" around text to tell your browser how to render the text. Tags in HTML begin and end with these greater-than, lesser-than symbols ```<>```. For instance, text with ```<b>bold</b>``` around it will appear, well, <b>bold</b>. So a ```<b>``` means that the bold is beginning and a ```</b>``` with a slash before it means that that the bold is ending. You don't need to code in HTML to make changes, you just need to not feel intimidated by the bits of code that are on various pages. There is no need to change HTML; it's enough to avoid changing it by knowing how the tags work. Some pages also contain a language called Liquid; again, no knowledge of Liquid is required. It's enough to know that liquid begins and ends tags with either ```{{ }}``` or ```{% %}```.
 
-Next, a beginner can make changes to the sandbox markdown file in ```_pages/sandbox.md```, and then load the sandbox page in their browser to see what has happened. When making changes in Github, remember that it saves everything you do. You can always go back and restore the previous version. Moreover, you'll see that as you try to save changes to a Github file, it asks you if you want to label changes you're making. If you're unsure, label them as ```unsure``` or something and you will be able to search for them later. But if you practice making changes in the codepen and then in the sandbox page, and things are looking good, most likely everything will be fine once pushed to the website. Perhaps it will take a couple of tries, but if you check your work, everything will be ok. It's not like our meeting website gets a billion hits a day -- if there are some bugs up there for a few minutes/hours/days/weeks, God will forgive us.
+Next, a beginner can make changes to the sandbox markdown file in ```_pages/sandbox.md```, and then load the sandbox page in their browser to see what has happened. When making changes in Github, remember that it saves everything you do. You can always go back and restore the previous version. Moreover, you'll see that as you try to save changes to a Github file, it asks you if you want to label changes you're making. If you're unsure, label them as ```unsure``` or something and you will be able to search for them later. But if you practice making changes in the codepen and then in the sandbox page, and things are looking good, most likely everything will be fine once pushed to the website. Perhaps it will take a couple of tries, but if you check your work, everything will be ok.
 
 # How to create a new page
 Create a new ```.md``` file in ```_pages```, write your content, and insert the "front matter" as explained here. For instance, for the COVID outbreak, I needed to create ```covid-19.md``` and ```covid-19-fr.md``` (feel free to open these files as you read along). I created a new file at  ```_pages/covid-19.md``` and then I wrote some text. Then I made a translated version here ```_pages/covid-19-fr.md```. Finally, in both files I set the "front matter". This is the most advanced part, but it should be accessible, and once you master it, you're good. I'll show you the code and then I'll tell you how it works. To the top of the file, above the text I'd written, I added:
@@ -91,33 +132,6 @@ permalink: /covid-19.html  (<--- if you don't put a permalink, the default link 
 
 For the automatic translation linking system (the link in the navigation between English and French content) to work properly, you just need to properly indicate in the "front matter" the ```lang:``` (```en``` or ```fr```) and make up a unique translation code (for instance, ```veryuniquecode```) and put it after ```trans: ``` like this: ```trans: veryuniquecode```. You can see above that I set one COVID page ```lang``` to ```fr``` and the other one to ```en``` and then I set both ```trans:``` to ```covid```. If you look on the website, a link will be created that will connect the two pages. If you have any doubts whether that code has already been used, then use something more unique or else look at the [site health page](https://mtl.summerhays.net/_pages/health.html), which lists all the current ```lang``` and ```trans``` codes in use for every single page and post.
 
-# How to create a new post
-To create a new post, create a file with filename ```_posts/YYYY-MM-DD-your-title.md```, that is, a file in the ```_posts``` directory. You need to include the correct "front matter" to a post, which is explained below. Once created, your new post will automatically appear in the "News" page with the post title and date extracted from the filename and the front matter. If you follow these instructions carefully, you should find this easy.
-
-I'll show the front matter for a post and then explain it. For instance, consider ```2019-09-04-intro-to-Quakers.md``` from the ```_posts``` directory. The ```.md``` at the end indicates a markdown file that will be translated into HTML. Note how the date is formatted ```YYYY-MM-DD```. The rest of the title doesn't do anything except remind you what the post is about, although don't use any underscores (```_```) in the title. Now let's look at the "front matter" (most of these fields are optional):
-```
---- 
-layout: post
-title: Introduction to Quakers Event
-description: Monthly Events Introducing Quakers
-tags: [introduction, learning]
-lang: en
-trans: intro2us
-author: clerk
----
-```
-Now let's look at that again with my comments:
-```
----       (<--- beginning of front matter)
-layout: post         (<--- this tells the system what type of layout to give this page)
-title: Introduction to Quakers Event      (<--- optional, this will be the title within the post)
-description: Monthly Events Introducing Quakers  (<--- optional, this will be a subtitle within the post)
-tags: [introduction, learning]  (<--- these are optional searchable post tags, people can search "learning" and find all the blog posts on our site announcing a learning event")
-lang: en      (<--- It's best to specify which language the post is in ("en" or "fr"). This tells the system what language the website header and footer should be in (aka "Assemblée de Montréal" rather than "Montreal Quaker Meeting", although the default is English), and it also helps the automated system that helps the user navigate to the French or English translation of every page and post in the website.)
-trans: intro2us     (<--- This is also super important for the automated system for finding translated pages. If this translation code matches another page or post that has the opposite language (en, fr), a link will automatically appear directing to the translation. If not, the link should not appear)
-author: clerk  (<--- optionally, the author can be indicated and this will appear)
----  (<--- This is required and just means that the front matter is ending)
-```
 # Changing colours, finding old drafts, and site alerts
 
 Otherwise, theme and site colors can be changed from ```_sass/colors.scss```  
