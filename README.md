@@ -34,7 +34,8 @@ In order to create a new post, follow these steps.
 2. Click on ```Create new file```
 3. Name the file, beginning with the date, in this format: ```YYYY-MM-DD-your-title.md```. For instance, you could name a post ```2020-05-24-hello-world.md```. 
 4. Copy and paste the front matter below. This front matter is explained in detail in this README, but all you need to do is copy and paste this:
-```--- 
+```
+--- 
 layout: post
 title: Introduction to Quakers Event
 description: Monthly Events Introducing Quakers
@@ -42,7 +43,8 @@ tags: [introduction, learning]
 lang: en
 trans: intro2us
 author: clerk
----```
+---
+```
 5. In the "front matter" (the text separated by three dashes ```---```)
   * Do NOT change the line that says ```layout: post```. For a post, the ```layout``` should always be ```post```. 
   * DO change:
