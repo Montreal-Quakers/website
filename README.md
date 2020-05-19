@@ -1,8 +1,8 @@
 - [About this website](#about-this-website)
 - [The short version](#the-short-version)
-- [Some basics](#some-basics)
 - [Where to find stuff](#where-to-find-stuff)
   * [Where to find more advanced stuff](#where-to-find-more-advanced-stuff)
+- [Some basics](#some-basics)
 - [For beginners](#for-beginners)
 - [How to create a new page](#how-to-create-a-new-page)
 - [Changing colours, finding old drafts, and site alerts](#changing-colours-finding-old-drafts-and-site-alerts)
@@ -20,18 +20,18 @@
 - [This site vs. Wordpress](#this-site-vs-wordpress)
 
 # About this website
-This GitHub hosts the Montreal Quaker meeting website using system that converts text into webpages. Like Wordpress, it shouldn't be too tricky to add pages and blog posts, or edit existing pages.
+This GitHub hosts the Montreal Quaker meeting website using a system that converts text into webpages. Like Wordpress, it shouldn't be too tricky to add pages and blog posts, or edit existing pages.
 
 # The short version
-The only thing people are likely to need to change regularly are blog posts. This section contains EVERYTHING you need to know to do so.
+The only thing people are likely to need to change regularly are blog posts. This section contains **everything** you need to know to do so.
 
-No need to memorize ANY of this information. Throughout this README, if you're planning to do a task, just look up the instructions one step at a time as you're doing the task.
+No need to memorize **any** of this information. Throughout this README, if you're planning to do a task, just look up the instructions one step at a time as you're doing the task.
 
-The blog posts are in the ```_posts``` folder. Existing posts are organized chronologically and end in ```.md```.
+The blog posts are in the ```_posts``` [folder](https://github.com/mtlquakers/website/tree/master/_posts). Existing posts are organized chronologically and end in ```.md```.
 
 In order to create a new post, follow these steps.
 1. Open the ```_posts``` folder. 
-2. Click on ```Create new file```
+2. Click on ```Create new file```.
 3. Name the file, beginning with the date, in this format: ```YYYY-MM-DD-your-title.md```. For instance, you could name a post ```2020-05-24-hello-world.md```. 
 4. Copy and paste the front matter below. This front matter is explained in detail in this README, but all you need to do is copy and paste this:
 ```
@@ -50,10 +50,11 @@ author: clerk
   * DO change:
      * The title (for instance to ```title: Hello World```)
      * Description (for instance to ```description: My first post```)
-     * Tags (for instance to ```tags: [announcements]```)
-     * The ```lang``` (which tells the system to display a page, in English (```lang: en```) or in French (```lang: fr```))
+     * Tags (for instance to ```tags: [announcements, testing]```)
+     * The ```lang``` -- this tells the system which language to display a page in, either in English (```lang: en```) or in French (```lang: fr```))
      * Author (to your name, for instance ```author: Shelly```)
-     * If you do not have a translated version of the post, you don't need a ```trans```. If you have a translated version of the post, choose a unique code for the ```trans``` (for instance, ```trans: helloworld```), and the website will automatically link between English and French pages that have the same ```trans``` code.  
+     * If you do not have a translated version of the post, you don't need to worry about the ```trans``` line. You can delete it or leave it blank or put in a random value. If you do have a translated version of the post, choose a unique code for the ```trans``` (for instance, ```trans: helloworld```), and the website will automatically link between English and French pages that have the same ```trans``` code.  
+        * If you're not 100% sure if your translation code (```trans```) is unique, you can search for it on this [page](https://mtl.summerhays.net/_pages/health.html).
 6. Write your blog post after the second three dashes (```---```) the way you would write an email. GitHub will translate this into HTML.
 
 The full sample blog post would look like this (```_posts/2020-05-24-hello-world.md```):
@@ -73,20 +74,40 @@ This is my first blog post.
 
 Once created, your new post will automatically appear in the "News" page with the post title and date extracted from the filename and the front matter.
 
-There are only four things you need to know about writing a blog post using this system: 
-  * To format a header, that is, to format large bold text at the top of paragraphs, put a few ```#``` symbols in front of your header like so: ```# About this website``` which will look like [this](#about-this-website)
+There are only four things you need to know about writing a blog post using this system. Usually you just write normal text: 
+  * To format a header, that is, to format large bold text at the top of paragraphs, put a few ```#``` symbols in front of your header like so: ```# About this website``` which will look like [this](#about-this-website). Less hashtags (```#```) makes for a bigger header, and more hashtags (```######```) makes for a smaller header.
   * _Format_ **text** ~~like~~ _this_ ```_Format_ **text** ~~like~~ _this_```. _Italics_, **bold**, ~~strikethrough~~, ```_Italics_, **bold**, ~~strikethrough~~```.
   * Links like so: ```[your text describing Google](https://google.ca)```, which will look like this: [your text describing Google](https://google.ca). Description in brackets (```[description]```), link in parentheses (```(example.com)```)
-  * Images like so: ```![](/assets/images/yourimage.png)```. Same format as links except with an exclamation mark (```!```) at the beginning. See the codepen above.
+  * Images like so: ```![](/assets/images/yourimage.png)```. Same format as links except with an exclamation mark (```!```) at the beginning. See the codepen below for examples.
 Most of the pages and posts on this website are just plain text, just like Wordpress.
 
 So you could make that sample post above a bit more fancy by adding a bit of formatting: 
 ```
+---
+layout: post
+title: Hello World!
+description: My first post
+tags: [announcements, testing]
+lang: en
+trans: hello-world
+author: Shelly
+---
 # Hello world!
 This is my _first_ blog post.
 
 Go back to the [home](/index.html) page.
 ```
+# Where to find stuff
+The only files in the home directory that one will need to change are ```index.md``` (the English homepage), ```index-fr.md``` (the French homepage), and maybe ```404.md``` (the page showed if there is no matching page, for instance [this](https://mtl.summerhays.net/doesntexist.html)).
+
+All the major pages, except for the index, are in the ```_pages``` directory. Posts (blog updates, found in the "news" part of the website) can be found in ```_posts```. See advanced tasks at the end of this README that explains, for instance, how to alter the site navigation (the links at the top of the page). It should be advanced but not too advanced.
+
+This site is designed so that it's fairly easy to change text as needed. Minor modifications can be easily made to ```index.md``` or ```index-fr.md``` or to any of the ```.md``` (Markdown) files in ```_pages``` or ```_posts``` without any specialized knowledge, because this site uses a simplified markdown language to translate normal text into website readable HTML.
+
+## Where to find more advanced stuff
+A bunch of instructions for more advanced changes to the website appear near the end of this README. 
+
+Just to give an idea of the basic structure, navigation (all the links at the top of the page) is in ```_includes/datanavigation.html``` but it shouldn't be necessary to touch that. The rest of the most advanced building blocks of this website are in ```_layouts``` and ```_includes```, whereas all the simple, changeable stuff are in .md files in ```_pages```, ```_posts```, or (slightly more advanced) in ```_data/navigation.yml```. Note that some things, especially in the ```_layout``` and ```_includes``` folders, are complicated in order to allow as much as possible to be done in easy markdown files.
 
 # Some basics
 Some basics about how this website works:
@@ -103,24 +124,12 @@ Some basics about how this website works:
 * If you're feeling very ambitious, you can also create a GitHub account, [fork this repository](https://help.github.com/en/github/getting-started-with-github/fork-a-repo), and change anything you want. Or the administrator can create draft "[branches](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository)" of the website and test out how they look. Good luck doing that on WordPress.
 * Finally, note this [site health page](https://mtl.summerhays.net/_pages/health.html), which will help detect problems with the automated translation system. More details appear on that page. You may also test to make sure [this blank page](https://mtl.summerhays.net/blank.html) is looking normal.
 
-# Where to find stuff
-The only files in the home directory that one will need to change are ```index.md``` (the English homepage), ```index-fr.md``` (the French homepage), and maybe ```404.md``` (the page showed if there is no matching page, for instance [this](https://mtl.summerhays.net/doesntexist.html)).
-
-All the major pages, except for the index, are in the ```_pages``` directory. Posts (blog updates, found in the "news" part of the website) can be found in ```_posts```. See advanced tasks at the end of this README that explains, for instance, how to alter the site navigation (the links at the top of the page). It should be advanced but not too advanced.
-
-This site is designed so that it's fairly easy to change text as needed. Minor modifications can be easily made to ```index.md``` or ```index-fr.md``` or to any of the ```.md``` (Markdown) files in ```_pages``` or ```_posts``` without any specialized knowledge, because this site uses a simplified markdown language to translate normal text into website readable HTML.
-
-## Where to find more advanced stuff
-A bunch of instructions for more advanced changes to the website appear near the end of this README. 
-
-Just to give an idea of the basic structure, navigation (all the links at the top of the page) is in ```_includes/datanavigation.html``` but it shouldn't be necessary to touch that. The rest of the most advanced building blocks of this website are in ```_layouts``` and ```_includes```, whereas all the simple, changeable stuff are in .md files in ```_pages```, ```_posts```, or (slightly more advanced) in ```_data/navigation.yml```. Note that some things, especially in the ```_layout``` and ```_includes``` folders, are complicated in order to allow as much as possible to be done in easy markdown files.
-
-Now let's get into how to do stuff.
-
 # For beginners
-Next, no HTML is needed to make basic changes to the site, but it's good to know one thing: HTML works by putting "tags" around text to tell your browser how to render the text. Tags in HTML begin and end with these greater-than, lesser-than symbols ```<>```. For instance, text with ```<b>bold</b>``` around it will appear, well, <b>bold</b>. So a ```<b>``` means that the bold is beginning and a ```</b>``` with a slash before it means that that the bold is ending. You don't need to code in HTML to make changes, you just need to not feel intimidated by the bits of code that are on various pages. There is no need to change HTML; it's enough to avoid changing it by knowing how the tags work. Some pages also contain a language called Liquid; again, no knowledge of Liquid is required. It's enough to know that liquid begins and ends tags with either ```{{ }}``` or ```{% %}```.
+No HTML is needed to make basic changes to the site, but it's good to know one thing: HTML works by putting "tags" around text to tell your browser how to render the text. Tags in HTML begin and end with these greater-than, lesser-than symbols ```<>```. For instance, text with ```<b>bold</b>``` around it will appear, well, <b>bold</b>. So a ```<b>``` means that the bold is beginning and a ```</b>``` with a slash before it means that that the bold is ending. You don't need to code in HTML to make changes, you just need to not feel intimidated by the bits of code that are on various pages. There is no need to change HTML; it's enough to avoid changing it by knowing how the tags work. Some pages also contain a language called Liquid; again, no knowledge of Liquid is required. It's enough to know that liquid begins and ends tags with either ```{{ }}``` or ```{% %}```.
 
-Next, a beginner can make changes to the sandbox markdown file in ```_pages/sandbox.md```, and then load the sandbox page in their browser to see what has happened. When making changes in Github, remember that it saves everything you do. You can always go back and restore the previous version. Moreover, you'll see that as you try to save changes to a Github file, it asks you if you want to label changes you're making. If you're unsure, label them as ```unsure``` or something and you will be able to search for them later. But if you practice making changes in the codepen and then in the sandbox page, and things are looking good, most likely everything will be fine once pushed to the website. Perhaps it will take a couple of tries, but if you check your work, everything will be ok.
+Next, a beginner can make changes to the sandbox markdown file in ```_pages/sandbox.md```, and then load the sandbox page in their browser to see what has happened. When making changes in Github, remember that it saves everything you do. You can always go back and restore the previous version. 
+
+Moreover, you'll see that as you try to save changes to a Github file, it asks you if you want to label changes you're making. If you're unsure, label them as ```unsure``` or something and you will be able to search for them later. But if you practice making changes in the codepen and then in the sandbox page, and things are looking good, most likely everything will be fine once pushed to the website. Perhaps it will take a couple of tries, but if you check your work, everything will be ok.
 
 # How to create a new page
 Create a new ```.md``` file in ```_pages```, write your content, and insert the "front matter" as explained here. For instance, for the COVID outbreak, I needed to create ```covid-19.md``` and ```covid-19-fr.md``` (feel free to open these files as you read along). I created a new file at  ```_pages/covid-19.md``` and then I wrote some text. Then I made a translated version here ```_pages/covid-19-fr.md```. Finally, in both files I set the "front matter". This is the most advanced part, but it should be accessible, and once you master it, you're good. I'll show you the code and then I'll tell you how it works. To the top of the file, above the text I'd written, I added:
@@ -146,10 +155,10 @@ permalink: /covid-19-fr.html
 Here's what all this means:
 ```
 --- (<--- this is required, it just means that the "front matter", a bit of code that instructs how to build the page, is beginning)
-layout: default (<--- this just indicates how to layout the page. You should probably just put default)
+layout: default (<--- For pages, always put default)
 title: COVID-19 Updates (<--- This is a title that will appear at the top and isn't required)
 description: (<--- this would be a subtitle at the top of the page and is not required either)
-lang: en   (<--- This tells the system which language you're writing in so the correct headers and footers appear on the page)
+lang: en   (<--- This tells the system which language you're writing in, ```en``` for English and ```fr``` for French, so the correct headers and footers appear on the page)
 trans: covid   (<--- This a codeword that helps the system find a translation for this page, if one exists. If you didn't translate the page, don't bother with this.)
 permalink: /covid-19.html  (<--- if you don't put a permalink, the default link will be _pages/covid-19.html)
 ---  (<--- This is required and just means that the front matter is ending)
