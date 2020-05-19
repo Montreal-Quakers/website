@@ -16,7 +16,7 @@ permalink: /intro.html
   * No national organization makes decisions for Montreal Quakers
 
 #### <i class="fas fa-road fa-lg fa-fw fa-2x color-1-dark-text down_a_bit"></i> Open-ended quest: Quakers don't tell people [what to believe](/testimonies.html) 
-  * Of Christian roots, today the Quaker tree has many branches, from Christian to non-theist 
+  * Of Christian roots, the Quaker tree has many branches today, from Christian to non-theist 
   * We love Quaker authors but have no holy book, no articles of faith or creed
   * We seek loving, meaningful lives using any means that speak to us
 
