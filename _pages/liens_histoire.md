@@ -10,7 +10,7 @@ permalink: /liens_histoire.html
 #### Sur les Quakers (en français)
 
 * [Un cours en ligne sur les Quakers](http://moodle.woodbrooke.org.uk/course/view.php?id=60#section-0){: target="_blank"}
-* [Un résumé du quakerisme en français](http://quaker.chez-alice.fr/){: target="_blank"}
+* [Un résumé du Quakerisme en français](http://quaker.chez-alice.fr/){: target="_blank"}
 * [Glossaire Quaker anglais-français](http://www.simongrant.org/quaker/gloss/enfr.html){: target="_blank"}
 
 #### Pour participer à la discussion et poser vos questions
@@ -23,10 +23,10 @@ permalink: /liens_histoire.html
 
 #### Pour promouvoir nos valeurs
 * [Réseau œcuménique justice et paix](http://www.justicepaix.org){: target="_blank"}
-* [Canadian Friends Service Committee](quakerservice.ca){: target="_blank"}: (en anglais) Les quakers au Canada travaillent pour la paix, la justice pour les peuples autochtones, et afin de réformer le système judiciaire.
+* [Canadian Friends Service Committee](quakerservice.ca){: target="_blank"}: (en anglais) Les Quakers au Canada travaillent pour la paix, la justice pour les peuples autochtones, et afin de réformer le système judiciaire.
 * [Quaker United Nations Office](https://quno.org/) (en anglais), travaille à New York et à Genève sur la paix, le changement climatique, les réfugiés, et une économie plus juste.
 
-### Histoire
+### Histoire des Quakers à Montréal
 
 [Petit à petit, l’oiseau fait son nid Par Chantal Fournier](/assets/PDF/MM-History-CF.V100.05.15.pdf){: target="_blank"}
 
