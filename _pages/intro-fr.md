@@ -1,5 +1,5 @@
 ---
-title: Introduction des Quakers
+title: Introduction aux Quakers
 layout: default
 lang: fr
 trans: intro
