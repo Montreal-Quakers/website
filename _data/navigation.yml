@@ -46,7 +46,7 @@ fr:
   submenu:
     - subtitle: Déroulement
       sublink: /a_propos.html
-    - subtitle: Présentation des Quakers
+    - subtitle: Introduction aux Quakers
       sublink: /intro-fr.html
     - subtitle: Nos valeurs (les témoignages)
       sublink: /témoignages.html
