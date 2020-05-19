@@ -65,13 +65,13 @@
 	<div class="media" id="media">
 		{% if page.trans == each.page_trans %}{% include {{ each.media }} %}{% if each.media2 %}{% include {{ each.media2 }} %}{% endif %}{% endif %}
 	</div>
-       <br>
        {% endif %}
        {% endfor %}
        <!-- Return to top button -->
        <button title="Return to top of page" onclick="topFunction()" id="myBtn" class="w3-card-4 w3-circle" title="{% if page.lang == "fr" %}Retour en haut{% else %}Go to top{% endif %}"><i class="fas fa-arrow-circle-up"></i></button>
 </article>
    </main>
+   <br />&nbsp; 
    <footer class="footer">
 	   <!-- for some reason can't include a markdown file as HTML, so the code below translates the markdown into HTML before including. Also note that there is some special footer-header styling in the stylesheet -->
 	   {% if page.lang =="fr" %}{% capture bas-de-page %} {% include bas-de-page.md %}{% endcapture %}{{ bas-de-page | markdownify }}{% else %}{% capture footer %} {% include footer.md %}{% endcapture %}{{ footer | markdownify }}{% endif %}
