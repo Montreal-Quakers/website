@@ -61,7 +61,7 @@ layout: default
     <a href="{{ next.url }}" class="next" title="{{ next.title }}">&lt; Précédant</a>
     {% endif %}
     {% if prev and next %}
-      <span> | </span>
+      <span>&nbsp; | &nbsp;</span>
     {% if prev %}
       <a href="{{ prev.url }}" class="prev" title="{{ prev.title }}">Suivant &gt;</a>
     {% endif %}
@@ -111,7 +111,7 @@ layout: default
     <a href="{{ next.url }}" class="next" title="{{ next.title }}">&lt; Older</a>
     {% endif %}
     {% if prev and next %}
-      <span> | </span>
+      <span>&nbsp; | &nbsp;</span>
     {% if prev %}
       <a href="{{ prev.url }}" class="prev" title="{{ prev.title }}">Newer &gt;</a>
     {% endif %}
