@@ -236,6 +236,7 @@
   background-color: inherit;
   font-family: inherit;
   margin: 0;
+  cursor: default;
 }
 
 .navbar a:hover, .dropbtn {
@@ -360,6 +361,7 @@
     display: block; 
     width: 100%;
     text-align: left;
+    cursor: pointer;
   }
   .navbar.responsive input[type=text], .navbar.responsive .search-container, .navbar.responsive #response, .navbar.responsive #narrowhome {
     float: none;
