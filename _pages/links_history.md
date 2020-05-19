@@ -21,11 +21,11 @@ permalink: /links_history.html
 * [About business meeting](https://quakerscotland.org/quaker-business-meetings){: target="_blank"}
 
 ### Quaker organizations & Quaker work
+* [Canadian Friends Service Committee](quakerservice.ca){: target="_blank"}: Quakers in Canada actively working on peace, indigenous issues, and the criminal justice system.
+* [Quaker United Nations Office](https://quno.org/), working in New York City and Geneva on peacebuilding, climate change, refugees, and a just economy.
 * [Canadian Yearly Meeting](https://www.quaker.ca){: target="_blank"}, the national organization of the Canadian Quakers (of which we are a part), and their [Organization and Procedure](https://quaker.ca/resources/organization-and-procedure/){: target="_blank"} 
 * [The Canadian Friend](https://quaker.ca/resources/the-canadian-friend/){: target="_blank"} - the magazine of Canadian Yearly Meeting, available online. 
 * [Canadian Young Friends Yearly Meeting](http://yf.quaker.ca){: target="_blank"}, focused on Young Friends (13-18) and Young Adult Friends (18-35). 
-* [Canadian Friends Service Committee](quakerservice.ca){: target="_blank"}: Quakers in Canada actively working on peace, indigenous issues, and the criminal justice system.
-* [Quaker United Nations Office](https://quno.org/), working in New York City and Geneva on peacebuilding, climate change, refugees, and a just economy.
 * [Quaker Earthcare Witness](https://www.quakerearthcare.org/){: target="_blank"} ([video](https://www.youtube.com/watch?v=5GBZUEeX1M0){: target="_blank"})
 
 ### History of the meeting
