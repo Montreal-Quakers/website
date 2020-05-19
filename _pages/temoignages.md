@@ -7,7 +7,7 @@ permalink: /témoignages.html
 ---
 Depuis d'innombrables générations, notre contact avec l'Esprit nous rappelle ces six valeurs:
 
-<i class="fab fa-creative-commons-nd fa-fw fa-2x color-1-dark-text down_a_bit_more"></i> &nbsp;<u>É</u>galité. Nous sommes tous fait de la même étoile.
+<i class="fab fa-creative-commons-nd fa-fw fa-2x color-1-dark-text down_a_bit_more"></i> &nbsp;<u>É</u>galité. Nous sommes toutes et tous également créé.e.s.
 
 <i class="fas fa-dove fa-fw fa-2x color-1-light-text down_a_bit_more"></i> &nbsp;<u>P</u>aix. Les Quakers ont une longue histoire d'implication en faveur de la paix. 
 
@@ -17,7 +17,7 @@ Depuis d'innombrables générations, notre contact avec l'Esprit nous rappelle c
 
 <i class="fab fa-pagelines fa-fw fa-2x down_a_bit_more" style="color: darkgreen;"></i>  &nbsp;<u>É</u>co-responsabilité. Le respect et la gratitude pour tout ce qui nous est donné.
 
-<i class="far fa-circle fa-fw fa-2x color-1-text down_a_bit_more"></i> &nbsp;<u>S</u>implicité. Vivre simplement aide à nous concentrer sur ce qui est important dans la vie.
+<i class="far fa-circle fa-fw fa-2x color-1-text down_a_bit_more"></i> &nbsp;<u>S</u>implicité. Nous concentrer sur ce qui est important dans la vie.
 <br>
 
 Ces valeurs ne sont pas des règles à imposer; elles doivent émerger de notre contact avec l'Esprit.
