@@ -6,9 +6,9 @@ trans: index
  
 ### [About Quakers](/intro.html)
 
-Quakers are a community of seekers of diverse beliefs. We seek to meaningful life, an accepting community, and doing good in the world. Quakers cherish humanity, speaking of an Inner Light or “that of God” in every human being. Promptings of love are the source of our commitment to human rights, prison abolition, sustainability and peace, our [Quaker values](/intro.html).
+Quakers are a community of seekers of diverse beliefs. We seek meaningful life, an accepting community, and doing good in the world. Quakers cherish humanity, speaking of an Inner Light or “that of God” in every human being. Promptings of love are the source of our commitment to human rights, prison abolition, sustainability and peace, our [Quaker values](/intro.html).
 
-We are an [active and affirming](/intro.html) community [![Rainbow flag](/assets/images/Rainbow-Flag.jpg){: height="22"}](/intro.html) All are welcome.
+We are an [active and affirming](/intro.html) community &nbsp;[![Rainbow flag](/assets/images/Rainbow-Flag.jpg){: height="22"}](/intro.html) &nbsp;All are welcome.
 
 <br>
 ### [Quaker practice](/about.html)

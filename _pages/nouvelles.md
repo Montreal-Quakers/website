@@ -1,5 +1,5 @@
 ---
-title: <i class="far fa-newspaper"></i> &nbsp;Nouvelles &nbsp;<i class="fas fa-bullhorn"></i>
+title: <i class="far fa-newspaper"></i> &nbsp;Nouvelles
 lang: fr
 trans: news
 ---

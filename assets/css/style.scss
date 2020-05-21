@@ -312,7 +312,6 @@ input:checked + .slider:before {
    flex: 0 1 $text-width; /* don't grow, can shrink, and starts at $text-width */
    padding: 0 66px 0;
    font-family: $font-sans; 
-   font-weight: lighter;
    font-size:1em;
    text-align:left;
    background-color: $body-color;
