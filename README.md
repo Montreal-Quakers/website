@@ -23,7 +23,7 @@
 This GitHub hosts the Montreal Quaker meeting website using a system that converts text into webpages. Like Wordpress, it shouldn't be too tricky to add pages and blog posts, or edit existing pages.
 
 # The short version
-The only thing people are likely to need to change regularly are blog posts. This section contains **everything** you need to know to do so.
+The only thing people are likely to need to change regularly are blog posts. This section contains everything you need to know to do so.
 
 No need to memorize **any** of this information. Throughout this README, if you're planning to do a task, just look up the instructions one step at a time as you're doing the task.
 
@@ -45,11 +45,11 @@ author: clerk
 ---
 ```
 5. In the "front matter" (the text separated by three dashes ```---```)
-  * DO change:
+  * Change:
      * The title (for instance to ```title: Hello World```)
-     * Description (for instance to ```description: My first post```)
+     * Description (for instance to ```description: My first post```, or leave it blank)
      * Tags (for instance to ```tags: [announcements, testing]```)
-     * The ```lang``` -- this tells the system which language to display a page in, either in English (```lang: en```) or in French (```lang: fr```))
+     * The ```lang``` -- this tells the system which language to display a page in, either in English (```lang: en```) or in French (```lang: fr```). Default is English so you can leave this blank)
      * Author (to your name, for instance ```author: Shelly```)
      * If you do not have a translated version of the post, you don't need to worry about the ```trans``` line. You can delete it or leave it blank or put in a random value. If you do have a translated version of the post, choose a unique code for the ```trans``` (for instance, ```trans: helloworld```), and the website will automatically link between English and French pages that have the same ```trans``` code.  
         * If you're not 100% sure if your translation code (```trans```) is unique, you can search for it on this [page](https://mtl.summerhays.net/_pages/health.html).
@@ -128,13 +128,14 @@ Next, a beginner can make changes to the sandbox markdown file in ```_pages/sand
 Moreover, you'll see that as you try to save changes to a Github file, it asks you if you want to label changes you're making. If you're unsure, label them as ```unsure``` or something and you will be able to search for them later. But if you practice making changes in the codepen and then in the sandbox page, and things are looking good, most likely everything will be fine once pushed to the website. Perhaps it will take a couple of tries, but if you check your work, everything will be ok.
 
 # How to create a new page
-Create a new ```.md``` file in ```_pages```, write your content, and insert the "front matter" as explained here. For instance, for the COVID outbreak, I needed to create ```covid-19.md``` and ```covid-19-fr.md``` (feel free to open these files as you read along). I created a new file at  ```_pages/covid-19.md``` and then I wrote some text. Then I made a translated version here ```_pages/covid-19-fr.md```. Finally, in both files I set the "front matter". This is the most advanced part, but it should be accessible, and once you master it, you're good. I'll show you the code and then I'll tell you how it works. To the top of the file, above the text I'd written, I added:
+Create a new ```.md``` file in the ```_pages``` directory, write your content, and insert the "front matter" as explained here. For instance, for the COVID outbreak, I needed to create ```covid-19.md``` and ```covid-19-fr.md``` (feel free to open these files as you read along). I created a new file at  ```_pages/covid-19.md``` and then I wrote some text. Then I made a translated version here ```_pages/covid-19-fr.md```. Finally, in both files I set the "front matter". This is the most advanced part, but it should be accessible, and once you master it, you're good. I'll show you the code and then I'll tell you how it works. To the top of the file, above the text I'd written, I added:
 ```
 ---
 title: COVID-19 Updates
 lang: en
 trans: covid
 ---
+As a COVID-19 prevention measure, the Sunday Quaker meeting, the Quebec City group, and the Wednesday midweek meeting will meet online until at least June 1st, 2020.
 ```
 For the French translation (```covid-19-fr.md```) I added
 ```
@@ -143,6 +144,7 @@ title: Mises à jour COVID-19
 lang: fr
 trans: covid
 ---
+Comme mesure préventive contre la COVID-19, les assemblées Quaker de dimanche, de Québec, et de mi-semaine seront en ligne au moins jusqu’au 1er juin 2020.
 ```
 Here's what all this means:
 ```
