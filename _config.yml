@@ -124,7 +124,7 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-      permalink: ":basename"
+      permalink: "/:basename"
   - scope:
       path: "_posts" # an empty string here means all files in the project
       type: "posts"
