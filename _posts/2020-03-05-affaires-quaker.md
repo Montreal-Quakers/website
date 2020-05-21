@@ -1,5 +1,4 @@
 ---
-layout: post
 title: L'assemblée Quaker pour les affaires
 tags: [introduction, learning]
 lang: fr

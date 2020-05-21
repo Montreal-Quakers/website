@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Geoff presenting the Quaker Institute for the Future
 lang: en
 author: clerk

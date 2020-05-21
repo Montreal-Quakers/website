@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Meeting online
 lang: en
 trans: zoom_enligne

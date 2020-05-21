@@ -1,5 +1,4 @@
 ---
-layout: post
 title: L'histoire Quaker en jeu de rôle
 tags: [introduction, learning]
 lang: fr

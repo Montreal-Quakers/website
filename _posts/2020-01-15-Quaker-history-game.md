@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Quaker history role-play
 tags: [introduction, learning]
 lang: en

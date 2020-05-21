@@ -36,7 +36,6 @@ In order to create a new post, follow these steps.
 4. Copy and paste the front matter below. This front matter is explained in detail in this README, but all you need to do is copy and paste this:
 ```
 --- 
-layout: post
 title: Introduction to Quakers Event
 description: Monthly Events Introducing Quakers
 tags: [introduction, learning]
@@ -46,7 +45,6 @@ author: clerk
 ---
 ```
 5. In the "front matter" (the text separated by three dashes ```---```)
-  * Do NOT change the line that says ```layout: post```. For a post, the ```layout``` should always be ```post```. 
   * DO change:
      * The title (for instance to ```title: Hello World```)
      * Description (for instance to ```description: My first post```)
@@ -60,7 +58,6 @@ author: clerk
 The full sample blog post would look like this (```_posts/2020-05-24-hello-world.md```):
 ```
 ---
-layout: post
 title: Hello World!
 description: My first post
 tags: [announcements, testing]
@@ -84,7 +81,6 @@ Most of the pages and posts on this website are just plain text, just like Wordp
 So you could make that sample post above a bit more fancy by adding a bit of formatting: 
 ```
 ---
-layout: post
 title: Hello World!
 description: My first post
 tags: [announcements, testing]
@@ -135,32 +131,26 @@ Moreover, you'll see that as you try to save changes to a Github file, it asks y
 Create a new ```.md``` file in ```_pages```, write your content, and insert the "front matter" as explained here. For instance, for the COVID outbreak, I needed to create ```covid-19.md``` and ```covid-19-fr.md``` (feel free to open these files as you read along). I created a new file at  ```_pages/covid-19.md``` and then I wrote some text. Then I made a translated version here ```_pages/covid-19-fr.md```. Finally, in both files I set the "front matter". This is the most advanced part, but it should be accessible, and once you master it, you're good. I'll show you the code and then I'll tell you how it works. To the top of the file, above the text I'd written, I added:
 ```
 ---
-layout: default
 title: COVID-19 Updates
 lang: en
 trans: covid
-permalink: /covid-19.html
 ---
 ```
 For the French translation (```covid-19-fr.md```) I added
 ```
 ---
-layout: default
 title: Mises à jour COVID-19
 lang: fr
 trans: covid
-permalink: /covid-19-fr.html
 ---
 ```
 Here's what all this means:
 ```
 --- (<--- this is required, it just means that the "front matter", a bit of code that instructs how to build the page, is beginning)
-layout: default (<--- For pages, always put default)
 title: COVID-19 Updates (<--- This is a title that will appear at the top and isn't required)
 description: (<--- this would be a subtitle at the top of the page and is not required either)
 lang: en   (<--- This tells the system which language you're writing in, ```en``` for English and ```fr``` for French, so the correct headers and footers appear on the page)
 trans: covid   (<--- This a codeword that helps the system find a translation for this page, if one exists. If you didn't translate the page, don't bother with this.)
-permalink: /covid-19.html  (<--- if you don't put a permalink, the default link will be _pages/covid-19.html)
 ---  (<--- This is required and just means that the front matter is ending)
 ```
 

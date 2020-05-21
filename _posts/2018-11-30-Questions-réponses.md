@@ -1,5 +1,4 @@
 ---
-layout: post
 author: secrétaire
 title: Quaker questions-réponses
 description: Questions-Réponses avec un membre de longue date

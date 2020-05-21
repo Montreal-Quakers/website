@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Le jeu des limites
 tags: [introduction, learning]
 lang: fr

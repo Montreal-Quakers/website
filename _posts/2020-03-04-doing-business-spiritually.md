@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The how-to of Quaker business meeting
 tags: [introduction, learning]
 lang: en

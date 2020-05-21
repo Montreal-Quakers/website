@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Introduction aux Quakers
 description: Monthly Events Introducing Quakers
 tags: [introduction, learning]

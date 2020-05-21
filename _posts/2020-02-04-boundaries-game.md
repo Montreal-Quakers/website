@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Come play the Boundaries Game
 tags: [introduction, learning]
 lang: en

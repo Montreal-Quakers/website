@@ -1,5 +1,4 @@
 ---
-layout: post
 lang: en
 title: Picnic is ON!
 author: clerk

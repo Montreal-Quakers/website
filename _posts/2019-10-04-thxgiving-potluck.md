@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Thanksgiving potluck
 tags: [party]
 lang: en
