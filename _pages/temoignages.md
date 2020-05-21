@@ -1,6 +1,5 @@
 ---
-title: Nos témoignages (les ÉPICES)
-layout: default
+title: Les témoignages Quaker (les ÉPICES)
 lang: fr
 trans: testimonies
 permalink: /témoignages.html
@@ -29,4 +28,6 @@ Ces valeurs ne sont pas des règles à imposer; elles doivent émerger de notre 
   
 ![](/assets/images/Rainbow-Flag.jpg){: img_left height="25"} &nbsp;Notre communauté est ouverte à toutes et à tous.
 
-Si ces valeurs vous parlent, voici comment en apprendre plus sur [comment fonctionne](a_propos.html) une assemblée Quaker ou bien [en apprendre plus](liens_histoire.html) sur plusieurs autres sujets, dont le travail des Quakers au Canada.
+En apprendre plus sur [comment fonctionne](a_propos.html) une assemblée Quaker.
+
+Ou bien [en apprendre plus](liens_histoire.html) sur plusieurs autres sujets, dont le travail des Quakers au Canada.

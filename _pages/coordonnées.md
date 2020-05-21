@@ -1,9 +1,7 @@
 ---
-layout: default
 title: L'assemblée de dimanche
 lang: fr
 trans: directions
-permalink: /coordonnées.html
 ---
 ![Quakers pour la paix](assets/images/mtl_homepage3.jpg){: class="img_center100"}
 

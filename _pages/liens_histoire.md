@@ -1,9 +1,7 @@
 ---
-layout: default
 title: Liens et l'histoire des Quakers
 lang: fr
 trans: links_history
-permalink: /liens_histoire.html
 ---
 ![Des bancs dans la lumière](assets/images/benches2-243x300.gif){:class="img_center"}
 

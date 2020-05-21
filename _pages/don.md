@@ -1,9 +1,7 @@
 ---
-layout: default
 title: Faire un don
 lang: fr
 trans: contribution
-permalink: /don.html
 ---
 Nous sommes un organisme 100% bénévole et vos dons soutiennent nos activités. Nous ne faisons aucune collecte pendant les assemblées Quaker; nous encourageons nos membres à faire un don par un de ces trois moyens: 
 * [CanaDon](https://www.canadahelps.org/fr/organismesdebienfaisance/religious-society-of-friends-quakers-montreal-monthly-meet/){: target="_blank"}, par le lien ou le formulaire ci-dessous.

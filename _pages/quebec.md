@@ -1,8 +1,6 @@
 ---
-layout: default
 lang: fr
 trans: quebec
-permalink: /quebec.html
 ---
 ![Logo](/assets/images/quebec.jpg){: .img_center100}
 

@@ -1,9 +1,7 @@
 ---
-layout: default
 title: Your first Quaker meeting in six steps
 lang: en
 trans: about
-permalink: /about.html
 ---
 1. ![](/assets/images/no-tie_color.png){: img_left height="40" class="down_a_bit_more"} [You're welcome as you are. Dress comfortably (ties are fine too)](#notie){: id="linkoff"}
   

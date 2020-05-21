@@ -15,6 +15,6 @@ $mob-pixels: 1313px; //763px;
 /// Don't forget to update the pixel width in assets/js/navigation.js. If these values are different, some coloration will be weird.
 $nav-font-size: 1em;
 $font-mono: "Courier New", Courier, monospace; 
-$font-sans: "Source Sans Pro", Helvetica, Arial, sans-serif;
-$font-serif: "Oswald", Georgia, serif;
+$font-sans: Helvetica, Arial, sans-serif; // "Source Sans Pro",
+$font-serif: Georgia, serif; // "IM Fell English", "Oswald",
 $text-width: 50em; //Sets the widge of the text on the page Try 35em; later. Was 650px;

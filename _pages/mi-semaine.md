@@ -1,9 +1,7 @@
 ---
-layout: default
 title: Groupe de mi-semaine
 lang: fr
 trans: midweek
-permalink: /mi-semaine.html
 ---
 ![Livres](/assets/images/Ryan-library_books.jpg){: .img_center75}
 

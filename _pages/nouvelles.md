@@ -1,9 +1,7 @@
 ---
-layout: default
 title: <i class="far fa-newspaper"></i> &nbsp;Nouvelles &nbsp;<i class="fas fa-bullhorn"></i>
 lang: fr
 trans: news
-permalink: /nouvelles.html
 ---
 Nous avisons notre communauté des événements du mois d'habitude par une liste d'envoi, disponible pour ceux et celles qui s'y inscrivent à une de nos assemblées. Si quelqu'un aimerait s'ajouter à cette liste, il suffit de nous [contacter](contact-fr.html). Cette page, comme la page Facebook, annonce des événements majeurs tenus par l'Assemblée Quaker de Montréal.
 

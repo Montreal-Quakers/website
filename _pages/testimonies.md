@@ -1,9 +1,7 @@
 ---
-title: Our Testimonies (the SPICES)
-layout: default
+title: Quaker Testimonies (the SPICES)
 lang: en
 trans: testimonies
-permalink: /testimonies.html
 ---
 Over countless generations, our encounter with Spirit has led us over and over to these six core values:
 

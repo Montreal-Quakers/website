@@ -1,9 +1,7 @@
 ---
-layout: default
 title: Midweek Meeting
 lang: en
 trans: midweek
-permalink: /midweek.html
 ---
 ![Library books](/assets/images/Ryan-library_books.jpg){: .img_center75}
 

@@ -1,9 +1,7 @@
 ---
-layout: default
 title: COVID-19 Updates
 lang: en
 trans: covid
-permalink: /covid-19.html
 ---
 <i class="fas fa-head-side-mask fa-6x color-1-light-text fa-flip-horizontal"></i>{: .img_center}
 

@@ -1,9 +1,7 @@
 ---
-layout: default
 title: Links and History
 lang: en
 trans: links_history
-permalink: /links_history.html
 ---
 ![Benches with light](assets/images/benches2-243x300.gif){:class="img_center"}
 ### For newcomers, about Quakers

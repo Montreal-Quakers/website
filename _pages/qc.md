@@ -1,9 +1,7 @@
 ---
-layout: default
 title: Quebec City Worship Group
 lang: en
 trans: quebec
-permalink: /qc.html
 ---
 ![Circle of chairs](/assets/images/quebec_wg.jpg){: .img_center75}
 

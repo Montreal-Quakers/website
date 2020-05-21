@@ -7,6 +7,8 @@ email:
 address: 1090 Greene Ave., Westmount
 adresse: 1090 ave. Greene, Westmount
 phone: (514) 307-0820
+# myurl: mtl.summerhays.net
+myurl: localhost:4000
 
 # Certain types of media can be assigned to specific pages using this list. Everything in "media" is in the _include folder.
 
@@ -117,3 +119,10 @@ defaults:
       path: "assets/PDF"
     values:
       PDF: true
+  - scope:
+      path: "_pages" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+      permalink: ":basename"
+

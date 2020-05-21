@@ -1,9 +1,9 @@
 ---
-layout: default
 title: Site translation health
 description: This page helps show the health of translations on the website
 lang: en
 exclude_from_search: true
+permalink: /_pages/health.html
 ---
 What the script on this page does is print out all of the pages and posts on the website, their language indicated (some will be blank) and their translation code. If a code appears three times, that could be the problem!
 

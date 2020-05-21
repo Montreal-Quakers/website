@@ -1,9 +1,7 @@
 ---
-layout: default
 title: Sunday Meeting
 lang: en
 trans: directions
-permalink: /directions.html
 ---
 ![Quaker banner](assets/images/mtl_homepage3.jpg){: class="img_center100"}
 
