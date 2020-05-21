@@ -18,20 +18,21 @@
 @font-face {
   font-family: "Playfair Display";
   src: url(/assets/google_fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf);
+  font-display: swap;
 }
-
-
 
 @font-face {
   font-family: "Source Sans Pro";
   src: url(/assets/google_fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf);
   font-weight: normal;
+  font-display: swap;
 }
 
 @font-face {
   font-family: "Source Sans Pro";
   src: url(/assets/google_fonts/Source_Sans_Pro/SourceSansPro-Bold.ttf);
   font-weight: bold;
+  font-display: swap;
 }
 
 // @font-face {
@@ -45,4 +46,5 @@
   font-family: "Source Sans Pro";
   src: url(/assets/google_fonts/Source_Sans_Pro/SourceSansPro-Black.ttf);
   font-weight: 800;
+  font-display: swap;
 }
