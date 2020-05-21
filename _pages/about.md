@@ -3,9 +3,8 @@ title: Your first Quaker meeting in six steps
 lang: en
 trans: about
 ---
-1. [![](/assets/images/no-tie_color.png){: img_left height="40" class="down_a_bit_more"} You're welcome as you are. Dress comfortably (ties are fine too)](#notie){: id="linkoff"}
-  
-1. [<i class="fas fa-chair fa-fw fa-2x down_a_bit_more" style="color: #4d1a00;"></i> Sit anywhere you like](#chair){: id="linkoff"}
+[1. ![](/assets/images/no-tie_color.png){: img_left height="40" class="down_a_bit_more"} You're welcome as you are. Dress comfortably (ties are fine too)](#notie){: id="linkoff"}  <br>
+[2. <i class="fas fa-chair fa-fw fa-2x down_a_bit_more" style="color: #4d1a00;"></i> Sit anywhere you like](#chair){: id="linkoff"}
 
   
 1. [<i class="fas fa-search fa-fw fa-2x color-1-text down_a_bit_more"></i> In the quiet of Quaker meeting, look inside](#look){: id="linkoff"}
