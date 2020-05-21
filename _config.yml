@@ -7,8 +7,8 @@ email:
 address: 1090 Greene Ave., Westmount
 adresse: 1090 ave. Greene, Westmount
 phone: (514) 307-0820
-# myurl: mtl.summerhays.net
-myurl: localhost:4000
+myurl: mtl.summerhays.net
+# myurl: localhost:4000
 
 # Certain types of media can be assigned to specific pages using this list. Everything in "media" is in the _include folder.
 
