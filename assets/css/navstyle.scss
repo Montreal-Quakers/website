@@ -114,6 +114,9 @@
 	   text-decoration: none;
 	   z-index: 600;
    }
+   .navbar > .icon_right > a {
+	   padding: 12.5px 12px 9px;
+   }
 
    .navbar {
     background-color: $color-1-dark;
@@ -305,7 +308,6 @@
   }
 
 .navbar .search-container button {
-  float: right;
   flex: 0 0 auto;
   padding: 14px;
 /*  margin-right: 4px; */
@@ -386,7 +388,7 @@
 
 /* the goal of this code is to require a click to open in responsive mode */
 
-/* .show {display:block;} */
+.show_block {display:block;}
 
 /* Sticky navbar start */
 

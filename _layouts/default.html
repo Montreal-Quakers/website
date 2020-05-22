@@ -2,6 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
+  <!-- Preload some files and fonts to improve page load speed -->
   <link rel="preload" href="/assets/css/style.css" as="style">
   <link rel="preload" href="/assets/css/navstyle.css" as="style">
   <link rel="preload" href="/assets/google_fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf" as="font" type="font/ttf" crossorigin>
@@ -14,19 +15,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#205592">
   <html lang="{{ page.lang | default: 'en' }}">
-  <link rel="stylesheet" href="/assets/css/w3.css">
   <link rel="stylesheet" href="/assets/css/all.css">
   <link rel="stylesheet" href="/assets/css/style.css">
-  <link rel="icon" type="image/jpg" href="/assets/images/favicon.ico">
-  <link rel="apple-touch-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" href="/assets/images/quaker_icon_32x32.png" sizes="32x32">
+  <link rel="apple-touch-icon" href="/assets/images/quaker_icon_192x192.png" sizes="192x192">
   <link rel="manifest" href="/manifest{% if page.lang == "fr" %}-fr{% endif %}.webmanifest">
-  <!-- Also interesting were Josefin|Muli -->
-  <!-- <link href='https://fonts.googleapis.com/css?family=Playfair Display|Source Sans Pro' rel='stylesheet'> -->
-  <!-- This code sets the default title to English but provides a French translation for French pages -->
+  {% if page.trans == "contribution" %}<link rel="dns-prefetch" href="https://canadahelps.org">{% endif %}
+  {% if page.trans == "index" %}<link rel="dns-prefetch" href="https://youtube.com">{% endif %}
+  {% if page.trans == "calendar" %}<link rel="dns-prefetch" href="https://calendar.google.com">{% endif %}
+  {% if page.trans == "directions" or page.trans == "midweek" or page.trans == "quebec" or page.trans == "south_shore" or page.trans == "laurentians" %}<link rel="dns-prefetch" href="https://maps.google.com">{% endif %}
+  <!-- Default title in English but in French too -->
   <title>{% if page.lang == "fr" %}{{ site.title-fr }}{% else %}{{ site.title }}{% endif %}</title>
   <! -- search header -->
   {% if page.tipue_search_active or layout.tipue_search_active %}
-    <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/normalize.css" | relative_url }}">
+  <!-- <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/normalize.css" | relative_url }}"> -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
     <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | relative_url }}">
@@ -41,22 +43,19 @@
    <!-- Turn alerts on and off using _config.yml, see the README -->
    <div class="container-alert">
    {% if site.alerts == "all" %}
-        {% if page.lang == "en" %}<div class="stickystart"><div> </div><div class="alert">{% capture alert %}{% include alert.md %}{% endcapture %}{{ alert | markdownify }}</div>{% include alert_closebtn.html %}</div>{% endif %}
-        {% if page.lang == "fr" %}<div class="stickystart"><div> </div><div class="alert">{% capture alerte %}{% include alerte.md %}{% endcapture %}{{ alerte | markdownify }}</div>{% include alert_closebtn.html %}</div>{% endif %}
-     {% endif %}
-
-   {% if site.alerts == "some" %}
-   {% for each in site.alert_pages %}
-       {% if page.lang == "en" and page.trans == each.page_trans %}<div class="stickystart"><div> </div><div class="alert">{% capture alert %}{% include alert.md %}{% endcapture %}{{ alert | markdownify }}</div>{% include alert_closebtn.html %}</div>{% endif %}
-       {% if page.lang == "fr" and page.trans == each.page_trans %}<div class="stickystart"><div> </div><div class="alert">{% capture alerte %}{% include alerte.md %}{% endcapture %}{{ alerte | markdownify }}</div>{% include alert_closebtn.html %}</div>{% endif %}
+     {% if page.lang == "en" %}<div class="stickystart"><div></div><div class="alert">{% capture alert %}{% include alert.md %}{% endcapture %}{{ alert | markdownify }}</div>{% include alert_closebtn.html %}</div>{% endif %}
+     {% if page.lang == "fr" %}<div class="stickystart"><div> </div><div class="alert">{% capture alerte %}{% include alerte.md %}{% endcapture %}{{ alerte | markdownify }}</div>{% include alert_closebtn.html %}</div>{% endif %}
+   {% endif %}
+   {% if site.alerts == "some" %}{% for each in site.alert_pages %}
+       {% if page.lang == "en" and page.trans == each.page_trans %}<div class="stickystart"><div></div><div class="alert">{% capture alert %}{% include alert.md %}{% endcapture %}{{ alert | markdownify }}</div>{% include alert_closebtn.html %}</div>{% endif %}
+       {% if page.lang == "fr" and page.trans == each.page_trans %}<div class="stickystart"><div></div><div class="alert">{% capture alerte %}{% include alerte.md %}{% endcapture %}{{ alerte | markdownify }}</div>{% include alert_closebtn.html %}</div>{% endif %}
    {% endfor %}
    {% endif %}
-
    </div>
-	</nav>
+</nav>
    <main>
 	<br>
-   <!-- These are the headers, which are included only if the page has them. There's a weird bug for the homepage that forces it to have a title so... -->
+   <!-- These are the headers, which are included only if the page has them. There's a weird bug for the homepage that forces it to have a title, thus the following unless statement... -->
     {% unless page.trans == "index" %}
     {% if page.title %} <h2 class="header">{{ page.title }}</h2>{% endif %}
     {% if page.description %}<h3 class="header">{{ page.description }}</h3>{% endif %}
@@ -79,7 +78,7 @@
        {% endif %}
        {% endfor %}
        <!-- Return to top button -->
-       <button title="Return to top of page" onclick="topFunction()" id="myBtn" class="w3-card-4 w3-circle" title="{% if page.lang == "fr" %}Retour en haut{% else %}Go to top{% endif %}"><i class="fas fa-arrow-circle-up"></i></button>
+       <button title="Return to top of page" onclick="topFunction()" id="myBtn" title="{% if page.lang == "fr" %}Retour en haut{% else %}Go to top{% endif %}"><i class="fas fa-arrow-circle-up"></i></button>
 </article>
    </main>
    <br />&nbsp; 

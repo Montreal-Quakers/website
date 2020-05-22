@@ -11,7 +11,7 @@ Notre communauté est [ouverte à la diversité](/intro-fr.html) [![Drapeau arc-
 
 <br>
 ### [Les pratiques Quaker](/a_propos.html)
-Nous regroupons des Quakers de toutes tendances  -- des Quakers athées, des Quakers chrétiens, des Quakers bouddhistes --, unis en cercle autour de notre pratique traditionnelle du [culte silencieux](a_propos.html) et notre quête de mettre [l'amour au centre de nos vies](intro-fr.html).
+Nous regroupons des Quakers de toutes tendances&nbsp;—&nbsp; des Quakers athées, des Quakers chrétiens, des Quakers bouddhistes&nbsp;—,&nbsp;unis en cercle autour de notre pratique traditionnelle du [culte silencieux](a_propos.html) et notre quête de mettre [l'amour au centre de nos vies](intro-fr.html).
 
 <br>
 ### [Nous trouver](/coordonnées.html)

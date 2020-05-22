@@ -56,7 +56,7 @@ layout: default
     {% endif %}
   {% endfor %}
 
-  <p class=w3-center>
+  <p class=center>
     {% if next %}
     <a href="{{ next.url }}" class="next" title="{{ next.title }}">&lt; Précédant</a>
     {% endif %}
@@ -69,7 +69,7 @@ layout: default
   </p>
 {% endif %}
 
-<p class=w3-center>Retour aux <a href="/nouvelles.html">nouvelles</a>
+<p class=center>Retour aux <a href="/nouvelles.html">nouvelles</a>
 
 {% else %}
 <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
@@ -106,7 +106,7 @@ layout: default
     {% endif %}
   {% endfor %}
 
-  <p class=w3-center>
+  <p class=center>
     {% if next %}
     <a href="{{ next.url }}" class="next" title="{{ next.title }}">&lt; Older</a>
     {% endif %}
@@ -118,7 +118,7 @@ layout: default
     {% endif %}
   </p>
 
-<p class=w3-center>Back to <a href="/posts.html">News</a>
+<p class=center>Back to <a href="/posts.html">News</a>
 
 
 

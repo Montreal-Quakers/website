@@ -5,7 +5,7 @@
 	     <div style="overflow: hidden;">
 		     <a href={% if page.lang =="fr" %}"/index-fr.html"{% else %}"/index.html"{% endif %}>
 			     <!-- top left bird -->
-			     <img alt="logo" class="{% for each in site.bird_left %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/quaker_icon.png" hspace="0px" height="140px">
+			     <img alt="logo" class="{% for each in site.bird_left %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/quaker_icon_100x100.png" width="100px" height="100px">
 		     </a>
 		     
 			     <!-- top header -->
@@ -13,7 +13,7 @@
 
 			     <!-- top right bird -->
 		     <a class="noback" href={% if page.lang =="fr" %}"/index-fr.html"{% else %}"/index.html"{% endif %}>
-			     <img alt="logo" class="noback {% for each in site.bird_right %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/quaker_icon.png" hspace="0px" height="140px">
+			     <img alt="logo" class="noback {% for each in site.bird_right %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/quaker_icon_100x100.png" width="100px" height="100px">
 		     </a>
 
         </div>
@@ -78,6 +78,6 @@
   </div>
 			     <!-- Mobile bird icon -->
 	  <div class="icon_right">
-		  <a title="Home" href={% if page.lang =="fr" %}"/index-fr.html"{% else %}"/index.html"{% endif %}><img alt="logo" class="{% for each in site.mobile_bird %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/quaker_icon.png" hspace="" height="34.5px"></a>
+		  <a title="Home" href={% if page.lang =="fr" %}"/index-fr.html"{% else %}"/index.html"{% endif %}><img alt="logo" class="{% for each in site.mobile_bird %}{% if page.trans == each.trans %}{{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/quaker_icon_35x35.png" width="34.5px" height="34.5px"></a>
 	  </div>
 </div>

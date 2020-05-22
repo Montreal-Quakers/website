@@ -4,6 +4,12 @@
 @import "colors.scss";
 @import "font.scss";
 
+*,*:before,*:after{box-sizing:inherit}
+
+html,body {
+    line-height: 1.5;
+}
+
 body {
     display: flex;
     flex-direction: column;
@@ -16,7 +22,7 @@ body {
     background-color: $body-color;
     height: 100%;
     min-height: 100vh;
-	max-width: 100%;
+    max-width: 100%;
 }
 
 img {
@@ -31,6 +37,17 @@ img {
   background-color: white; 
 } */
 
+h1,h2,h3,h4,h5,h6 {
+	font-weight: 400;
+	margin: 10px 0;
+	font-family: $font-serif;
+}
+h2 {font-size: 175%}
+h3 {font-size: 140%}
+h4 {font-size: 100%}
+h5 {font-size: 105%}
+h6 {font-size: 95%;}
+
 h1.header,h2.header,h3.header,h4.header {
 	font-family: $font-serif;
 	text-align: center;
@@ -39,6 +56,26 @@ h1.header,h2.header,h3.header,h4.header {
         padding: 10px;
 	margin: 0 auto 0;
 }
+
+hr {
+  border: 0;
+  border-top: 1px solid #e2e2e2;
+  margin: 20px 0;
+}
+
+a {background-color:transparent;color:inherit; outline-width: 0}
+a:active,a:hover,a:visited {outline-width:0;text-decoration: none;}
+
+button {
+	text-transform: none;
+	-webkit-appearance: button;
+}
+button,input {
+	overflow: visible;
+	font:inherit;
+	margin: 0;
+}
+
 
 .content.mono {
 	font-family: $font-mono;
@@ -132,7 +169,12 @@ h1.header,h2.header,h3.header,h4.header {
   color: #000;
   background: linear-gradient(top,$color-1 25%,$color-1-dark 75%)}
 
+.center {
+	text-align: center;
+}
+
 .img_center25 {
+    text-align: center;
     margin: 0 auto;
     display: block;
     padding: 15px;
@@ -140,6 +182,7 @@ h1.header,h2.header,h3.header,h4.header {
     }
 
 .img_center50 {
+    text-align: center;
     margin: 0 auto;
     display: block;
     padding: 15px;
@@ -147,6 +190,7 @@ h1.header,h2.header,h3.header,h4.header {
     }
 
 .img_center75 {
+    text-align: center;
     margin: 0 auto;
     display: block;
     padding: 15px;
@@ -154,6 +198,7 @@ h1.header,h2.header,h3.header,h4.header {
     }
 
 .img_center100 {
+    text-align: center;
     margin: 0 auto;
     display: block;
     padding: 15px;
@@ -161,13 +206,14 @@ h1.header,h2.header,h3.header,h4.header {
     }
 
 .img_center {
-	text-align: center;
+    text-align: center;
     margin: 0 auto;
     display: block;
     padding: 15px;
     }
 
 .img_center_no_pad {
+    text-align: center;
     margin: 0 auto;
     display: block;
     }
@@ -319,6 +365,13 @@ input:checked + .slider:before {
    margin-bottom: 0;
 }
 
+.w3-input{padding:8px;display:block;border:none;border-bottom:1px solid #ccc;width:100%}
+.w3-border{border:1px solid #ccc}
+.w3-animate-input{transition:width 0.4s ease-in-out}
+.w3-animate-input:focus{width:100%}
+.w3-button{border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;text-align:center;cursor:pointer;white-space:nowrap;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;transition:background-color .3s}
+.w3-button:hover{background-color:$color-1}
+
 .media {
    flex: 1 0 400px; /* can grow, can't shrink, and set to min 400px */
    padding: 0 3px;
@@ -409,5 +462,12 @@ input:checked + .slider:before {
   background-color: $color-1-dark;
   color: white;
   cursor: pointer;
-  padding: 5px 10px;
+  padding: 11px 15px;
+  box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+  border-radius:50%;
+  transition: 0.3s;
+}
+
+#myBtn:hover {
+	background-color: $color-1-light;
 }
