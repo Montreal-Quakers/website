@@ -4,15 +4,15 @@ trans: quebec
 ---
 ![Logo](/assets/images/quebec.jpg){: .img_center100}
 
-Le Groupe des Quakers à Québec se rencontre chaque premier dimanche du mois à 11h00 au [31 rue des Jardins dans le Vieux-Québec](https://www.google.com/maps/search/31%20rue%20des%20Jardins,%20Qu%C3%A9bec){: target="_blank"} à la chapelle All Saints Chapel, bâtiment situé dans la cour de la cathédrale anglicane Holy Trinity.
+Le Groupe des Quakers à Québec se rencontre chaque premier dimanche du mois à 11h00 au [31 rue des Jardins dans le Vieux-Québec](https://www.google.com/maps/search/31%20rue%20des%20Jardins,%20Qu%C3%A9bec){: target="_blank" rel="noopener"} à la chapelle All Saints Chapel, bâtiment situé dans la cour de la cathédrale anglicane Holy Trinity.
 
 Tous et toutes sont [bienvenus](intro-fr.html) au culte quaker, peu importe le sexe, la race, l’orientation ou même les croyances. Le culte [se déroule](a_propos.html) principalement en silence pendant une période qui peut varier de 45 minutes à une heure. Le culte peut être suivi d’une période de questions pour les nouveaux visiteurs.
 
 ### [Contactez-nous](contact-fr.html) pour plus de détails:
 
-[quakersquebec@gmail.com](mailto:quakersquebec@gmail.com){: target="_blank"}
+[quakersquebec@gmail.com](mailto:quakersquebec@gmail.com){:  rel="noopener" target="_blank"}
 
-[Facebook](https://www.facebook.com/QuakersQuebecCanada/){: target="_blank"}
+[Facebook](https://www.facebook.com/QuakersQuebecCanada/){:  rel="noopener" target="_blank"}
 
 ![Les initiateurs](/assets/images/qc_2.jpg){: .img_center100}
 
