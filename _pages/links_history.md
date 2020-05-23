@@ -1,5 +1,5 @@
 ---
-title: Links and History
+title: Links & History
 lang: en
 trans: links_history
 ---
