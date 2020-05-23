@@ -1,0 +1,177 @@
+---
+---
+.fa,
+.fas,
+.far,
+.fal,
+.fad,
+.fab {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1; }
+
+@font-face {
+  font-family: 'Font Awesome 5 Brands';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("../webfonts/fa-brands-400.woff2") format("woff2"), url("../webfonts/fa-brands-400.woff") format("woff"); }
+
+.fab {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+@font-face {
+  font-family: 'Font Awesome 5 Free';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("../webfonts/fa-regular-400.woff2") format("woff2"), url("../webfonts/fa-regular-400.woff") format("woff"); }
+
+.far {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+@font-face {
+  font-family: 'Font Awesome 5 Free';
+  font-style: normal;
+  font-weight: 900;
+  font-display: block;
+  src: url("../webfonts/fa-solid-900.woff2") format("woff2"), url("../webfonts/fa-solid-900.woff") format("woff"); }
+
+.fa,
+.fas {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900; }
+.fa-fw {
+  text-align: center;
+  width: 1.25em; }
+
+.fa-2x {
+  font-size: 2em; }
+
+.fa-lg {
+  font-size: 1.33333em;
+  line-height: 0.75em;
+  vertical-align: -.0667em; }
+
+.fa-flip-horizontal {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
+  -webkit-transform: scale(-1, 1);
+          transform: scale(-1, 1); }
+
+.fa-hand-holding-medical:before {
+  content: "\f95c"; }
+
+.fa-phone:before {
+  content: "\f095"; }
+
+.fa-pencil-alt:before {
+  content: "\f303"; }
+
+.fa-newspaper:before {
+  content: "\f1ea"; }
+
+.fa-phone:before {
+  content: "\f095"; }
+
+.fa-screwdriver:before {
+  content: "\f54a"; }
+
+.fa-dove:before {
+  content: "\f4ba"; }
+
+.fa-circle:before {
+  content: "\f111"; }
+
+.fa-handshake:before {
+  content: "\f2b5"; }
+
+.fa-comments:before {
+  content: "\f086"; }
+
+.fa-creative-commons:before {
+  content: "\f25e"; }
+
+.fa-creative-commons-nd:before {
+  content: "\f4eb"; }
+
+.fa-pagelines:before {
+  content: "\f18c"; }
+
+.fa-heart:before {
+  content: "\f004"; }
+
+.fa-fly:before {
+  content: "\f417"; }
+
+.fa-arrows-alt-h:before {
+  content: "\f337"; }
+
+.fa-road:before {
+  content: "\f018"; }
+
+.fa-vial:before {
+  content: "\f492"; }
+
+.fa-chair:before {
+  content: "\f6c0"; }
+
+.fa-search:before {
+  content: "\f002"; }
+
+.fa-hand-holding-heart:before {
+  content: "\f4be"; }
+
+.fa-mug-hot:before {
+  content: "\f7b6"; }
+
+.fa-pause-circle:before {
+  content: "\f28b"; }
+
+.fa-book-reader:before {
+  content: "\f5da"; }
+
+.fa-head-side-mask:before {
+  content: "\f963"; }
+
+.fa-bullhorn:before {
+  content: "\f0a1"; }
+
+.fa-address-card:before {
+  content: "\f2bb"; }
+
+.fa-map-marker-alt:before {
+  content: "\f3c5"; }
+
+.fa-rss:before {
+  content: "\f09e"; }
+
+.fa-calendar:before {
+  content: "\f133"; }
+
+.fa-coins:before {
+  content: "\f51e"; }
+
+.fa-envelope-open:before {
+  content: "\f2b6"; }
+
+.fa-home:before {
+  content: "\f015"; }
+
+.fa-caret-down:before {
+  content: "\f0d7"; }
+
+.fa-paper-plane:before {
+  content: "\f1d8"; }
+
+.fa-bars:before {
+  content: "\f0c9"; }
+
+.fa-arrow-circle-up:before {
+  content: "\f0aa"; }
+
+.fa-random:before {
+  content: "\f074"; }
