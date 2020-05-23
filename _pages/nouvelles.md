@@ -10,7 +10,7 @@ Nous avisons notre communauté des événements du mois d'habitude par une liste
   {% for post in posty %}
 
     <li>
-      <a href="{{ post.url }}">{{ post.title }} -- publié le 
+      <a href="{{ post.url }}">{{ post.title }} — publié le 
 <!-- Whitespace added for readability -->
 {{ post.date | date: "%-d" }}
 {% assign m = post.date | date: "%-m" %}

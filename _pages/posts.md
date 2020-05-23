@@ -10,7 +10,7 @@ Many of our meeting's events are posted to a listserv available to folks who hav
 {% assign posty=site.posts | where:"lang","en" %}
   {% for post in posty %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }} -- posted {{ post.date | date: "%B %-d, %Y" }}</a>
+      <a href="{{ post.url }}">{{ post.title }} — posted {{ post.date | date: "%B %-d, %Y" }}</a>
       {{ post.excerpt }}
     </li>
   {% endfor %}
