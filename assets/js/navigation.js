@@ -100,5 +100,5 @@ function foldSearch () {
    sub.classList.add("hide");
    inp.classList.add("input_hide");
    inp.classList.remove("searchopen");
-  }, 100);
+ }, 100);
 }
