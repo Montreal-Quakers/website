@@ -31,12 +31,12 @@ layout: compress
   <title>{% if page.lang == "fr" %}{{ site.title-fr }}{% else %}{{ site.title }}{% endif %}</title>
   <! -- search header -->
   {% if page.tipue_search_active or layout.tipue_search_active %}
-  <!-- <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/normalize.css" | relative_url }}"> -->
+  <!-- <link rel="stylesheet" href="/assets/tipuesearch-{% if page.lang == "fr" %}fr{% else %}en{% endif %}/css/normalize.css"> -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
-    <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | relative_url }}">
-    <script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
-    <script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
+    <script src="/assets/tipuesearch-{% if page.lang == "fr" %}fr{% else %}en{% endif %}/tipuesearch_content.js"></script>
+    <link rel="stylesheet" href="/assets/tipuesearch-{% if page.lang == "fr" %}fr{% else %}en{% endif %}/css/tipuesearch.css">
+    <script src="/assets/tipuesearch-{% if page.lang == "fr" %}fr{% else %}en{% endif %}/tipuesearch_set.js"></script>
+    <script src="/assets/tipuesearch-{% if page.lang == "fr" %}fr{% else %}en{% endif %}/tipuesearch.min.js"></script>
 {% endif %}
 </head>
 <body>
