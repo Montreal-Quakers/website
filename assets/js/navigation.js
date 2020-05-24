@@ -82,11 +82,11 @@ function unfoldSearch () {
     if (sub.classList.contains("hide")) {
    unf.classList.remove("show");
    sub.classList.remove("hide");
+   inp.classList.remove("input_narrow");
    inp.classList.remove("input_hide");
     }
    sub.classList.add("show");
    inp.classList.add("input_show");
-   inp.classList.add("searchopen");
    inp.focus();
 }
 function foldSearch () {
@@ -98,7 +98,9 @@ function foldSearch () {
     }
    unf.classList.add("show");
    sub.classList.add("hide");
-   inp.classList.add("input_hide");
-   inp.classList.remove("searchopen");
+   inp.classList.add("input_narrow");
+     setTimeout(function () {
+        inp.classList.add("input_hide");
+     }, 350);
  }, 100);
 }
