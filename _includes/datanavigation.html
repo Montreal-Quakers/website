@@ -66,7 +66,7 @@
   {% if otherurl %}
 			     <!-- language changer button, which flip animation -->
   <a class="icon" id="response" onclick="flipIcon()">{% if page.lang == "fr" %}English{% elsif page.lang == "en" %}Français{% endif %} &nbsp;<i id="flippy" class="fas fa-random"></i></a>
-  <a href="{{ otherurl }}" id="flippy2" style="display: none;"></a>
+  <a href="{{ otherurl }}" id="flippy2" {% if page.trans == "search" %}class="searchy" {% endif %}style="display: none;"></a>
   {% endif %}
   {% endif %}
   <div class="search-container">

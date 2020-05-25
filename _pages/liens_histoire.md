@@ -1,5 +1,5 @@
 ---
-title: Liens et l'histoire des Quakers
+title: Liens & histoire
 lang: fr
 trans: links_history
 ---

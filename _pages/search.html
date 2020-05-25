@@ -8,14 +8,14 @@ trans: search
 ---
 
 <form action="{{ page.url | relative_url }}">
-  <div class="tipue_search_left"><img src="/assets/tipuesearch-en/search.png" class="tipue_search_icon"></div>
-  <div class="tipue_search_right"><input type="text" name="q" id="tipue_search_input" pattern=".{2,}" title="At least 2 characters" required></div>
+  <div class="tipue_search_left"><i class="fas fa-search"></i></div>
+  <div class="tipue_search_right"><input type="text" name="q" placeholder="Search..." id="tipue_search_input" pattern=".{2,}" title="At least 2 characters" required></div>
   <div style="clear: both;"></div>
 </form><br>
-<h5>Whole word search <label class="switch">
+<p>Whole word search &nbsp;<label class="switch">
   <input id=wholecheck type="checkbox">
   <span class="slider round"></span>
-        </label></h5>
+        </label></p>
 <br>
 <div id="tipue_search_content"></div>
 

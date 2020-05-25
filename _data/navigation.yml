@@ -50,7 +50,7 @@ fr:
       sublink: /intro-fr.html
     - subtitle: Nos valeurs (les témoignages)
       sublink: /témoignages.html
-    - subtitle: Liens & histoire
+    - subtitle: Liens et histoire
       sublink: /liens_histoire.html
 - title: Nous trouver
   icon: <i class='fas fa-map-marker-alt'></i>

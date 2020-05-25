@@ -69,8 +69,21 @@ function topFunction() {
 function flipIcon () {
 	var i = document.getElementById("flippy");
 	var i2 = document.getElementById("flippy2");
+	if (i2.classList.contains("searchy")) {
+	i.classList.add("rotate-hor-center");
+        		
+        const parsedUrl = new URL(window.location.href);
+        var newstring = parsedUrl.pathname + "?q=";
+        var newurl = new URL(i2.href);
+        var param = parsedUrl.searchParams.get("q");
+        newurl.searchParams.set('q',param);
+        i2 = newurl;
+        console.log(newurl); // "hi"
+	setTimeout(function clicky() {window.location.replace(i2);}, 145);
+	} else {
 	i.classList.add("rotate-hor-center");
 	setTimeout(function clicky() {window.location.replace(i2);}, 145);
+	}
 }
 
 	var unf = document.getElementById("unfold");
