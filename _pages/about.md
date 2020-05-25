@@ -11,7 +11,7 @@ trans: about
 1. [<i class="fas fa-search fa-fw fa-2x color-1-text down_a_bit_more"></i> In the quiet of Quaker meeting, look inside](#look){: id="linkoff"}
 
   
-1. [<i class="fas fa-hand-holding-heart fa-fw fa-2x" style="color: crimson"></i> If moved, speak from the heart. If not, listen](#heart){: id="linkoff"}
+1. [<i class="fas fa-hand-holding-heart fa-fw fa-2x down_a_bit_more" style="color: crimson"></i> If moved, speak from the heart. If not, listen](#heart){: id="linkoff"}
 
 
 1. [<i class="far fa-pause-circle fa-fw fa-2x color-1-light-text down_a_bit_more"></i> After people speak, allow a moment for reflection. Out of respect, we avoid responding to others during worship](#wait){: id="linkoff"}

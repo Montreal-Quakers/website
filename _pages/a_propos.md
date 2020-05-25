@@ -3,15 +3,15 @@ title: Votre première assemblée Quaker en six étapes
 lang: fr
 trans: about
 ---
-1. [![](/assets/images/no-tie_color.png){: img_left height="40"} Soyez les bienvenu.e.s, habillez-vous à votre goût (une cravate ça va aussi)](#cravate){: id="linkoff"}
+1. [![](/assets/images/no-tie_color.png){: img_left height="35px" class="down_a_bit_more"} &nbsp;&nbsp;Soyez les bienvenu.e.s, habillez-vous à votre goût (une cravate ça va aussi)](#cravate){: id="linkoff"}
   
-1. [<i class="fas fa-chair fa-fw fa-2x" style="color: #4d1a00;"></i> Prenez n'importe quel siège](#chaise){: id="linkoff"}
+1. [<i class="fas fa-chair fa-fw fa-2x down_a_bit_more" style="color: #4d1a00;"></i> Prenez n'importe quel siège](#chaise){: id="linkoff"}
   
-1. [<i class="fas fa-search fa-fw fa-2x color-1-text"></i> Dans le silence, écoutez](#regarde){: id="linkoff"}
+1. [<i class="fas fa-search fa-fw fa-2x color-1-text down_a_bit_more"></i> Dans le silence, écoutez](#regarde){: id="linkoff"}
   
-1. [<i class="fas fa-hand-holding-heart fa-fw fa-2x" style="color: crimson"></i> Si vous vous y sentez incité intérieurement, parlez avec votre cœur. Sinon, écoutez](#coeur){: id="linkoff"}
+1. [<i class="fas fa-hand-holding-heart fa-fw fa-2x down_a_bit_more" style="color: crimson"></i> Si vous vous y sentez incité intérieurement, parlez avec votre cœur. Sinon, écoutez](#coeur){: id="linkoff"}
 
-1. [<i class="far fa-pause-circle fa-fw fa-2x color-1-light-text"></i> Recueillez-vous un moment après chaque intervention; par souci de respect, nous évitons de répondre aux propos des autres](#attendre){: id="linkoff"}
+1. [<i class="far fa-pause-circle fa-fw fa-2x color-1-light-text down_a_bit_more"></i> Recueillez-vous un moment après chaque intervention; par souci de respect, nous évitons de répondre aux propos des autres](#attendre){: id="linkoff"}
    
 1. [<i class="fas fa-mug-hot fa-fw fa-2x color-1-dark-text"></i> Prenez un thé avec nous après, si possible](#thé){: id="linkoff"}
     
