@@ -7,8 +7,9 @@ trans: links_history
 
 #### Sur les Quakers (en français)
 
-* [Un cours en ligne sur les Quakers](http://moodle.woodbrooke.org.uk/course/view.php?id=60#section-0){:  rel="noopener" target="_blank"}
-* [Un résumé du Quakerisme en français](http://quaker.chez-alice.fr/){:  rel="noopener" target="_blank"}
+{% comment %}* [Un cours en ligne sur les Quakers](http://moodle.woodbrooke.org.uk/course/view.php?id=60#section-0){:  rel="noopener" target="_blank"}
+So sad, Woodbrooke seems to have deleted this course -- post this again if they ever put it back!
+{% endcomment %}* [Un résumé du Quakerisme en français](http://quaker.chez-alice.fr/){:  rel="noopener" target="_blank"}
 * [Glossaire Quaker anglais-français](http://www.simongrant.org/quaker/gloss/enfr.html){:  rel="noopener" target="_blank"}
 
 #### Pour participer à la discussion et poser vos questions
