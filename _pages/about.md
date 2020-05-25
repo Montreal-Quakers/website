@@ -26,7 +26,7 @@ Welcome.
 
 A Quaker Meeting is based on silence, but it is a silence of waiting in expectancy. The silence may last for quite some time, perhaps a half hour or more. But that does not mean that nothing is happening. All of us are trying to come nearer to each other and to God as we are caught up in the still spirit of the Meeting. We do not worship in isolation but try to hold an awareness of all those gathered with us, uniting in a common purpose, so that the waiting and listening becomes an act of sharing.
 
-![](/assets/images/no-tie_color.png){: img_left height="36" class="down_a_bit_more"}<span class="stanchor"><a name="notie"> </a></span> There is no dress code so come as you are and feel free to wear whatever makes you feel your best. Meeting for Worship starts as soon as the first person enters the room and sits down. It is helpful if the Meeting can settle a few minutes before the appointed time.
+![](/assets/images/no-tie_color.png){: img_left height="16"}<span class="stanchor"><a name="notie"> </a></span> &nbsp;There is no dress code so come as you are and feel free to wear whatever makes you feel your best. Meeting for Worship starts as soon as the first person enters the room and sits down. It is helpful if the Meeting can settle a few minutes before the appointed time.
 
 <i class="fas fa-chair" style="color: #4d1a00;"></i><span class="stanchor"><a name="chair"> </a></span> &nbsp;Go in as soon as you are ready. Sit anywhere you like but if possible leave seats near the door for latecomers. Children may be present for a time at the beginning or the end of Meeting, and may have their own activities with us or in another room.
 
