@@ -19,6 +19,7 @@
     vertical-align: middle;
     font-size: $header-font-size;
     font-family: $font-serif;
+    letter-spacing: $serif-spacing;
     color: $header-color-text;
     position: relative;
     text-decoration: none;
@@ -97,6 +98,7 @@
     left: 50%;
     font-size: $nav-font-size;
     font-family: $font-serif;
+    letter-spacing: $serif-spacing;
     transform: translate(-50%, 0%);
 	   border-radius: 25px;
     background-color: $color-1-dark;

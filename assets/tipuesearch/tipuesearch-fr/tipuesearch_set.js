@@ -36,6 +36,10 @@ var tipuesearch_weight = {'weight': [
 
 var tipuesearch_stem = {'words': [
      {'word': 'e-mail', 'stem': 'email'},
+     {'word': 'montréal', 'stem': 'montreal'},
+     {'word': 'montreal', 'stem': 'montréal'},
+     {'word': 'québec', 'stem': 'quebec'},
+     {'word': 'quebec', 'stem': 'québec'},
      {'word': 'javascript', 'stem': 'jquery'},
      {'word': 'javascript', 'stem': 'js'}
 ]};

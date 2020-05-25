@@ -41,10 +41,11 @@ h1,h2,h3,h4,h5,h6 {
 	font-weight: 400;
 	margin: 10px 0;
 	font-family: $font-serif;
+	letter-spacing: $serif-spacing;
 }
 h2 {font-size: 175%}
 h3 {font-size: 140%}
-h4 {font-size: 100%}
+h4 {font-size: 120%}
 h5 {font-size: 105%}
 h6 {font-size: 95%;}
 
@@ -83,6 +84,7 @@ button,input {
 	
 .content.serif {
 	font-family: $font-serif;
+	letter-spacing: $serif-spacing;
 }
 .footer {
     flex: 1 0 auto;
@@ -97,6 +99,7 @@ button,input {
 .footer h3 {
 	padding-top: .5em;
         font-family: $font-serif;
+	letter-spacing: $serif-spacing;
 	font-size: 2em;
 }
 

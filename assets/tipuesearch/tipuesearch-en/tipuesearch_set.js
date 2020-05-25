@@ -44,7 +44,8 @@ var tipuesearch_stem = {'words': [
 // Related searches
 
 var tipuesearch_related = {'searches': [
-     {'search': 'tipue', 'related': 'Tipue Search'},
+     {'search': 'Montreal', 'related': 'Montréal'},
+     {'search': 'Montréal', 'related': 'Montreal'},
      {'search': 'tipue', 'before': 'Tipue Search', 'related': 'Getting Started'},
      {'search': 'tipue', 'before': 'Tipue', 'related': 'jQuery'},
      {'search': 'tipue', 'before': 'Tipue', 'related': 'Blog'}
