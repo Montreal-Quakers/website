@@ -10,6 +10,17 @@ To those who have been coming to our meeting and are curious to learn more and g
 * Check out a pamphlet or book from our library about Quakerism and Quaker history
   * Online courses in Quakerism are offered. Material [here](http://quaker.ca/resources/education/#Introduction_to_Quakers_and_Friends_Ways){: rel="noopener" target="_blank"}
 * Volunteer on a [committee](/committees.html)
-* [Join](/contact.html) our Bible study or singing group sometimes 
+* [Join](/contact.html) our book club/Bible study or singing group sometime
 * Making a [donation](donate.html) helps the meeting run and grow
 * Do you feel moved to become a [member](/membership.html)?
+* Also know that you are welcome to request help from the meeting:
+  * During the COVID outbreak, we set up a special fund to help members
+  * Anyone can apply for emergency financial help from the meeting of up to $250.
+
+Feel free to request any of these resources to integrate better into the meeting:
+* Meeting contact list
+* Access to all the mailing lists
+* Current committee list
+* Meeting budget
+* The business meeting minutes in the last few years
+  * This includes access to documents such as the application form for emergency financial aid 
