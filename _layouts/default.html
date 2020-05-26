@@ -46,12 +46,12 @@ layout: compress
    <!-- Turn alerts on and off using _config.yml, see the README -->
    <div class="container-alert">
    {% if site.alerts == "all" %}
-     {% if page.lang == "en" %}<div class="stickystart"><div></div><div class="alert">{% capture alert %}{% include alert.md %}{% endcapture %}{{ alert | markdownify }}</div>{% include alert_closebtn.html %}</div>{% endif %}
-     {% if page.lang == "fr" %}<div class="stickystart"><div> </div><div class="alert">{% capture alerte %}{% include alerte.md %}{% endcapture %}{{ alerte | markdownify }}</div>{% include alert_closebtn.html %}</div>{% endif %}
-   {% endif %}
+     {% if page.lang == "fr" %}<div class="stickystart"><div> </div><div class="alert">{% capture alerte %}{% include alerte.md %}{% endcapture %}{{ alerte | markdownify }}</div>{% include alert_closebtn.html %}</div>
+     {% else %}<div class="stickystart"><div></div><div class="alert">{% capture alert %}{% include alert.md %}{% endcapture %}{{ alert | markdownify }}</div>{% include alert_closebtn.html %}</div>
+   {% endif %}{% endif %}
    {% if site.alerts == "some" %}{% for each in site.alert_pages %}
-       {% if page.lang == "en" and page.trans == each.page_trans %}<div class="stickystart"><div></div><div class="alert">{% capture alert %}{% include alert.md %}{% endcapture %}{{ alert | markdownify }}</div>{% include alert_closebtn.html %}</div>{% endif %}
-       {% if page.lang == "fr" and page.trans == each.page_trans %}<div class="stickystart"><div></div><div class="alert">{% capture alerte %}{% include alerte.md %}{% endcapture %}{{ alerte | markdownify }}</div>{% include alert_closebtn.html %}</div>{% endif %}
+       {% if page.lang == "fr" and page.trans == each.page_trans %}<div class="stickystart"><div></div><div class="alert">{% capture alerte %}{% include alerte.md %}{% endcapture %}{{ alerte | markdownify }}</div>{% include alert_closebtn.html %}</div>
+       {% elsif page.trans == each.page_trans %}<div class="stickystart"><div></div><div class="alert">{% capture alert %}{% include alert.md %}{% endcapture %}{{ alert | markdownify }}</div>{% include alert_closebtn.html %}</div>{% endif %}
    {% endfor %}
    {% endif %}
    </div>
