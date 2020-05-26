@@ -4,7 +4,7 @@ en:
   link: /intro.html
   icon: <i class='far fa-address-card'></i>
   submenu: 
-    - subtitle: For New Attenders
+    - subtitle: First Time?
       sublink: /about.html
     - subtitle: Introduction to Quakers 
       sublink: /intro.html

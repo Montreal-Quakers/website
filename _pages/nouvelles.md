@@ -3,7 +3,7 @@ title: <i class="far fa-newspaper"></i> &nbsp;Nouvelles
 lang: fr
 trans: news
 ---
-Nous avisons notre communauté des événements du mois d'habitude par une liste d'envoi, disponible pour ceux et celles qui s'y inscrivent à une de nos assemblées. Si quelqu'un aimerait s'ajouter à cette liste, il suffit de nous [contacter](contact-fr.html). Cette page, comme la page Facebook, annonce des événements majeurs tenus par l'Assemblée Quaker de Montréal.
+Nous avisons notre communauté des événements du mois d'habitude par une liste d'envoi, disponible pour ceux et celles qui s'y inscrivent à une de nos assemblées. Si quelqu'un aimerait s'ajouter à cette liste, il suffit de nous [contacter](contact-fr.html). Cette page, comme la [page Facebook(https://fb.com/MontrealQuakers/) (majoritairement en anglais), annonce des événements majeurs tenus par l'Assemblée Quaker de Montréal.
 
 <ul>
 {% assign posty = site.posts | where:"lang","fr" %}

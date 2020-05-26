@@ -3,8 +3,7 @@ title: <i class="fas fa-pencil-alt shake-tl"></i> &nbsp;Nous joindre &nbsp;<i cl
 lang: fr
 trans: contact
 ---
-
-Pour nous joindre, vous pouvez <i class="fas fa-pencil-alt"></i> remplir le formulaire ci-dessous ou bien appeler notre secrétaire David au <i class="fas fa-phone"></i> (514) 307-0820. On est aussi sur [Facebook](https://www.facebook.com/MontrealQuakers/). Voici notre [politique de confidentialité](confidentialité.html).
+Pour nous joindre, vous pouvez <i class="fas fa-pencil-alt"></i> remplir le formulaire ci-dessous ou bien appeler notre secrétaire David au <i class="fas fa-phone"></i> (514) 307-0820. On est aussi sur [Facebook](https://www.facebook.com/MontrealQuakers/) (majoritairement en anglais). Voici notre [politique de confidentialité](confidentialité.html).
 
 Entre autres, vous pouvez nous rendre visite le [dimanche](coordonnées.html) à 11h au Greene Centre, [1090 ave. Greene, Westmount](coordonnées.html), H3Z 1Z9.
 

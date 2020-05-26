@@ -11,6 +11,6 @@ Entrez au Centre Newman par l’allée qui donne sur la rue Peel, montez l’esc
 
 Toutes et tous sont le bienvenu!
 
-Pour plus de détails, consultez la [page Facebook](https://www.facebook.com/MontrealQuakers/){:  rel="noopener" target="_blank"} (pas besoin d’être membre de Facebook), joignez-vous au [groupe Facebook](https://www.facebook.com/groups/mtlmidweek/){:  rel="noopener" target="_blank"} ou [contactez-nous](contact-fr.html) pour toute autre question.
+Pour plus de détails, consultez la [page Facebook](https://www.facebook.com/MontrealQuakers/){:  rel="noopener" target="_blank"} (pas besoin d’être membre de Facebook, majoritairement en anglais), joignez-vous au [groupe Facebook](https://www.facebook.com/groups/mtlmidweek/){:  rel="noopener" target="_blank"} ou [contactez-nous](contact-fr.html) pour toute autre question.
 
 ![Bibliothèque Ryan](/assets/images/ClaudeRyanLibrary.jpg){: .img_center}

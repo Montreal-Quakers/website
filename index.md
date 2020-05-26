@@ -6,16 +6,20 @@ trans: index
  
 ### [About Quakers](/intro.html)
 
-Quakers are a community of seekers of diverse beliefs. We seek meaningful life, an accepting community, and doing good in the world. Quakers cherish humanity, speaking of an Inner Light or “that of God” in every human being. Promptings of love are the source of our commitment to human rights, prison abolition, sustainability and peace, our [Quaker values](/intro.html).
+Quakers are a community of seekers of diverse beliefs. We seek meaningful life, an accepting community, and doing good in the world. Quakers cherish humanity, speaking of an Inner Light or “that of God” in every human being.
+
+Promptings of love are the source of our commitment to human rights, prison abolition, sustainability and peace, our [Quaker values](/intro.html).
 
 We are an [active and affirming](/intro.html) community &nbsp;[![Rainbow flag](/assets/images/Rainbow-Flag.jpg){: height="22"}](/intro.html) &nbsp;All are welcome.
 
 <br>
 ### [Quaker practice](/about.html)
-The centre of the Quaker meeting is our quiet [meeting for worship](/about.html). We sit and seek a stillness together, without any special leaders. Hard to describe, we enter into communion with each other, the world, and with the divine presence. Sometimes out of this silent unity comes a message – someone may speak, read, pray or even sing. We are Quakers of all kinds – Christian Quakers, nontheist Quakers, Buddhist Quakers, and more – gathered in a circle around our 400-year old practice and our common quest to [live love](intro.html).
+The centre of the Quaker meeting is our quiet [meeting for worship](/about.html). We sit and seek a stillness together, without any special leaders. Hard to describe, we enter into communion with each other, the world, and with the divine presence. Sometimes out of this silent unity comes a message — someone may speak, read, pray or even sing.
+
+We are Quakers of all kinds — Christian Quakers, nontheist Quakers, Buddhist Quakers, and more — gathered in a circle around our 400-year old practice and our common quest to [live love](intro.html).
 
 <br>
-### [Where we meet](/directions.html)
+### [<i class="fas fa-map-marker-alt fa-fw color-1-dark-text"></i> <u>Where we meet</u>](/directions.html){: id="linkoff"}
 
 Our main meeting is on Sundays at the [Greene Centre](/directions.html). Here are our opportunities to join us: 
 * [Sunday Meeting](directions.html), every Sunday at 11 AM at the [Greene Centre](/directions.html)
