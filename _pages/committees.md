@@ -1,5 +1,5 @@
 ---
-title: <i class="fas fa-screwdriver fa-fw color-1-text"></i> Committees & Roles
+title: <i class="fas fa-screwdriver fa-fw color-1-dark-text"></i> Committees & Roles
 lang: en
 trans: committees
 ---
