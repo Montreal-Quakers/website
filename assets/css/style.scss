@@ -371,7 +371,7 @@ input:checked + .slider:before {
 
 .w3-input{padding:8px;display:block;border:none;border-bottom:1px solid #ccc;width:100%}
 .w3-border{border:1px solid #ccc}
-.w3-animate-input{transition:width 0.4s ease-in-out}
+.w3-animate-input{width:50%;transition:width 0.4s ease-in-out}
 .w3-animate-input:focus{width:100%}
 .w3-button{border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;text-align:center;cursor:pointer;white-space:nowrap;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;transition:background-color .3s}
 .w3-button:hover{background-color:$color-1}
