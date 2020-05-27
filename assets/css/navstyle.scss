@@ -311,6 +311,7 @@
   -webkit-transition: width 0.4s ease-in-out;
   transition: width 0.4s ease-in-out;
   -webkit-backface-visibility: hidden;
+  -webkit-appearance: none;
 }
 
 .navbar .search-container button {
@@ -385,6 +386,7 @@
   }
   .navbar.responsive input[type=search] {
     border: 1px solid #ccc;
+    width: 98%;
   }
 }
 
