@@ -71,7 +71,7 @@
   {% endif %}
   <div class="search-container">
 	  <form id="formy" title="search form" class="" action="/search-{% if page.lang == "fr" %}fr{% else %}en{% endif %}">
-	    <input title="search text" id="inputsearch" type="text" class="input_hide" onfocusout="foldSearch()" placeholder="{% if page.lang == "fr" %}Recherchez...{% else %}Search...{% endif %}" autocomplete="off" name="q">
+	    <input title="search text" id="inputsearch" type="search" class="input_hide" onfocusout="foldSearch()" placeholder="{% if page.lang == "fr" %}Recherchez...{% else %}Search...{% endif %}" autocomplete="off" name="q">
 	    <button title="Search button" id="searchsubmit" class="hide" type="submit"><i class="fas fa-search"></i></button>
     </form>
 	    <button title="Search open" id="unfold" class="show" onclick="unfoldSearch()"><i class="fas fa-search"></i></button>

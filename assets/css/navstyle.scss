@@ -71,13 +71,13 @@
 
    .show {display: inline !important;}
    .hide {display: none !important;}
-   .navbar input[type=text].input_show {
+   .navbar input[type=search].input_show {
      width: 210px; 
      visibility: visible !important;
   }
 
-   .navbar input[type=text].input_narrow {width: 1px;}
-   .navbar input[type=text].input_hide {
+   .navbar input[type=search].input_narrow {width: 1px;}
+   .navbar input[type=search].input_hide {
       visibility: hidden !important;
      }
 }
@@ -299,7 +299,7 @@
 	padding: 0;
 }
 
-.navbar input[type=text] {
+.navbar input[type=search] {
   font-family: $font-sans;
   width: 1px; 
   flex: 1 1 210px;
@@ -331,7 +331,7 @@
 
 /* Narrow screen */
 @media screen and (max-width: $mob-pixels) {
-  .navbar a, .navbar #narrowhome, .dropdown .dropbtn, .navbar input[type=text], .navbar .search-container button,div.search-container, .navbar #response {
+  .navbar a, .navbar #narrowhome, .dropdown .dropbtn, .navbar input[type=search], .navbar .search-container button,div.search-container, .navbar #response {
     display: none;
   }
 
@@ -373,7 +373,7 @@
     text-align: left;
     cursor: pointer;
   }
-  .navbar.responsive input[type=text], .navbar.responsive .search-container, .navbar.responsive #response, .navbar.responsive #narrowhome {
+  .navbar.responsive input[type=search], .navbar.responsive .search-container, .navbar.responsive #response, .navbar.responsive #narrowhome {
     float: none;
     display: block;
     text-align: left;
@@ -383,7 +383,7 @@
     padding-top: 14px;
     padding-bottom: 14px;
   }
-  .navbar.responsive input[type=text] {
+  .navbar.responsive input[type=search] {
     border: 1px solid #ccc;
   }
 }
