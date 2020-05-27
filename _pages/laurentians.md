@@ -11,3 +11,5 @@ Sundays at 10:30 am.
 Call Pauline Bernier at (514) 709-2466 to confirm your presence or for further details.
 
 The Laurentian Worship Group is part of Montreal meeting.
+
+If this will be your first time at a Quaker Meeting, you may want to read [this information](about.html) about what to expect.

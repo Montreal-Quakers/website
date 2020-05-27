@@ -10,7 +10,7 @@ Quakers are a community of seekers of diverse beliefs. We seek meaningful life, 
 
 Promptings of love are the source of our commitment to human rights, prison abolition, sustainability and peace, our [Quaker values](/intro.html).
 
-We are an [active and affirming](/intro.html) community &nbsp;[![Rainbow flag](/assets/images/Rainbow-Flag.jpg){: height="22"}](/intro.html) &nbsp;All are welcome.
+We are an [active and affirming](/intro.html) community &nbsp;[![Rainbow flag](/assets/images/Rainbow-Flag.jpg){: height="22" class="down_a_tad"}](/intro.html) &nbsp;All are welcome.
 
 <br>
 ### [Quaker practice](/about.html)

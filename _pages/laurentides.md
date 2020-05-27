@@ -10,4 +10,6 @@ Le dimanche à 10h30.
 ### Je serai là
 Appelez Pauline Bernier au (514) 709-2466 pour confirmer votre présence ou pour plus de détails.
 
+Si c’est votre première assemblée Quaker, [ce lien](a_propos.html) donne une idée de ce à quoi s’attendre.
+
 Le groupe Quaker des Laurentides fait partie de l’assemblée de Montréal.

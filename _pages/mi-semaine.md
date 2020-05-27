@@ -23,4 +23,6 @@ Pour nous trouver à la **Bibliothèque Ryan**, entrez au Centre Newman par l’
 
 Toutes et tous sont le bienvenu!
 
+Si c’est votre première assemblée Quaker, [ce lien](a_propos.html) donne une idée de ce à quoi s’attendre.
+
 ![Bibliothèque Ryan](/assets/images/ClaudeRyanLibrary.jpg){: .img_center}

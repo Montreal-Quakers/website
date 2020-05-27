@@ -24,4 +24,6 @@ To find the **Ryan Library**, enter the Newman Centre from the driveway, proceed
 
 All are welcome!
 
+If this will be your first time at a Quaker Meeting, you may want to read [this information](about.html) about what to expect.
+
 ![Ryan Library](/assets/images/ClaudeRyanLibrary.jpg){: .img_center}

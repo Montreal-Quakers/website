@@ -8,6 +8,8 @@ Le Groupe des Quakers à Québec se rencontre chaque premier dimanche du mois à
 
 Tous et toutes sont [bienvenus](intro-fr.html) au culte quaker, peu importe le sexe, la race, l’orientation ou même les croyances. Le culte [se déroule](a_propos.html) principalement en silence pendant une période qui peut varier de 45 minutes à une heure. Le culte peut être suivi d’une période de questions pour les nouveaux visiteurs.
 
+Si c’est votre première assemblée Quaker, [ce lien](a_propos.html) donne une idée de ce à quoi s’attendre.
+
 ### [Contactez-nous](contact-fr.html) pour plus de détails:
 
 [quakersquebec@gmail.com](mailto:quakersquebec@gmail.com){:  rel="noopener" target="_blank"}
