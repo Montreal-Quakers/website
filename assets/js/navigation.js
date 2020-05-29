@@ -1,7 +1,6 @@
 ---
 ---
-const mq = window.matchMedia( "(min-width: 1313px)" );
-
+const mq = window.matchMedia( "(min-width: {{ site.breakpoint }})" );
 if (mq.matches) {
  window.onscroll = function() {
   scrollBar();
@@ -11,7 +10,15 @@ if (mq.matches) {
   window.onscroll = function() {buttonAppear();}
   /* When the user clicks on the button, toggle between hiding and showing the dropdown content */
   function responsiveClick(id) {
-   document.getElementById(id).classList.toggle("show_block");
+   var x = document.getElementById(id);
+   x.classList.toggle("show_block");
+   var truth = x.previousElementSibling.firstChild.classList.contains('fa-caret-down')
+   if (truth) {
+      x.previousElementSibling.firstChild.className = "fa fa-caret-up";
+   }
+   if (!truth) {
+      x.previousElementSibling.firstChild.className = "fa fa-caret-down";
+   }
   }
   // Close the dropdown if the user clicks outside of it
   window.onclick = function(event) {
@@ -22,6 +29,8 @@ if (mq.matches) {
      var openDropdown = dropdowns[i];
      if (openDropdown.classList.contains('show_block')) {
       openDropdown.classList.remove('show_block');
+      openDropdown.previousElementSibling.firstChild.className = "fa fa-caret-down";
+      y = openDropdown.previousElementSibling.firstChild.className;
     }
    }
   }

@@ -1,7 +1,7 @@
 ---
 ---
 @import "colors.scss";
-// @import "include-media";
+$mob-pixels: {{ site.breakpoint }} !global;
 
 // Remove underline under links
 #linkoff,#narrowheader,a#wideheader,#nolink,.navbar a {
@@ -315,6 +315,7 @@
     input[type=search] {
       border: 1px solid #ccc;
       -webkit-appearance: none;
+      -moz-appearance:none;
 //      width: 98%;
     }
    }
