@@ -2,16 +2,16 @@
      <div id="wideheader">
 	     <!-- I put a few animations in for specific pages, just to make the site a bit more playful -->
 	     <div style="overflow: hidden;">
-		     <a href={% if page.lang =="fr" %}"/index-fr"{% else %}"/index"{% endif %}>
+		     <a href={% if page.lang =="fr" %}"/index-fr"{% else %}"/"{% endif %}>
 			     <!-- top left bird -->
 			     <img alt="logo" class="{% for each in site.bird_left %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/quaker_icon_95x95.png" width="95px" height="95px">
 		     </a>
 		     
 			     <!-- top header -->
-		     <a class="noback {% for each in site.header_animation %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %} " href={% if page.lang =="fr" %}"/index-fr"{% else %}"/index"{% endif %}>{% if page.lang == "fr" %}{{ site.title-fr }}{% else %}{{ site.title }}{% endif %}</a>
+		     <a class="noback {% for each in site.header_animation %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %} " href={% if page.lang =="fr" %}"/index-fr"{% else %}"/"{% endif %}>{% if page.lang == "fr" %}{{ site.title-fr }}{% else %}{{ site.title }}{% endif %}</a>
 
 			     <!-- top right bird -->
-		     <a class="noback" href={% if page.lang =="fr" %}"/index-fr"{% else %}"/index"{% endif %}>
+		     <a class="noback" href={% if page.lang =="fr" %}"/index-fr"{% else %}"/"{% endif %}>
 			     <img alt="logo" class="noback {% for each in site.bird_right %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/quaker_icon_95x95.png" width="95px" height="95px">
 		     </a>
 
@@ -28,8 +28,8 @@
 
 <div class="navbar" id="myNavbar">
   <a title="Dropdown menu" class="icon" onclick="respondBar()"><i class="fas fa-bars"></i></a>
-	<a id="widehome" title="Home" class="{% case page.url %}{% when '/index' or '/index-fr' or '/' %}active{% endcase %}"  href={% if page.lang =="fr" %}"/index-fr"{% else %}"/index"{% endif %}  title="{% if page.lang == "fr" %}Accueil{% else %}Home{% endif %}">{% if page.lang == "fr" %}{% else %}{% endif %} <i class="fas fa-home fa-lg" style="padding=0;"></i></a>
-	<a id="narrowhome" title="Home" class="{% case page.url %}{% when '/index' or '/index-fr' or '/' %}active{% endcase %}"  href={% if page.lang =="fr" %}"/index-fr"{% else %}"/index"{% endif %}  title="{% if page.lang == "fr" %}Accueil{% else %}Home{% endif %}">{% if page.lang == "fr" %}Accueil{% else %}Home{% endif %} &nbsp;<i class="fas fa-home" style="padding=0;"></i></a>
+	<a id="widehome" title="Home" class="{% case page.url %}{% when '/index.html' or '/index-fr' or '/' %}active{% endcase %}"  href={% if page.lang =="fr" %}"/index-fr"{% else %}"/"{% endif %}  title="{% if page.lang == "fr" %}Accueil{% else %}Home{% endif %}">{% if page.lang == "fr" %}{% else %}{% endif %} <i class="fas fa-home fa-lg" style="padding=0;"></i></a>
+	<a id="narrowhome" title="Home" class="{% case page.url %}{% when '/index.html' or '/index-fr' or '/' %}active{% endcase %}"  href={% if page.lang =="fr" %}"/index-fr"{% else %}"/"{% endif %}  title="{% if page.lang == "fr" %}Accueil{% else %}Home{% endif %}">{% if page.lang == "fr" %}Accueil{% else %}Home{% endif %} &nbsp;<i class="fas fa-home" style="padding=0;"></i></a>
          {% assign counter = 0 %}
 	  {% if page.lang == "fr" %} {% assign doclist = site.data.navigation.fr %}{% else %} {% assign doclist = site.data.navigation.en %}{% endif %}
 	  {% for item in doclist %} 
@@ -77,6 +77,6 @@
   </div>
 			     <!-- Mobile bird icon -->
 	  <div class="icon_right">
-		  <a title="Home" href={% if page.lang =="fr" %}"/index-fr"{% else %}"/index"{% endif %}><img alt="logo" class="{% for each in site.mobile_bird %}{% if page.trans == each.trans %}{{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/quaker_icon_35x35.png" width="34.5px" height="34.5px"></a>
+		  <a title="Home" href={% if page.lang =="fr" %}"/index-fr"{% else %}"/"{% endif %}><img alt="logo" class="{% for each in site.mobile_bird %}{% if page.trans == each.trans %}{{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/quaker_icon_35x35.png" width="34.5px" height="34.5px"></a>
 	  </div>
 </div>
