@@ -307,13 +307,14 @@
       text-align: left;
       flex: 1 0 auto;
       width: 100%;
+      border-radius: 0;
       margin: 0;
       padding-top: 14px;
       padding-bottom: 14px;
     }
     input[type=search] {
       border: 1px solid #ccc;
-      width: 98%;
+//      width: 98%;
     }
    }
   }
@@ -328,7 +329,6 @@
   from {background-color: $color-1-dark;}
   to {background-color: $color-1;}
   }
-
 
 @keyframes change {
   from {}
