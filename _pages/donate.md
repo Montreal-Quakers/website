@@ -22,4 +22,6 @@ We do not pass a collections plate during Meeting on Sunday. In order to donate,
 * use our donation box at meeting
 * make a cheque payable to “Religious Society of Friends (Quakers) Montreal Monthly Meeting”, mailed c/o Montreal Quakers, 1090 Greene Ave., H3Z 1Z9.
 
+Donations of over $10 are eligible for a tax receipt, as the meeting is a CRA registered charity (CRA registration #892605163 RR 0001).
+
 <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.js" charset="utf-8" data-language="en" data-page-id="43151" data-root-url="https://www.canadahelps.org" data-formtype="0" data-cfasync="false"></script>
