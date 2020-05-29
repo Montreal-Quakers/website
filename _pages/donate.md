@@ -13,7 +13,7 @@ Your donations make possible functions such as:
 * Supporting the work of Canadian Yearly Meeting
 * Purchasing pamphlets and books for Montreal Meeting
 * Travel expenses for speakers and delegates
-* Donations to worthy causes approved by the Religious Society of Friends (Quakers), Montreal Meeting for Worship for Business.
+* Donations to worthy causes approved by the meeting for Worship for Business.
 
 Thank you for your consideration.
 
