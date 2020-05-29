@@ -36,7 +36,7 @@
 		{% if item.submenu != nil %}
 		{% assign counter = counter | plus: 1 %}
   <div class="dropdown">
-	  <button title="{{ item.title }}" onclick="responsiveClick('dropdown{{ counter }}')" class="dropbtn" title="{% if item.hovertitle %}{{ item.hovertitle }}{% else %}{{item.title}}{% endif %}" ><i class="fa fa-caret-down"></i> {{ item.title }}{% if item.icon %} &nbsp;{{ item.icon }}{% endif %}
+	  <button title="{{ item.title }}" onclick="responsiveClick('dropdown{{ counter }}')" class="dropbtn" title="{% if item.hovertitle %}{{ item.hovertitle }}{% else %}{{item.title}}{% endif %}" ><i class="fa fa-caret-down"></i> &nbsp;{{ item.title }}{% if item.icon %} &nbsp;{{ item.icon }}{% endif %}
     </button>
     <div class="dropdown-content" id="dropdown{{ counter }}">
 	    {% for subitem in item.submenu %}{% comment %}Fixing a silly international character bug{% endcomment %}{% assign realurl = page.url | replace: "%C3%A9", "é" | replace: "%C3%A0", "à" %}
