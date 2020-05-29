@@ -2,6 +2,7 @@
 title: Votre première assemblée Quaker en six étapes
 lang: fr
 trans: about
+permalink: /à_propos
 ---
 1. [![](/assets/images/no-tie_color.png){: img_left height="35px" class="down_a_bit_more"} &nbsp;&nbsp;Soyez les bienvenu.e.s, habillez-vous à votre goût (une cravate ça va aussi)](#cravate){: id="linkoff"}
   

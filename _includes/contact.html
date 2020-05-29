@@ -1,6 +1,6 @@
 <!-- <link rel="stylesheet" href="/assets/css/w3.css"> -->
 <form action="https://formspree.io/xaybodwa" method="POST" target="_blank">
-      <p><input class="w3-input w3-border w3-animate-input" autofocus type="text" placeholder="{% if page.lang == "fr" %}Nom{% else %}Name{% endif %}" required name="{% if page.lang == "fr" %}Nom{% else %}Name{% endif %}"></p>
+	<p><input class="w3-input w3-border w3-animate-input" {% comment %}autofocus {% endcomment %}type="text" placeholder="{% if page.lang == "fr" %}Nom{% else %}Name{% endif %}" required name="{% if page.lang == "fr" %}Nom{% else %}Name{% endif %}"></p>
       <p><input class="w3-input w3-border w3-animate-input" type="email" placeholder="{% if page.lang == "fr" %}Courriel{% else %}Email{% endif %}" required name="{% if page.lang == "fr" %}Courriel{% else %}Email{% endif %}"></p>
       <p><input class="w3-input w3-border w3-animate-input" type="text" placeholder="{% if page.lang == "fr" %}Objet{% else %}Subject{% endif %}" required name="{% if page.lang == "fr" %}Objet{% else %}Subject{% endif %}"></p>
       <input class="w3-input w3-border w3-animate-input" type="text" placeholder="Message" required name="Message">

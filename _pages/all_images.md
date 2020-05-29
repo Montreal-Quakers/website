@@ -1,5 +1,5 @@
 ---
-layout: default
+title: All images on the site
 lang: en
 permalink: all_images.html
 exclude_from_search: true

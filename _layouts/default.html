@@ -6,8 +6,8 @@ layout: compress
 <head>
   <meta charset="UTF-8">
   <!-- Preload some files and fonts to improve page load speed -->
-  <link rel="preload" href="/assets/css/style.css" as="style">
   <link rel="preload" href="/assets/css/navstyle.css" as="style">
+  <link rel="preload" href="/assets/css/style.css" as="style">
   <link rel="preload" href="/assets/google_fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf" as="font" type="font/ttf" crossorigin>
   <link rel="preload" href="/assets/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/assets/google_fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf" as="font" type="font/ttf" crossorigin>
@@ -20,6 +20,7 @@ layout: compress
   <html lang="{{ page.lang | default: 'en' }}">
   <link rel="stylesheet" href="/assets/css/fa-custom.css">
   <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/navstyle.css">
   <link rel="icon" type="image/png" href="/assets/images/quaker_icon_32x32.png" sizes="32x32">
   <link rel="apple-touch-icon" href="/assets/images/quaker_icon_192x192.png" sizes="192x192">
   <link rel="manifest" href="/manifest{% if page.lang == "fr" %}-fr{% endif %}.webmanifest">

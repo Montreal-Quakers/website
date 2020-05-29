@@ -1,23 +1,27 @@
-@import "font.scss";
+@import "font";
+@import "variables";
 
 $color-1:  #205592;
-$color-1-light: #4287D6;    //*#f44336;
-$color-1-dark: #0D2541;    //*#f44336;
-$color-active: #4287D6; //#555
+$color-1-light: #4287D6;
+$color-1-dark: #0D2541;
+$color-active: #4287D6;
 $body-font-size: 17px;
 $body-color: white;
-$body-color-text: black;//#404040;
+$body-color-text: black;
 $header-color-text: white;
 $nav-color-text: white;
 $header-font-size: 140%;
-$alert-color: #bf5608; // old orange: #d8640b Soft red:  920300 Google red: #B00020;#FF8000;B44E09
-$alert-text-color: white;  // #FF8000;
-$alert-link-color: white;   //#bababa
-$mob-pixels: 1313px; //763px;
+$alert-color: #bf5608;
+$alert-text-color: white;
+$alert-link-color: white;
+$mob-pixels: 1262px;
 /// Don't forget to update the pixel width in assets/js/navigation.js. If these values are different, some coloration will be weird.
 $nav-font-size: 1em;
 $font-mono: "Courier New", Courier, monospace; 
 $font-sans: "Source Sans Pro", Helvetica, Arial, sans-serif; // "Source Sans Pro",
 $font-serif: "Playfair Display", Georgia, serif; // "IM Fell English", "Oswald",
 $serif-spacing: 1.5px;
-$text-width: 50em; //Sets the widge of the text on the page Try 35em; later. Was 650px;
+$text-width: 50em; //Sets the width of the text on the page
+
+// $media-mobile: "@media screen and (max-width: $mob-pixels - 1) ";
+// $media-desktop: "@media screen and (min-width: $mob-pixels) ";

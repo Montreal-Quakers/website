@@ -1,6 +1,6 @@
 ---
-redirect:   /témoignages.html
+redirect:   /témoignages
 layout:     redirect
-permalink: /temoignages.html
-lang: en
+permalink: /temoignages
+lang: fr
 ---

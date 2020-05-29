@@ -1,43 +1,43 @@
 en:
 - title: About Us
   hovertitle: About Us
-  link: /intro
+  link: /intro.html
   icon: <i class='far fa-address-card'></i>
   submenu: 
     - subtitle: New Attenders
-      sublink: /about
+      sublink: /about.html
     - subtitle: Introduction to Quakers 
-      sublink: /intro
+      sublink: /intro.html
     - subtitle: Quaker Values (Testimonies)
-      sublink: /testimonies
+      sublink: /testimonies.html
     - subtitle: Links and History
-      sublink: /links_history
+      sublink: /links_history.html
 - title: Where We Meet 
   hovertitle: Where We Meet
   icon: <i class='fas fa-map-marker-alt'></i>
   submenu:
     - subtitle: Sundays in Montreal
-      sublink: /directions
+      sublink: /directions.html
     - subtitle: Midweek Meeting
-      sublink: /midweek
+      sublink: /midweek.html
     - subtitle: Quebec City
-      sublink: /qc
+      sublink: /qc.html
     - subtitle: South Shore
-      sublink: /south_shore
+      sublink: /south_shore.html
     - subtitle: Laurentian Worship Group
-      sublink: /laurentians
+      sublink: /laurentians.html
 - title: News
   hovertitle: The Latest Updates
-  link: /posts
+  link: /posts.html
   icon: <i class='fas fa-rss'></i>
 - title: Calendar
-  link: /calendar
+  link: /calendar.html
   icon: <i class='far fa-calendar-alt'></i>
 - title: Contribute
-  link: /donate
+  link: /donate.html
   icon: <i class='fas fa-coins'></i>
 - title: Contact Us
-  link: /contact
+  link: /contact.html
   icon: <i class='far fa-envelope-open'></i>
 
 fr:
@@ -45,36 +45,36 @@ fr:
   icon: <i class='far fa-address-card'></i>
   submenu:
     - subtitle: Déroulement
-      sublink: /à_propos
+      sublink: /a_propos.html
     - subtitle: Introduction aux Quakers
-      sublink: /intro-fr
+      sublink: /intro-fr.html
     - subtitle: Nos valeurs (les témoignages)
-      sublink: /témoignages
+      sublink: /témoignages.html
     - subtitle: Liens et histoire
-      sublink: /liens_histoire
+      sublink: /liens_histoire.html
 - title: Nous trouver
   icon: <i class='fas fa-map-marker-alt'></i>
   submenu:
     - subtitle: Le dimanche à Montréal
-      sublink: /coordonnées
+      sublink: /coordonnées.html
     - subtitle: Mi-semaine à Montréal
-      sublink: /mi-semaine
+      sublink: /mi-semaine.html
     - subtitle: À Québec
-      sublink: /québec
+      sublink: /quebec.html
     - subtitle: Sur la Rive-Sud
-      sublink: /rive-sud
+      sublink: /rive-sud.html
     - subtitle: Dans les Laurentides
-      sublink: /laurentides
+      sublink: /laurentides.html
 - title: Nouvelles
   hovertitle: Nos mises à jour
-  link: /nouvelles
+  link: /nouvelles.html
   icon: <i class='fas fa-rss'></i>
 - title: Programmation
-  link: /calendrier
+  link: /calendrier.html
   icon: <i class='far fa-calendar-alt'></i>
 - title: Faire un don
-  link: /don
+  link: /don.html
   icon: <i class='fas fa-coins'></i>
 - title: Contact
-  link: /contact-fr
+  link: /contact-fr.html
   icon: <i class='far fa-envelope-open'></i>

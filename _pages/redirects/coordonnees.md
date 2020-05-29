@@ -1,6 +1,6 @@
 ---
-redirect:   /coordonnées.html
+redirect:   /coordonnées
 layout:     redirect
-permalink: /coordonnees.html
-lang: en
+permalink: /coordonnees
+lang: fr
 ---

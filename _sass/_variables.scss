@@ -1,0 +1,39 @@
+@mixin transform($property) {
+  // -webkit-transform: $property;
+  // -ms-transform: $property; // Turn off ms-transform. Can turn it on
+  transform: $property;
+}
+
+@mixin transform-origin($property) {
+  // -webkit-transform-origin: $property;
+  // -ms-transform: $property; // Turn off ms-transform. Can turn it on
+  transform-origin: $property;
+}
+
+@mixin sticky {
+	position: -webkit-sticky;
+        position: -moz-sticky;
+        position: -ms-sticky;
+        position: -o-sticky;
+        position: sticky;
+}
+
+@mixin animation($property) {
+//	-webkit-animation: $property;
+                animation: $property;
+}
+@mixin twoanimations($property1,$property2) {
+//	-webkit-animation: $property1,$property2;
+//	-moz-animation: $property1,$property2;
+             animation: $property1,$property2;
+}
+
+@mixin transition($property) {
+//	-webkit-transition: $property;
+                transition: $property;
+}
+
+@mixin filter($property) {
+//	-webkit-filter: $property;
+                filter: $property;
+}

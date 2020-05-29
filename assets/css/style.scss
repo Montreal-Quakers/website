@@ -1,8 +1,8 @@
 ---
 ---
 // Already imported
-@import "colors.scss";
-@import "font.scss";
+@import "colors";
+// @import "include-media";
 
 *,*:before,*:after{box-sizing:inherit}
 
@@ -29,14 +29,6 @@ img {
 	max-width: 100%;
 }
 
-/* body:not(p,h1,h2,h3,h4,h5,h6,a) {  
-  font-family: Arial, Helvetica, sans-serif; 
-    margin: 0px; 
-    border: 0px; 
-    padding: 0px; 
-  background-color: white; 
-} */
-
 h1,h2,h3,h4,h5,h6 {
 	font-weight: 400;
 	margin: 10px 0;
@@ -49,13 +41,15 @@ h4 {font-size: 120%}
 h5 {font-size: 105%}
 h6 {font-size: 95%;}
 
-h1.header,h2.header,h3.header,h4.header {
+h1,h2,h3,h4 {
+  &.header {
 	font-family: $font-serif;
 	text-align: center;
         background-color: $body-color;
         color: $body-color-text;
         padding: 10px;
 	margin: 0 auto 0;
+  }
 }
 
 hr {
@@ -70,21 +64,21 @@ a:active,a:hover,a:visited {outline-width:0;text-decoration: none;}
 button {
 	text-transform: none;
 	-webkit-appearance: button;
-}
-button,input {
+  &,input {
 	overflow: visible;
 	font:inherit;
 	margin: 0;
+  }
 }
 
-
-.content.mono {
-	font-family: $font-mono;
-}
-	
-.content.serif {
-	font-family: $font-serif;
-	letter-spacing: $serif-spacing;
+.content {
+  &.mono {
+   font-family: $font-mono;
+  }
+  &.serif {
+    font-family: $font-serif;
+    letter-spacing: $serif-spacing;
+  }
 }
 .footer {
     flex: 1 0 auto;
@@ -94,167 +88,25 @@ button,input {
     padding: 0px 0 5px 0;
     background-color: $color-1;
     text-align: center;
-}
-
-.footer h3 {
+     h3 {
 	padding-top: .5em;
         font-family: $font-serif;
 	letter-spacing: $serif-spacing;
 	font-size: 2em;
-}
-
-.footer h6 {
+     }
+     h6 {
 	font-family: $font-sans;
-}
-
-.footer.smaller {
+     }
+     &.smaller {
 	font-size: 0.75em;
+     }
 }
 
 .stickystart { // Ends at alert.html
-  background-color: $alert-color; /* Red */
+  background-color: $alert-color;
   display: flex;
-  /*justify-content: center;*/
   justify-content: space-between;
   align-content: center;
-}
-
-.alert {
-  text-align: center;
-  max-width: $text-width;
-  font-family: $font-sans;
-  font-weight: bold;
-  padding: 20px;
-  color: $alert-text-color;
-  margin: 0 0 ;
-  opacity: 1;
-  transition: opacity 0.6s; /* 600ms to fade out */
-}
-
-.alert a {
-   color: $alert-link-color;
-   font-weight: 800;
-   font-family: $font-sans;
-   }
-
-.alert p {
-	margin: 0;
-}
-
-/* The alert close button */
-.closebtn {
-  margin: 0 0 0 0;
-  align-self: center;
-  font-family: $font-sans;
-  padding: 0px 20px 0 15px;
-  color: white;
-  background-color: $alert-color; /* Red */
-  font-weight: bold;
-  float: right;
-  font-size: 1em;
-  line-height: 20px;
-  cursor: pointer;
-  transition: 0.3s;
-  display: block;
-  z-index: 100;
-}
-
-.alert-color-text {
-   color: $alert-color;
-}
-
-/* When moving the mouse over the close button */
-.closebtn:hover {
-  color: black;
-}
-
-.theme-gradient {
-  color: #000;
-  background: linear-gradient(top,$color-1 25%,$color-1-dark 75%)}
-
-.center {
-	text-align: center;
-}
-
-.img_center25 {
-    text-align: center;
-    margin: 0 auto;
-    display: block;
-    padding: 15px;
-    width: 25%;
-    }
-
-.img_center50 {
-    text-align: center;
-    margin: 0 auto;
-    display: block;
-    padding: 15px;
-    width: 50%;
-    }
-
-.img_center75 {
-    text-align: center;
-    margin: 0 auto;
-    display: block;
-    padding: 15px;
-    width: 75%;
-    }
-
-.img_center100 {
-    text-align: center;
-    margin: 0 auto;
-    display: block;
-    padding: 15px;
-    width: 100%;
-    }
-
-.img_center {
-    text-align: center;
-    margin: 0 auto;
-    display: block;
-    padding: 15px;
-    }
-
-.img_center_no_pad {
-    text-align: center;
-    margin: 0 auto;
-    display: block;
-    }
-
-.img_floatleft {
-	margin: auto;
-	display: block;
-	float: left;
-	padding: 15px;
-}
-
-.color-1 {
-	background-color: $color-1;
-	color: white
-}
-
-.color-1-text {
-	background-color: $body-color;
-	color: $color-1
-}
-
-.color-1-dark-text {
-	background-color: $body-color;
-	color: $color-1-dark
-}
-
-.color-1-light-text {
-	background-color: $body-color;
-	color: $color-1-light
-}
-
-.color-1-dark {
-	background-color: $color-1-dark;
-	color: white
-}
-
-.color-1-light {
-	background-color: $color-1-light;
 }
 
 .container-alert {
@@ -266,9 +118,111 @@ button,input {
    height: 100%;
 }
 
+.alert {
+  text-align: center;
+  max-width: $text-width;
+  font: {
+      family: $font-sans;
+      weight: bold;}
+  padding: 20px;
+  color: $alert-text-color;
+  margin: 0 0 ;
+  opacity: 1;
+  transition: opacity 0.6s;
+  a {
+    color: $alert-link-color;
+    font-weight: 800;
+    font-family: $font-sans;
+  }
+  p {
+    margin: 0;
+  }
+}
+.alert-color-text {
+   color: $alert-color;
+}
+
+// The alert close button
+.closebtn {
+  margin: 0 0 0 0;
+  align-self: center;
+  font-family: $font-sans;
+  padding: 0px 20px 0 15px;
+  color: white;
+  background-color: $alert-color;
+  font-weight: bold;
+  font-size: 1em;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+  display: block;
+  z-index: 100;
+    &:hover {
+     color: black;
+    }
+}
+
+.center {
+	text-align: center;
+}
+
+.img_center_no_pad {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    }
+
+.img_center {
+    @extend .img_center_no_pad;
+    padding: 15px;
+  &25 {
+    @extend .img_center;
+    width: 25%;
+  }
+  &50 {
+    @extend .img_center;
+    width: 50%;
+  }
+  &75 {
+    @extend .img_center;
+    width: 75%;
+  }
+  &100 {
+    @extend .img_center;
+    width: 100%;
+  }
+}
+.img_floatleft {
+	@extend .img_center_no_pad;
+	float: left;
+}
+
+.color-1 {
+	background-color: $color-1;
+	color: white
+   &-text {
+	background-color: $body-color;
+	color: $color-1
+   }
+   &-dark-text {
+	background-color: $body-color;
+	color: $color-1-dark
+   }
+   &-light-text {
+	background-color: $body-color;
+	color: $color-1-light
+   }
+   &-dark {
+	background-color: $color-1-dark;
+	color: white
+   }
+   &-light {
+	background-color: $color-1-light;
+   }
+}
+
 main {
-   flex: 1 0 auto; /* can grow, cannot shrink auto size */
-   /*margin: 0 auto 0; /* this might result in centered text, we'll see */
+   flex: 1 0 auto;
    min-height: auto;
    background-color: $body-color;
    height: 100%;
@@ -281,12 +235,11 @@ main {
   width: 25px;
   height: 16px;
   top: 5px;
-}
-
-.switch input {
-  opacity: 0;
-  width: 0;
-  height: 0;
+   input {
+     opacity: 0;
+     width: 0;
+     height: 0;
+   }
 }
 
 .slider {
@@ -300,68 +253,63 @@ main {
   -webkit-transition: .4s;
   transition: .4s;
   padding: 2px;
+  &:before {
+     position: absolute;
+     content: "";
+     height: 8px;
+     width: 8px;
+     left: 4px;
+     bottom: 4px;
+     background-color: white;
+     -webkit-transition: .4s;
+     transition: .4s;
+   }
 }
 
-.slider:before {
-  position: absolute;
-  content: "";
-  height: 8px;
-  width: 8px;
-  left: 4px;
-  bottom: 4px;
-  background-color: white;
-  -webkit-transition: .4s;
-  transition: .4s;
+input {
+  &:checked + .slider {
+   background-color: $color-1-light;
+      &:before {
+        @include transform(translateX(9px));
+      }
+    }
+  &:focus + .slider {
+    box-shadow: 0 0 1px #2196F3;
+  }
 }
 
-input:checked + .slider {
-  background-color: $color-1-light;
-}
-
-input:focus + .slider {
-  box-shadow: 0 0 1px #2196F3;
-}
-
-input:checked + .slider:before {
-  -webkit-transform: translateX(9px);
-  -ms-transform: translateX(9px);
-  transform: translateX(9px);
-}
-
-/* Rounded sliders */
+// Rounded sliders
 .slider.round {
   border-radius: 34px;
+  &:before {
+    border-radius: 50%;
+  }
 }
+// Align icons
 
-.slider.round:before {
-  border-radius: 50%;
-}
-
-.down_a_tad {vertical-align:sub}
-
-.down_a_bit {
-        vertical-align: bottom;
-//        position: relative;
-//        bottom: 4px;
-}
-
-.down_a_bit_more {
+.down_a {
+  &_bit {
+     vertical-align: bottom;
+    &_more {
         vertical-align: bottom;
         position: relative;
         bottom: -4px;
+    }
+  }
+  &_tad {vertical-align:sub}
 }
 
 .container-content {
    width: 100%;
-   margin: 0 auto 0; /* this might result in centered text, we'll see */
+   margin: 0 auto 0;
    background-color: $body-color;
    height: 100%;
    display: flex;
    justify-content: space-around;
 }
 
-.content {  /* always on the left if there's media */
-   flex: 0 1 $text-width; /* don't grow, can shrink, and starts at $text-width */
+.content {  // always on the left if there's media
+   flex: 0 1 $text-width;
    padding: 0 66px 0;
    font-family: $font-sans; 
    font-size:1em;
@@ -371,6 +319,29 @@ input:checked + .slider:before {
    margin-bottom: 0;
 }
 
+.media {
+   flex: 1 0 400px;
+   padding: 0 3px;
+  }
+
+.embed-container2,.embed-container-map {
+  position: relative; 
+  padding-bottom: 56.25%; 
+  height: 0; 
+  overflow: hidden; 
+  max-width: 100%; 
+} 
+
+.embed-container2, .embed-container-map {
+	iframe,object,embed {
+           position: absolute;
+           top: 0;
+           left: 0;
+           width: 100%;
+           height: 100%;
+	}
+}
+
 .w3-input{padding:8px;display:block;border:none;border-bottom:1px solid #ccc;width:100%}
 .w3-border{border:1px solid #ccc}
 .w3-animate-input{width:50%;transition:width 0.4s ease-in-out}
@@ -378,42 +349,29 @@ input:checked + .slider:before {
 .w3-button{border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;text-align:center;cursor:pointer;white-space:nowrap;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;transition:background-color .3s}
 .w3-button:hover{background-color:$color-1}
 
-.media {
-   flex: 1 0 400px; /* can grow, can't shrink, and set to min 400px */
-   padding: 0 3px;
-  }
-/* large calendar is embed-container2. I don't apply any styling to the mobile sized calendar */
-
-.embed-container2 {
-  position: relative; 
-  padding-bottom: 56.25%; 
-  height: 0; 
-  overflow: hidden; 
-  max-width: 100%; 
-} 
-  
-.embed-container2 iframe, .embed-container2 object, .embed-container2 embed {
-  position: absolute; 
-  top: 0; 
-  left: 0; 
-  width: 100%; 
-  height: 100%; 
+// scroll up button
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 599;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: $color-1-dark;
+  color: white;
+  cursor: pointer;
+  padding: 11px 15px;
+  box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+  border-radius:50%;
+  transition: 0.3s;
+   &:hover {
+     background-color: $color-1-light;
+   }
 }
-/* the google map */
-.embed-container-map { 
-  position: relative; 
-  padding-bottom: 56.25%; height: 0; 
-  overflow: hidden; max-width: 100%; 
-  } 
-
-.embed-container-map iframe, .embed-container-map object, .embed-container-map embed {
-  position: absolute; 
-  top: 0; 
-  left: 0; 
-  width: 100%; 
-  height: 100%; 
-}
-
+// Media & Container responsiveness
+// @include media("<=800px") {
 @media screen and (max-width: 800px) {
   .container-content {   
     flex-direction: column;
@@ -431,10 +389,10 @@ input:checked + .slider:before {
   .content {
 	  padding: 20px;
   }
-  
 }
 
-@media screen and (min-width: 801px) {
+// @include media(">800px") {
+@media screen and (min-width: 800px + 1) {
   .embed-container2 {
 	  display: default
   }
@@ -442,38 +400,10 @@ input:checked + .slider:before {
 	  display: none;
   }
  .media {
-         position: -webkit-sticky;
-         position: -moz-sticky;
-         position: -ms-sticky;
-         position: -o-sticky;
-         position: sticky;
+	 @include sticky;
          align-self: flex-start;
          right: 0;
          top: 100px;
          max-width: 100%;
  }
-}
-
-
-/* scroll up button */
-#myBtn {
-  display: none;
-  position: fixed;
-  bottom: 20px;
-  right: 30px;
-  z-index: 599;
-  font-size: 18px;
-  border: none;
-  outline: none;
-  background-color: $color-1-dark;
-  color: white;
-  cursor: pointer;
-  padding: 11px 15px;
-  box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
-  border-radius:50%;
-  transition: 0.3s;
-}
-
-#myBtn:hover {
-	background-color: $color-1-light;
 }

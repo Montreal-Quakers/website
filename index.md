@@ -2,6 +2,7 @@
 layout: default
 lang: en
 trans: index
+permalink: index
 ---
  
 ### [About Quakers](/intro.html)
