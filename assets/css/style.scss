@@ -174,7 +174,7 @@ button {
 
 .img_center {
     @extend .img_center_no_pad;
-    padding: 15px;
+    padding: 15px 0;
   &25 {
     @extend .img_center;
     width: 25%;
