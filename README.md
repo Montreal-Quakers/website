@@ -52,7 +52,7 @@ author: clerk
      * The ```lang``` -- this tells the system which language to display a page in, either in English (```lang: en```) or in French (```lang: fr```). Default is English so you can leave this blank)
      * Author (to your name, for instance ```author: Shelly```)
      * If you do not have a translated version of the post, you don't need to worry about the ```trans``` line. You can delete it or leave it blank or put in a random value. If you do have a translated version of the post, choose a unique code for the ```trans``` (for instance, ```trans: helloworld```), and the website will automatically link between English and French pages that have the same ```trans``` code.  
-        * If you're not 100% sure if your translation code (```trans```) is unique, you can search for it on this [page]({{ site.myurl }}/_pages/health.html).
+        * If you're not 100% sure if your translation code (```trans```) is unique, you can search for it on this [page](https://github.com/Montreal-Quakers/g/_pages/health.html).
 6. Write your blog post after the second three dashes (```---```) the way you would write an email. GitHub will translate this into HTML.
 
 The full sample blog post would look like this (```_posts/2020-05-24-hello-world.md```):
@@ -94,7 +94,7 @@ This is my _first_ blog post.
 Go back to the [home](/index.html) page.
 ```
 # Where to find stuff
-The only files in the home directory that one will need to change are ```index.md``` (the English homepage), ```index-fr.md``` (the French homepage), and maybe ```404.md``` (the page showed if there is no matching page, for instance [this]({{ site.myurl }}/doesntexist.html)).
+The only files in the home directory that one will need to change are ```index.md``` (the English homepage), ```index-fr.md``` (the French homepage), and maybe ```404.md``` (the page showed if there is no matching page, for instance [this](https://github.com/Montreal-Quakers/g/doesntexist.html)).
 
 All the major pages, except for the index, are in the ```_pages``` directory. Posts (blog updates, found in the "news" part of the website) can be found in ```_posts```. See advanced tasks at the end of this README that explains, for instance, how to alter the site navigation (the links at the top of the page). It should be advanced but not too advanced.
 
@@ -116,9 +116,9 @@ Some basics about how this website works:
   * Links like so: ```[your text describing Google](https://google.ca)```, which will look like this: [your text describing Google](https://google.ca)
   * _Format_ **text** ~~like~~ _this_ ```_Format_ **text** ~~like~~ _this_```
 * Most of the pages and posts on this website are just plain text, just like Wordpress.
-* If you'd like to play around on this site on Github, there is also a [sandbox page]({{ site.myurl }}/sandbox.html) where website administrators can test the changes they've made to see how they'd look on the final site. Or you can just modify any way you want a live copy of the website code [here] (https://github.com/Montreal-Quakers/website-test), and see how it looks on the live version [there](https://montreal-quakers.github.io/website-test/).
+* If you'd like to play around on this site on Github, there is also a [sandbox page](https://github.com/Montreal-Quakers/g/sandbox.html) where website administrators can test the changes they've made to see how they'd look on the final site. Or you can just modify any way you want a live copy of the website code [here] (https://github.com/Montreal-Quakers/website-test), and see how it looks on the live version [there](https://montreal-quakers.github.io/website-test/).
 * If you're feeling very ambitious, you can also create a GitHub account, [fork this repository](https://help.github.com/en/github/getting-started-with-github/fork-a-repo), and change anything you want. Or the administrator can create draft "[branches](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository)" of the website and test out how they look. Good luck doing that on WordPress.
-* Finally, note this [site health page]({{ site.myurl }}/_pages/health.html), which will help detect problems with the automated translation system. More details appear on that page. You may also test to make sure [this blank page]({{ site.myurl }}/blank.html) is looking normal.
+* Finally, note this [site health page](https://github.com/Montreal-Quakers/g/_pages/health.html), which will help detect problems with the automated translation system. More details appear on that page. You may also test to make sure [this blank page]({{ site.myurl }}/blank.html) is looking normal.
 
 # For beginners
 No HTML is needed to make basic changes to the site, but it's good to know one thing: HTML works by putting "tags" around text to tell your browser how to render the text. Tags in HTML begin and end with these greater-than, lesser-than symbols ```<>```. For instance, text with ```<b>bold</b>``` around it will appear, well, <b>bold</b>. So a ```<b>``` means that the bold is beginning and a ```</b>``` with a slash before it means that that the bold is ending. You don't need to code in HTML to make changes, you just need to not feel intimidated by the bits of code that are on various pages. There is no need to change HTML; it's enough to avoid changing it by knowing how the tags work. Some pages also contain a language called Liquid; again, no knowledge of Liquid is required. It's enough to know that liquid begins and ends tags with either two brackets or a bracket and parenthesis.
@@ -156,7 +156,7 @@ trans: covid   (<--- This a codeword that helps the system find a translation fo
 ---  (<--- This is required and just means that the front matter is ending)
 ```
 
-For the automatic translation linking system (the link in the navigation between English and French content) to work properly, you just need to properly indicate in the "front matter" the ```lang:``` (```en``` or ```fr```) and make up a unique translation code (for instance, ```veryuniquecode```) and put it after ```trans: ``` like this: ```trans: veryuniquecode```. You can see above that I set one COVID page ```lang``` to ```fr``` and the other one to ```en``` and then I set both ```trans:``` to ```covid```. If you look on the website, a link will be created that will connect the two pages. If you have any doubts whether that code has already been used, then use something more unique or else look at the [site health page]({{ site.myurl }}/_pages/health.html), which lists all the current ```lang``` and ```trans``` codes in use for every single page and post.
+For the automatic translation linking system (the link in the navigation between English and French content) to work properly, you just need to properly indicate in the "front matter" the ```lang:``` (```en``` or ```fr```) and make up a unique translation code (for instance, ```veryuniquecode```) and put it after ```trans: ``` like this: ```trans: veryuniquecode```. You can see above that I set one COVID page ```lang``` to ```fr``` and the other one to ```en``` and then I set both ```trans:``` to ```covid```. If you look on the website, a link will be created that will connect the two pages. If you have any doubts whether that code has already been used, then use something more unique or else look at the [site health page](https://github.com/Montreal-Quakers/g/_pages/health.html), which lists all the current ```lang``` and ```trans``` codes in use for every single page and post.
 
 # Changing colours, finding old drafts, and site alerts
 
@@ -173,7 +173,7 @@ alert_pages:
   - page_trans: directions
 ```
 
-(The ```trans``` code for every page can be found at the [site health page]({{ site.myurl }}/_pages/health.html)).
+(The ```trans``` code for every page can be found at the [site health page](https://github.com/Montreal-Quakers/g/_pages/health.html)).
 
 To edit the alert text itself, go to ```_include/alert.md``` or for the French ```_include/alerte.md```. To change the alert color, go to ```_sass/colors.scss``` and change ```$alert-color:``` to anything you like.
 
@@ -188,13 +188,13 @@ This gives:
 # More advanced changes
 
 ### Automated translation link
-This site uses an automatic search algorithm that checks the "front matter" (everything between the three dashes, you can see some examples above) in order to match up posts to their translation. So if you're having trouble with translations, make sure that each page and post has a unique "trans:" (translation) code.  If anything is going wrong, see the [site health page]({{ site.myurl }}/_pages/health.html) to see all the ```trans``` codes and ```lang``` codes for every page and post in the website.
+This site uses an automatic search algorithm that checks the "front matter" (everything between the three dashes, you can see some examples above) in order to match up posts to their translation. So if you're having trouble with translations, make sure that each page and post has a unique "trans:" (translation) code.  If anything is going wrong, see the [site health page](https://github.com/Montreal-Quakers/g/_pages/health.html) to see all the ```trans``` codes and ```lang``` codes for every page and post in the website.
 
 ### Contact form
 This site uses formspree for the contact form. The code should be in ```_includes/contact.html```. There is some liquid code to get the right language text in the form.
 
 ### Icons
-Some of the only HTML in the Markdown pages, just so you know, are FontAwesome icons, which are called like this ```<i class="fas fa-pencil-alt"></i>&nbsp;```. A user with very little technical expertise can nonetheless easily change these icons by going to the fontawesome [website](http://fontawesome.com/) and searching for icons. It is then possible to just copy the code that FontAwesome will tell you to use and insert it in any page. Again, this is possible in Wordpress but not really any easier. The user can choose between copying the code entirely from the FontAwesome website, or just replacing the part in the code that indicates which icon ```fa-pencil-alt```. Also, note that the ```&sbsp;``` is the HTML code for a non-breaking space, in case it's necessary to add more spacing on either side. Also, the user may notice that the [intro]({{ site.myurl }}/intro.html) page contains some icons that contain code like ```fa-fw``` (fixed-width icons so that the text aligns) and ```fa-lg``` which sets the icon-size to large. This is technical but equally technical as Wordpress.
+Some of the only HTML in the Markdown pages, just so you know, are FontAwesome icons, which are called like this ```<i class="fas fa-pencil-alt"></i>&nbsp;```. A user with very little technical expertise can nonetheless easily change these icons by going to the fontawesome [website](http://fontawesome.com/) and searching for icons. It is then possible to just copy the code that FontAwesome will tell you to use and insert it in any page. Again, this is possible in Wordpress but not really any easier. The user can choose between copying the code entirely from the FontAwesome website, or just replacing the part in the code that indicates which icon ```fa-pencil-alt```. Also, note that the ```&sbsp;``` is the HTML code for a non-breaking space, in case it's necessary to add more spacing on either side. Also, the user may notice that the [intro](https://github.com/Montreal-Quakers/g/intro.html) page contains some icons that contain code like ```fa-fw``` (fixed-width icons so that the text aligns) and ```fa-lg``` which sets the icon-size to large. This is technical but equally technical as Wordpress.
 
 ## How to change the youtube video and google maps directions
 
@@ -206,7 +206,7 @@ media_pages:
   - page_trans: index
     media: yt_embed.html
 ```
-This means that on the homepage ([/index.html]({{ site.myurl }}/index.html)), yt_embed.html will appear full-width next to it. 
+This means that on the homepage ([/index.html](https://github.com/Montreal-Quakers/g/index.html)), yt_embed.html will appear full-width next to it. 
 
 Note too that there is an image carousel in the sandbox page. That can be inserted in any page the same way as the YouTube videos. For instance, if we want it on the ```about``` page, just add these lines to ```config.yml``` under ```media_pages:```:
 ```
@@ -237,7 +237,7 @@ Let's say you want to call up ```/assets/images/claires_painting.jpg```. If you 
 
 The classes you can choose from are ```{: class="img_center25"}```, ```{: class="img_center50"}```, ```{: class="img_center75"}```, and ```{: class="img_center100"}```. If you do simply ```{: class="img_center"}``` it will be a centered full-size image (not recommended as this will likely look bad on mobile). There are a few more classes in the CSS or you can search the internet for other options.
 
-You can also see all the images available in the assets via [this page]({{ site.myurl }}/all_images.html).
+You can also see all the images available in the assets via [this page](https://github.com/Montreal-Quakers/g/all_images.html).
 
 ## How to alter the site navigation (the links at the top)
 
