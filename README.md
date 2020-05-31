@@ -27,7 +27,7 @@ The only thing people are likely to need to change regularly are blog posts. Thi
 
 No need to memorize **any** of this information. Throughout this README, if you're planning to do a task, just look up the instructions one step at a time as you're doing the task.
 
-The blog posts are in the ```_posts``` [folder](https://github.com/mtlquakers/website/tree/master/_posts). Existing posts are organized chronologically and end in ```.md```.
+The blog posts are in the ```_posts``` [folder](https://github.com/Montreal-Quakers/website/tree/master/_posts). Existing posts are organized chronologically and end in ```.md```.
 
 In order to create a new post, follow these steps.
 1. Open the ```_posts``` folder. 
@@ -109,14 +109,14 @@ Just to give an idea of the basic structure, navigation (all the links at the to
 Some basics about how this website works:
 * A [tutorial](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository) on how to change files on GitHub.
 * Posts are in the simplified [Markdown](https://guides.github.com/features/mastering-markdown/) format. 
-* If you'd like to see for yourself if Markdown is as intuitive as I think it is, feel free to make changes to [this Codepen](https://codepen.io/mtlquakers/pen/xxwGKPQ) (change anything on there, because you can't save your changes. No matter what you do, the next person will find it the way you did, so have fun).
+* If you'd like to see for yourself if Markdown is as intuitive as I think it is, feel free to make changes to [this Codepen](https://codepen.io/mtlquakers/pen/xxwGKPQ) (change anything on there, because you can't save your changes. In other words, no matter what you do, you can reload the page and it will be like before).
 * You don't need to memorize any of that, just look it up anytime you need it. Besides, there are really only four things you are likely to need:
   * Headers like so: ```### Your header-3 text here``` which will look like [this](#about-this-website)
   * Images like so: ```![](/assets/images/yourimage.png)```. See the codepen above.
   * Links like so: ```[your text describing Google](https://google.ca)```, which will look like this: [your text describing Google](https://google.ca)
   * _Format_ **text** ~~like~~ _this_ ```_Format_ **text** ~~like~~ _this_```
 * Most of the pages and posts on this website are just plain text, just like Wordpress.
-* If you'd like to play around on this site on Github, there is also a [sandbox page]({{ site.myurl }}/sandbox.html) where website administrators can test the changes they've made to see how they'd look on the final site. Or you can just modify any way you want a live copy of the website code [here] (https://github.com/mtlquakers/website-test), and see how it looks on the live version [there](https://mtlquakers.github.io/website-test/).
+* If you'd like to play around on this site on Github, there is also a [sandbox page]({{ site.myurl }}/sandbox.html) where website administrators can test the changes they've made to see how they'd look on the final site. Or you can just modify any way you want a live copy of the website code [here] (https://github.com/Montreal-Quakers/website-test), and see how it looks on the live version [there](https://montreal-quakers.github.io/website-test/).
 * If you're feeling very ambitious, you can also create a GitHub account, [fork this repository](https://help.github.com/en/github/getting-started-with-github/fork-a-repo), and change anything you want. Or the administrator can create draft "[branches](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository)" of the website and test out how they look. Good luck doing that on WordPress.
 * Finally, note this [site health page]({{ site.myurl }}/_pages/health.html), which will help detect problems with the automated translation system. More details appear on that page. You may also test to make sure [this blank page]({{ site.myurl }}/blank.html) is looking normal.
 
