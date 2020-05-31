@@ -21,7 +21,7 @@ We are Quakers of all kinds — Christian Quakers, nontheist Quakers, Buddhist Q
 ### [<i class="fas fa-map-marker-alt fa-fw color-1-dark-text"></i> ](/directions.html){: id="linkoff"}[Where we meet](/directions.html)
 
 Our main meeting is on Sundays at the [Greene Centre](/directions.html). Here are our opportunities to join us: 
-* [Sunday Meeting](directions.html), every Sunday at 11 AM at the [Greene Centre](/directions.html)
+* [Sunday Meeting](/directions.html), every Sunday at 11 AM at the [Greene Centre](/directions.html)
 * [Midweek Meeting](/midweek.html), Wednesdays at 5:30 PM near McGill University during the academic year
 * [Quebec City Worship Group](/quebec.html), first Sunday of the month at 11 AM in old Quebec
 * [Laurentian Worship Group](/laurentians.html), Sundays at 10:30 AM
