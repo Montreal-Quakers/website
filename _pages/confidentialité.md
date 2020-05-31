@@ -18,7 +18,7 @@ Les articles sur ce site peuvent inclure du contenu incorporé (par exemple des 
 Ces sites Web peuvent collecter des données vous concernant, utiliser des cookies, intégrer un suivi tiers et surveiller votre interaction avec ce contenu incorporé, y compris le suivi de votre interaction avec le contenu incorporé si vous avez un compte et êtes connecté à ce site Web.
 
 ### Nos coordonnées
-Utilisez le formulaire de [contact](contact-fr.md).
+Utilisez le formulaire de [contact](/contact-fr.md).
 
 ### License
 

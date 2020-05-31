@@ -11,7 +11,7 @@ trans: midweek
 * Des fois nous avons **un club de lecture ou une étude biblique** après. [Contactez-nous](/contact-fr.html) pour plus de détails.
 
 ### Mises à jours <span class="stanchor"><a name="misesàjour"> </a></span>
-Pour plus d'informations, joignez-vous au [groupe Facebook](https://www.facebook.com/groups/mtlmidweek/){:  rel="noopener" target="_blank"}, consultez la [page Facebook](https://www.facebook.com/MontrealQuakers/){:  rel="noopener" target="_blank"} (pas besoin d’être membre de Facebook, majoritairement en anglais) ou [contactez-nous](contact-fr.html) pour toute autre question.
+Pour plus d'informations, joignez-vous au [groupe Facebook](https://www.facebook.com/groups/mtlmidweek/){:  rel="noopener" target="_blank"}, consultez la [page Facebook](https://www.facebook.com/MontrealQuakers/){:  rel="noopener" target="_blank"} (pas besoin d’être membre de Facebook, majoritairement en anglais) ou [contactez-nous](/contact-fr.html) pour toute autre question.
 ### Où
 [3484 rue Peel, Montréal](https://goo.gl/maps/MeQqk7m8Hegzx9Sz8){:  rel="noopener" target="_blank"}
 
@@ -23,6 +23,6 @@ Pour nous trouver à la **Bibliothèque Ryan**, entrez au Centre Newman par l’
 
 Toutes et tous sont le bienvenu!
 
-Si c’est votre première assemblée Quaker, [ce lien](a_propos.html) donne une idée de ce à quoi s’attendre.
+Si c’est votre première assemblée Quaker, [ce lien](/a_propos.html) donne une idée de ce à quoi s’attendre.
 
 ![Bibliothèque Ryan](/assets/images/ClaudeRyanLibrary.jpg){: .img_center}

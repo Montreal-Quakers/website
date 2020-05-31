@@ -6,11 +6,11 @@ trans: quebec
 
 Le Groupe des Quakers à Québec se rencontre chaque premier dimanche du mois à 11h00 au [31 rue des Jardins dans le Vieux-Québec](https://www.google.com/maps/search/31%20rue%20des%20Jardins,%20Qu%C3%A9bec){: target="_blank" rel="noopener"} à la chapelle All Saints Chapel, bâtiment situé dans la cour de la cathédrale anglicane Holy Trinity.
 
-Tous et toutes sont [bienvenus](intro-fr.html) au culte quaker, peu importe le sexe, la race, l’orientation ou même les croyances. Le culte [se déroule](a_propos.html) principalement en silence pendant une période qui peut varier de 45 minutes à une heure. Le culte peut être suivi d’une période de questions pour les nouveaux visiteurs.
+Tous et toutes sont [bienvenus](/intro-fr.html) au culte quaker, peu importe le sexe, la race, l’orientation ou même les croyances. Le culte [se déroule](/a_propos.html) principalement en silence pendant une période qui peut varier de 45 minutes à une heure. Le culte peut être suivi d’une période de questions pour les nouveaux visiteurs.
 
-Si c’est votre première assemblée Quaker, [ce lien](a_propos.html) donne une idée de ce à quoi s’attendre.
+Si c’est votre première assemblée Quaker, [ce lien](/a_propos.html) donne une idée de ce à quoi s’attendre.
 
-### [Contactez-nous](contact-fr.html) pour plus de détails:
+### [Contactez-nous](/contact-fr.html) pour plus de détails:
 
 [quakersquebec@gmail.com](mailto:quakersquebec@gmail.com){:  rel="noopener" target="_blank"}
 
@@ -25,6 +25,6 @@ Contrairement à ce qui est parfois véhiculé, les quakers sont très bien int�
 
 Le culte chez les quakers est un culte silencieux. Les participants s’assoient en cercle pendant environ une heure, en silence. C’est un temps d’écoute et d’attente qui demande une certaine maturité. Le silence n’est pas un but mais un moyen. Il est possible qu’une personne éprouve le besoin de prendre très brièvement la parole afin d’exprimer ce qui se meut en elle pendant ce temps de calme. Même si elle est peu fréquente cette parole enrichi le culte. Il n’y a ni prêtre, ni pasteur, ni credo, ni sacrements. L’expérience de Dieu est une expérience personnelle qui est accessible à chacun.
 
-### Pour plus d’information sur le quakerisme, voir la page [Liens et histoire](liens_histoire.html):
+### Pour plus d’information sur le quakerisme, voir la page [Liens et histoire](/liens_histoire.html):
 
 ![Chaises](/assets/images/quebec_wg.jpg){: .img_center75}

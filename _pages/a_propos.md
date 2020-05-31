@@ -32,6 +32,6 @@ Les Amis (Quakers) prennent un moment de recul face aux distractions de la vie q
 
 <i class="fas fa-mug-hot color-1-dark-text"></i><span class="stanchor"><a name="thé"> </a></span> &nbsp;Après l’assemblée, il y a une période d'annonces suivie de rafraîchissements, parfois avec un sujet de discussion. Si vous le pouvez, prenez un thé avec nous afin de nous permettre de mieux se connaître et, si vous avez des questions, n'hésitez pas à les poser.
 
-<i class="fas fa-book-reader color-1-text"></i> &nbsp;Lire nos brochures ou emprunter un livre si vous voulez [à propos](intro-fr.html) des Quakers ou de notre [histoire](liens_histoire.html).
+<i class="fas fa-book-reader color-1-text"></i> &nbsp;Lire nos brochures ou emprunter un livre si vous voulez [à propos](/intro-fr.html) des Quakers ou de notre [histoire](/liens_histoire.html).
 
 Nous vous souhaitons la bienvenue!

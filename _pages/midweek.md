@@ -11,7 +11,7 @@ trans: midweek
 * We sometimes hold a **book club/Bible study** after. [Contact us](/contact.html) for details.
 
 ### To get updates <span class="stanchor"><a name="updates"> </a></span>
-For announcements or last minute changes, join the [Midweek Meeting Facebook group](https://www.facebook.com/groups/mtlmidweek){:  rel="noopener" target="_blank"}, check the [Facebook page](https://www.facebook.com/MontrealQuakers){:  rel="noopener" target="_blank"} (no Facebook account required), or [contact us](contact.html) with questions.
+For announcements or last minute changes, join the [Midweek Meeting Facebook group](https://www.facebook.com/groups/mtlmidweek){:  rel="noopener" target="_blank"}, check the [Facebook page](https://www.facebook.com/MontrealQuakers){:  rel="noopener" target="_blank"} (no Facebook account required), or [contact us](/contact.html) with questions.
 
 ### Where
 [3484 Peel Street, Montreal](https://goo.gl/maps/MeQqk7m8Hegzx9Sz8){:  rel="noopener" target="_blank"}
@@ -24,6 +24,6 @@ To find the **Ryan Library**, enter the Newman Centre from the driveway, proceed
 
 All are welcome!
 
-If this will be your first time at a Quaker Meeting, you may want to read [this information](about.html) about what to expect.
+If this will be your first time at a Quaker Meeting, you may want to read [this information](/about.html) about what to expect.
 
 ![Ryan Library](/assets/images/ClaudeRyanLibrary.jpg){: .img_center}

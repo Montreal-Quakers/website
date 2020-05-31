@@ -3,7 +3,7 @@ title: Liens & histoire
 lang: fr
 trans: links_history
 ---
-![Des bancs dans la lumière](assets/images/benches2-243x300.gif){:class="img_center"}
+![Des bancs dans la lumière](/assets/images/benches2-243x300.gif){:class="img_center"}
 
 #### Sur les Quakers (en français)
 

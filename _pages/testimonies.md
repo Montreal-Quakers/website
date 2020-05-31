@@ -30,4 +30,4 @@ They are our testimony of how Spirit calls us to live in this world.
 
 See [how a meeting works](/about.html) for more about what worshipping with us is like.
 
-See our [links and resources](links_history.html) for more information about many topics such as Quakers at the UN and Quaker service work in Canada.
+See our [links and resources](/links_history.html) for more information about many topics such as Quakers at the UN and Quaker service work in Canada.

@@ -108,8 +108,8 @@ mobile_header_animation:
     trans: contribution
 
 markdown: kramdown
-include: ['_pages',".htaccess"]
-exclude: ["backup","notes","Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"] 
+include: ['/_pages',"/.htaccess"]
+exclude: ["/backup","/notes","/Gemfile", "/Gemfile.lock", "/node_modules", "/vendor/bundle/", "/vendor/cache/", "/vendor/gems/", "/vendor/ruby/"] 
 sass:
   sass_dir: ./_sass
   style: compressed
@@ -117,24 +117,24 @@ tipue_search:
   include:
     pages: true
   exclude:
-    files: [search.html,search-fr.html]
+    files: [/search.html,/search-fr.html]
 defaults:
   - scope:
-      path: "assets/images"
+      path: "/assets/images"
     values:
       image: true
   - scope:
-      path: "assets/PDF"
+      path: "/assets/PDF"
     values:
       PDF: true
   - scope:
-      path: "_pages" # an empty string here means all files in the project
+      path: "/_pages" # an empty string here means all files in the project
       type: "pages"
     values:
       layout: "default"
       permalink: "/:basename"
   - scope:
-      path: "_posts" # an empty string here means all files in the project
+      path: "/_posts" # an empty string here means all files in the project
       type: "posts"
     values:
       layout: "post"
