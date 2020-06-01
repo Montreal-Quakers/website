@@ -199,25 +199,25 @@ button {
 
 .color-1 {
 	background-color: $color-1;
-	color: white
+	color: white;
    &-text {
 	background-color: $body-color;
 	color: $color-1
-   }
-   &-dark-text {
-	background-color: $body-color;
-	color: $color-1-dark
-   }
-   &-light-text {
-	background-color: $body-color;
-	color: $color-1-light
    }
    &-dark {
 	background-color: $color-1-dark;
 	color: white
    }
+   &-dark-text {
+	background-color: $body-color;
+	color: $color-1-dark
+   }
    &-light {
 	background-color: $color-1-light;
+   }
+   &-light-text {
+	background-color: $body-color;
+	color: $color-1-light
    }
 }
 

@@ -10,7 +10,7 @@ trans: midweek
 * **Wednesdays** from 5:30 pm to 6:30 pm. We usually provide snacks after.
 * We sometimes hold a **book club/Bible study** after. [Contact us](/contact.html) for details.
 
-### To get updates <span class="stanchor"><a name="updates"> </a></span>
+### To get updates <span class="stanchor"><a name="updates"></a></span>
 For announcements or last minute changes, join the [Midweek Meeting Facebook group](https://www.facebook.com/groups/mtlmidweek){:  rel="noopener" target="_blank"}, check the [Facebook page](https://www.facebook.com/MontrealQuakers){:  rel="noopener" target="_blank"} (no Facebook account required), or [contact us](/contact.html) with questions.
 
 ### Where
