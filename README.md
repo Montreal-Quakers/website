@@ -27,13 +27,14 @@ The only thing people are likely to need to change regularly are blog posts. Thi
 
 No need to memorize **any** of this information. Throughout this README, if you're planning to do a task, just look up the instructions one step at a time as you're doing the task.
 
-The blog posts are in the ```_posts``` [folder](https://github.com/Montreal-Quakers/website/tree/master/_posts). Existing posts are organized chronologically and end in ```.md```.
+The blog posts are in the ```_posts``` [folder](https://github.com/Montreal-Quakers/website/tree/master/_posts). Existing posts are organized chronologically and end in ```.md```. Click a file in that folder and then near the top, click ```Raw``` to see what a blog post looks like.
 
 In order to create a new post, follow these steps.
-1. Open the ```_posts``` folder. 
-2. Click on ```Create new file```.
-3. Name the file, beginning with the date, in this format: ```YYYY-MM-DD-your-title.md```. For instance, you could name a post ```2020-05-24-hello-world.md```. 
-4. Copy and paste the front matter below. This front matter is explained in detail in this README, but all you need to do is copy and paste this:
+1. Login to Github with an account that has permission to change the page
+2. Open the ```_posts``` folder. 
+3. Click on ```Create new file```.
+4. Name the file, beginning with the date, in this format: ```YYYY-MM-DD-your-title.md```. For instance, you could name a post ```2020-05-24-hello-world.md```. 
+5. Copy and paste the front matter below. This front matter is explained in detail in this README, but all you need to do is copy and paste this at the tippy top of your file:
 ```
 --- 
 title: Introduction to Quakers Event
@@ -43,6 +44,7 @@ lang: en
 trans: intro2us
 author: clerk
 ---
+Write your post here!
 ```
 5. In the "front matter" (the text separated by three dashes ```---```)
   * Change:
@@ -51,8 +53,8 @@ author: clerk
      * Tags (for instance to ```tags: [announcements, testing]```)
      * The ```lang``` -- this tells the system which language to display a page in, either in English (```lang: en```) or in French (```lang: fr```). Default is English so you can leave this blank)
      * Author (to your name, for instance ```author: Shelly```)
-     * If you do not have a translated version of the post, you don't need to worry about the ```trans``` line. You can delete it or leave it blank or put in a random value. If you do have a translated version of the post, choose a unique code for the ```trans``` (for instance, ```trans: helloworld```), and the website will automatically link between English and French pages that have the same ```trans``` code.  
-        * If you're not 100% sure if your translation code (```trans```) is unique, you can search for it on this [page](https://github.com/Montreal-Quakers/g/_pages/health.html).
+     * If you do not have a translated version of the post, you don't need to worry about the ```trans``` line. You can 1) delete it, 2) leave it blank, or 3) put in a random value. If you do have a translated version of the post, choose a unique code for ```trans``` (for instance, ```trans: helloworld```), and the website will automatically link between English and French pages that have the same ```trans``` code.  
+        * If you're not 100% sure if your translation code (```trans```) is unique, you can search for it on this [page](https://mtl.summerhays.net/_pages/health.html).
 6. Write your blog post after the second three dashes (```---```) the way you would write an email. GitHub will translate this into HTML.
 
 The full sample blog post would look like this (```_posts/2020-05-24-hello-world.md```):
@@ -69,13 +71,13 @@ Hello world!
 This is my first blog post.
 ```
 
-Once created, your new post will automatically appear in the "News" page with the post title and date extracted from the filename and the front matter.
+Once created, your new post will automatically appear in the "News" [page](https://mtl.summerhays.net/posts) with the post title and date extracted from the filename and the front matter.
 
-There are only four things you need to know about writing a blog post using this system. Usually you just write normal text: 
+There are only four things you need to know about writing a blog post using this system. Usually you just write normal text like an email: 
   * To format a header, that is, to format large bold text at the top of paragraphs, put a few ```#``` symbols in front of your header like so: ```# About this website``` which will look like [this](#about-this-website). Less hashtags (```#```) makes for a bigger header, and more hashtags (```######```) makes for a smaller header.
   * _Format_ **text** ~~like~~ _this_ ```_Format_ **text** ~~like~~ _this_```. _Italics_, **bold**, ~~strikethrough~~, ```_Italics_, **bold**, ~~strikethrough~~```.
   * Links like so: ```[your text describing Google](https://google.ca)```, which will look like this: [your text describing Google](https://google.ca). Description in brackets (```[description]```), link in parentheses (```(example.com)```)
-  * Images like so: ```![](/assets/images/yourimage.png)```. Same format as links except with an exclamation mark (```!```) at the beginning. See the codepen below for examples.
+  * Images like so (after the image has been uploaded to GitHub): ```![](/assets/images/yourimage.png)```. Same format as links except with an exclamation mark (```!```) at the beginning. See the codepen below for examples.
 Most of the pages and posts on this website are just plain text, just like Wordpress.
 
 So you could make that sample post above a bit more fancy by adding a bit of formatting: 
@@ -94,7 +96,7 @@ This is my _first_ blog post.
 Go back to the [home](/index.html) page.
 ```
 # Where to find stuff
-The only files in the home directory that one will need to change are ```index.md``` (the English homepage), ```index-fr.md``` (the French homepage), and maybe ```404.md``` (the page showed if there is no matching page, for instance [this](https://github.com/Montreal-Quakers/g/doesntexist.html)).
+The only files in the Github [home directory](https://github.com/Montreal-Quakers/website) that one will need to change are [```index.md```](https://github.com/Montreal-Quakers/website/blob/master/index.md) (the English homepage), ```index-fr.md``` (the French homepage), and maybe ```404.md``` (the page showed if there is no matching page, for instance [this](https://github.com/Montreal-Quakers/g/doesntexist.html)).
 
 All the major pages, except for the index, are in the ```_pages``` directory. Posts (blog updates, found in the "news" part of the website) can be found in ```_posts```. See advanced tasks at the end of this README that explains, for instance, how to alter the site navigation (the links at the top of the page). It should be advanced but not too advanced.
 
