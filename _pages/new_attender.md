@@ -39,8 +39,8 @@ As an attender, you more than are welcome to request help from the meeting, whic
 * During the COVID outbreak, we set up a special fund to help members and attenders. Feel free to ask us anytime how we're responding to challenging circustances
 
 ### Asking vs. being asked
-If you've been with us for a while, hopefully someone has discussed many of these items with you. We know it's awkward to ask; we hope you'll be patient with us. If we haven't approached you, just a reminder that it may be because:
+If you've been with us for a while, hopefully someone has discussed many of these items with you. If we haven't approached you, just a reminder that it may be because:
 * Because we're a volunteer organization, we may not be as pro-active as some places with paid staff due to limited volunteer energy
 * It is completely against our [values](/intro) to pressure people into serving on committees or membership. We are sometimes too leery of arm-twisting. For this reason, we as Quakers sometimes hesitate quite a bit before bringing up some of these topics, particularly membership.
   * We want the Spirit of love, and not a sense of obligation, to guide decisions
-  * Knowing your interests helps us welcome you better
+We know it's awkward to ask; we hope you'll be patient with us. Knowing your interests helps us welcome you better.
