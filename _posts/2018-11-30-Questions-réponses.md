@@ -1,5 +1,5 @@
 ---
-author: secrétaire
+author: modérateur
 title: Quaker questions-réponses
 description: Questions-Réponses avec un membre de longue date
 tags: [introduction, apprendre]

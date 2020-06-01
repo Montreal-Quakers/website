@@ -3,7 +3,7 @@ title: L'histoire Quaker en jeu de rôle
 tags: [introduction, learning]
 lang: fr
 trans: history_game
-author: secrétaire
+author: modérateur
 ---
 Chaque mois nous avons un évémenent après l'assemblée de dimanche, donc à 12h30 environ, qui inclut une brève présentation d'un aspect de la voie Quaker.
 
