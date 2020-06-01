@@ -5,7 +5,7 @@ trans: new_attender
 ---
 To those who have been coming to our meeting and are curious for next steps, first of all, congratulations. This page has some suggestions that might interest you. 
 
-### Learn more
+### Deepen your knowledge of Quakerism
 * Join us once a month as we have an introduction to Quaker event at meeting
   * For instance, [a presentation on the Quaker Institute for the Future](/2020/04/14/quaker-institute-future.html)
 * Check out a pamphlet or book from our library about Quakerism and Quaker history. Feel free to ask for suggestions.
