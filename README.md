@@ -31,7 +31,7 @@ The blog posts are in the ```_posts``` [folder](https://github.com/Montreal-Quak
 
 In order to create a new post, follow these steps.
 1. Login to Github with an account that has permission to change the page
-2. Open the ```_posts``` folder. 
+2. Open the [```_posts```](https://github.com/Montreal-Quakers/website/tree/master/_posts) folder. 
 3. Click on ```Create new file```.
 4. Name the file, beginning with the date, in this format: ```YYYY-MM-DD-your-title.md```. For instance, you could name a post ```2020-05-24-hello-world.md```. 
 5. Copy and paste the front matter below. This front matter is explained in detail in this README, but all you need to do is copy and paste this at the tippy top of your file:
@@ -96,16 +96,18 @@ This is my _first_ blog post.
 Go back to the [home](/index.html) page.
 ```
 # Where to find stuff
-The only files in the Github [home directory](https://github.com/Montreal-Quakers/website) that one will need to change are [```index.md```](https://github.com/Montreal-Quakers/website/blob/master/index.md) (the English homepage), ```index-fr.md``` (the French homepage), and maybe ```404.md``` (the page showed if there is no matching page, for instance [this](https://github.com/Montreal-Quakers/g/doesntexist.html)).
+The only files in the Github [home directory](https://github.com/Montreal-Quakers/website) that one will need to change are [```index.md```](https://github.com/Montreal-Quakers/website/blob/master/index.md) (the English homepage), [```index-fr.md```](https://github.com/Montreal-Quakers/website/blob/master/index-fr.md) (the French homepage), and maybe [```404.md```](https://github.com/Montreal-Quakers/website/blob/master/404.md) (the page displayed if there is no matching page, for instance [this](https://mtl.summerhays.net/doesntexist.html)).
 
-All the major pages, except for the index, are in the ```_pages``` directory. Posts (blog updates, found in the "news" part of the website) can be found in ```_posts```. See advanced tasks at the end of this README that explains, for instance, how to alter the site navigation (the links at the top of the page). It should be advanced but not too advanced.
+All the major pages, except for the index, are in the [```_pages```](https://github.com/Montreal-Quakers/website/tree/master/_pages) directory. Posts (blog updates, found in the ["News"](https://mtl.summerhays.net/posts) part of the website) can be found in [```_posts```](https://github.com/Montreal-Quakers/website/tree/master/_posts). See advanced tasks at the end of this README that explains, for instance, how to alter the site navigation (the links at the top of the page). It should be more advanced but not too advanced.
 
-This site is designed so that it's fairly easy to change text as needed. Minor modifications can be easily made to ```index.md``` or ```index-fr.md``` or to any of the ```.md``` (Markdown) files in ```_pages``` or ```_posts``` without any specialized knowledge, because this site uses a simplified markdown language to translate normal text into website readable HTML.
+This site is designed so that it's fairly easy to change text as needed. Minor modifications can be easily made to [```index.md```](https://github.com/Montreal-Quakers/website/blob/master/index.md) or [```index-fr.md```](https://github.com/Montreal-Quakers/website/blob/master/index-fr.md) or to any of the ```.md``` (Markdown) files in [```_pages```](https://github.com/Montreal-Quakers/website/tree/master/_pages) or [```_posts```](https://github.com/Montreal-Quakers/website/tree/master/_posts) without any specialized knowledge, because this site uses a simplified markdown language to translate normal text into website readable HTML.
 
 ## Where to find more advanced stuff
 A bunch of instructions for more advanced changes to the website appear near the end of this README. 
 
-Just to give an idea of the basic structure, navigation (all the links at the top of the page) is in ```_includes/datanavigation.html``` but it shouldn't be necessary to touch that. The rest of the most advanced building blocks of this website are in ```_layouts``` and ```_includes```, whereas all the simple, changeable stuff are in .md files in ```_pages```, ```_posts```, or (slightly more advanced) in ```_data/navigation.yml```. Note that some things, especially in the ```_layout``` and ```_includes``` folders, are complicated in order to allow as much as possible to be done in easy markdown files.
+Most of the more advanced changes you want to make to the site are done in [_config.yml](https://github.com/Montreal-Quakers/website/blob/master/_config.yml), for instance, to add a site alert, choose which pages it will appear on, turn on and off animations for certain pages.
+
+Just to give an idea of the basic structure, the navigation menus (all the links at the top of the page) are generated in ```_includes/datanavigation.html``` and styled in ```/assets/css/navstyle.scss``` but it shouldn't be necessary to touch that. The rest of the most advanced building blocks of this website are in ```_layouts``` and ```_includes```, whereas all the simple, changeable stuff are in .md files in ```_pages```, ```_posts```, or (slightly more advanced) in ```_data/```. Note that some things, especially in the ```_layout``` and ```_includes``` folders, are complicated in order to allow as much as possible to be done in easy markdown files.
 
 # Some basics
 Some basics about how this website works:
@@ -120,7 +122,7 @@ Some basics about how this website works:
 * Most of the pages and posts on this website are just plain text, just like Wordpress.
 * If you'd like to play around on this site on Github, there is also a [sandbox page](https://github.com/Montreal-Quakers/g/sandbox.html) where website administrators can test the changes they've made to see how they'd look on the final site. Or you can just modify any way you want a live copy of the website code [here] (https://github.com/Montreal-Quakers/website-test), and see how it looks on the live version [there](http://mtl-test.summerhays.net/about).
 * If you're feeling very ambitious, you can also create a GitHub account, [fork this repository](https://help.github.com/en/github/getting-started-with-github/fork-a-repo), and change anything you want. Or the administrator can create draft "[branches](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository)" of the website and test out how they look. Good luck doing that on WordPress.
-* Finally, note this [site health page](https://github.com/Montreal-Quakers/g/_pages/health.html), which will help detect problems with the automated translation system. More details appear on that page. You may also test to make sure [this blank page]({{ site.myurl }}/blank.html) is looking normal.
+* Finally, note this [site health page](https://mtl.summerhays.net/_pages/health.html), which will help detect problems with the automated translation system. More details appear on that page. You may also test to make sure [this blank page](https://mtl.summerhays.net/blank.html) is looking normal.
 
 # For beginners
 No HTML is needed to make basic changes to the site, but it's good to know one thing: HTML works by putting "tags" around text to tell your browser how to render the text. Tags in HTML begin and end with these greater-than, lesser-than symbols ```<>```. For instance, text with ```<b>bold</b>``` around it will appear, well, <b>bold</b>. So a ```<b>``` means that the bold is beginning and a ```</b>``` with a slash before it means that that the bold is ending. You don't need to code in HTML to make changes, you just need to not feel intimidated by the bits of code that are on various pages. There is no need to change HTML; it's enough to avoid changing it by knowing how the tags work. Some pages also contain a language called Liquid; again, no knowledge of Liquid is required. It's enough to know that liquid begins and ends tags with either two brackets or a bracket and parenthesis.
@@ -130,7 +132,7 @@ Next, a beginner can make changes to the sandbox markdown file in ```_pages/sand
 Moreover, you'll see that as you try to save changes to a Github file, it asks you if you want to label changes you're making. If you're unsure, label them as ```unsure``` or something and you will be able to search for them later. But if you practice making changes in the codepen and then in the sandbox page, and things are looking good, most likely everything will be fine once pushed to the website. Perhaps it will take a couple of tries, but if you check your work, everything will be ok.
 
 # How to create a new page
-Create a new ```.md``` file in the ```_pages``` directory, write your content, and insert the "front matter" as explained here. For instance, for the COVID outbreak, I needed to create ```covid-19.md``` and ```covid-19-fr.md``` (feel free to open these files as you read along). I created a new file at  ```_pages/covid-19.md``` and then I wrote some text. Then I made a translated version here ```_pages/covid-19-fr.md```. Finally, in both files I set the "front matter". This is the most advanced part, but it should be accessible, and once you master it, you're good. I'll show you the code and then I'll tell you how it works. To the top of the file, above the text I'd written, I added:
+Create a new ```.md``` file in the [```_pages```](https://github.com/Montreal-Quakers/website/tree/master/_pages) directory, write your content, and insert the "front matter" as explained here. For instance, for the COVID outbreak, I needed to create [```covid-19.md```](https://github.com/Montreal-Quakers/website/blob/master/_pages/covid-19.md) and [```covid-19-fr.md```](https://github.com/Montreal-Quakers/website/blob/master/_pages/covid-19-fr.md) (feel free to open these files as you read along (hint: use the [raw covid-19](https://raw.githubusercontent.com/Montreal-Quakers/website/master/_pages/covid-19.md) and [raw covid-19-fr.md](https://raw.githubusercontent.com/Montreal-Quakers/website/master/_pages/covid-19-fr.md) files). I created a new file at  [```covid-19.md```](https://github.com/Montreal-Quakers/website/blob/master/_pages/covid-19.md) and then I wrote some text. Then I made a translated version here [```covid-19-fr.md```](https://github.com/Montreal-Quakers/website/blob/master/_pages/covid-19-fr.md). Finally, in both files I set the "front matter". This is the most advanced part, but it should be accessible, and once you master it, you're good. I'll show you the code and then I'll tell you how it works. To the top of the file, above the text I'd written, I added:
 ```
 ---
 title: COVID-19 Updates
@@ -139,7 +141,7 @@ trans: covid
 ---
 As a COVID-19 prevention measure, the Sunday Quaker meeting, the Quebec City group, and the Wednesday midweek meeting will meet online until at least June 1st, 2020.
 ```
-For the French translation (```covid-19-fr.md```) I added
+For the French translation ([```covid-19-fr.md```](https://github.com/Montreal-Quakers/website/blob/master/_pages/covid-19-fr.md)) I added:
 ```
 ---
 title: Mises à jour COVID-19
@@ -162,11 +164,11 @@ For the automatic translation linking system (the link in the navigation between
 
 # Changing colours, finding old drafts, and site alerts
 
-Otherwise, theme and site colors can be changed from ```_sass/colors.scss```  
+Otherwise, theme and site colors can be changed from [```_sass/_colors.scss```](https://github.com/Montreal-Quakers/website/blob/master/_sass/_colors.scss).
 
-Or see for instance the ```_drafts``` folder, where I keep updates that recur from year to year, such as the Greene Centre closing for Christmas.
+Or see for instance the [```_drafts```](https://github.com/Montreal-Quakers/website/tree/master/_drafts) folder, where I keep updates that recur from year to year, such as the Greene Centre closing for Christmas.
 
-You can turn alerts on and off in this website. There's no need to code HTML to do so. Open ```_config.yml``` and you will see ```alerts: ```, and instructions for how to change it. ```alerts: on``` turns on alerts for all pages. If you change this to ```alerts: off```, alerts will be turned off. ```alerts: some``` turns on alerts for the pages you specify. To turn on alerts only for the homepage and the page giving directions to the Sunday meeting, use this code: 
+You can turn alerts on and off in this website. There's no need to code HTML to do so. Open [_config.yml](https://github.com/Montreal-Quakers/website/blob/master/_config.yml) and you will see ```alerts: ```, and instructions for how to change it. ```alerts: on``` turns on alerts for all pages. If you change this to ```alerts: off```, alerts will be turned off. ```alerts: some``` turns on alerts for the pages you specify. To turn on alerts only for the homepage and the page giving directions to the Sunday meeting, use this code: 
 
 ```
 alerts: some
@@ -190,13 +192,18 @@ This gives:
 # More advanced changes
 
 ### Automated translation link
-This site uses an automatic search algorithm that checks the "front matter" (everything between the three dashes, you can see some examples above) in order to match up posts to their translation. So if you're having trouble with translations, make sure that each page and post has a unique "trans:" (translation) code.  If anything is going wrong, see the [site health page](https://github.com/Montreal-Quakers/g/_pages/health.html) to see all the ```trans``` codes and ```lang``` codes for every page and post in the website.
+This site uses an automatic search algorithm that checks the "front matter" (everything between the three dashes, you can see some examples above) in order to match up posts to their translation. So if you're having trouble with translations, make sure that each page and post has a unique "trans:" (translation) code.  If anything is going wrong, see the [site health page](https://mtl.summerhays.net/_pages/health.html) to see all the ```trans``` codes and ```lang``` codes for every page and post in the website.
 
 ### Contact form
 This site uses formspree for the contact form. The code should be in ```_includes/contact.html```. There is some liquid code to get the right language text in the form.
 
 ### Icons
-Some of the only HTML in the Markdown pages, just so you know, are FontAwesome icons, which are called like this ```<i class="fas fa-pencil-alt"></i>&nbsp;```. A user with very little technical expertise can nonetheless easily change these icons by going to the fontawesome [website](http://fontawesome.com/) and searching for icons. It is then possible to just copy the code that FontAwesome will tell you to use and insert it in any page. Again, this is possible in Wordpress but not really any easier. The user can choose between copying the code entirely from the FontAwesome website, or just replacing the part in the code that indicates which icon ```fa-pencil-alt```. Also, note that the ```&sbsp;``` is the HTML code for a non-breaking space, in case it's necessary to add more spacing on either side. Also, the user may notice that the [intro](https://github.com/Montreal-Quakers/g/intro.html) page contains some icons that contain code like ```fa-fw``` (fixed-width icons so that the text aligns) and ```fa-lg``` which sets the icon-size to large. This is technical but equally technical as Wordpress.
+Some of the only HTML in the Markdown pages, just so you know, are [FontAwesome](fontawesome.com/) icons, which are called like this ```<i class="fas fa-pencil-alt"></i>&nbsp;``` (that code generates the pencil on the contact page). In theory, a user with very little technical expertise can nonetheless easily change these icons by going to the fontawesome [website](http://fontawesome.com/) and searching for free icons. It is then possible to just copy the code that FontAwesome will tell you to use and insert it in any page. Again, this is possible in Wordpress but not really any easier. The user can choose between copying the code entirely from the FontAwesome website, or just replacing the part in the code that indicates which icon ```fa-pencil-alt```. Also, note that the ```&sbsp;``` is the HTML code for a non-breaking space, in case it's necessary to add more spacing on either side. Also, the user may notice that the [intro](https://mtl.summerhays.net/intro.html) page contains some icons that contain code like ```fa-fw``` (fixed-width icons so that the text aligns) and ```fa-lg``` which sets the icon-size to large. This is technical but equally technical as Wordpress.
+
+Note two complicating factors, however: 
+1. To make the page load faster I downloaded a specific version of Fontawesome, so newer icons would need to be uploaded to ```/assets/webfonts```.
+2. To make the page load faster, instead of serving the FontAwesome css file ```/assets/css/all.css``` I just copied the codes I needed and put them into ```/assets/css/fa-custom.scss```. So if you want to add new icons that I'm not already using but that are in the Fontawesome5 icon set, you can either:
+  * Follow the instructions in [```/_layouts/default.html```](https://github.com/Montreal-Quakers/website/blob/master/_layouts/default.html) and comment and uncomment out the line in the instructions. You can find the instructions by searching for the word FontAwesome.
 
 ## How to change the youtube video and google maps directions
 
@@ -210,7 +217,7 @@ media_pages:
 ```
 This means that on the homepage ([/index.html](https://github.com/Montreal-Quakers/g/index.html)), yt_embed.html will appear full-width next to it. 
 
-Note too that there is an image carousel in the sandbox page. That can be inserted in any page the same way as the YouTube videos. For instance, if we want it on the ```about``` page, just add these lines to ```config.yml``` under ```media_pages:```:
+Note too that there is an image carousel in the sandbox page. That can be inserted in any page the same way as the YouTube videos. For instance, if we want it on the ```about``` page, just add these lines to [```config.yml```](https://github.com/Montreal-Quakers/website/blob/master/_config.yml) under ```media_pages:```:
 ```
   - page_trans: about
    media: slideshow.html
@@ -243,7 +250,7 @@ You can also see all the images available in the assets via [this page](https://
 
 ## How to alter the site navigation (the links at the top)
 
-In order to change how the site navigation works, it should be enough to add or subtract pages within the _data/navigation.yml file. I'll show the code and then explain it:
+In order to change how the site navigation works, it should be enough to add or subtract pages within the ```_data/navigation.yml``` file. I'll show the code and then explain it:
 
 ```
 - title: News
