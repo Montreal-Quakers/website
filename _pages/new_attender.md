@@ -12,7 +12,7 @@ To those who have been coming to our meeting and are curious for next steps, fir
 * Online courses in Quakerism are offered by Canadian Yearly Meeting. You can browse the material anytime [here](http://quaker.ca/resources/education/#Introduction_to_Quakers_and_Friends_Ways){: rel="noopener" target="_blank"}. If you're interested, [contact us](/contact) to be put on their mailing list
 * Ask someone to have coffee to speak more in depth and from personal experience
 
-### Get to know us better
+### Build deeper relationships with us
 If you'd like to be more involved but you're not sure how, perhaps the best thing to do is to express this feeling to the clerk, nominations committee, Ministry & Counsel member, or just ask around. Sometimes we are simply unaware of your wish. Here are a couple of other suggestions:
 * Joining a [committee](/committees.html) is a great way to know us better
   * If one of the committees above might interest you, feel free to inquire. No pressure, and the question is appreciated
