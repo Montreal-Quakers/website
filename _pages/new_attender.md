@@ -41,7 +41,7 @@ As an attender, you more than are welcome to request help from the meeting, whic
 ### Asking vs. being asked
 If you've been with us for a while, hopefully someone has discussed many of these items with you. If we haven't approached you, it may be because:
 * We're a volunteer organization; we may not be as pro-active as some places with paid staff due to limited volunteer energy
-* It is completely against our [values](/intro) to pressure people into serving on committees or membership. We are leery — sometimes too leery — of arm-twisting, sometimes hesitate quite a bit before bringing up some of these topics, particularly membership.
+* It is completely against our [values](/intro) to pressure people into serving on committees or membership. We are leery — sometimes too leery — of arm-twisting, sometimes hesitating quite a bit before bringing up some of these topics, particularly membership.
   * We want the Spirit of love, and not a sense of obligation, to guide decisions
 
 We know it's awkward to ask; we hope you'll be patient with us. Knowing your interests helps us welcome you better, so thank you.
