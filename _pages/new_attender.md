@@ -42,6 +42,6 @@ As an attender, you more than are welcome to request help from the meeting, whic
 ### Asking vs. being asked
 If you've been with us for a while, hopefully someone has discussed many of these items with you. We know it's awkward to ask; we hope you'll be patient with us. If we haven't approached you, just a reminder that it may be because:
 * Because we're a volunteer organization, we may not be as pro-active as some places with paid staff
-* It is completely against our [values](/intro) to pressure people into serving on committees or membership. We are a low pressure religion — perhaps sometimes a bit too leery of anything that could seem like pressure. For this reason, we as Quakers sometimes hesitate quite a bit before discussing certain things.
+* It is completely against our [values](/intro) to pressure people into serving on committees or membership. We are a low pressure religion — perhaps sometimes too leery of anything that could seem like pressure. For this reason, we as Quakers sometimes hesitate quite a bit before discussing certain things.
   * We want the Spirit of love, and not a sense of obligation, to guide decisions
   * Knowing that your interests helps us welcome you better
