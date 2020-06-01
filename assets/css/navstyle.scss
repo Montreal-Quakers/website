@@ -17,6 +17,7 @@ $mob-pixels: {{ site.breakpoint }} !global;
   width:100%;
   font-family: $font-sans;
   font-weight: bold;
+  #response {cursor:pointer}
   a,#response,button,.search-container {
     display: block;
     padding: 14px 12px;

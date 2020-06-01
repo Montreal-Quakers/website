@@ -13,18 +13,19 @@ en:
     - subtitle: Links and History
       sublink: /links_history
 - title: Where We Meet 
-  hovertitle: Where We Meet
   icon: <i class='fas fa-map-marker-alt'></i>
   submenu:
     - subtitle: Sundays in Montreal
       sublink: /directions
-    - subtitle: Midweek Meeting
+    - subtitle: Midweek in Montreal
+      subhovertitle: Midweek Meeting in Montreal
       sublink: /midweek
     - subtitle: Quebec City
       sublink: /qc
     - subtitle: South Shore
       sublink: /south_shore
-    - subtitle: Laurentian Worship Group
+    - subtitle: The Laurentians
+      subhovertitle: Laurentian Worship Group
       sublink: /laurentians
 - title: News
   hovertitle: The Latest Updates

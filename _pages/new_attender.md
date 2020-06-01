@@ -36,11 +36,12 @@ As an attender, you more than are welcome to request help from the meeting, whic
 * Members and attenders can apply for [emergency financial help](/discretionary_fund) from the meeting of up to $250, up to twice a year.
 * A Committee of Care can be created to help care for and support a member or attender in need, for instance, in case of hospitalization or stress
 * Our Ministry & Counsel committee can help find other kinds of support for members and attenders. You are not alone
-* During the COVID outbreak, we set up a special fund to help members and attenders. Feel free to ask us anytime how we're responding to challenging circustances
+* During the COVID outbreak, we set up a special fund to help members and attenders. Feel free to ask us anytime how we're responding to challenging circumstances
 
 ### Asking vs. being asked
-If you've been with us for a while, hopefully someone has discussed many of these items with you. If we haven't approached you, just a reminder that it may be because:
-* Because we're a volunteer organization, we may not be as pro-active as some places with paid staff due to limited volunteer energy
-* It is completely against our [values](/intro) to pressure people into serving on committees or membership. We are sometimes too leery of arm-twisting. For this reason, we as Quakers sometimes hesitate quite a bit before bringing up some of these topics, particularly membership.
+If you've been with us for a while, hopefully someone has discussed many of these items with you. If we haven't approached you, it may be because:
+* We're a volunteer organization; we may not be as pro-active as some places with paid staff due to limited volunteer energy
+* It is completely against our [values](/intro) to pressure people into serving on committees or membership. We are leery — sometimes too leery — of arm-twisting, sometimes hesitate quite a bit before bringing up some of these topics, particularly membership.
   * We want the Spirit of love, and not a sense of obligation, to guide decisions
-We know it's awkward to ask; we hope you'll be patient with us. Knowing your interests helps us welcome you better.
+
+We know it's awkward to ask; we hope you'll be patient with us. Knowing your interests helps us welcome you better, so thank you.

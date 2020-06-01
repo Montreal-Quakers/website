@@ -36,18 +36,18 @@
 		{% if item.submenu != nil %}
 		{% assign counter = counter | plus: 1 %}
   <div class="dropdown">
-	  <button title="{{ item.title }}" onclick="responsiveClick('dropdown{{ counter }}')" class="dropbtn" title="{% if item.hovertitle %}{{ item.hovertitle }}{% else %}{{item.title}}{% endif %}" ><i class="fa fa-caret-down"></i> &nbsp;{{ item.title }}{% if item.icon %} &nbsp;{{ item.icon }}{% endif %}
+	  <button title="{{ item.title }}" onclick="responsiveClick('dropdown{{ counter }}')" class="dropbtn" {% if item.hovertitle %}title="{{ item.hovertitle }}"{% endif %} ><i class="fa fa-caret-down"></i> &nbsp;{{ item.title }}{% if item.icon %} &nbsp;{{ item.icon }}{% endif %}
     </button>
     <div class="dropdown-content" id="dropdown{{ counter }}">
 	    {% for subitem in item.submenu %}{% comment %}Fixing a silly international character bug{% endcomment %}{% assign realurl = page.url | replace: "%C3%A9", "é" | replace: "%C3%A0", "à" %}
-	    <a href="{{ subitem.sublink }}" class="{% if subitem.sublink == realurl %}active{% endif %}">{{ subitem.subtitle }}</a>
+	    <a href="{{ subitem.sublink }}" {% if subitem.subhovertitle %}title="{{ subitem.subhovertitle }}"{% endif %}{% if subitem.sublink == realurl %}class="active"{% endif %}>{{ subitem.subtitle }}</a>
          {% endfor %}
     </div>
   </div>
   {% endif %}
 		{% if item.submenu == null %}
 
-		<a href="{{ item.link }}" title="{% if item.hovertitle %}{{ item.hovertitle }}{% else %}{{item.title}}{% endif %}" class="{% if item.link == page.url %}active{% endif %}">{{ item.title }} &nbsp;{{ item.icon }}</a>
+		<a href="{{ item.link }}" {% if item.hovertitle %}title="{{ item.hovertitle }}"{% endif %} {% if item.link == page.url %}class="active"{% endif %}>{{ item.title }} &nbsp;{{ item.icon }}</a>
 		{% endif %}
   {% endfor %}
   <!-- Language changer button -->
@@ -64,7 +64,7 @@
   {% endunless %}
   {% if otherurl %}
 			     <!-- language changer button, which flip animation -->
-  <a class="icon" id="response" onclick="flipIcon()">{% if page.lang == "fr" %}English{% elsif page.lang == "en" %}Français{% endif %} &nbsp;<i id="flippy" class="fas fa-random"></i></a>
+  <a class="icon" id="response" title="{% if page.lang == "fr" %}View this page in English{% elsif page.lang == "en" %}Voir cette page en français{% endif %}"onclick="flipIcon()">{% if page.lang == "fr" %}English{% elsif page.lang == "en" %}Français{% endif %} &nbsp;<i id="flippy" class="fas fa-random"></i></a>
   <a href="{{ otherurl }}" id="flippy2" {% if page.trans == "search" %}class="searchy" {% endif %}style="display: none;"></a>
   {% endif %}
   {% endif %}

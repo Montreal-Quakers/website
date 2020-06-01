@@ -26,6 +26,6 @@ trans: intro
 
 See [how a meeting works](/about.html) for more about what worshiping with us is like.
 
-See [Quaker values](/testimonies.html) to learn more about our testimonies.
+Learn why we call [Quaker values](/testimonies.html) our testimonies.
 
-Feel free to [write or call](/contact.html) with questions.
+Feel free to [write or call](/contact.html) with questions, or to [sit with us](/directions) any Sunday.

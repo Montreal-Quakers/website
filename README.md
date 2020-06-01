@@ -132,7 +132,7 @@ Next, a beginner can make changes to the sandbox markdown file in ```_pages/sand
 Moreover, you'll see that as you try to save changes to a Github file, it asks you if you want to label changes you're making. If you're unsure, label them as ```unsure``` or something and you will be able to search for them later. But if you practice making changes in the codepen and then in the sandbox page, and things are looking good, most likely everything will be fine once pushed to the website. Perhaps it will take a couple of tries, but if you check your work, everything will be ok.
 
 # How to create a new page
-Create a new ```.md``` file in the [```_pages```](https://github.com/Montreal-Quakers/website/tree/master/_pages) directory, write your content, and insert the "front matter" as explained here. For instance, for the COVID outbreak, I needed to create [```covid-19.md```](https://github.com/Montreal-Quakers/website/blob/master/_pages/covid-19.md) and [```covid-19-fr.md```](https://github.com/Montreal-Quakers/website/blob/master/_pages/covid-19-fr.md) (feel free to open these files as you read along (hint: use the [raw covid-19](https://raw.githubusercontent.com/Montreal-Quakers/website/master/_pages/covid-19.md) and [raw covid-19-fr.md](https://raw.githubusercontent.com/Montreal-Quakers/website/master/_pages/covid-19-fr.md) files). I created a new file at  [```covid-19.md```](https://github.com/Montreal-Quakers/website/blob/master/_pages/covid-19.md) and then I wrote some text. Then I made a translated version here [```covid-19-fr.md```](https://github.com/Montreal-Quakers/website/blob/master/_pages/covid-19-fr.md). Finally, in both files I set the "front matter". This is the most advanced part, but it should be accessible, and once you master it, you're good. I'll show you the code and then I'll tell you how it works. To the top of the file, above the text I'd written, I added:
+Create a new ```.md``` file in the [```_pages```](https://github.com/Montreal-Quakers/website/tree/master/_pages) directory, write your content, and insert the "front matter" as explained here. For instance, for the COVID outbreak, I needed to create [```covid-19.md```](https://github.com/Montreal-Quakers/website/blob/master/_pages/covid-19.md) and [```covid-19-fr.md```](https://github.com/Montreal-Quakers/website/blob/master/_pages/covid-19-fr.md) (feel free to open these files as you read along (hint: view the [raw covid-19](https://raw.githubusercontent.com/Montreal-Quakers/website/master/_pages/covid-19.md) and [raw covid-19-fr.md](https://raw.githubusercontent.com/Montreal-Quakers/website/master/_pages/covid-19-fr.md) files.). I created a new file at  [```covid-19.md```](https://github.com/Montreal-Quakers/website/blob/master/_pages/covid-19.md) and then I wrote some text. Then I made a translated version here [```covid-19-fr.md```](https://github.com/Montreal-Quakers/website/blob/master/_pages/covid-19-fr.md). Finally, in both files I set the "front matter". This is the most advanced part, but it should be accessible, and once you master it, you're good. I'll show you the code and then I'll tell you how it works. To the top of the file, above the text I'd written, I added:
 ```
 ---
 title: COVID-19 Updates
@@ -160,7 +160,7 @@ trans: covid   (<--- This a codeword that helps the system find a translation fo
 ---  (<--- This is required and just means that the front matter is ending)
 ```
 
-For the automatic translation linking system (the link in the navigation between English and French content) to work properly, you just need to properly indicate in the "front matter" the ```lang:``` (```en``` or ```fr```) and make up a unique translation code (for instance, ```veryuniquecode```) and put it after ```trans: ``` like this: ```trans: veryuniquecode```. You can see above that I set one COVID page ```lang``` to ```fr``` and the other one to ```en``` and then I set both ```trans:``` to ```covid```. If you look on the website, a link will be created that will connect the two pages. If you have any doubts whether that code has already been used, then use something more unique or else look at the [site health page](https://github.com/Montreal-Quakers/g/_pages/health.html), which lists all the current ```lang``` and ```trans``` codes in use for every single page and post.
+For the automatic translation linking system (the link in the navigation between English and French content) to work properly, you just need to properly indicate in the "front matter" the ```lang:``` (```en``` or ```fr```) and make up a unique translation code (for instance, ```veryuniquecode```) and put it after ```trans: ``` like this: ```trans: veryuniquecode```. You can see above that I set one COVID page ```lang``` to ```fr``` and the other one to ```en``` and then I set both ```trans:``` to ```covid```. If you look on the website, a link will be created that will connect the two pages. If you have any doubts whether that code has already been used, then use something more unique or else look at the [site health page](https://mtl.summerhays.net/health.html), which lists all the current ```lang``` and ```trans``` codes in use for every single page and post.
 
 # Changing colours, finding old drafts, and site alerts
 
@@ -177,7 +177,7 @@ alert_pages:
   - page_trans: directions
 ```
 
-(The ```trans``` code for every page can be found at the [site health page](https://github.com/Montreal-Quakers/g/_pages/health.html)).
+(The ```page_trans``` code for every page can be found at the [site health page](https:/mtl.summerhays.net/_pages/health.html)).
 
 To edit the alert text itself, go to ```_include/alert.md``` or for the French ```_include/alerte.md```. To change the alert color, go to ```_sass/colors.scss``` and change ```$alert-color:``` to anything you like.
 
@@ -198,7 +198,7 @@ This site uses an automatic search algorithm that checks the "front matter" (eve
 This site uses formspree for the contact form. The code should be in ```_includes/contact.html```. There is some liquid code to get the right language text in the form.
 
 ### Icons
-Some of the only HTML in the Markdown pages, just so you know, are [FontAwesome](fontawesome.com/) icons, which are called like this ```<i class="fas fa-pencil-alt"></i>&nbsp;``` (that code generates the pencil on the contact page). In theory, a user with very little technical expertise can nonetheless easily change these icons by going to the fontawesome [website](http://fontawesome.com/) and searching for free icons. It is then possible to just copy the code that FontAwesome will tell you to use and insert it in any page. Again, this is possible in Wordpress but not really any easier. The user can choose between copying the code entirely from the FontAwesome website, or just replacing the part in the code that indicates which icon ```fa-pencil-alt```. Also, note that the ```&sbsp;``` is the HTML code for a non-breaking space, in case it's necessary to add more spacing on either side. Also, the user may notice that the [intro](https://mtl.summerhays.net/intro.html) page contains some icons that contain code like ```fa-fw``` (fixed-width icons so that the text aligns) and ```fa-lg``` which sets the icon-size to large. This is technical but equally technical as Wordpress.
+Some of the only HTML in the Markdown pages, just so you know, are [FontAwesome](fontawesome.com/) icons, which are called like this ```<i class="fas fa-pencil-alt"></i>&nbsp;``` (that code generates the pencil on the contact page). In theory, a user with very little technical expertise can nonetheless easily change these icons by going to the fontawesome [website](http://fontawesome.com/) and searching for free icons. It is then possible to just copy the code that FontAwesome will tell you to use and insert it in any page. Again, this is possible in Wordpress but not really any easier. The user can choose between copying the code entirely from the FontAwesome website, or just replacing the part in the code that indicates which icon ```fa-pencil-alt```. Also, note that the ```&nbsp;``` is the HTML code for a non-breaking space, in case it's necessary to add more spacing on either side. Also, the user may notice that the [intro](https://mtl.summerhays.net/intro.html) page contains some icons that contain code like ```fa-fw``` (fixed-width icons so that the text aligns) and ```fa-lg``` which sets the icon-size to large. This is technical but equally technical as Wordpress.
 
 Note two complicating factors, however: 
 1. To make the page load faster I downloaded a specific version of Fontawesome, so newer icons would need to be uploaded to ```/assets/webfonts```.
@@ -215,7 +215,7 @@ media_pages:
   - page_trans: index
     media: yt_embed.html
 ```
-This means that on the homepage ([/index.html](https://github.com/Montreal-Quakers/g/index.html)), yt_embed.html will appear full-width next to it. 
+This means that on the homepage ([/index.html](https://mtl.summerhays.net/index.html)), yt_embed.html will appear full-width next to it. 
 
 Note too that there is an image carousel in the sandbox page. That can be inserted in any page the same way as the YouTube videos. For instance, if we want it on the ```about``` page, just add these lines to [```config.yml```](https://github.com/Montreal-Quakers/website/blob/master/_config.yml) under ```media_pages:```:
 ```
@@ -232,13 +232,13 @@ slideshow1:
   file: 1974 MaisW (1).JPG
 ```
 
-```title``` and ```titre-fr``` means the image description that appears below the image in the slideshow. ```file``` refers to which image in ```assets/images``` that should appear in the slideshow.
+```title``` and ```titre-fr``` means the image description that appears below the image in the slideshow. ```file``` refers to which image in [```assets/images```](https://github.com/Montreal-Quakers/website/tree/master/assets/images) that should appear in the slideshow.
 
 ## Inserting images
 
 As mentioned in the markdown, images can be inserted via ```![](/link/to/image.jpg)```. That said, by default, images will appear on the left, and generally you will want to size and center them. The very, very advanced way to do this is to write your own CSS in ```/assets/css/style.css```, but I might as well mention the shortcuts I generated in making this site, namely a few classes you can add to the image. I'll show you an example.
 
-Let's say you want to call up ```/assets/images/claires_painting.jpg```. If you want it centered and half-size, call the image using ```![Art retreat](/assets/images/claires_painting.jpg){: class="img_center50"}``` and you'll get:
+Let's say you want to call up [```/assets/images/claires_painting.jpg```](https://github.com/Montreal-Quakers/website/blob/master/assets/images/claires_painting.jpg). If you want it centered and half-size, call the image using ```![Art retreat](/assets/images/claires_painting.jpg){: class="img_center50"}``` and you'll get:
 
 ![Art retreat](/assets/images/claires_painting.jpg)
 
@@ -246,7 +246,7 @@ Let's say you want to call up ```/assets/images/claires_painting.jpg```. If you 
 
 The classes you can choose from are ```{: class="img_center25"}```, ```{: class="img_center50"}```, ```{: class="img_center75"}```, and ```{: class="img_center100"}```. If you do simply ```{: class="img_center"}``` it will be a centered full-size image (not recommended as this will likely look bad on mobile). There are a few more classes in the CSS or you can search the internet for other options.
 
-You can also see all the images available in the assets via [this page](https://github.com/Montreal-Quakers/g/all_images.html).
+You can also see all the images available in [```assets/images```](https://github.com/Montreal-Quakers/website/blob/master/assets/images/) via [this page](https://mtl.summerhays.net/all_images.html).
 
 ## How to alter the site navigation (the links at the top)
 
@@ -260,16 +260,16 @@ In order to change how the site navigation works, it should be enough to add or 
 Here's what all that means:
 ```
 - title: News (<--- This is the name of the link that will appear on the site)
-  subtitle: The Latest Updates  (<--- This the text that appears if you hover over the link)
+  hovertitle: The Latest Updates  (<--- This the text that appears if you hover over the title)
   link: /posts.html  (<--- This is the link, where the link directs the browser to go to)
 ```
-The exact formatting is important to observe. Note how the first line has ```- title: ``` and the other items don't have a dash before them.
+The exact formatting is important to observe. Note how the first line has ```- title: ``` and the other items don't have a dash before them. Note the way the spacing aligns as well.
 
 Let's look at another example. Again these are fairly simple, but following the format is important, or else it could break the site:
 
 ```
 - title: Where We Meet
-  subtitle: Where We Meet
+  hovertitle: Where We Meet
   children:
     - childtitle: Sundays in Montreal
       childlink: /directions.html
@@ -287,6 +287,7 @@ Let's break this down. We've already looked at what the first two lines do.
     - childtitle: Sundays in Montreal (<---- Note how the childtitle and child link follow the same formatting, but with four spaces before them)
       childlink: /directions.html (<---- the link for the submenu item)
     - childtitle: Midweek Meeting
+      childhovertitle: Midweek Meeting in Montreal (<---- text when hovering over title)
       childlink: /midweek.html
 - title: News  (<---- to end the submenu just go back to the normal way of laying out items)
   subtitle: The Latest Updates

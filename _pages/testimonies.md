@@ -26,7 +26,7 @@ They are our testimony of how Spirit calls us to live in this world.
 
 <i class="fas fa-heart fa-fw fa-2x down_a_bit_more" style="color: indianred"></i> &nbsp;The greatest gift which we have all been given is Love
   
-![](/assets/images/Rainbow-Flag.jpg){: img_left height="25"} &nbsp;Our community is open to all and is LGBTQ+-friendly.
+![](/assets/images/Rainbow-Flag.jpg){: img_left height="25"} &nbsp;Our [community](/intro) is open to all and is LGBTQ+-friendly.
 
 See [how a meeting works](/about.html) for more about what worshipping with us is like.
 
