@@ -33,7 +33,7 @@ In addition, feel free to request any of these resources to integrate better int
 ### Request help
 As an attender, you more than are welcome to request help from the meeting, which can take several forms:
 * We can form a Clearness Committee to help members and attenders make important and difficult decisions
-* Members and attenders can apply for [emergency financial help](/discretionary_fund) from the meeting of up to [$250](/discretionary_fund), up to twice a year.
+* Members and attenders can apply for [emergency financial help](/discretionary_fund) from the meeting of up to $250, up to twice a year.
 * A Committee of Care can be created to help care for and support a member or attender in need, for instance, in case of hospitalization or stress
 * Our Ministry & Counsel committee can help find other kinds of support for members and attenders. You are not alone
 * During the COVID outbreak, we set up a special fund to help members and attenders. Feel free to ask us anytime how we're responding to challenging circustances
