@@ -15,8 +15,8 @@ To those who have been coming to our meeting and are curious for next steps, fir
 ### Build deeper relationships with us
 If you'd like to be more involved but you're not sure how, perhaps the best thing to do is to express this feeling to the clerk, nominations committee, Ministry & Counsel member, or just ask around. Sometimes we are simply unaware of your wish. Here are a couple of other suggestions:
 * Joining a [committee](/committees.html) is a great way to know us better
-  * If one of the committees above might interest you, feel free to inquire. No pressure, and the question is appreciated
-  * If you don't see a role that might interest you, perhaps ask around anyway: there are many fascinating ways to join and serve Quakers in Canada, North America, the UN, and the world. That list is only the beginning
+  * If one of the committees might interest you, feel free to inquire. No pressure, and the question is appreciated
+  * If you don't see a role that might interest you, perhaps ask anyway: there are many fascinating ways to join and serve Quakers in Canada, at interfaith groups, in North America, the UN, and the world. That list is only the beginning
 * [Attend](/contact.html) our book club/Bible study or singing group sometime
 * Attend [Regional Gathering](https://stlawrence.quaker.ca){: rel="noopener" target="_blank"} or [Canadian Yearly Meeting](https://quaker.ca){: rel="noopener" target="_blank"} or perhaps even [Friends General Conference](https://www.fgcquaker.org/){: rel="noopener" target="_blank"}
 * Have you considered becoming a [member](/membership.html)?
