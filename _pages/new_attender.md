@@ -14,13 +14,14 @@ To those who have been coming to our meeting and are curious for next steps, fir
 
 ### Build deeper relationships with us
 If you'd like to be more involved but you're not sure how, perhaps the best thing to do is to express this feeling to the clerk, nominations committee, Ministry & Counsel member, or just ask around. Sometimes we are simply unaware of your wish. Here are a couple of other suggestions:
-* Joining a [committee](/committees.html) is a great way to know us better
-  * If one of the committees might interest you, feel free to inquire. No pressure, and the question is appreciated
+* Joining a [committee](/committees.html) is a great way to know us better and contribute to the life of the meeting community
+  * If one of the [committees](/committees.html) might interest you, feel free to inquire. No pressure, and the question is appreciated
   * If you don't see a role that might interest you, perhaps ask anyway: there are many fascinating ways to join and serve Quakers in Canada, at interfaith groups, in North America, the UN, and the world. That list is only the beginning
-* [Attend](/contact.html) our book club/Bible study or singing group sometime
-* Attend [Regional Gathering](https://stlawrence.quaker.ca){: rel="noopener" target="_blank"} or [Canadian Yearly Meeting](https://quaker.ca){: rel="noopener" target="_blank"} or perhaps even [Friends General Conference](https://www.fgcquaker.org/){: rel="noopener" target="_blank"}
-* Have you considered becoming a [member](/membership.html)?
-  * Here's more information about [membership](/membership.html) and the process we use
+* [Inquire](/contact.html) about our book club/Bible study or singing group
+* When travelling to other cities, attend Quaker meeting [there](https://www.fgcquaker.org/connect/quaker-finder){: rel="noopener" target="_blank"} or attend [Regional Gathering](https://stlawrence.quaker.ca){: rel="noopener" target="_blank"} or [Canadian Yearly Meeting](https://quaker.ca){: rel="noopener" target="_blank"} or perhaps even [Friends General Conference](https://www.fgcquaker.org/){: rel="noopener" target="_blank"}
+* Do you know about [membership](/membership.html) and how the membership process works?
+* Often after meeting we stay and chat and go out for lunch. Join us, or invite someone you like for coffee
+* Volunteer with us: some of our members have been volunteering at homeless shelters, teaching art to refugee children, with groups such as Council of Canadians
 
 ### Helpful resources
 In addition, feel free to request any of these resources to integrate better into the meeting:
