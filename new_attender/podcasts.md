@@ -28,4 +28,9 @@ title: <i class="fas fa-headphones-alt color-1-dark-text"></i> Podcast suggestio
 * Finally, we benefit from listening from Quakers who worship and pray in very different ways from us, so also recommended is the [Pelham Friends Church's podcast](http://www.pelhamfriends.ca/history/){: rel="noopener" target="_blank"} which is the podcast from the Evangelical Friends Church in southern Ontario. One recent podcast (sermon) is from a Friends Pastor from the Evangelical Friends Church-Eastern Region ([EFCER](https://www.efcer.org/){: rel="noopener" target="_blank"}). 
 * You can also hear the Matt Legge from the Canadian Friends Service Committee on the Canadian Council of Churches' [Faith and Witness podcast](http://faithandwitness.libsyn.com/redesigning-the-tree-of-life){: rel="noopener" target="_blank"} where he talks about a conference on Synthetic Biology in November, 2018. 
 
+Please [contact us](/contact) if:
+* Any of these links break
+* You really like any of these suggestions
+* You have a suggestion of your own
+
 Return to [information for new attenders](/new_attender)
