@@ -1,5 +1,5 @@
 ---
-title: <i class="fas fa-coins color-1-dark-text"></i> How Meeting for Business works
+title: <i class="fas fa-coins color-1-dark-text"></i> How Meeting for Business works <i class="fas fa-pencil-alt fa-fw"></i>
 trans: business_meeting
 lang: en
 ---
