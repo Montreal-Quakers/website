@@ -19,8 +19,8 @@ title: <i class="fas fa-headphones-alt color-1-dark-text"></i> Podcast suggestio
   * [Carrie Newcommer](https://onbeing.org/programs/carrie-newcomer-a-conversation-with-music/)
   * [Parker Palmer](https://onbeing.org/programs/the-soul-in-depression-mar2018/) (who also writes blog posts on this site)
   * It's worth listening to the interviews with all kinds of people of faith 
-* [Spirit in Action](https://www.northernspiritradio.org/program/spirit-action) is part of Northern Spirit Radio, founded by Mark Helpsmeet in 2005 with the support of the Eau Claire Friends Meeting in Wisconsin. 
-  * We recommend: [Spirit In The Digital Age: Quakers & Technology](https://www.northernspiritradio.org/episode/spirit-digital-age-quakers-technology)
+* [Spirit in Action](https://www.northernspiritradio.org/program/spirit-action) is part of Northern Spirit Radio, founded by Mark Helpsmeet in 2005 with the support of the Eau Claire Friends Meeting in Wisconsin. We recommend:
+  * [Spirit In The Digital Age: Quakers & Technology](https://www.northernspiritradio.org/episode/spirit-digital-age-quakers-technology)
   * [Fit for Freedom not Friendship](https://www.northernspiritradio.org/episode/fit-freedom-not-friendship-donna-mcdaniel-and-vanessa-julye)
   * [Earth-Community Values & Money Dilemmas](https://www.northernspiritradio.org/episode/earth-community-values-money-dilemmas)
   * [QVS: Service Beyond Americorps](https://www.northernspiritradio.org/episode/qvs-service-beyond-americorps)
