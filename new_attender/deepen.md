@@ -1,5 +1,5 @@
 ---
-title: <i class="fas fa-arrow-circle-right fa-fw"></i> Deepen your knowledge of Quakerism
+title: <i class="fas fa-arrow-circle-right fa-fw color-1-dark-text"></i> Deepen your knowledge of Quakerism
 lang: en
 trans: deepen
 ---

@@ -1,5 +1,5 @@
 ---
-title: <i class="fas fa-user-friends fa-fw"></i> Building deeper relationships with us
+title: <i class="fas fa-user-friends fa-fw color-1-text"></i> Building deeper relationships with us
 lang: en
 trans: new_attender
 ---

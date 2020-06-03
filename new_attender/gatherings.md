@@ -1,5 +1,5 @@
 ---
-title: Quaker gatherings <i class="far fa-circle fa-fw"></i>
+title: Quaker gatherings <i class="far fa-circle fa-fw color-1-text"></i>
 lang: en
 trans: gatherings
 ---
