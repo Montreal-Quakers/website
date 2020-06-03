@@ -10,19 +10,12 @@ If you'd like to be more involved but you're not sure how, perhaps the best thin
   * If you don't see a role that might interest you, perhaps ask anyway: there are many fascinating ways to join and serve Quakers in Canada, at interfaith groups, in North America, the UN, and the world. That list is only the beginning
 * [Inquire](/contact.html) about our book club/Bible study or singing group
 * Do you know about [membership](/new_attender/membership.html) and how the membership process works?
+* Do you know about larger Quaker [gatherings](/new_attender/gatherings)
 * Often after meeting we stay and chat and go out for lunch. Join us, or invite someone you like for coffee
 * Volunteer with us. Some of our members have been volunteering at:
   * Homeless shelters
   * Teaching art to refugee children
   * With non-profits such as Council of Canadians
-
-### Quaker gatherings
-You are more than welcome to join us at:
-* [Regional Gathering](https://stlawrence.quaker.ca){: rel="noopener" target="_blank"}
-* [Canadian Yearly Meeting](https://quaker.ca/what-we-do/gatherings/){: rel="noopener" target="_blank"} 
-* [Friends General Conference](https://www.fgcquaker.org/connect/gathering){: rel="noopener" target="_blank"}
-
-When travelling, we invite you to consider attending a Quaker meeting [there](https://www.fgcquaker.org/connect/quaker-finder){: rel="noopener" target="_blank"} 
 
 ### Asking vs. being asked
 If you've been with us for a while, hopefully someone has discussed many of these items with you. If we haven't approached you, it may be because:
