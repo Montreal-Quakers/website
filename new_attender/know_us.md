@@ -1,9 +1,8 @@
 ---
-title: <i class="fas fa-plus-circle fa-fw color-1-text"></i> For new attenders
+title: Build deeper relationships with us
 lang: en
 trans: new_attender
 ---
-### Build deeper relationships with us
 If you'd like to be more involved but you're not sure how, perhaps the best thing to do is to express this feeling to the clerk, nominations committee, Ministry & Counsel member, or just ask around. Sometimes we are simply unaware of your wish. Here are a couple of other suggestions:
 * Joining a [committee](/new_attender/committees.html) is a great way to know us better and contribute to the life of the meeting community
   * If one of the [committees](/new_attender/committees.html) might interest you, feel free to inquire. No pressure, and the question is appreciated
@@ -24,5 +23,3 @@ If you've been with us for a while, hopefully someone has discussed many of thes
   * We want the Spirit of love, and not a sense of obligation, to guide decisions
 
 We know it's awkward to ask; we hope you'll be patient with us. Knowing your interests helps us welcome you better, so thank you.
-
-Return to [information for new attenders](/new_attender)

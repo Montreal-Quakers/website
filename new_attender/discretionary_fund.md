@@ -26,5 +26,3 @@ Requests are be confidential and only discussed within the M&C committee. At the
 * In addition to financial aid, are there other ways the M&C committee or Monthly Meeting can support you?
 
 Forward the answers to these questions to a member of Ministry & Counsel. They will make a decision usually within a couple of days or less, and do not require approval of the entire committee, but just a couple of members. Please feel free to ask them any further questions.
-
-Return to [information for new attenders](/new_attender)

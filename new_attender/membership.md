@@ -26,5 +26,3 @@ Some people, for various reasons, attend meeting and even serve on Quaker commit
 8. If accepted, the most important step: party! <i class="fas fa-birthday-cake fa-fw color-1-text"></i> The miracle of community is meant to be celebrated.
 
 For more information, see the section on Membership of the Canadian Yearly Meeting's [Organization & Procedure](https://quaker.ca/wp-content/uploads/2020/04/OP-text-revised-to-February-2020-complete.pdf){: rel="noopener" target="_blank"}, page 24.
-
-Return to [information for new attenders](/new_attender)

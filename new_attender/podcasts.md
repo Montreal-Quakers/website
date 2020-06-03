@@ -32,5 +32,3 @@ Please [contact us](/contact) if:
 * Any of these links break
 * You really like any of these suggestions
 * You have a suggestion of your own
-
-Return to [information for new attenders](/new_attender)

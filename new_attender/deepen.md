@@ -3,7 +3,6 @@ title: Deepen your knowledge of Quakerism
 lang: en
 trans: deepen
 ---
-### Deepen your knowledge of Quakerism
 * Join us once a month as we have an introduction to Quaker event at meeting
   * For instance, [a presentation on the Quaker Institute for the Future](/2020/04/14/quaker-institute-future.html)
 * Check out a pamphlet or book from our library about Quakerism and Quaker history. Feel free to ask for suggestions.
@@ -11,5 +10,3 @@ trans: deepen
   * See the [links and history](/links_history) for resources and links to other Quaker bodies
   * Check out this list of [podcast suggestions](/new_attender/podcasts)
 * Ask someone to have coffee to speak more in depth and from personal experience
-
-Return to [information for new attenders](/new_attender)

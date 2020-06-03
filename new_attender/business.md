@@ -57,5 +57,3 @@ Standing aside means that a participant recognizes through others’ ministry th
   * Standing aside means that the participant recognizes where almost everyone in the group feels led
   * Recognizing their different witness in Spirit, and not feeling moved to continue to object, the participant may choose to tell people that they "stand aside," which means they're prepared to move forward
   * The minutes may or may not reflect this fact.
-
-Return to [information for new attenders](/new_attender)

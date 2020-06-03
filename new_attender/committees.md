@@ -31,5 +31,3 @@ Helps on a rotating basis with First Day School
 
 #### Indigenous Committee
 Helps the meeting advance indigenous rights
-
-Return to [information for new attenders](/new_attender)
