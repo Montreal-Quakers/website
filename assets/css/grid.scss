@@ -13,22 +13,31 @@
 
 .cards > ul > a {
   text-decoration: none;
+  border-radius: .5rem;
+  &:hover > li > h3 {
+       background: $color-1-light;
+       // transition: background .3s;
+  }
 }
 
 .cards > ul > a > li {
-  border: 1px solid #E2E2E2;
   border-radius: .5rem;
   text-align: center;
   height: 220px;
   overflow: hidden;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  background: $color-1;
   color: $nav-color-text;
-  border-top-left-radius: .5rem;
-  border-top-right-radius: .5rem;
+  background: $color-1;
   bottom: 0;
   transition: background-color .3s;
-  &:hover {
-	  background: $color-1-light;
-  }
+//   &:hover {
+// 	  background: $color-1;
+//   }
+}
+
+.cards > ul > a > li > h3 {
+  background: $color-1;
+  margin: 0;
+  padding: 10px 0;
+  transition: background .3s;
 }
