@@ -8,10 +8,8 @@ title: <i class="fas fa-headphones-alt color-1-dark-text"></i> Podcast suggestio
 * Second, [QuakerSpeak](http://quakerspeak.com/newest-videos/) speaks to Quakers about their Faith. 
   * QuakerSpeak is a Quaker YouTube channel where Jon interviews Friends of all different backgrounds and ask them the core questions of our faith. 
   * There is a [podcast version](http://quakerspeak.com/podcast/) but the videos are always more up to date.
-* The [Young Quaker Podcast](https://youngquakerpodcast.libsyn.com/) is just that, a podcast made by and made for young Quakers in Britain. 
-  * Their podcast of a 30 minute-long Meeting for Worship got a lot of media coverage: 
-    * The Guardian declared it an [ocean of calm](https://www.theguardian.com/media/2018/apr/08/an-oasis-of-calm-quaker-groups-30-minutes-of-silence-podcast?CMP=share_btn_fb)
-    * NPR broadcast that [silence is golden](https://www.npr.org/2018/04/09/600761741/for-quaker-podcast-silence-is-golden).
+* Check out some Canadian Quaker [audio](https://quaker.ca/resources/audio-and-video/), usually from yearly meetings
+  * For instance, [Making room for spirit](https://drive.google.com/file/d/10OmZ6gDfSeaIJ8JlyxK-tA6QSY3z-ULL/preview) by the excellent Arthur Larrabee of Philadelphia
 * [Quaker Take](https://www.quaker.org.uk/our-work/podcast#heading-1) (used to be called Q:Witness) is a podcast from Quakers in Britain featuring people talking about ideas, faith and activism. 
   * It's very Britain focused and also very much activism focused. 
 * **On Being** is an excellent non-Quaker specific podcast that speaks to and about Quaker faith. Host Krista Tippett talks to Friends like:
