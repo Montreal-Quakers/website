@@ -3,9 +3,9 @@ trans: podcasts
 lang: en
 title: <i class="fas fa-headphones-alt color-1-dark-text"></i> Podcast suggestions <i class="fas fa-rss color-1-text"></i>
 ---
-* Most highly recommended: [Quaker Faith and Podcast](https://quakerpodcast.org/category/episodes/season-2/){: rel="noopener" target="_blank"} by Mackenzie and Micah. 
+* Recommended: [Quaker Faith and Podcast](https://quakerpodcast.org/category/episodes/season-2/){: rel="noopener" target="_blank"} by Mackenzie and Micah. 
   * It struggles with the big questions of what do Quakers believe. They write: "Most Quakers today were not raised Quakers. In Britain, that’s as high as 87%! That’s a lot of religion education to pick up, and smaller meetings often have trouble providing education for the full learning curve from newcomer to seasoned Quaker. We hope to make it easier to learn what Quaker believe."
-* Second, [QuakerSpeak](http://quakerspeak.com/newest-videos/){: rel="noopener" target="_blank"} speaks to Quakers about their Faith. 
+* Also recommended, [QuakerSpeak](http://quakerspeak.com/newest-videos/){: rel="noopener" target="_blank"} speaks to Quakers about their Faith. 
   * QuakerSpeak is a Quaker YouTube channel where Jon interviews Friends of all different backgrounds and ask them the core questions of our faith. 
   * There is a [podcast version](http://quakerspeak.com/podcast/){: rel="noopener" target="_blank"} but the videos are always more up to date.
 * Check out some Canadian Quaker [audio](https://quaker.ca/resources/audio-and-video/){: rel="noopener" target="_blank"}, usually from yearly meetings
