@@ -22,6 +22,7 @@ layout: compress
   {% comment %}If you want to add FontAwesome 5 icons, comment out the line above by putting it between symbols <!-- --> like this "<!-- <link rel="stylesheet" href="/assets/css/fa-custom.css"> --> and uncomment the line the line below by removing those same symbols (<!-- and -->){% endcomment %}
   <!-- <link rel="stylesheet" href="/assets/css/all.css"> -->
   <link rel="stylesheet" href="/assets/css/style.css">
+  {% if page.trans == "new_attender" %}<link rel="stylesheet" href="/assets/css/grid.css">{% endif %}
   <link rel="stylesheet" href="/assets/css/navstyle.css">
   <link rel="icon" type="image/png" href="/assets/images/quaker_icon_32x32.png" sizes="32x32">
   <link rel="apple-touch-icon" href="/assets/images/quaker_icon_192x192.png" sizes="192x192">
@@ -30,7 +31,7 @@ layout: compress
   {% if page.trans == "index" %}<link rel="dns-prefetch" href="https://youtube.com">{% endif %}
   {% if page.trans == "calendar" %}<link rel="dns-prefetch" href="https://calendar.google.com">{% endif %}
   {% if page.trans == "directions" or page.trans == "midweek" or page.trans == "quebec" or page.trans == "south_shore" or page.trans == "laurentians" %}<link rel="dns-prefetch" href="https://maps.google.com">{% endif %}
-  <!-- Default title in English but in French too -->
+  {% comment %}Default title in English but in French too{% endcomment %}
   <title>{% if page.lang == "fr" %}{{ site.title-fr }}{% else %}{{ site.title }}{% endif %}</title>
   <! -- search header -->
   {% if page.tipue_search_active or layout.tipue_search_active %}
@@ -44,9 +45,9 @@ layout: compress
 </head>
 <body>
  <nav>
-	 <!-- This inserts the code for the navigation -->
+	 {% comment %}This inserts the code for the navigation{% endcomment %}
    {% include datanavigation.html %}
-   <!-- Turn alerts on and off using _config.yml, see the README -->
+   {% comment %}Turn alerts on and off using _config.yml, see the README{% endcomment %}
    <div class="container-alert">
    {% if site.alerts == "all" %}
      {% if page.lang == "fr" %}<div class="stickystart"><div> </div><div class="alert">{% capture alerte %}{% include alerte.md %}{% endcapture %}{{ alerte | markdownify }}</div>{% include alert_closebtn.html %}</div>
@@ -61,21 +62,21 @@ layout: compress
 </nav>
    <main>
 	<br>
-   <!-- These are the headers, which are included only if the page has them. There's a weird bug for the homepage that forces it to have a title, thus the following unless statement... -->
+	{% comment %}These are the headers, which are included only if the page has them. There's a weird bug for the homepage that forces it to have a title, thus the following unless statement...{% endcomment %}
     {% unless page.trans == "index" %}
     {% if page.title %} <h2 class="header">{{ page.title }}</h2>{% endif %}
     {% if page.description %}<h3 class="header">{{ page.description }}</h3>{% endif %}
     {% endunless %}
 	<br>
 <article class="container-content">
-	<!-- Tricky to get Google's iframes, especially the Calendar, to look good in mobile without serving a special page -->
+	{% comment %}Tricky to get Google's iframes, especially the Calendar, to look good in mobile without serving a special page{% endcomment %}
 		{% unless page.trans == "calendar" %}
 	<div class="content">
     {{ content }}
     <br>
 	</div>
        {% endunless %}
-       <!-- a special responsive media section for certain pages. Put the if statement on the next line and below "class="media" -->
+       {% comment %}A special responsive media section for certain pages. Put the if statement on the next line and below "class="media"{% endcomment %}
        {% for each in site.media_pages %}
          {% if page.trans == each.page_trans %}
 	<div class="media" id="media">
@@ -89,7 +90,7 @@ layout: compress
    </main>
    <br />&nbsp; 
    <footer class="footer">
-	   <!-- for some reason can't include a markdown file as HTML, so the code below translates the markdown into HTML before including. Also note that there is some special footer-header styling in the stylesheet -->
+	   {% comment %}For some reason can't include a markdown file as HTML, so the code below translates the markdown into HTML before including. Also note that there is some special footer-header styling in the stylesheet{% endcomment %}
 	   {% if page.lang =="fr" %}{% capture bas-de-page %} {% include bas-de-page.md %}{% endcapture %}{{ bas-de-page | markdownify }}{% else %}{% capture footer %} {% include footer.md %}{% endcapture %}{{ footer | markdownify }}{% endif %}
 	      </footer>
 <script src="/assets/js/navigation.js"></script>   

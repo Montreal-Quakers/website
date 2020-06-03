@@ -3,9 +3,11 @@ title: <i class="fas fa-screwdriver fa-fw color-1-dark-text"></i> Committees & R
 lang: en
 trans: committees
 ---
+If you see a role that you'd like to learn more about, please feel free to [contact us](/contact)
+
 ## Officers
 * Clerk
-* Assistant clerk
+* Assistant clerk (a great position to learn more)
 * Recording clerk
 * Treasurer
 * Representative for Representative Meeting in the fall and spring
@@ -30,4 +32,4 @@ Helps on a rotating basis with First Day School
 #### Indigenous Committee
 Helps the meeting advance indigenous rights
 
-Return to [information for new attenders](/new_attender.html).
+Return to [information for new attenders](/new_attender)

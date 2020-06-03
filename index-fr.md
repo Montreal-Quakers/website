@@ -6,7 +6,7 @@ permalink: index-fr
 ---
 ### [À propos des Quakers](/intro-fr)
 
-Les Quakers sont une communauté de croyances diverses. Nous recherchons une vie remplie de sens, une communauté ouverte, et de faire du bien à autrui. 
+Les Quakers sont une communauté de croyances diverses. Nous recherchons une vie remplie de sens, dans une communauté ouverte qui fait du bien à autrui. 
 
 Les Quakers parlent d’une « Lumière intérieure » ou « une étincelle divine » dans chaque être humain. Les incitations de l’amour, dont nous sommes toutes et tous porteurs, sont à la source des [valeurs Quaker](/témoignages) et de notre engagement au niveau de la paix.
 
