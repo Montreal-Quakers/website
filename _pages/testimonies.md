@@ -20,11 +20,11 @@ Over countless generations, our encounter with Spirit has led us over and over t
 
 These are not rules to be imposed; rather, our traditional, simple — yet quite challenging — values represent our experience in Quaker worship. 
 
-They are our testimony of how Spirit calls us to live in this world.
+They are our testimony of how Spirit calls us to live in this world. 
 
 *************
 
-<i class="fas fa-heart fa-fw fa-2x down_a_bit_more" style="color: indianred"></i> &nbsp;The greatest gift which we have all been given is Love
+<i class="fas fa-heart fa-fw fa-2x down_a_bit_more" style="color: indianred"></i> &nbsp;The greatest gift which we have all been given is Love. Love is at the origin of our commitment to human rights, prison abolition, sustainability and peace.
   
 ![](/assets/images/Rainbow-Flag.jpg){: img_left height="25"} &nbsp;Our [community](/intro) is open to all and is LGBTQ+-friendly.
 
