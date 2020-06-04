@@ -17,6 +17,7 @@ title: <i class="fas fa-headphones-alt color-1-dark-text"></i> Podcast suggestio
   * [Carrie Newcommer](https://onbeing.org/programs/carrie-newcomer-a-conversation-with-music/){: rel="noopener" target="_blank"}
   * [Parker Palmer](https://onbeing.org/programs/the-soul-in-depression-mar2018/){: rel="noopener" target="_blank"} (who also writes blog posts on this site)
   * It's worth listening to the interviews with all kinds of people of faith 
+* Recommended: [On Carrying a Concern](https://www.ocacshow.org/), a podcast that interviews Quakers following concerns and leadings into service 
 * [Spirit in Action](https://www.northernspiritradio.org/program/spirit-action){: rel="noopener" target="_blank"} is part of Northern Spirit Radio, founded by Mark Helpsmeet in 2005 with the support of the Eau Claire Friends Meeting in Wisconsin. We recommend:
   * [Spirit In The Digital Age: Quakers & Technology](https://www.northernspiritradio.org/episode/spirit-digital-age-quakers-technology){: rel="noopener" target="_blank"}
   * [Fit for Freedom not Friendship](https://www.northernspiritradio.org/episode/fit-freedom-not-friendship-donna-mcdaniel-and-vanessa-julye){: rel="noopener" target="_blank"}
