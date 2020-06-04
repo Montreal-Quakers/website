@@ -8,32 +8,10 @@ permalink: /new_attender/
 
 <section class="cards" id="cards">
     <ul>
-      <a href="/new_attender/podcasts"><li>
-          <h3>Podcasts <i class="fas fa-headphones-alt fa-fw"></i></h3>
+      {% for each in site.data.newcomer_cards.en %}
+      <a href="{{ each.link }}" title="{{ each.hovertitle }}"><li>
+		      <h3>{{ each.title }} {{ each.icon }}</h3>
       </li></a>
-      <a href="/new_attender/request_help"><li>
-          <h3>Request help <i class="fas fa-hand-holding-heart fa-fw"></i></h3>
-      </li></a>
-      <a href="/new_attender/meeting_resources"><li>
-          <h3>Meeting info <i class="fas fa-list-alt fa-fw"></i></h3>
-      </li></a>
-      <a href="/new_attender/gatherings"><li>
-          <h3>Gatherings <i class="far fa-circle fa-fw"></i></h3>
-      </li></a>
-      <a href="/new_attender/deepen"><li>
-          <h3>Learn <i class="fas fa-arrow-circle-right fa-fw"></i></h3>
-      </li></a>
-      <a href="/new_attender/business"><li>
-          <h3>About business <i class="fas fa-pencil-alt fa-fw"></i></h3>
-      </li></a>
-      <a href="/new_attender/know_us"><li>
-          <h3>Make Friends <i class="fas fa-user-friends fa-fw"></i></h3>
-      </li></a>
-      <a href="/new_attender/membership"><li>
-          <h3>Membership <i class="fas fa-hand-holding-medical fa-fw"></i></h3>
-      </li></a>
-      <a href="/new_attender/committees"><li>
-          <h3>Structure <i class="fas fa-screwdriver fa-fw"></i></h3>
-      </li></a>
+      {% endfor %}
     </ul>
   </section>
