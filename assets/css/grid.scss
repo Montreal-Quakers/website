@@ -1,12 +1,13 @@
 ---
 ---
 @import 'colors';
+$height: 7rem;
 
 .cards {padding:1rem}
 .cards > ul {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
-  grid-template-rows: repeat(auto-fit, minmax(220px,1fr));
+  grid-template-rows: repeat(auto-fit, minmax($height,1fr));
   grid-gap: 1rem;
   list-style-type: none;
   justify-content: center;
@@ -28,7 +29,7 @@
 .cards > ul > a > li {
   border-radius: .5rem;
   text-align: center;
-  height: 220px;
+  height: $height;
   overflow: hidden;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   color: $nav-color-text;
