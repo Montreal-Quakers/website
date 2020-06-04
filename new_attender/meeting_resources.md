@@ -1,5 +1,5 @@
 ---
-title: Meeting resources and info-sheets <i class="fas fa-list-alt fa-fw color-1-dark-text"></i> 
+title: <i class="fas fa-list-alt fa-fw color-1-dark-text"></i> Meeting resources and info-sheets 
 lang: en
 trans: meeting_resources
 ---
