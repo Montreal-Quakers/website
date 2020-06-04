@@ -4,14 +4,8 @@ lang: en
 trans: new_attender
 permalink: /new_attender/
 ---
-<p>To those who have been coming to our meeting and are curious for next steps, this page has some suggestions that might interest you.</p> 
-
-<section class="cards" id="cards">
-    <ul>
-      {% for each in site.data.newcomer_cards.en %}
-      <a href="{{ each.link }}" title="{{ each.hovertitle }}"><li>
-		      <h3>{{ each.title }} {{ each.icon }}</h3>
-      </li></a>
-      {% endfor %}
-    </ul>
-  </section>
+To those who have been coming to our meeting and are curious for next steps, this page has some suggestions that might interest you.
+  
+ <br> 
+ <br> 
+{% include new_attender.html %}

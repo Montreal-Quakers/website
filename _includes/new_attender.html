@@ -1,0 +1,9 @@
+<section class="cards" id="cards">
+    <ul>
+      {% for each in site.data.newcomer_cards.en %}
+      <a href="{{ each.link }}" title="{{ each.hovertitle }}"><li>
+		      <h3>{{ each.title }} {{ each.icon }}</h3>
+      </li></a>
+      {% endfor %}
+    </ul>
+  </section>
