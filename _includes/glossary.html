@@ -1,26 +1,37 @@
-<p>Click on a term below to view definitions and commentary. Or view a <button class="randombtn" onclick="randomEntry()">random entry</button></p>
-
-{% comment %}The code below is the alphabet link at the top{% endcomment %}{% if page.lang == "fr" %}{% endif %}
-<div class="abc_grid">{% for each in site.data.glossary %}{% assign nowslice = each.en | slice: 0 | capitalize %}{% unless nowslice == abc %}{% assign abc = each.en | slice: 0 | capitalize %}
+{% if page.lang == "fr" %}<p>Cliquer sur les termes ci-dessous pour voir les définitions et les commentaires. Ou bien consultez une entrée <button class="randombtn" onclick="randomEntry()">au hasard</button></p>{% else %}<p>Click on a term below to view definitions and commentary. Or view a <button class="randombtn" onclick="randomEntry()">random entry</button></p>{% endif %}
+  {% comment %}The code below is the alphabet link at the top{% endcomment %}
+{% if page.lang == "fr" %}{% assign glossy = site.data.glossaire %}
+{% else %}{% assign glossy = site.data.glossary %}{% endif %}
+<div class="abc_grid">
+{% for each in glossy %}
+{% assign nowslice = each.entry | slice: 0 | capitalize %}
+  {% comment %}special processing in French{% endcomment %}
+{% if nowslice == "S" or nowslice == "É" %}{% if each.first_letter %}{% assign nowslice = each.first_letter %}{% endif %}{% endif %}
+{% unless nowslice == abc %}{% assign abc = nowslice %}
 <a class="color-1-dark-text" href="#{{ abc }}">{{ abc }}</a>{% endunless %}{% endfor %}</div>
+   {% comment %}ok, now the filter bar{% endcomment %}
 {% assign counter = 0 %}<div>&nbsp;</div>
 <div id=filterDropdown>
 <input label="Filter glossary" id="filterInput" type="search" autocomplete=off placeholder="Filter by entry..." onkeyup="filterFunction(this)" onsearch="filterFunction(this)">
-<div>
-{% for each in site.data.glossary %}{% assign counter = counter | plus: 1 %}{% assign nowslice = each.en | slice: 0 | capitalize %}
-{% unless nowslice == abc %}{% assign abc = each.en | slice: 0 | capitalize %}
-</div>
-<div class="sticky_anchor">
-  <div class="filterbye">&nbsp;</div>
-	<div class=abc><a class="textwhite">&nbsp; {{ abc }}</a><div class=stanchor><a name="{{ abc }}"></a></div></div>{% endunless %}
-<button id="entry_id{{ counter }}" onclick="openAccordion('entry{{ counter }}')" class="list_button buttonyellow">{{ each.en }}</button>
-<div class="list_div filterHide" id="entry{{ counter }}">
-        <p>{{ each.fr }}</p>
-	{% if each.comment-fr %}<p>{{ each.comment-fr }}</p>{% endif %}
-</div>
+<div>{% comment %}Now all the entries{% endcomment %}
+{% for each in glossy %}{% assign counter = counter | plus: 1 %}
+ {% assign nowslice = each.entry | slice: 0 | capitalize %}
+   {% comment %}special processing in French again{% endcomment %}{% if nowslice == "S" or nowslice == "É" %}{% if each.first_letter %}{% assign nowslice = each.first_letter %}{% endif %}{% endif %}
+ {% unless nowslice == abc %}{% assign abc = nowslice %}
+ </div>
+ <div class="sticky_anchor">
+   <div class="filterbye">&nbsp;</div>
+ 	<div class=abc><a class="textwhite">&nbsp; {{ abc }}</a><div class=stanchor><a name="{{ abc }}"></a></div></div>{% endunless %}
+ <button id="entry_id{{ counter }}" onclick="openAccordion('entry{{ counter }}')" class="list_button buttonyellow">{{ each.entry }}</button>
+ <div class="list_div filterHide" id="entry{{ counter }}">
+         <p>{{ each.translation }}</p>
+ 	{% if each.comment-translation %}<p>{{ each.comment-translation }}</p>{% endif %}
+ </div>
 {% endfor %}
 </div>
 </div>
 <div>&nbsp;</div>
+{% if page.lang == "fr" %}<p>Nous remercions Ed Dommen du groupe quaker de Genève pour l'usage de son glossaire, et Simon Grant de l'avoir converti en HTML. Avec toute question, contactez Ed en suisse au +41 22 774 1884.</p>{% else %}
 <div>Thanks to Ed Dommen of Geneva Meeting for faithfully maintaining this glossary, and to Simon Grant for converting it to HTML. Contact Ed in Switzerland at +41 22 774 1884 with any questions or additions.
+{% endif %}
 <script src="/assets/js/filter.js"></script>
