@@ -2,7 +2,14 @@
 ---
 @import 'colors';
 $height: 7rem;
+$mob-pixels: {{ site.breakpoint }} !global;
 
+.container-content {
+	flex-direction: column;
+        max-width:$text-width;
+	box-sizing: border-box;
+}
+.content{max-width:$text-width}
 .cards {padding:1rem}
 .cards > ul {
   display: grid;
@@ -49,4 +56,68 @@ $height: 7rem;
   transition: background .3s;
 //  transition: transform .5s;
 //   transition: border-radius 1s;
+}
+//.sticky_anchor{position:relative}
+.abc {
+  width: 100%;
+  position: sticky;
+  display: block;
+  background: $color-1;
+  //font-family: $font-serif;
+  font-size: 120%;
+  color: $nav-color-text;
+  text-align: center;
+}
+.textwhite{color:white}
+@media screen and (min-width: $mob-pixels) {
+.abc{top:54px}
+.stanchor a {top: -80px !important}
+}
+@media screen and (max-width: $mob-pixels - 1) {
+.abc{top:0px}
+}
+.abc_grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 31px);
+  justify-content: center;
+  font-size: 140%;
+  text-align: center;
+  a {
+  text-decoration: none;}
+}
+
+.filterShow {display:block}
+.filterHide {display:none}
+#filterInput {
+	width: 100%;
+	display: block;
+	border-radius: .5em;
+	font-size: 1em;
+	padding: 8px;
+//	-webkit-appearance: textfield;
+	overflow: visible;
+}
+    button::-moz-focus-inner,
+    input[type="button"]::-moz-focus-inner,
+    input[type="file"] > input[type="button"]::-moz-focus-inner {
+    	border: none;
+    }
+.list_div {
+        width: 100%;
+	max-width: $text-width;
+        padding: .3em 1em ;
+        text-align: left;
+	white-space: normal;
+}
+.list_button {
+	@extend .list_div;
+	border: none;
+	outline: 0;
+	&:target {
+		border: .15em solid $color-1;
+	}
+	&:hover {
+		color: $nav-color-text;
+		background: $color-1;
+	}
 }

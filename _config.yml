@@ -140,6 +140,12 @@ defaults:
       layout: "new_attender"
       permalink: "/new_attender/:basename"
   - scope:
+      path: "nouveau" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "new_attender"
+      permalink: "/nouveau/:basename"
+  - scope:
       path: "_posts" # an empty string here means all files in the project
       type: "posts"
     values:

@@ -6,6 +6,6 @@ trans: meeting_resources
 In addition, feel free to [request](/contact) any of these resources to integrate better into the meeting:
 * Meeting contact list
 * Internal meeting listserv (rarely used, but only for members and current regular attenders)
-* List of current committee members
+* List of current [committee](/new_attender/committees) members
 * Meeting budget
-* Past business meeting minutes
+* Past [business meeting](/new_attender/business) minutes

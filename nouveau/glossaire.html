@@ -1,0 +1,35 @@
+---
+title: <i class="fas fa-book-reader color-1-text"></i> Glossaire Quaker français-anglais
+trans: glossary
+lang: fr
+exclude_from_search: true
+---
+<p>Un glossaire de termes Quaker français-anglais ({{ site.data.glossaire.size }} entrées)</p>
+<p>Cliquer pour voir les définitions et les commentaires. Ou bien cliquez ce bouton pour voir une entrée <button class="randombtn" onclick="randomEntry()">au hasard</button></p>
+{% comment %}The code below is the alphabet link at the top{% endcomment %}
+<div class="abc_grid">{% for each in site.data.glossaire %}
+	{% comment %}k nowslice needs the right first letter{% endcomment %} 
+	{% assign nowslice = each.fr | capitalize | slice: 0 %}{% if nowslice | capitalize == "S" or nowslice | capitalize == "É" %}{% if each.first_letter %}{% assign nowslice = each.first_letter %}{% endif %}{% endif %}
+	{% comment %}k let's make abc have the right first letter{% endcomment %} 
+	{% unless nowslice == abc %}{% assign abc = each.fr | capitalize | slice: 0 %}
+	{% if abc == "S" or abc | capitalize == "É" %}{% if each.first_letter %}{% assign abc = each.first_letter %}{% endif %}{% endif %}
+<a class="color-1-dark-text" href="#{{ abc }}">{{ abc | capitalize }}</a>{% endunless %}{% endfor %}</div>
+<div id=filterDropdown>
+<input label="Filtrez le glossaire" id="filterInput" type="search" autocomplete=off placeholder="Filtrez par entrée..." onkeyup="filterFunction(this)" onsearch="filterFunction(this)">
+<div>
+{% comment %}Ok, now let's get all the entries{% endcomment %}{% assign counter = 0 %}
+{% for each in site.data.glossaire %}{% assign counter = counter | plus: 1 %}{% assign nowslice = each.fr | slice: 0 | capitalize %}{% if nowslice | capitalize == "S" or nowslice | capitalize == "É" %}{% if each.first_letter %}{% assign nowslice = each.first_letter %}{% endif %}{% endif %} 
+{% unless nowslice == abc %}{% assign abc = each.fr | capitalize | slice: 0 %}{% if abc == "S" or abc | capitalize == "É" %}{% if each.first_letter %}{% assign abc = each.first_letter %}{% endif %}{% endif %}
+</div>
+<div class="sticky_anchor">
+  <div class="filterbye">&nbsp;</div>
+	<div class=abc><a class="textwhite">&nbsp; {{ abc }}</a><div class=stanchor><a name="{{ abc }}"></a></div></div>{% endunless %}
+<button id="entry_id{{ counter }}" onclick="openAccordion('entry{{ counter }}')" class="list_button">{{ each.fr | capitalize }}</button>
+<div class="list_div filterHide" id="entry{{ counter }}">
+        <p>{{ each.en | capitalize }}</p>
+	{% if each.comment-en %}<p>{{ each.comment-en | capitalize }}</p>{% endif %}
+</div>
+{% endfor %}
+</div>
+</div>
+<script src="/assets/js/filter.js"></script>

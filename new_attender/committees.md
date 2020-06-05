@@ -5,7 +5,7 @@ trans: committees
 ---
 If you see a role that you'd like to learn more about, please feel free to [contact us](/contact)
 
-## Officers
+## Roles
 * Clerk
 * Assistant clerk (a great position to learn more)
 * Recording clerk

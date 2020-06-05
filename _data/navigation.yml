@@ -27,6 +27,9 @@ en:
     - subtitle: The Laurentians
       subhovertitle: Laurentian Worship Group
       sublink: /laurentians
+    - subtitle: Accessibility
+      subhovertitle: Accessibility information for our places of worship
+      sublink: /accessibility
 - title: News
   hovertitle: The Latest Updates
   link: /posts

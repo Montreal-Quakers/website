@@ -18,12 +18,18 @@ For announcements or last minute changes, join the [Midweek Meeting Facebook gro
 
 Adjacent to McGill University at the Newman Centre's <i class="fas fa-book"></i> Ryan Library.
 
-The Newman Centre is unfortunately **not** wheelchair accessible.
+**Parking** may be available. Contact the [Newman Centre](https://newmancentre.org/){:  rel="noopener" target="_blank"}
+
 ### How to find us
 To find the **Ryan Library**, enter the Newman Centre from the driveway, proceed up the stairs to the second floor, end of the hallway facing Peel.
 
 All are welcome!
 
 If this will be your first time at a Quaker Meeting, you may want to read [this information](/about.html) about what to expect.
+
+### Accessibility
+The Newman Centre is unfortunately **not** wheelchair accessible.
+
+See our [accessibility](/accessibility) page for more information or contact us with any questions
 
 ![Ryan Library](/assets/images/ClaudeRyanLibrary.jpg){: .img_center}

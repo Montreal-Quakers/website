@@ -9,7 +9,7 @@ We remind ourselves often that the name for a business meeting is "Meeting for W
 The goal of business meeting is to figure out how our community is led by Spirit, the Spirit of love, to act in the world. 
 
 There is no one answer.
-* To take a silly example, it’s not as if God has the colour orange in mind and that we’re being bad little Quakers if we purchase a red rug
+* To take a silly example, trying to decide what colour rug to buy, it’s not as if God has the colour orange in mind and that we’re being bad little Quakers if we purchase a red rug
 * Arthur Larabee, long-time clerk of Philadelphia Yearly Meeting, speaks of the goal of business meeting being “to find a loving outcome” 
   * There are many possible loving outcomes -- orange and red and other coloured rugs -- and none of them are known in advance before the meeting starts
   * The purpose of the meeting is to discover some loving outcomes
@@ -45,7 +45,7 @@ Depending on the size of the group, a tiny minority cannot hold up the process w
 Similarly, Quaker business meeting has expectations about how members behave
 * Most importantly, we need to be open in mind and spirit
 
-If the meeting senses that a member is not open in mind or spirit (e.g. “No, stupid idea and I don’t want to talk about it!” or comes with preconceived or selfish notions) then their objections don’t count. 
+If the meeting senses that a member is not open in mind or spirit (e.g. “No, stupid idea and I don’t want to talk about it!”) or comes with preconceived or selfish notions then their objections don’t count. 
 * If no one sees fit to hold up the process for that objection, and as a last resort, the meeting is in unity and can move forward
 
 So unity is not unanimity nor consensus even if unity should usually be found by a unanimous sense of the meeting. In rare cases, the group may decide it is in unity despite objections of a tiny minority.

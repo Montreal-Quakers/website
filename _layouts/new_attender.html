@@ -3,5 +3,4 @@ layout: default
 ---
 {{ content }}
 <hr>
-<!-- huh #1 -->
-<h5>Return to <a href="/new_attender">information for new attenders</a></h5>
+<h5>{% if page.lang == "fr" %}Retour aux <a href="/nouveau">informations pour les nouveaux participant.e.s{% else %}Return to <a href="/new_attender">information for new attenders{% endif %}</a></h5>
