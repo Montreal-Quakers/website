@@ -73,9 +73,11 @@ $buttonyellow: #fafad2;
 @media screen and (min-width: $mob-pixels) {
 .abc{top:53px}
 .stanchor a {top: -80px !important}
+.list_button{scroll-margin: 83px 0 0 0}
 }
 @media screen and (max-width: $mob-pixels - 1) {
 .abc{top:0px}
+.list_button{scroll-margin: 30px 0 0 0}
 }
 .abc_grid {
   display: grid;

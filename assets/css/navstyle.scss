@@ -2,6 +2,7 @@
 ---
 @import "colors.scss";
 $mob-pixels: {{ site.breakpoint }} !global;
+$verynarrow: {{ site.verynarrow }} !global;
 
 // Remove underline under links
 #linkoff,#narrowheader,a#wideheader,#nolink,.navbar a {
@@ -324,6 +325,11 @@ $mob-pixels: {{ site.breakpoint }} !global;
   // the goal of this code is to require a click to open a submenu in responsive mode
   .show_block {display:block;}
    #formy {flex: 1 0 auto;}
+}
+@media screen and (max-width: $verynarrow) {
+	#narrowheader {
+		font-size: 80vw;
+	}
 }
 // end of narrowheader
 // animations
