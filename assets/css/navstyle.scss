@@ -326,11 +326,11 @@ $verynarrow: {{ site.verynarrow }} !global;
   .show_block {display:block;}
    #formy {flex: 1 0 auto;}
 }
-@media screen and (max-width: $verynarrow) {
-	#narrowheader {
-		font-size: 80vw;
-	}
-}
+// @media screen and (max-width: $verynarrow) {
+// 	#narrowheader {
+// 		font-size: 80vw;
+// 	}
+// }
 // end of narrowheader
 // animations
   
