@@ -35,7 +35,7 @@ en:
   hovertitle: Roles and committees
   link: /new_attender/committees
   icon: <i class="fas fa-screwdriver fa-fw"></i>
-- title: Glossary
+- title: En-Fr Glossary
   hovertitle: French-English Quaker glossary
   link: /new_attender/glossary
   icon: <i class="fas fa-book-reader fa-fw"></i>
@@ -49,7 +49,7 @@ fr:
   hovertitle: Comment déroule l'assemblée d'affaires
   link: /nouveau/affaires
   icon: <i class="fas fa-pencil-alt fa-fw"></i>
-- title: Glossaire
+- title: Glossaire Ang-Fr
   hovertitle: Glossaire Quaker anglais-français
   link: /nouveau/glossaire
   icon: <i class="fas fa-book-reader fa-fw"></i>
