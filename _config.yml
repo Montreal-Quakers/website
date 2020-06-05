@@ -63,8 +63,6 @@ bird_left:
     trans: links_history
   - animation: swing-in1
     trans: index
-  - animation: shake-bottom
-    trans: new_attender
 
 bird_right:
   - animation: land_right
@@ -81,8 +79,6 @@ bird_right:
     trans: links_history
   - animation: swing-in1
     trans: index
-  - animation: shake-bottom
-    trans: new_attender
 
 mobile_bird: 
   - animation: roll_bird1
@@ -99,8 +95,6 @@ mobile_bird:
     trans: directions
   - animation: swing-in1
     trans: index
-  - animation: shake-bottom
-    trans: new_attender
 
     # the text at the top of each page on wide screens
 header_animation:
