@@ -3,6 +3,7 @@
 @import 'colors';
 $height: 7rem;
 $mob-pixels: {{ site.breakpoint }} !global;
+$buttonyellow: #fafad2;
 
 .container-content {
 	flex-direction: column;
@@ -66,7 +67,7 @@ $mob-pixels: {{ site.breakpoint }} !global;
   //font-family: $font-serif;
   font-size: 120%;
   color: $nav-color-text;
-  text-align: center;
+  //text-align: center;
 }
 .textwhite{color:white}
 @media screen and (min-width: $mob-pixels) {
@@ -91,21 +92,31 @@ $mob-pixels: {{ site.breakpoint }} !global;
 #filterInput {
 	width: 100%;
 	display: block;
-	border-radius: .5em;
+	border-radius: .2em;
 	font-size: 1em;
 	padding: 8px;
 //	-webkit-appearance: textfield;
 	overflow: visible;
+	border: 1px solid #ccc;
 }
     button::-moz-focus-inner,
     input[type="button"]::-moz-focus-inner,
     input[type="file"] > input[type="button"]::-moz-focus-inner {
     	border: none;
     }
+
+.randombtn {
+	cursor: pointer;
+	color: $nav-color-text;
+	background: $color-1;
+	// -webkit-appearance: button;
+	border: 1px solid #ccc;
+	border-radius: .7em;
+}
 .list_div {
         width: 100%;
 	max-width: $text-width;
-        padding: .3em 1em ;
+        padding: .3em 2em ;
         text-align: left;
 	white-space: normal;
 }
@@ -118,6 +129,9 @@ $mob-pixels: {{ site.breakpoint }} !global;
 	}
 	&:hover {
 		color: $nav-color-text;
-		background: lighten($color-1,10%);
+		background: lighten($color-1-light,10%);
 	}
+}
+.buttonyellow {
+	background: lighten($buttonyellow,3%);
 }

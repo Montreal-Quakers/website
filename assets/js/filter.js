@@ -33,7 +33,7 @@ function filterFunction(input) {
       button[i].style.display = "block";
     } else {
       button[i].style.display = "none";
-    button[i].className = button[i].className.replace("color-1-light", "");
+    button[i].className = button[i].className.replace("color-1-light ", "buttonyellow ");
     button[i].className = button[i].className.replace("textwhite", "");
     var z = button[i].nextElementSibling;
 	  if (z === null) {} else {
@@ -50,10 +50,12 @@ function openAccordion(id) {
   if (x.className.indexOf("filterShow") == -1) {
     x.className = x.className.replace("filterHide", " filterShow");
     x.previousElementSibling.classList.toggle("color-1-light");
+    x.previousElementSibling.classList.toggle("buttonyellow");
     x.previousElementSibling.classList.toggle("textwhite");
   } else {
     x.className = x.className.replace(" filterShow", "filterHide");
     x.previousElementSibling.classList.toggle("color-1-light");
+    x.previousElementSibling.classList.toggle("buttonyellow");
     x.previousElementSibling.classList.toggle("textwhite");
   }
 }
