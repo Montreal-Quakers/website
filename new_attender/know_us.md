@@ -1,7 +1,7 @@
 ---
 title: <i class="fas fa-user-friends fa-fw color-1-text"></i> Building deeper relationships at meeting
 lang: en
-trans: new_attender
+trans: know_us
 ---
 If you'd like to be more involved but you're not sure how, perhaps the best thing to do is to express this feeling to the clerk, nominations committee, Ministry & Counsel member, or just ask around. Sometimes we are simply unaware of your wish. Here are a couple of other suggestions:
 * [Inquire](/contact.html) about our book club/Bible study or singing group

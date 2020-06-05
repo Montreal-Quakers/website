@@ -1,0 +1,12 @@
+---
+title: <i class="fas fa-hand-holding-heart fa-fw color-1-dark-text"></i> Demandez de l'aide
+lang: fr
+trans: request_help
+---
+Comme participant.e ou comme membre, vous pouvez demander de l'aide de la communauté Quaker de Montréal. Cette aide peut être sous plusieurs formes:
+* [Aide financière d'urgence](/new_attender/discretionary_fund) (la politique d'aide est en anglais mais [contactez-nous](/contact-fr) pour connaître les modalités à suivre)
+  * Vous pouvez demander de l'aide jusqu'à $250 jusqu'à deux fois par année
+* Nous pouvons former un comité de clarification afin de vous aider à prendre une décision difficile
+* Nous pouvons former un comité d'aide afin de vous soutenir, par exemple, en cas d'hospitalisation ou de stress
+* Nous pouvons vous trouver d'autres sources de soutien. Vous n'êtes pas seul.e
+* Par exemple, pendant la pandémie COVID, nous avons créé un fond spécial afin d'aider nos membres et participant.e.s. N'hésitez pas à nous demander comment nous réagissons à des moments difficiles
