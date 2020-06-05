@@ -118,6 +118,6 @@ $mob-pixels: {{ site.breakpoint }} !global;
 	}
 	&:hover {
 		color: $nav-color-text;
-		background: $color-1;
+		background: lighten($color-1,10%);
 	}
 }
