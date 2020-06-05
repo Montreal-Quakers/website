@@ -70,7 +70,7 @@ $mob-pixels: {{ site.breakpoint }} !global;
 }
 .textwhite{color:white}
 @media screen and (min-width: $mob-pixels) {
-.abc{top:54px}
+.abc{top:53px}
 .stanchor a {top: -80px !important}
 }
 @media screen and (max-width: $mob-pixels - 1) {
