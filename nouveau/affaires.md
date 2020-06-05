@@ -1,5 +1,5 @@
 ---
-title: <i class="fas fa-coins color-1-text"></i> Déroulement d'une assemblée pour les affaires <i class="fas fa-pencil-alt fa-fw color-1-dark-text"></i>
+title: <i class="fas fa-coins color-1-text"></i> Déroulement d'une assemblée d'affaires <i class="fas fa-pencil-alt fa-fw color-1-dark-text"></i>
 trans: business_meeting
 lang: fr
 ---
