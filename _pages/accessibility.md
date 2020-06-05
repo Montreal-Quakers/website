@@ -23,13 +23,14 @@ We meet on the main floor
 ###### Scents and allergies
 * The Greene Centre is a nut-free environment
 * We are working toward becoming a scent-reduced meeting
+* We are conscious of allergens and dietary restrictions at potlucks
 
 ### [Midweek Meetings](/midweek) at the Newman Centre
 ###### Mobility
 We meet on the second floor
 * This space is not wheelchair accessible
 * Must go down six steps and then up two flights of stairs
-* No automated doors or signage
+* No automated doors
 
 Please [let us know](/contact) if you require additional information or accommodations for accessibility.
 ### [Quebec City worship group](/qc)
