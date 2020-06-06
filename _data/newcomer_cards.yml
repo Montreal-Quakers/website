@@ -62,7 +62,7 @@ fr:
   link: /nouveau/rassemblements
   icon: <i class="far fa-circle fa-fw"></i>
 - title: Demandez de l'aide
-  link: /nouveau/request_help
+  link: /nouveau/aide
   icon: <i class="fas fa-hand-holding-heart fa-fw"></i>
 - title: Se faire un.e Ami.e
   hovertitle: Approfondir vos relations avec notre communauté
