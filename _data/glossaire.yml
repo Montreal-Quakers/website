@@ -55,7 +55,7 @@
 - entry: banc de face (m)
   entry-id: banc
   translation: facing bench 
-  comment-translation: <i><a href='icon.html'>Cf. iconographie</a></i>
+  comment-translation: <i><a href='/glossary/icon-fr.html'>Cf. iconographie</a></i>
 - entry: Bureau mondial (m) (Comité consultatif mondial des Amis)
   translation: World Office (FWCC)
 - entry: Bureau Quaker auprès des Nations Unies
@@ -327,16 +327,12 @@
   translation: recording clerk 
 - entry: Section de l'Europe et du Moyen-Orient (f) (du Comité consultatif mondial des Amis)
   translation: Europe and Middle East Section (FWCC)
-  translation-href: ../EMES/index.html
 - entry: Section de l'Afrique (f) (du Comité consultatif mondial des Amis)
   translation: Africa Section (FWCC)
-  translation-href: ../Africa/index.html
 - entry: Section de l'Asie et du Pacifique occidental (f) (du Comité consultatif mondial des Amis)
   translation: Asia-West Pacific Section (FWCC)
-  translation-href: ../AWPS/index.html
 - entry: Section des Amériques (f) (du Comité consultatif mondial des Amis)
   translation: Section of the Americas  (FWCC)
-  translation-href: ../Americas/index.html
 - entry: selon que la voie s'ouvre
   translation: as the way opens 
 - entry: sentiment de l'assemblée (m)

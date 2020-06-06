@@ -100,7 +100,6 @@
 - entry: epistle
   translation: épître (f) 
 - entry: Europe and Middle East Section (FWCC)
-  entry-href: ../EMES/index.html
   translation: Section de l'Europe et du Moyen-Orient (f) (du Comité consultatif mondial des Amis) 
   comment-translation: <i>En usage courant on dit 'la Section européenne'. </i>
 - entry: Europe and Middle East Young friends
@@ -114,7 +113,7 @@
 - entry: facing bench
   entry-id: facing
   translation: banc de face, des anciens (m) 
-  comment-translation: <i>Dans le temps, les ministres et anciens occupaient un banc faisant face au reste de l'assistance lors du culte et des réunions d'affaires.  Cette pratique n'a plus cours, mais la disposition correspondante des bancs subsiste dans certains anciens lieux de culte. </i> Cf. <a href="glossary/icon.html">iconography</a></i>
+  comment-translation: <i>Dans le temps, les ministres et anciens occupaient un banc faisant face au reste de l'assistance lors du culte et des réunions d'affaires.  Cette pratique n'a plus cours, mais la disposition correspondante des bancs subsiste dans certains anciens lieux de culte. </i> Cf. <a href="/glossary/icon.html">iconography</a></i>
 - entry: Faith and Practice
   translation: Foi et pratique (f); Titre du <a href='fran.html#livre'>LIVRE DE DISCIPLINE</a> de plusieurs Assemblées annuelles 
 - entry: fellowship
@@ -403,7 +402,6 @@
 - entry: secretary
   translation: secrétaire (m, f)
 - entry: Section of the Americas (FWCC)
-  entry-href: ../Americas/index.html
   translation: Section des Amériques (f) (du Comité mondial consultatif des Amis)
 - entry: sense of the meeting
   translation: sentiment de l'assemblée (m)
