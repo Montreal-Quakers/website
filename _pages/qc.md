@@ -9,7 +9,7 @@ Great news! The Quaker Worship Group in Quebec City has begun! Every first Sunda
 
 ![Quebec worship group logo](/assets/images/quebec.jpg){: .img_center100}
 
-[Everyone is welcome](/intro.html) to Quaker worship. The majority if the hour is spent in [silence](/about.html), but those in attendance are more than welcome to share their thoughts if they are moved to do so. After 45 minutes to an hour, the worship closes, followed by tea and social time.  There may be a period for new visitors to ask questions as well.
+[Everyone is welcome](/intro.html) to Quaker worship. The majority of the hour is spent in [silence](/about.html), but those in attendance are more than welcome to share their thoughts if they are moved to do so. After 45 minutes to an hour, the worship closes, followed by tea and social time.  There may be a period for new visitors to ask questions as well.
 
 If this will be your first time at a Quaker Meeting, you may want to read [this information](/about.html) about what to expect.
 
