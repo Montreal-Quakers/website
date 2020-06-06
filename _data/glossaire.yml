@@ -11,7 +11,7 @@
   translation: affirm
 - entry: Ami -e
   translation: Friend
-  comment-translation: <i> Concerning the use of capitals & l.c., cf.  <a href='enfr.html#friend'>FRIEND</a> </i>
+  comment-translation: <i> Concerning the use of capitals & l.c., cf.  <a href='/new_attender/glossary.html#friend'>FRIEND</a> </i>
 - entry: Ami-e de poids
   translation: weighty, seasoned Friend
 - entry: ami-e des Amis (CH)
@@ -84,10 +84,11 @@
 - entry: comité de clarification (m)
   translation: Clearness Committee 
 - entry: comité des nominations (m)
-  translation: nominating committee (esp. FWCC), nominations committee.  Cf. <a href='enfr.html#nominations'>NOMINATIONS COMMITTEE</a>
-- entry: concern (m) <i>(<a href='/new_attender/glossary/texts.html#12'>text.12</a>)</i>
-  translation: concern, cf. <a href='enfr.html#concern'>CONCERN (EF)</a>
-  translation-href: /new_attender/glossary/texts.html#concern
+  translation: nominating committee (esp. FWCC), nominations committee.  Cf. <a href='/new_attender/glossary.html#nominations'>NOMINATIONS COMMITTEE</a>
+- entry: concern (m) 
+  entry-href: /glossary/cite.html#12
+  translation: concern, cf. <a href='/new_attender/glossary.html#concern'>CONCERN (EF)</a>
+  translation-href: /glossary/cite.html#concern
 - entry: Conseil quaker pour les affaires européennes (m)
   translation: Quaker Council for European Affairs 
 - entry: Conseil cuménique des Églises (COE)
@@ -180,7 +181,7 @@
 - entry: inspiré à prendre la parole
   translation: moved to speak 
 - entry: janvier
-  translation: First Month; cf. <a href='enfr.html#first'>FIRST DAY</a>
+  translation: First Month; cf. <a href='/new_attender/glossary.html#first'>FIRST DAY</a>
 - entry: Jeune Ami-e
   translation: Young Friend 
 - entry: Jeunes Ami-e-s de l'Europe et du Moyen-Orient
@@ -199,10 +200,10 @@
   translation: inner, inward, light; that of God within 
 - entry: Maison quaker (f)
   translation: Meeting House, Quaker House <br />Where Quakers have a whole house for their use, it is often given the name 'Maison quaker'. 
-- entry: marcher joyeux <i>(<a href='/new_attender/glossary/texts.html#4'>text.4</a>)</i>
-  entry-href: /new_attender/glossary/texts.html#marcher
+- entry: marcher joyeux
+  entry-href: /glossary/cite.html#marcher
   translation: walk cheerfully
-  translation-href: /new_attender/glossary/texts.html#walk
+  translation-href: /glossary/cite.html#walk
 - entry: mariage à la manière, à la mode, des Amis (m)
   translation: marriage after the manner of Friends 
 - entry: membre
@@ -245,10 +246,10 @@
   translation: membership 
 - entry: ordonnance (f)
   translation: ordering 
-- entry: parler à sa condition <i>(<a href='/new_attender/glossary/texts.html#6'>text.6</a>)</i>
-  entry-href: /new_attender/glossary/texts.html#parler
+- entry: parler à sa condition
+  entry-href: /glossary/cite.html#parler
   translation: speak to one's condition
-  translation-href: /new_attender/glossary/texts.html#speak
+  translation-href: /glossary/cite.html#speak
 - entry: Pèlerinage quaker pour les jeunes (m)
   translation: Quaker Youth Pilgrimage
 - entry: poussé
@@ -343,7 +344,7 @@
 - entry: serment (m)
   translation: oath 
 - entry: silence (m)
-  translation: quiet, silence; cf.  <a href='enfr.html#moment'>MOMENT OF SILENCE</a>
+  translation: quiet, silence; cf.  <a href='/new_attender/glossary.html#moment'>MOMENT OF SILENCE</a>
 - entry: simplicité (f)
   translation: simplicity 
 - entry: Société religieuse des Amis (f)
@@ -354,14 +355,14 @@
   translation: release; cf. <a href='#retribuer'>RÉTRIBUER</a>
 - entry: sympathisant-e
   translation: attender
-- entry: témoignage (m) <i>(<a href='/new_attender/glossary/texts.html#1'>text.1</a>)</i>
-  entry-href: /new_attender/glossary/texts.html#temoignage
+- entry: témoignage (m)
+  entry-href: /glossary/cite.html#temoignage
   translation: testimony, witness
-  translation-href: /new_attender/glossary/texts.html#testimony
-- entry: témoignage de la paix (m) <i>(text.<a href='/new_attender/glossary/texts.html#8'>8</a>, <a href='/new_attender/glossary/texts.html#13'>13</a>, <a href='/new_attender/glossary/texts.html#14'>14</a>)</i></a>
-  entry-href: /new_attender/glossary/texts.html#paix
+  translation-href: /glossary/cite.html#testimony
+- entry: témoignage de la paix (m) <i>(text.<a href='/glossary/cite.html#8'>8</a>, <a href='/glossary/cite.html#14'>14</a>)</i></a>
+  entry-href: /glossary/cite.html#paix
   translation: Peace testimony
-  translation-href: /new_attender/glossary/texts.html#peace
+  translation-href: /glossary/cite.html#peace
 - entry: témoigner
   translation: testify, witness 
 - entry: Triennale (f)
@@ -371,10 +372,11 @@
 - entry: tutoyer
   entry-id: tutoyer
   translation: Use plain language, speech; thee and thou (v); in French, address a person by 'tu' rather than 'vous'
-  comment-translation: "<i> In 17th century English, the forms thee and thou and you' existed, similar to tu and vous in French.  <a href='enfr.html#early'>Early Friends (qv)</a> in the English-speaking world vigorously insisted on addressing everyone by thee and thou, as a testimony (<a href='/new_attender/glossary/texts.html#1'>text.1</a>) to the equal value of each person.  This tradition could still be found in the 20th century among some Quakers in the United States (however, the verb following would be put into the third person singular rather than the second: e.g.  thee is rather than thou art).<br /> Eighteenth century Anglo-Saxon Friends uncompromisingly exported this practice into French: this is undoubtedly one of the reasons why they were considered uncouth in France at the time. In present-day French, the concern for the equal dignity of each person calls for weighing up two sets of considerations: on the one hand to make a statement by using tu on every occasion on the grounds just described, and on the other to respect the susceptibilities of the person being addressed by resorting to the more respectful vous (the biblically-inclined can refer to 1Co.10.31-32 or Rom.14.19-21). French-speaking Friends lean strongly toward the second option; indeed nowadays they tend to </i>tutoyer<i> rather less readily than mainstream Protestants.<br /> In Africa a further reason argues in favour of vous, at least by Europeans (or Whites): White missionaries used to </i>tutoyer<i> Africans immediately as an expression not of equality but of the Africans inferiority, as one automatically says tu to a child. Given that heritage, Europeans are well-advised to use vous normally in such a context, and to reserve tu for people with whom they are in fact on particularly familiar terms as individuals.  </i>"
+  comment-translation: "<i> In 17th century English, the forms thee and thou and you' existed, similar to tu and vous in French.  <a href='/new_attender/glossary.html#early'>Early Friends (qv)</a> in the English-speaking world vigorously insisted on addressing everyone by thee and thou, as a testimony (<a href='/glossary/cite.html#1'>text.1</a>) to the equal value of each person.  This tradition could still be found in the 20th century among some Quakers in the United States (however, the verb following would be put into the third person singular rather than the second: e.g.  thee is rather than thou art).<br /> Eighteenth century Anglo-Saxon Friends uncompromisingly exported this practice into French: this is undoubtedly one of the reasons why they were considered uncouth in France at the time. In present-day French, the concern for the equal dignity of each person calls for weighing up two sets of considerations: on the one hand to make a statement by using tu on every occasion on the grounds just described, and on the other to respect the susceptibilities of the person being addressed by resorting to the more respectful vous (the biblically-inclined can refer to 1Co.10.31-32 or Rom.14.19-21). French-speaking Friends lean strongly toward the second option; indeed nowadays they tend to </i>tutoyer<i> rather less readily than mainstream Protestants.<br /> In Africa a further reason argues in favour of vous, at least by Europeans (or Whites): White missionaries used to </i>tutoyer<i> Africans immediately as an expression not of equality but of the Africans inferiority, as one automatically says tu to a child. Given that heritage, Europeans are well-advised to use vous normally in such a context, and to reserve tu for people with whom they are in fact on particularly familiar terms as individuals.  </i>"
 - entry: unité (f)
   translation: unity 
 - entry: veilleur-e
   translation: overseer 
-- entry: vérité <i>(<a href='/new_attender/glossary/texts.html#16'>text.16</a>)</i>
+- entry: vérité 
+  entry-href: /glossary/cite.html#16
   translation: truth, unity

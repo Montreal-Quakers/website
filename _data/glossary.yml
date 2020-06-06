@@ -64,7 +64,8 @@
 - entry: close the meeting
   translation: clore, clôturer, le culte, la réunion
   comment-translation: "<i>On peut souvent tourner la phrase de manière plus naturelle: 'le culte s'est terminé...'</i>"
-- entry: concern  <i><a href='texts.html#12'>(text.12)</a></i>
+- entry: concern
+  entry-href: /glossary/texts.html#12
   entry-id: concern
   translation: concern (m) 
   comment-translation: <i>Le sens de ce mot est très précis en terminologie quaker.  Aucun mouvement religieux francophone ne connaît rien d'équivalent. Il vaut mieux par conséquent reprendre l'original avec tout le sens qu'il est seul à porter. 'Mot intraduisible en français' (FWCC 1946).  <br /> Pour expliquer son sens à des non-quakers, on peut se servir d'une construction autour du mot 'souci' ou  'préoccupation'.</i>
@@ -85,7 +86,7 @@
   translation: désaveu (m); voir <i>Précis des règles </i>
 - entry: Early Friends
   translation: les premiers Amis 
-  id-en: early
+  entry-id: early
 - entry: elder (n.)
   translation: ancien-ne 
   comment-translation: <i>La terminologie quaker, qui a flotté un temps, est revenue à la terminologie réformée (Calvin, L'institution chrétienne, 4.3.8).  Mais cf.</i> <a href='#overseer'>OVERSEER</a>
@@ -99,7 +100,7 @@
 - entry: epistle
   translation: épître (f) 
 - entry: Europe and Middle East Section (FWCC)
-  en-href: ../EMES/index.html
+  entry-href: ../EMES/index.html
   translation: Section de l'Europe et du Moyen-Orient (f) (du Comité consultatif mondial des Amis) 
   comment-translation: <i>En usage courant on dit 'la Section européenne'. </i>
 - entry: Europe and Middle East Young friends
@@ -206,14 +207,14 @@
   comment-translation: <i>Il s'agit du niveau de base de la structure géographique de la Société religieuse des Amis; il correspond à la paroisse dans les Eglises constituées. <br /> Pour les autres niveaux, cf. leur nom respectif.<br /> Pour l'emploi du maj./min., cf. <a href='#YM'>YEARLY MEETING</a></i>
 - entry:  Meeting for business
   translation: Assemblée, réunion d'affaires (f) 
-  id-en: m4b
+  entry-id: m4b
 - entry: meeting for clearness
   entry-id: MforC
   translation: réunion de soutien, de clarification (f) 
   comment-translation: "<i>Cette traduction n'est qu'une proposition: la pratique n'est guère  usitée parmi les Amis francophones. </i>"
 - entry:  Meeting for Sufferings
   translation: Comité exécutif (m) 
-  id-en: MfS
+  entry-id: MfS
   comment-translation: <i>Nom propre se rapportant au comité exécutif de l'Assemblée annuelle de Grande-Bretagne </i>
 - entry: Meeting for worship for business
   translation: culte qui sert d'assemblée d'affaires (m) 
@@ -304,9 +305,9 @@
 - entry: pastoral Meeting
   translation: groupe (m) à pasteur, qui a recours aux services d'un-e pasteur-e rétribué-e 
   comment-translation: <i>Il ne faut se permettre 'Amis pasteurisés' que si l'ambiance est intime et décontractée. </i>
-- entry: Peace testimony <i>(text.<a href='texts.html#8'>8</a>, <a href='texts.html#13'>13</a>, <a href='texts.html#14'>14</a>)</i></a>
-  en-href: texts.html#peace
-  translation: <a href='texts.html#paix'>témoignage de la paix</a> (m)
+- entry: Peace testimony <i>(text.<a href='/glossary/texts.html#8'>8</a>, <a href='/glossary/texts.html#14'>14</a>)</i></a>
+  entry-href: /glossary/texts.html#peace
+  translation: <a href='/glossary/texts.html#paix'>témoignage de la paix</a> (m)
 - entry: Peaceable Kingdom
   translation: Royaume paisible (m); cf. Esaïe 32.18 
 - entry: peacemaker
@@ -402,7 +403,7 @@
 - entry: secretary
   translation: secrétaire (m, f)
 - entry: Section of the Americas (FWCC)
-  en-href: ../Americas/index.html
+  entry-href: ../Americas/index.html
   translation: Section des Amériques (f) (du Comité mondial consultatif des Amis)
 - entry: sense of the meeting
   translation: sentiment de l'assemblée (m)
@@ -422,9 +423,9 @@
   translation: s'exprimer à partir du silence
 - entry: speak in meeting
   translation: s'exprimer au culte
-- entry: speak to one's condition <i>(<a href='texts.html#6'>text.6</a>)</i>
-  en-href: texts.html#speak
-  translation: <a href='texts.html#parler'>parler à sa condition</a>
+- entry: speak to one's condition
+  entry-href: /glossary/texts.html#speak
+  translation: <a href='/glossary/texts.html#parler'>parler à sa condition</a>
 - entry: speak truth to power
   translation: parler vrai au pouvoir; dire, présenter la vérité au pouvoir 
   comment-translation: "<i>Ces expressions ne sont que des propositions: il n'existe pas de traduction consacrée de ce mot d'ordre quaker. </i>"
@@ -445,9 +446,9 @@
   translation: les chargé-e-s de tâches administratives (lors d'une assemblée d'affaires) 
 - entry: testify
   translation: témoigner 
-- entry: testimony <i>(<a href='texts.html#1'>text.1</a>)</i>
-  en-href: texts.html#testimony
-  translation: <a href='texts.html#temoignage'>témoignage</a> (m).
+- entry: testimony
+  entry-href: /glossary/texts.html#testimony
+  translation: <a href='/glossary/texts.html#temoignage'>témoignage</a> (m).
 - entry: that of God
   translation: la partie de Dieu (1), l'étincelle divine (f) (2) 
   comment-translation: <i>(1) est plus littérale, mais les francophones se servent volontiers de (2) pour dire la même chose; en revanche (2) n'a pas d'équivalent courant dans la terminologie quaker anglaise. </i>
@@ -464,7 +465,7 @@
   translation: lettre d'introduction (f) 
 - entry: Triennial
   translation: Triennale (f) 
-- entry: unity (text.<a href='texts.html#14'>14</a>, <a href='texts.html#16'>16</a>)
+- entry: unity (text.<a href='/glossary/texts.html#14'>14</a>, <a href='/glossary/texts.html#16'>16</a>)
   translation: unité (f), entente (f),  vérité (f)
 - entry: unprogrammed Meeting (event)
   translation: culte sans programme, non-programm&eacute;, silencieux (m) 
@@ -483,9 +484,9 @@
   comment-translation: <i> recommandation de Liens</i> La lumière intérieure <i> 1993, pp.90-91 </i>
 - entry: waiting worship
   translation: culte d'attente (m)
-- entry: walk cheerfully <i>(<a href='texts.html#4'>text.4</a>)</i>
-  en-href: texts.html#walk
-  translation: <a href='texts.html#marcher'>marcher joyeux</a>
+- entry: walk cheerfully
+  entry-href: /glossary/texts.html#walk
+  translation: <a href='/glossary/texts.html#marcher'>marcher joyeux</a>
 - entry: water baptism
   translation: baptême d'eau (m) 
 - entry: wedding
