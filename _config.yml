@@ -41,6 +41,7 @@ media_pages:
     # If you want alerts on all pages on the website, set 'alerts: all'.
     # If you want alerts on only certain pages, (the ones listed under "alert_pages", set "alerts: some" 
     # Anything else, like '"alerton = "off"' and alerts will be off.
+    # Change alert colour in the _sass/_colors.scss, $alert-color
 
 alerts: some
 alert_pages:
