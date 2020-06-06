@@ -46,7 +46,7 @@
 - entry: centre down
   translation: se recueillir
 - entry: centred
-  en-id: centred
+  entry-id: centred
   translation: recueilli
 - entry: Christocentric
   translation: christocentrique
@@ -55,7 +55,7 @@
 - entry: Clearness Committee
   translation: comité de clarification (m); cf. <a href='#MforC'>MEETING FOR CLEARNESS</a> 
 - entry: clerk (n)
-  en-id: clerk
+  entry-id: clerk
   translation: clerk, modérateur (m), modératrice (f), représentant-e légal-e 
   comment-translation: <i> <strong>'Président' est à proscrire; voir CLERK (v) </strong><br /> Les francophones ressentent le mot CLERK comme un anglicisme.  Des quakers proposent SECRÉTAIRE comme traduction. Il faut toutefois maintenir la distinction entre la charge de secrétaire bénévole, CLERK en anglais, et le poste d'employé-e salarié-e, SECRETARY en anglais.  D'où la recommandation de conserver CLERK en français. <br /> Modérateur, modératrice se recommande bien que les quakers francophones ne se servent pas actuellement de ce mot. Il est usuel dans plusieurs Eglises réformées. <br /> Représentant-e légal-e; la loi de certains pays exige un représentant légal, c.-à-d.  une personne qui engage sa communauté vis-à-vis des tiers.  Ce rôle incombe au clerk. </i>
 - entry: clerk (v)
@@ -65,7 +65,7 @@
   translation: clore, clôturer, le culte, la réunion
   comment-translation: "<i>On peut souvent tourner la phrase de manière plus naturelle: 'le culte s'est terminé...'</i>"
 - entry: concern  <i><a href='texts.html#12'>(text.12)</a></i>
-  en-id: concern
+  entry-id: concern
   translation: concern (m) 
   comment-translation: <i>Le sens de ce mot est très précis en terminologie quaker.  Aucun mouvement religieux francophone ne connaît rien d'équivalent. Il vaut mieux par conséquent reprendre l'original avec tout le sens qu'il est seul à porter. 'Mot intraduisible en français' (FWCC 1946).  <br /> Pour expliquer son sens à des non-quakers, on peut se servir d'une construction autour du mot 'souci' ou  'préoccupation'.</i>
 - entry: conservative Friends
@@ -111,17 +111,17 @@
 - entry: Evangelical Friends Mission
   translation: Mission évangélique des Amis
 - entry: facing bench
-  en-id: facing
+  entry-id: facing
   translation: banc de face, des anciens (m) 
-  comment-translation: <i>Dans le temps, les ministres et anciens occupaient un banc faisant face au reste de l'assistance lors du culte et des réunions d'affaires.  Cette pratique n'a plus cours, mais la disposition correspondante des bancs subsiste dans certains anciens lieux de culte. </i> Cf. iconography</a></i>
+  comment-translation: <i>Dans le temps, les ministres et anciens occupaient un banc faisant face au reste de l'assistance lors du culte et des réunions d'affaires.  Cette pratique n'a plus cours, mais la disposition correspondante des bancs subsiste dans certains anciens lieux de culte. </i> Cf. <a href="glossary/icon.html">iconography</a></i>
 - entry: Faith and Practice
   translation: Foi et pratique (f); Titre du <a href='fran.html#livre'>LIVRE DE DISCIPLINE</a> de plusieurs Assemblées annuelles 
 - entry: fellowship
-  en-id: fellowship
+  entry-id: fellowship
   translation: fraternité (f)
   comment-translation: <i>Le mot 'fraternité' reprend bien les sens de 'fellowship'.  Certain-e-s hésiteront cependant à s'en servir puisqu'il n'est pas épicène. Compagnie ferait laffaire sauf que dans un milieu où langlais se pratique avec le français, la confusion avec le mot anglais company (= entreprise) déconseille ce choix.</i>
 - entry: First Day
-  en-id: first
+  entry-id: first
   translation: dimanche (m) 
   comment-translation: "<i>Les quakers évitaient l'usage des noms courants des jours et des mois puisqu'ils rappelaient le nom de divinités païennes.  Ils remplaçaient donc tous les noms de jour et de mois par leur nombre ordinal.  Cette tradition ce maintient toujours parmi certains quakers; elle est actuellement inexistante parmi les quakers francophones.<br /> Selon la numérotation quaker le dimanche est le premier jour de la semaine.  Cela correspond à la tradition réformée, selon laquelle s'attendre à Dieu (qv) le dimanche est le point de départ du travail; cela ne correspond pas en revanche à l'usage courant: cf. par exemple les horaires d'avion.  </i>"
 - entry: First Day School
@@ -129,7 +129,7 @@
 - entry: First Month
   translation: janvier; cf. FIRST DAY
 - entry: Friend
-  en-id: friend
+  entry-id: friend
   translation: Ami-e
   comment-translation: "<i> Malgré lusage décrit sous Quaker (qv dans le glossaire EF), Ami-e prend un maj. pour le distinguer du mot ami dusage courant et laïc. La pratique est dailleurs identique en anglais avec Friend et friend: cf. FRIEND OF FRIENDS.  </i>"
 - entry: friend of Friends
@@ -147,7 +147,7 @@
   translation: Trimestrielle (f), Assemblée trimestrielle (f), Assemblée régionale (f) 
   comment-translation: <i>cf.</i> <a href='#YM'>YEARLY MEETING</a>
 - entry: give thanks for the grace of God in the life of ...
-  en-id: give
+  entry-id: give
   translation: exprimer sa reconnaissance pour la manifestation de la grâce de Dieu dans la vie de ... 
 - entry: good order, good ordering
   translation: bon ordre (m), convenable (adj) 
@@ -201,14 +201,14 @@
 - entry: Meeting (event)
   translation: culte (m), recueillement (m) 
 - entry: Meeting (group)
-  en-id: meeting
+  entry-id: meeting
   translation: groupe (m) (si suivi d'un nom de lieu, p.e groupe de Genève), groupe local (si le lieu n'est pas précisé) 
   comment-translation: <i>Il s'agit du niveau de base de la structure géographique de la Société religieuse des Amis; il correspond à la paroisse dans les Eglises constituées. <br /> Pour les autres niveaux, cf. leur nom respectif.<br /> Pour l'emploi du maj./min., cf. <a href='#YM'>YEARLY MEETING</a></i>
 - entry:  Meeting for business
   translation: Assemblée, réunion d'affaires (f) 
   id-en: m4b
 - entry: meeting for clearness
-  en-id: MforC
+  entry-id: MforC
   translation: réunion de soutien, de clarification (f) 
   comment-translation: "<i>Cette traduction n'est qu'une proposition: la pratique n'est guère  usitée parmi les Amis francophones. </i>"
 - entry:  Meeting for Sufferings
@@ -245,7 +245,7 @@
   translation: ministère (m), service (m), ministère parlé, ce que dit quelqu'un pendant le culte 
   comment-translation: "<i> Attention: le ministère pendant le culte comprend aussi bien le silence que la parole; le traducteur ou interprète doit veiller au contexte. Cf.  <a href='#silent'>SILENT MINISTRY</a>, <a href='#spoken'>SPOKEN MINISTRY</a>.  </i>"
 - entry: Ministry and Counsel Committee
-  en-id: MnCC
+  entry-id: MnCC
   translation: Comité des anciens et des veilleurs (m)  
   comment-translation: <i>Cette structure n'existe pas parmi les assemblées quakers francophones. cf.</i> <a href='#OWnMC'>OVERSIGHT, WORSHIP AND MINISTRY COMMITTEE</a>
 - entry: minute (n)
@@ -257,7 +257,7 @@
 - entry: minutes
   translation: procès-verbal (m) 
 - entry: moment of silence, of (silent) worship
-  en-id: moment
+  entry-id: moment
   translation: moment de silence
 - entry: Monthly Meeting
   translation: Assemblée mensuelle (f); cf.  <a href='#YM'>YEARLY MEETING</a>
@@ -275,7 +275,7 @@
   translation: comité des nominations (m) 
   comment-translation: Cf. NOMINATIONS COMMITTEE
 - entry: nominations committee
-  en-id: nominations
+  entry-id: nominations
   translation: comité des nominations (m)
   comment-translation: <i> Dans la pratique usuelle des quakers, le </i> nominating <i>ou</i> nominations committee<i> propose des noms à l'assemblée, et c'est elle qui désigne.  </i>
 - entry: oath
@@ -288,13 +288,13 @@
   translation: faire connaître nos convictions, notre façon de faire, nos activités, ... 
   comment-translation: <i>'Relations publiques' correspondrait exactement au mot anglais, mais les quakers sont si réticents à propos de cette activité qu'ils se refuseraient à la désigner de façon si crue. </i>
 - entry: overseer
-  en-id: overseer
+  entry-id: overseer
   translation: veilleur-e 
 - entry: oversight
-  en-id: oversight
+  entry-id: oversight
   translation: activité pastorale (f) 
 - entry: Oversight, worship and ministry committee
-  en-id: OWnMC
+  entry-id: OWnMC
   translation: Comité des anciens et des veilleurs (m) 
   comment-translation: <i>Cette structure n'existe pas parmi les assemblées quakers francophones.  cf.</i> <a href='#MnCC'>MINISTRY AND COUNSEL COMMITTEE</a>
 - entry: partly programmed (worship)
@@ -390,7 +390,7 @@
 - entry: Representative Meeting
   translation: assemblée du Comité (f) 
 - entry: right ordering
-  en-id: right
+  entry-id: right
   translation: en ordre, en bon ordre, convenable (adj) 
 - entry: rightly ordered
   translation: en ordre, en bon ordre, convenable
@@ -412,7 +412,7 @@
 - entry: silence
   translation: cf. <a href='#moment'>MOMENT OF SILENCE</a>
 - entry: silent ministry
-  en-id: silent
+  entry-id: silent
   translation: ministère du silence (m)
 - entry: simplicity
   translation: simplicité (f)
@@ -433,7 +433,7 @@
 - entry: spiritual
   translation: spirituel, de l'Esprit 
 - entry: spoken ministry
-  en-id: spoken
+  entry-id: spoken
   translation: ministère de la parole (m) (lorsqu'il s'agit de cette forme de ministère), ministère parlé (m)  (lorsqu'il s'agit de ce qui est dit), intervention pendant le culte (f) (intervention ponctuelle)
 - entry: stand aside
   translation: céder, s'abstenir, ne pas insister 
@@ -452,7 +452,7 @@
   translation: la partie de Dieu (1), l'étincelle divine (f) (2) 
   comment-translation: <i>(1) est plus littérale, mais les francophones se servent volontiers de (2) pour dire la même chose; en revanche (2) n'a pas d'équivalent courant dans la terminologie quaker anglaise. </i>
 - entry: thee and thou (v)
-  en-id: thee
+  entry-id: thee
   translation: tutoyer, cf. <a href='fran.html#tutoyer'>TUTOYER</a>
 - entry: threshing meeting
   translation: réunion (f), culte (m), pour éclaircir un problème
@@ -511,7 +511,7 @@
 - entry: worship sharing
   translation: culte-partage (m) 
 - entry: Yearly Meeting
-  en-id: YM
+  entry-id: YM
   translation: assemblée annuelle (f) 
   comment-translation: <i>Prend un<br/> -A maj.  lorsqu'il s'agit d'une entité géographique (Assemblée annuelle de France) <br /> -a min. lorsqu'il s'agit d'une rencontre (on se verra à l'assemblée annuelle) ou  d'un type d' institution ('les assemblées annuelles d'Europe sont de tailles diverses') </i>
 - entry: Yearly Meeting session

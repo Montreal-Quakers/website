@@ -33,6 +33,7 @@ en:
     - subtitle: Accessibility
       subhovertitle: Accessibility information for our places of worship
       sublink: /accessibility
+      subicon: <i class="fas fa-universal-access fa-fw"></i>
 - title: News
   hovertitle: The Latest Updates
   link: /posts

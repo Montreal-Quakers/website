@@ -36,11 +36,11 @@
 		{% if item.submenu != nil %}
 		{% assign counter = counter | plus: 1 %}
   <div class="dropdown">
-	  <button title="{{ item.title }}" onclick="responsiveClick('dropdown{{ counter }}')" class="dropbtn" {% if item.hovertitle %}title="{{ item.hovertitle }}"{% endif %} ><i class="fa fa-caret-down"></i> &nbsp;{{ item.title }}{% if item.icon %} &nbsp;{{ item.icon }}{% endif %}
+	  <button {% if item.hovertitle %}title="{{ item.hovertitle }}" {% endif %}onclick="responsiveClick('dropdown{{ counter }}')" class="dropbtn" {% if item.hovertitle %}title="{{ item.hovertitle }}"{% endif %} ><i class="fa fa-caret-down"></i> &nbsp;{{ item.title }}{% if item.icon %} &nbsp;{{ item.icon }}{% endif %}
     </button>
     <div class="dropdown-content" id="dropdown{{ counter }}">
 	    {% for subitem in item.submenu %}{% comment %}Fixing a silly international character bug{% endcomment %}{% assign realurl = page.url | replace: "%C3%A9", "é" | replace: "%C3%A0", "à" %}
-	    <a href="{{ subitem.sublink }}" {% if subitem.subhovertitle %}title="{{ subitem.subhovertitle }}"{% endif %}{% if subitem.sublink == realurl %}class="active"{% endif %}>{{ subitem.subtitle }}</a>
+	    <a href="{{ subitem.sublink }}" {% if subitem.subhovertitle %}title="{{ subitem.subhovertitle }}"{% endif %}{% if subitem.sublink == realurl %}class="active"{% endif %}>{% if subitem.subicon %}{{ subitem.subicon }}{% endif %} {{ subitem.subtitle }}</a>
          {% endfor %}
     </div>
   </div>

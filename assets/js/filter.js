@@ -62,7 +62,7 @@ function openAccordion(id) {
 
 function randomEntry() {
   var num = Math.floor(Math.random() * ({{ site.data.glossary.size }} - 1 + 1) + 1);
-	var randLink = '#entry_id' + num;
+	var randLink = '#entry' + num;
 	  window.open(randLink,"_self");
 }
 
