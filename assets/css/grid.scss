@@ -99,7 +99,11 @@ $buttonyellow: #fafad2;
 	padding: 8px;
 //	-webkit-appearance: textfield;
 	overflow: visible;
-	border: 1px solid #ccc;
+	border: .02px dotted $color-1-light;
+	&:focus {
+	   border: 2px solid $color-1;
+	   outline: 2px solid $color-1;
+        }
 }
     button::-moz-focus-inner,
     input[type="button"]::-moz-focus-inner,
