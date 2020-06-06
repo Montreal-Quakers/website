@@ -13,6 +13,7 @@ So sad, Woodbrooke seems to have deleted this course -- post this again if they 
 * [Glossaire Quaker anglais-français](http://www.simongrant.org/quaker/gloss/enfr.html){:  rel="noopener" target="_blank"}
 * [S'attendre à Dieu](/assets/PDF/EDommen-SAttendreADieu2.pdf) (PDF), par Quaker suisse Ed Dommen
 * Une ressource pour expliquer le quakerisme aux enfants en bas de 10 ans [Le culte Quaker et moi](/assets/PDF/LeCulteQuakerEtMoi-small.pdf) (PDF), par Quaker suisse Ed Dommen
+* Ce PDF (en anglais) conte l'histoire quand même particulière des Quakers dans le sud de la France
 
 #### Pour participer à la discussion
 * Majoritairement **en anglais**: [Le groupe de discussion des Quakers au Canada](https://www.facebook.com/groups/532516183429702/){:  rel="noopener" target="_blank"}  sans oublier quelques autres groupes sur Facebook, de l'[informatif](https://www.facebook.com/groups/2207263944/){:  rel="noopener" target="_blank"} au [loufoque](https://www.facebook.com/groups/assbadfriends/).
