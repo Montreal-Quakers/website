@@ -11,10 +11,6 @@ en:
   hovertitle: Info-sheets and resources about the meeting
   link: /new_attender/meeting_resources
   icon: <i class="fas fa-list-alt fa-fw"></i>
-- title: Gatherings
-  hovertitle: Larger Quaker gatherings
-  link: /new_attender/gatherings
-  icon: <i class="far fa-circle fa-fw"></i>
 - title: Learn
   hovertitle: Deepen knowledge about Quakerism
   link: /new_attender/deepen
@@ -32,13 +28,17 @@ en:
   link: /new_attender/membership
   icon: <i class="fas fa-hand-holding-medical fa-fw"></i>
 - title: Structure
-  hovertitle: Roles and committees
+  hovertitle: Meeting roles and committees
   link: /new_attender/committees
   icon: <i class="fas fa-screwdriver fa-fw"></i>
 - title: En-Fr Glossary
   hovertitle: French-English Quaker glossary
   link: /new_attender/glossary
   icon: <i class="fas fa-book-reader fa-fw"></i>
+- title: Gatherings
+  hovertitle: Larger Quaker gatherings
+  link: /new_attender/gatherings
+  icon: <i class="far fa-circle fa-fw"></i>
 
 fr:
 - title: Info Assemblée
@@ -57,10 +57,6 @@ fr:
   hovertitle: Approfondir vos connaissances du Quakerism
   link: /nouveau/approfondir
   icon: <i class="fas fa-arrow-circle-right fa-fw"></i>
-- title: Rassemblements
-  hovertitle: Rassemblements plus grands
-  link: /nouveau/rassemblements
-  icon: <i class="far fa-circle fa-fw"></i>
 - title: Demandez de l'aide
   link: /nouveau/aide
   icon: <i class="fas fa-hand-holding-heart fa-fw"></i>
@@ -80,3 +76,7 @@ fr:
   hovertitle: Le rôle et processus
   link: /nouveau/devenir_membre
   icon: <i class="fas fa-hand-holding-medical fa-fw"></i>
+- title: Rassemblements
+  hovertitle: Rassemblements plus grands
+  link: /nouveau/rassemblements
+  icon: <i class="far fa-circle fa-fw"></i>
