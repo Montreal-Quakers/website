@@ -95,7 +95,7 @@
   translation: World Council of Churches (WCC)
   comment-translation: <i>En tant que <u>communion chrétienne mondiale</u>, le Comité consultatif mondial des Amis jouit de la qualité de <u>membre associé</u> du Conseil œcuménique des Églises.  Cela lui donne le droit de désigner un <u>représentant délégué</u> au <u>Comité central du COE</u>.</i><br /> As a <u>Christian World Communion</u>, FWCC has <u>associate membership</u> of the World Council of Churches.  Thus it is entitled to send a <u>delegated representative</u> to meetings of the <u>WCC Central Committee</u>.  
 - entry: Conseils et questions (m)
-  translation: Advices &amp; Queries 
+  translation: Advices & Queries 
 - entry: conviction (f)
   translation: belief, convincement, conviction 
 - entry: culte (m)
@@ -373,6 +373,6 @@
   translation: unity 
 - entry: veilleur-e
   translation: overseer 
-- entry: vérité 
+- entry: vérité (f)
   entry-href: /glossary/cite.html#16
   translation: truth, unity

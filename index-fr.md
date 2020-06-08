@@ -14,6 +14,8 @@ Notre communauté est [ouverte à la diversité](/intro-fr) &nbsp;[![Drapeau arc
 
 <br>
 ### [Les pratiques Quaker](/a_propos)
+Le cœur de l'assemblée Quaker est notre culte silencieux. Nous nous asseyons et nous recherchons une tranquillité ensemble; personne ne dirige notre culte. Il est difficile de décrire le genre de communion que nous ressentons entre nous, avec le monde et avec la présence divine. Parfois, de cette unité silencieuse émerge un message — il se peut que quelqu'un parle, lise, prie, ou même chante.
+
 Nous regroupons des Quakers de toutes tendances&nbsp;—&nbsp; des Quakers athées, des Quakers chrétiens, des Quakers bouddhistes&nbsp;—,&nbsp;unis en cercle autour de notre pratique traditionnelle du [culte silencieux](/a_propos) et notre quête de mettre [l'amour au centre de nos vies](/intro-fr).
 
 <br>

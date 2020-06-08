@@ -247,6 +247,7 @@ $verynarrow: {{ site.verynarrow }} !global;
      transform: translate(-50%, 0%);
      background-color: $color-1-dark;
      color: $nav-color-text;
+     white-space: nowrap;
    }
    #nolink {
      color: $nav-color-text;
