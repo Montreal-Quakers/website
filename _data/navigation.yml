@@ -10,9 +10,9 @@ en:
       sublink: /intro
     - subtitle: Quaker Values (Testimonies)
       sublink: /testimonies
-    - subtitle: New Attenders
-      subhovertitle: Information to better integrate into the meeting community
-      sublink: /new_attender/
+      #    - subtitle: New Attenders
+      #      subhovertitle: Information to better integrate into the meeting community
+      #      sublink: /new_attender/
     - subtitle: Links and History
       sublink: /links_history
 - title: Where We Meet 
@@ -58,9 +58,9 @@ fr:
       sublink: /intro-fr
     - subtitle: Nos valeurs (les témoignages)
       sublink: /témoignages
-    - subtitle: Nouveaux participant.e.s
-      subhovertitle: Des informations pour mieux s'intégrer dans notre communauté
-      sublink: /nouveau/
+      #    - subtitle: Nouveaux participant.e.s
+      #      subhovertitle: Des informations pour mieux s'intégrer dans notre communauté
+      #      sublink: /nouveau/
     - subtitle: Liens et histoire
       sublink: /liens_histoire
 - title: Nous trouver
