@@ -25,7 +25,7 @@ So sad, Woodbrooke seems to have deleted this course -- post this again if they 
 
 #### Pour promouvoir nos valeurs
 * [Réseau œcuménique justice et paix](http://www.justicepaix.org){:  rel="noopener" target="_blank"}
-* [Canadian Friends Service Committee](quakerservice.ca){:  rel="noopener" target="_blank"}: (en anglais) Les Quakers au Canada travaillent pour la paix, la justice pour les peuples autochtones, et afin de réformer le système judiciaire.
+* [Canadian Friends Service Committee](https://quakerservice.ca){:  rel="noopener" target="_blank"}: (en anglais) Les Quakers au Canada travaillent pour la paix, la justice pour les peuples autochtones, et afin de réformer le système judiciaire.
 * [Bureau Quaker auprès des Nations Unies](https://quno.org/) (en anglais), travaille à New York et à Genève sur la paix, le changement climatique, les réfugiés, et une économie plus juste.
 
 ### Histoire des Quakers à Montréal
