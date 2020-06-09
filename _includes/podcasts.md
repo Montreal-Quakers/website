@@ -7,7 +7,7 @@
   * For instance, [Making room for spirit](https://drive.google.com/file/d/10OmZ6gDfSeaIJ8JlyxK-tA6QSY3z-ULL/preview){: rel="noopener" target="_blank"} by the excellent Arthur Larrabee of Philadelphia
 * [Quaker Take](https://www.quaker.org.uk/our-work/podcast#heading-1){: rel="noopener" target="_blank"} (used to be called Q:Witness) is a podcast from Quakers in Britain featuring people talking about ideas, faith and activism. 
   * It's very Britain focused and also very much activism focused. 
-* **On Being** is an excellent non-Quaker specific podcast that speaks to and about Quaker faith. Host Krista Tippett talks to Friends like:
+* **On Being** is an excellent non-Quaker-specific podcast that speaks to and about Quaker faith. Host Krista Tippett talks to Friends like:
   * [Katy Payne](https://onbeing.org/programs/katy-payne-in-the-presence-of-elephants-and-whales/){: rel="noopener" target="_blank"}
   * [Carrie Newcommer](https://onbeing.org/programs/carrie-newcomer-a-conversation-with-music/){: rel="noopener" target="_blank"}
   * [Parker Palmer](https://onbeing.org/programs/the-soul-in-depression-mar2018/){: rel="noopener" target="_blank"} (who also writes blog posts on this site)
