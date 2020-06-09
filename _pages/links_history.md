@@ -19,7 +19,7 @@ trans: links_history
 * [About business meeting](https://quakerscotland.org/quaker-business-meetings){:  rel="noopener" target="_blank"}
 
 ### Quaker organizations & Quaker work
-* [Canadian Friends Service Committee](quakerservice.ca){:  rel="noopener" target="_blank"}: Quakers in Canada actively working on peace, indigenous issues, and the criminal justice system.
+* [Canadian Friends Service Committee](https://quakerservice.ca){:  rel="noopener" target="_blank"}: Quakers in Canada actively working on peace, indigenous issues, and the criminal justice system.
 * [Quaker United Nations Office](https://quno.org/), working in New York City and Geneva on peacebuilding, climate change, refugees, and a just economy.
 * [Canadian Yearly Meeting](https://www.quaker.ca){:  rel="noopener" target="_blank"}, the national organization of the Canadian Quakers (of which we are a part), and their [Organization and Procedure](https://quaker.ca/resources/organization-and-procedure/){:  rel="noopener" target="_blank"} 
 * [The Canadian Friend](https://quaker.ca/resources/the-canadian-friend/){:  rel="noopener" target="_blank"} - the magazine of Canadian Yearly Meeting, available online. 

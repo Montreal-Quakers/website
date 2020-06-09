@@ -30,7 +30,7 @@ So sad, Woodbrooke seems to have deleted this course -- post this again if they 
 
 ### Histoire des Quakers à Montréal
 
-[Petit à petit, l’oiseau fait son nid Par Chantal Fournier](/assets/PDF/MM-History-CF.V100.05.15.pdf){:  rel="noopener" target="_blank"}
+[Petit à petit, l’oiseau fait son nid Par Chantal Fournier](/assets/PDF/MMM-History-CF.V100.05.15.pdf){:  rel="noopener" target="_blank"}
 
 ##### Auparavant, notre Centre Quaker à Montréal sur de Maisonneuve
 ![Our previous meetinghouse on de Maisonneuve](/assets/images/1974%20MaisW%20(1).JPG){:class="img_center75"}

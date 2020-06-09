@@ -12,6 +12,6 @@ Si vous aimeriez mieux vous intégrer dans la vie de notre communauté, et que v
   * Apprendre de l'art aux enfants réfugiés
   * Auprès des organismes à but non lucratif tel que le Conseil des Canadiens
 * Impliquez-vous dans un [comité](/nouveau/comités): voilà une des meilleures façons de mieux nous connaître tout en contribuant à notre communauté
-  * Si un comité peut vous intéresser [comité](/nouveau/comité), n'hésitez pas à nous poser des [questions](/contact-fr). Pas de pression; la question est appréciée
+  * Si un comité peut vous intéresser [comité](/nouveau/comités), n'hésitez pas à nous poser des [questions](/contact-fr). Pas de pression; la question est appréciée
   * Si vous ne voyez aucun rôle qui peut vous intéresser, demandez quand même: il existe plusieurs façons intéressantes pour participer à la vie des Quakers au Canada, parmi les membres des autres religions, et à l'international. Cette liste n'est que le début
 * Connaissez-vous les plus grands [rassemblements](/nouveau/rassemblements) des Quakers
