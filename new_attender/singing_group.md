@@ -1,5 +1,5 @@
 ---
-title: Singing Potluck
+title: <i class="fas fa-music color-1-text"></i> Singing Potluck
 lang: en
 trans: singing_group
 layout: know_us

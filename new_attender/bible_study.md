@@ -1,5 +1,5 @@
 ---
-title: Bible Study
+title: <i class="fas fa-bible color-1-text"></i> Bible Study
 lang: en
 trans: bible_study
 layout: know_us
