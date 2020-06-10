@@ -2,6 +2,7 @@
 title: Ministry & Counsel Discretionary Fund
 lang: en
 trans: discretionary_fund
+layout: discretionary
 ---
 The Ministry & Counsel (M&C) discretionary fund is intended to be a source of temporary financial support in the event of personal crises. The M&C committee will administer the budget for this fund at their discretion, considering the following guidelines :
 
