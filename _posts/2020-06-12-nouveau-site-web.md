@@ -7,8 +7,9 @@ author: Clerk
 ---
 Notre nouveau site web est arrivé -- et en style. Merci à tout le monde qui nous a aidé à l'améliorer!
 
-Profitez-en des nouvelles fonctionalités:
-* Plus de contenu, traduit
+Profitez des nouvelles fonctionalités:
+* Plus de contenu
+* Meilleure qualité de site en français
 * Animations
 * Nouvelle esthétique
 * 75% plus rapide
