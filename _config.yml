@@ -50,7 +50,7 @@ redalert_pages:
   - page_trans: quebec
   - page_trans: midweek
 
-greenalerts: some
+greenalerts: off
 greenalert_pages:
   - page_trans: index
   - page_trans: contact

@@ -25,6 +25,15 @@ We meet on the main floor
 * We are working toward becoming a scent-reduced meeting
 * We are conscious of allergens and dietary restrictions at potlucks
 
+###### Language
+* Our Sunday meeting happens primarily in English
+  * Translation is available
+  * When we have guests who speak only one language, we can and do translate for them
+* We have several francophone members and attenders
+  * Most of the meeting is actively bilingual
+  * Nearly everyone is passively bilingual
+  * However, we frequently have visitors from the US or Britain, or participants who have just moved to Montreal
+
 ### [Midweek Meetings](/midweek) at the Newman Centre
 ###### Mobility
 We meet on the second floor
@@ -33,12 +42,21 @@ We meet on the second floor
 * No automated doors
 
 Please [let us know](/contact) if you require additional information or accommodations for accessibility.
+
 ### [Quebec City worship group](/qc)
 ###### Mobility
 * Parking is available
 * The group meets on the main floor, but up four stairs
   * The space is therefore not wheelchair accessible
 
+###### Language
+* Our Quebec City worship group is primarily in French
+  * Translation is available
+  * When we have guests who speak only one language, we can and do translate for them
+  * Nearly everyone understands English
+* We frequently have visitors from the US or Britain
+
 Please [let us know](/contact) if you require additional information or accommodations for accessibility.
+
 ### [Laurentian worship group](/laurentians)
 Please contact the [Laurentian worship group](/laurentians) directly for more information, as their precise meeting place changes with the seasons 

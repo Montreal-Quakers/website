@@ -4,7 +4,7 @@ lang: en
 trans: know_us
 ---
 If you'd like to be more involved but you're not sure how, perhaps the best thing to do is to express this feeling to the clerk, nominations committee, Ministry & Counsel member, or just ask around. Sometimes we are simply unaware of your wish. Here are a couple of other suggestions:
-* [Inquire](/contact.html) about our [book club/Bible study](/new_attender/bible_study) or [singing group](/new_attender/singing_group)
+* [Inquire](/contact.html) about our [book club/Bible study](/new_attender/book_bible) or [singing group](/new_attender/singing_group)
 * Add our [meeting calendar](https://calendar.google.com/calendar/embed?src=clerk%40montreal.quaker.ca&ctz=America%2FToronto){:  rel="noopener" target="_blank"} to your calendar ([instructions](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en){:  rel="noopener" target="_blank"})
 * Often after meeting we stay and chat and go out for lunch. Join us, or invite someone you like for coffee
 * Volunteer with us. Some of our members have been volunteering at:
