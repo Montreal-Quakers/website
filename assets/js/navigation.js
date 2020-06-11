@@ -8,7 +8,7 @@ if (mq.matches) {
   }
  } else {
   window.onscroll = function() {buttonAppear();}
-  /* When the user clicks on the button, toggle between hiding and showing the dropdown content */
+  // When the user clicks on the button, toggle between hiding and showing the dropdown content
   function responsiveClick(id) {
    var x = document.getElementById(id);
    x.classList.toggle("show_block");

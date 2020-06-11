@@ -7,7 +7,7 @@ Please [let us know](/contact) if you require additional information or accommod
 
 ### [Sunday Meeting](/directions) at the Greene Centre
 ###### Mobility
-We meet on the main floor
+Worship is on the main floor
 * Wheelchair access via a ramp in the front and rear of the building
 * Wheelchair accessible washrooms
 * Wheelchair accessible parking in the rear of the building
@@ -28,7 +28,7 @@ We meet on the main floor
 ###### Language
 * Our Sunday meeting happens primarily in English
   * Translation is available
-  * When we have guests who speak only one language, we can and do translate for them
+  * With guests who speak only one language, we can and do translate for them
 * We have several francophone members and attenders
   * Most of the meeting is actively bilingual
   * Nearly everyone is passively bilingual
@@ -50,7 +50,7 @@ Please [let us know](/contact) if you require additional information or accommod
   * The space is therefore not wheelchair accessible
 
 ###### Language
-* Our Quebec City worship group is primarily in French
+* The Quebec City worship group is primarily in French
   * Translation is available
   * When we have guests who speak only one language, we can and do translate for them
   * Nearly everyone understands English
@@ -59,4 +59,15 @@ Please [let us know](/contact) if you require additional information or accommod
 Please [let us know](/contact) if you require additional information or accommodations for accessibility.
 
 ### [Laurentian worship group](/laurentians)
+###### Mobility
+Worship is on the main floor
+* Please give us [advanced notice](/laurentians)
+* Wheelchair access via a ramp
+* Wheelchair accessible washroom on the main floor
+* Wheelchair accessible parking in the front lot
+* Other levels may not be accessible
+* Doors are not automatic
+
+###### Language
+* The Laurentian worship group speaks primarily English but is bilingual
 Please contact the [Laurentian worship group](/laurentians) directly for more information, as their precise meeting place changes with the seasons 

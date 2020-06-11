@@ -28,7 +28,7 @@ All are welcome!
 If this will be your first time at a Quaker Meeting, you may want to read [this information](/about.html) about what to expect.
 
 ### Accessibility
-The Newman Centre is unfortunately **not** wheelchair accessible.
+The Newman Centre is unfortunately **not** wheelchair accessible
 
 See our [accessibility](/accessibility) page for more information or contact us with any questions
 
