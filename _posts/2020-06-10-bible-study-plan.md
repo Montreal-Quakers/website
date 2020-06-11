@@ -1,5 +1,4 @@
 ---
-title: Bible study & Book club
 tags: [bible study, book club]
 lang: en
 trans: bible_study_thursdays

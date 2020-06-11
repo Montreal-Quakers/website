@@ -1,7 +1,5 @@
-{% if page.lang == "fr" %}<p>Cliquer sur les termes ci-dessous pour voir les définitions et les commentaires. Ou bien consultez une entrée <button class="randombtn" onclick="randomEntry()">au hasard</button></p><p>Voir <a href="/glossary/abr">abréviations</a>, <a href="/glossary/cite">des traductions de quelques textes souvent cités</a>, <a href="/glossary/conseils">conseils</a> et <a href="/glossary/remerciements">remerciements</a></p>{% else %}<p>Click on a term below to view definitions and commentary. Or view a <button class="randombtn" onclick="randomEntry()">random entry</button></p><p>See <a href="/glossary/abs">abbreviations</a>, <a href="/glossary/texts">translations of oft-quoted texts</a>, <a href="/glossary/tips">tips</a>, and <a href="/glossary/thanks">acknowledgements</a></p>{% endif %}
-<p>{% if page.lang == "fr" %}Retour aux <a href="/nouveau">informations pour les nouveaux participant.e.s{% else %}Return to <a href="/new_attender">information for new attenders{% endif %}</a></p>
   {% comment %}The code below is the alphabet link at the top{% endcomment %}
-{% if page.lang == "fr" %}{% assign glossy = site.data.glossaire %}
+{% if page.trans == "glossary_fren" %}{% assign glossy = site.data.glossaire %}
 {% else %}{% assign glossy = site.data.glossary %}{% endif %}
 <div class="abc_grid">
 {% for each in glossy %}
@@ -13,7 +11,7 @@
    {% comment %}ok, now the filter bar{% endcomment %}
 {% assign counter = 0 %}<div>&nbsp;</div>
 <div id=filterDropdown>
-<input label="Filter glossary" id="filterInput" type="search" autocomplete=off placeholder="Filter by entry..." onkeyup="filterFunction(this)" onsearch="filterFunction(this)">
+	<input label="Filter glossary" id="filterInput" type="search" autocomplete=off placeholder="{% if page.lang == "fr" %}Recherchez par entrée{% else %}Filter by entry{% endif %}..." onkeyup="filterFunction(this)" onsearch="filterFunction(this)">
 <div>{% comment %}Now all the entries{% endcomment %}
 {% for each in glossy %}{% assign counter = counter | plus: 1 %}
  {% assign nowslice = each.entry | slice: 0 | capitalize %}
@@ -32,7 +30,4 @@
 </div>
 </div>
 <div>&nbsp;</div>
-{% if page.lang == "fr" %}<p>Nous remercions Ed Dommen du groupe quaker de Genève pour l'usage de son glossaire, et Simon Grant de l'avoir converti en HTML. Avec toute question, contactez Ed en suisse au +41 22 774 1884.</p>{% else %}
-<div>Thanks to Ed Dommen of Geneva Meeting for faithfully maintaining this glossary, and to Simon Grant for converting it to HTML. Contact Ed in Switzerland at +41 22 774 1884 with any questions or additions.
-{% endif %}
 <script src="/assets/js/filter.js"></script>

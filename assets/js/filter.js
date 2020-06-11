@@ -66,3 +66,9 @@ function randomEntry() {
 	  window.open(randLink,"_self");
 }
 
+function randomEntry_fran() {
+  var num = Math.floor(Math.random() * ({{ site.data.glossaire.size }} - 1 + 1) + 1);
+	var randLink = '#entry_id' + num;
+	  window.open(randLink,"_self");
+}
+
