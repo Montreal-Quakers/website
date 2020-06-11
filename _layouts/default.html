@@ -49,13 +49,23 @@ layout: compress
    {% include datanavigation.html %}
    {% comment %}Turn alerts on and off using _config.yml, see the README{% endcomment %}
    <div class="container-alert">
-   {% if site.alerts == "all" %}
-     {% if page.lang == "fr" %}<div class="stickystart"><div> </div><div class="alert">{% capture alerte %}{% include alerte.md %}{% endcapture %}{{ alerte | markdownify }}</div>{% include alert_closebtn.html %}</div>
-     {% else %}<div class="stickystart"><div></div><div class="alert">{% capture alert %}{% include alert.md %}{% endcapture %}{{ alert | markdownify }}</div>{% include alert_closebtn.html %}</div>
-   {% endif %}{% endif %}
-   {% if site.alerts == "some" %}{% for each in site.alert_pages %}
-       {% if page.lang == "fr" and page.trans == each.page_trans %}<div class="stickystart"><div></div><div class="alert">{% capture alerte %}{% include alerte.md %}{% endcapture %}{{ alerte | markdownify }}</div>{% include alert_closebtn.html %}</div>
-       {% elsif page.trans == each.page_trans %}<div class="stickystart"><div></div><div class="alert">{% capture alert %}{% include alert.md %}{% endcapture %}{{ alert | markdownify }}</div>{% include alert_closebtn.html %}</div>{% endif %}
+   {% if site.redalerts == "all" %}
+     <div class="stickystart redalert"><div></div><div class="alert">{% if page.lang == "fr" %}{% capture alerte %}{% include redalerte.md %}{% endcapture %}{{ alerte | markdownify }}
+     {% else %}{% capture alert %}{% include redalert.md %}{% endcapture %}{{ alert | markdownify }}
+   {% endif %}</div>{% include alert_closebtn.html %}</div>{% endif %}
+   {% if site.redalerts == "some" %}{% for each in site.redalert_pages %}
+     {% if page.trans == each.page_trans %}<div class="stickystart redalert"><div></div><div class="alert">
+       {% if page.lang == "fr" %}{% capture alerte %}{% include redalerte.md %}{% endcapture %}{{ alerte | markdownify }}{% elsif page.trans == each.page_trans %}{% capture alert %}{% include redalert.md %}{% endcapture %}{{ alert | markdownify }} {% endif %}  </div>{% include alert_closebtn.html %}</div>{% endif %}
+   {% endfor %}
+   {% endif %}
+       {% comment %}Green alerts now{% endcomment %}
+   {% if site.greenalerts == "all" %}
+     <div class="stickystart greenalert"><div></div><div class="alert">{% if page.lang == "fr" %}{% capture alerte %}{% include greenalerte.md %}{% endcapture %}{{ alerte | markdownify }}
+     {% else %}{% capture alert %}{% include greenalert.md %}{% endcapture %}{{ alert | markdownify }}
+   {% endif %}</div>{% include alert_closebtn.html %}</div>{% endif %}
+   {% if site.greenalerts == "some" %}{% for each in site.greenalert_pages %}
+     {% if page.trans == each.page_trans %}<div class="stickystart greenalert"><div></div><div class="alert">
+       {% if page.lang == "fr" %}{% capture alerte %}{% include greenalerte.md %}{% endcapture %}{{ alerte | markdownify }}{% elsif page.trans == each.page_trans %}{% capture alert %}{% include greenalert.md %}{% endcapture %}{{ alert | markdownify }} {% endif %}  </div>{% include alert_closebtn.html %}</div>{% endif %}
    {% endfor %}
    {% endif %}
    </div>

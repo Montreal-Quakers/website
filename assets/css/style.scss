@@ -104,7 +104,6 @@ button {
 }
 
 .stickystart { // Ends at alert.html
-  background-color: $alert-color;
   display: flex;
   justify-content: space-between;
   align-content: center;
@@ -126,12 +125,12 @@ button {
       family: $font-sans;
       weight: bold;}
   padding: 20px;
-  color: $alert-text-color;
+  color: $redalert-text-color;
   margin: 0 0 ;
   opacity: 1;
   transition: opacity 0.6s;
   a {
-    color: $alert-link-color;
+    color: $redalert-link-color;
     font-weight: 800;
     font-family: $font-sans;
   }
@@ -139,9 +138,22 @@ button {
     margin: 0;
   }
 }
-.alert-color-text {
-   color: $alert-color;
+
+ .redalert {
+  background-color: $redalert-color;
 }
+ 
+.greenalert {
+  background-color: $greenalert-color;
+}
+
+// .redalert-color-text {
+//    color: $redalert-color;
+// }
+// 
+// .greenalert-color-text {
+//    color: $greenalert-color;
+// }
 
 // The alert close button
 .closebtn {
@@ -150,7 +162,7 @@ button {
   font-family: $font-sans;
   padding: 0px 20px 0 15px;
   color: white;
-  background-color: $alert-color;
+  background-color: transparent;
   font-weight: bold;
   font-size: 1em;
   line-height: 20px;

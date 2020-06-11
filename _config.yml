@@ -43,12 +43,17 @@ media_pages:
     # Anything else, like '"alerton = "off"' and alerts will be off.
     # Change alert colour in the _sass/_colors.scss, $alert-color
 
-alerts: some
-alert_pages:
+redalerts: some
+redalert_pages:
   - page_trans: index
   - page_trans: directions
   - page_trans: quebec
   - page_trans: midweek
+
+greenalerts: some
+greenalert_pages:
+  - page_trans: index
+  - page_trans: contact
 
     #This section allows you to easily control which pages will have which bird and text animation
 bird_left: 
