@@ -1,5 +1,5 @@
 ---
-title: Your first Quaker meeting in six steps
+title: Your First Quaker Meeting in Six Steps
 lang: en
 trans: about
 ---

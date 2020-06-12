@@ -4,9 +4,9 @@ lang: en
 trans: discretionary_fund
 layout: discretionary
 ---
-The Ministry & Counsel (M&C) discretionary fund is intended to be a source of temporary financial support in the event of personal crises. The M&C committee will administer the budget for this fund at their discretion, considering the following guidelines :
+The Ministry & Counsel (M&C) discretionary fund is intended to be a source of temporary financial support in the event of personal crises. The M&C committee will administer the budget for this fund at their discretion, considering the following guidelines:
 
-* Eligibility : members or regular attenders, or people without other support systems referred by members or regular attenders
+* Eligibility: members or regular attenders, or people without other support systems referred by members or regular attenders
 * Funding should be for one-time or temporary urgent needs
 * An urgent need is defined as one that directly affects the wellbeing of the applicant or of their dependent(s) 
 * Each household can receive a maximum of $250 per request, and make a maximum of two requests per year

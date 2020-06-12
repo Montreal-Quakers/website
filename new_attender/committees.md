@@ -3,7 +3,7 @@ title: <i class="fas fa-screwdriver fa-fw color-1-dark-text"></i> Committees & R
 lang: en
 trans: committees
 ---
-If you see a role that you'd like to learn more about, please feel free to [contact us](/contact)
+If you see a role that you'd like to learn more about, please feel free to [contact us](/contact).
 
 ## Roles
 * Clerk
@@ -23,11 +23,11 @@ Considers capabilities, experiences, special gifts and talents of members and at
 
 
 #### Communications
-  * Responsible for email communications
-  * Runs the website
+* Responsible for email communications
+* Runs the website
 
 #### Volunteers for First Day School
-Helps on a rotating basis with First Day School
+* Helps on a rotating basis with First Day School
 
 #### Indigenous Committee
-Helps the meeting advance indigenous rights
+* Helps the meeting advance indigenous rights

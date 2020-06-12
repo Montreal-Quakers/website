@@ -29,13 +29,16 @@ function filterFunction(input) {
   }
   for (i = 0; i < button.length; i++) {
     txtValue = button[i].textContent || button[i].innerText;
+    var z = button[i].nextElementSibling;
     if (txtValue.toUpperCase().indexOf(filter) > -1) {
       button[i].style.display = "block";
+// 	  if (z === null) {} else {
+//      z.className = z.className.replace(" filterHide", "filterShow");
+// 	  }
     } else {
       button[i].style.display = "none";
     button[i].className = button[i].className.replace("color-1-light ", "buttonyellow ");
     button[i].className = button[i].className.replace("textwhite", "");
-    var z = button[i].nextElementSibling;
 	  if (z === null) {} else {
     z.className = z.className.replace(" filterShow", "filterHide");
 	  }

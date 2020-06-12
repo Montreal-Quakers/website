@@ -1,13 +1,13 @@
 {% if page.lang == "fr" %}
-Les verbes r&#233;fl&#233;chis figurent dans le glossaire fran&#231;ais&ndash;anglais &#224; l'endroit correspondant au verbe lui-m&#234;me, mais n&#233;anmoins pr&#233;c&#233;d&#233;s du pronom "se" ou "s'...".
+Les verbes réfléchis figurent dans le glossaire français&ndash;anglais à l'endroit correspondant au verbe lui-même, mais néanmoins précédés du pronom "se" ou "s'...".
 
-Les renvois &#224; d'autres mots au sein du glossaire sont indiqu&#233;s par des majuscules (p.ex.: "cf. CLERK")
+Les renvois à d'autres mots au sein du glossaire sont indiqués par des majuscules (p.ex.: "cf. CLERK")
 
 La note "**text.**" indique que l'expression en question est citée dans son contexte dans la section "[Quelques textes quakers souvent cités](texts.html)".
 
-Les noms pr&#233;sent&#233;s avec un trait d'union, du genre Ami-e, indiquent qu'Ami en est la forme masculine et qu'Amie en est la f&#233;minine.
+Les noms présentés avec un trait d'union, du genre Ami-e, indiquent qu'Ami en est la forme masculine et qu'Amie en est la féminine.
 
-Si aucun genre n'est indiqu&#233;, le nom peut &#234;tre soit masculin, soit f&#233;minin.
+Si aucun genre n'est indiqué, le nom peut être soit masculin, soit féminin.
 
 En anglais, le glossaire suit la pratique des Nations Unies et respecte lorthographe anglaise.
 

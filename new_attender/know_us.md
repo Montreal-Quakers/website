@@ -14,7 +14,7 @@ If you'd like to be more involved but you're not sure how, perhaps the best thin
 * Joining a [committee](/new_attender/committees.html) is a great way to know us better and contribute to the life of the meeting community
   * If one of the [committees](/new_attender/committees.html) might interest you, feel free to inquire. No pressure, and the question is appreciated
   * If you don't see a role that might interest you, perhaps ask anyway: there are many fascinating ways to join and serve Quakers in Canada, at interfaith groups, in North America, the UN, and the world. That list is only the beginning
-* Do you know about larger Quaker [gatherings](/new_attender/gatherings)
+* Do you know about larger Quaker [gatherings](/new_attender/gatherings)?
 
 ### Asking vs. being asked
 If you've been with us for a while, hopefully someone has discussed many of these items with you. If we haven't approached you, it may be because:
