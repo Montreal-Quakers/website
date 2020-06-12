@@ -11,14 +11,14 @@ trans: midweek
 * We sometimes hold a **book club/Bible study** after. [Contact us](/contact.html) for details.
 
 ### To get updates <span class="stanchor"><a name="updates"></a></span>
-For announcements or last minute changes, join the [Midweek Meeting Facebook group](https://www.facebook.com/groups/mtlmidweek){:  rel="noopener" target="_blank"}, check the [Facebook page](https://www.facebook.com/MontrealQuakers){:  rel="noopener" target="_blank"} (no Facebook account required), or [contact us](/contact.html) with questions.
+For announcements or last minute changes, join the [Midweek Meeting Facebook group](https://www.facebook.com/groups/mtlmidweek){: rel="noopener" target="_blank"}, check the [Facebook page](https://www.facebook.com/MontrealQuakers){: rel="noopener" target="_blank"} (no Facebook account required), or [contact us](/contact.html) with questions.
 
 ### Where
-[3484 Peel Street, Montreal](https://goo.gl/maps/MeQqk7m8Hegzx9Sz8){:  rel="noopener" target="_blank"}
+[3484 Peel Street, Montreal](https://goo.gl/maps/MeQqk7m8Hegzx9Sz8){: rel="noopener" target="_blank"}
 
 Adjacent to McGill University at the Newman Centre's <i class="fas fa-book"></i> Ryan Library.
 
-**Parking** may be available. Contact the [Newman Centre](https://newmancentre.org/){:  rel="noopener" target="_blank"}
+**Parking** may be available. Contact the [Newman Centre](https://newmancentre.org/){: rel="noopener" target="_blank"}
 
 ### How to find us
 To find the **Ryan Library**, enter the Newman Centre from the driveway, proceed up the stairs to the second floor, end of the hallway facing Peel.

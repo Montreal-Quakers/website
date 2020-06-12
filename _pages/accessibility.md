@@ -3,7 +3,7 @@ title: <i class="fas fa-universal-access fa-fw color-1-dark-text"></i> Accessibi
 lang: en
 trans: accessibility
 ---
-Please [let us know](/contact) if you require additional information or accommodations for accessibility.
+Please [let us know](/contact) if you require additional information or accommodations for accessibility
 
 ### [Sunday Meeting](/directions) at the Greene Centre
 ###### Mobility
@@ -41,7 +41,7 @@ We meet on the second floor
 * Must go down six steps and then up two flights of stairs
 * No automated doors
 
-Please [let us know](/contact) if you require additional information or accommodations for accessibility.
+Please [let us know](/contact) if you require additional information or accommodations for accessibility
 
 ### [Quebec City worship group](/qc)
 ###### Mobility
@@ -56,7 +56,7 @@ Please [let us know](/contact) if you require additional information or accommod
   * Nearly everyone understands English
 * We frequently have visitors from the US or Britain
 
-Please [let us know](/contact) if you require additional information or accommodations for accessibility.
+Please [let us know](/contact) if you require additional information or accommodations for accessibility
 
 ### [Laurentian worship group](/laurentians)
 ###### Mobility
