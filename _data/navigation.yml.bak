@@ -1,8 +1,9 @@
 en:
-- title: About Us
+- title: I'm new
   hovertitle: About Us
   link: /intro
-  icon: <i class='far fa-address-card'></i>
+  icon: <i class="far fa-hand-paper"></i>
+#  {% comment %}<i class='far fa-address-card'></i>{% endcomment %}
   submenu: 
     - subtitle: First Time
       sublink: /about
@@ -31,16 +32,17 @@ en:
       subhovertitle: Accessibility information for our places of worship
       sublink: /accessibility
       subicon: <i class="fas fa-universal-access fa-fw"></i>
-- title: News
+- title: Updates
   hovertitle: The Latest Updates
   link: /posts
   icon: <i class='fas fa-rss'></i>
-#    - title: Current Attenders
-#      hovertitle: Information to better integrate into the meeting community
-#      link: /new_attender/
-- title: Calendar
-  link: /calendar
-  icon: <i class='far fa-calendar-alt'></i>
+- title: Next steps
+  hovertitle: Information to better integrate into the meeting community
+  link: /new_attender/
+  icon: <i class="fas fa-caret-right"></i>
+# - title: Calendar
+#   link: /calendar
+#   icon: <i class='far fa-calendar-alt'></i>
 - title: Contribute
   link: /donate
   icon: <i class='fas fa-coins'></i>
@@ -49,7 +51,7 @@ en:
   icon: <i class='far fa-envelope-open'></i>
 
 fr:
-- title: À propos
+- title: Nouveau
   icon: <i class='far fa-address-card'></i>
   submenu:
     - subtitle: Déroulement
@@ -58,9 +60,6 @@ fr:
       sublink: /intro-fr
     - subtitle: Nos valeurs (les témoignages)
       sublink: /témoignages
-      #    - title: Nouveaux participant.e.s
-      #      hovertitle: Des informations pour mieux s'intégrer dans notre communauté
-      #      link: /nouveau/
     - subtitle: Liens et histoire
       sublink: /liens_histoire
 - title: Nous trouver
@@ -80,10 +79,14 @@ fr:
   hovertitle: Nos mises à jour
   link: /nouvelles
   icon: <i class='fas fa-rss'></i>
-- title: Programmation
-  link: /calendrier
-  icon: <i class='far fa-calendar-alt'></i>
-- title: Faire un don
+  # - title: Programmation
+  #   link: /calendrier
+  #   icon: <i class='far fa-calendar-alt'></i>
+- title: Prochaine étape
+  hovertitle: Des informations pour mieux s'intégrer dans notre communauté
+  link: /nouveau/
+  icon: <i class="fas fa-caret-right"></i>
+- title: Donner
   link: /don
   icon: <i class='fas fa-coins'></i>
 - title: Contact

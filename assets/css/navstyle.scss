@@ -21,7 +21,7 @@ $verynarrow: {{ site.verynarrow }} !global;
   #response {cursor:pointer}
   a,#response,button,.search-container {
     display: block;
-    padding: 14px 12px;
+    padding: 14px 11px;
     color: $nav-color-text;
     text-align: center;
     font-family: $font-sans;
@@ -92,7 +92,7 @@ $verynarrow: {{ site.verynarrow }} !global;
         family: inherit;
         weight: bold;
       }
-      padding: 14px 12px;
+      padding: 14px 9px;
       background-color: inherit;
       margin: 0;
       cursor: default;
