@@ -22,15 +22,15 @@ webrick:
 
 media_pages:
   - page_trans: index
-    media: yt_embed.html
+    media: youtube/yt_embed.html
   - page_trans: directions
-    media: directions.html
+    media: maps/directions.html
   - page_trans: laurentians
-    media: atelier.html
+    media: maps/atelier.html
   - page_trans: midweek
-    media: ryan.html
+    media: maps/ryan.html
   - page_trans: quebec
-    media: vieux_qc.html
+    media: maps/vieux_qc.html
   - page_trans: calendar
     media: calendar.html
     media2: calendar2.html
