@@ -3,6 +3,3 @@ Un glossaire {% if page.trans == "glossary_fren" %}français-anglais (et [anglai
 Cliquer sur les termes ci-dessous pour voir les définitions et les commentaires. Ou bien consultez une entrée <button class="randombtn" onclick="randomEntry{% if page.trans == "glossary_fren" %}_fran{% endif %}()">au hasard</button>
 
 Voir [abréviations](/glossary/abr), [des traductions de quelques textes souvent cités](/glossary/cite), [conseils](/glossary/conseils) et [remerciements](/glossary/remerciements)
-
-Retour aux [Informations pour les nouveaux participant.e.s](/nouveau)
-

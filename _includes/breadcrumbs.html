@@ -1,0 +1,6 @@
+<ul class="breadcrumb">
+  <li><a href="/{% if page.lang == "fr" %}nouveau{% else %}new_attender{% endif %}">{% if page.lang == "fr" %}Prochaine étape{% else %}Next steps{% endif %}</a></li>
+  {% if page.lang == "fr" %}{% assign doclist = site.data.newcomer_cards.fr %}{% else %}{% assign doclist = site.data.newcomer_cards.en %}{% endif %}{% assign realurl = page.url | url_decode %}{% for item in doclist %}{% assign reallink = item.link | append: ".html" %}{% if reallink == realurl %}<li>{{ item.title }}</li>{% endif %}
+  {% if item.submenu[0] %}{% for subitem in item.submenu %}
+  {% assign realsublink = subitem.sublink | append: ".html" %}{% if realsublink == realurl %}<li><a href="{{ item.link }}">{{ item.title }}</a></li><li>{{ subitem.subtitle }}</li>{% endif %}{% endfor %}{% endif %}{% endfor %}
+</ul>

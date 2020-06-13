@@ -2,7 +2,6 @@
 title: <i class="fas fa-music color-1-text"></i> Groupe de chant
 lang: fr
 trans: singing_group
-layout: know_us
 ---
 Notre groupe de chant utilise quelques ressources clés:
 * Rise Up Singing: The Group Singing Songbook by Peter Blood and Annie Patterson

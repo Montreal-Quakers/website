@@ -144,17 +144,17 @@ defaults:
       path: "new_attender" # an empty string here means all files in the project
       type: "pages"
     values:
-      layout: "new_attender"
+      layout: "default"
   - scope:
       path: "nouveau" # an empty string here means all files in the project
       type: "pages"
     values:
-      layout: "new_attender"
+      layout: "default"
   - scope:
       path: "glossary" # an empty string here means all files in the project
       type: "pages"
     values:
-      layout: "glossary"
+      layout: "default"
   - scope:
       path: "_posts" # an empty string here means all files in the project
       type: "posts"

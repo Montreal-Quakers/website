@@ -1,3 +1,6 @@
+home:
+- icon: <i class="fas fa-home fa-lg"></i>
+
 en:
 - title: Podcasts
   hovertitle: Suggested podcasts
@@ -7,6 +10,9 @@ en:
   hovertitle: Request help from the meeting
   link: /new_attender/request_help
   icon: <i class="fas fa-hand-holding-heart fa-fw"></i>
+  submenu:
+    - subtitle: Discretionary Fund
+      sublink: /new_attender/discretionary_fund
 - title: Meeting info
   hovertitle: Info-sheets and resources about the meeting
   link: /new_attender/meeting_resources
@@ -23,6 +29,11 @@ en:
   hovertitle: Deepen relationships at meeting
   link: /new_attender/know_us
   icon: <i class="fas fa-user-friends fa-fw"></i>
+  submenu:
+    - subtitle: Book club & Bible study
+      sublink: /new_attender/book_bible
+    - subtitle: Singing Potluck
+      sublink: /new_attender/singing_group
 - title: Membership
   hovertitle: Learn about membership at meeting
   link: /new_attender/membership
@@ -35,6 +46,15 @@ en:
   hovertitle: French-English Quaker glossary
   link: /new_attender/glossary
   icon: <i class="fas fa-book-reader fa-fw"></i>
+  submenu:
+    - subtitle: Abbreviations
+      sublink: /glossary/abs
+    - subtitle: Tips
+      sublink: /glossary/tips
+    - subtitle: Frequent texts
+      sublink: /glossary/texts
+    - subtitle: Acknowledgements
+      sublink: /glossary/thanks
 - title: Gatherings
   hovertitle: Larger Quaker gatherings
   link: /new_attender/gatherings
@@ -53,6 +73,15 @@ fr:
   hovertitle: Glossaire Quaker anglais-français
   link: /nouveau/glossaire
   icon: <i class="fas fa-book-reader fa-fw"></i>
+  submenu:
+    - subtitle: Abréviations
+      sublink: /glossary/abr
+    - subtitle: Conseils
+      sublink: /glossary/conseils
+    - subtitle: Textes souvent cités
+      sublink: /glossary/cite
+    - subtitle: Remerciements
+      sublink: /glossary/remerciements
 - title: Apprendre
   hovertitle: Approfondir vos connaissances du Quakerism
   link: /nouveau/approfondir
@@ -60,10 +89,18 @@ fr:
 - title: Demandez de l'aide
   link: /nouveau/aide
   icon: <i class="fas fa-hand-holding-heart fa-fw"></i>
+  submenu:
+    - subtitle: Fond d'aide
+      sublink: /nouveau/fond-daide
 - title: Se faire un.e Ami.e
   hovertitle: Approfondir vos relations avec notre communauté
   link: /nouveau/nous_connaître
   icon: <i class="fas fa-user-friends fa-fw"></i>
+  submenu:
+    - subtitle: Club de lecture & étude biblique
+      sublink: /nouveau/lecture_bible
+    - subtitle: Groupe de chant
+      sublink: /nouveau/chant
 - title: Structure
   hovertitle: Rôles et comités
   link: /nouveau/comités

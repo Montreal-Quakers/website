@@ -4,5 +4,3 @@
 Click any of the {% if page.trans == "glossary_fren" %}{{ site.data.glossaire.size }}{% else %}{{ site.data.glossary.size }}{% endif %} entries below to view definitions and commentary. Or view a <button class="randombtn" onclick="randomEntry{% if page.trans == "glossary_fren" %}_fran{% endif %}()">random entry</button>
 
 See [abbreviations](/glossary/abs), [translations of oft-quoted texts](/glossary/texts), [tips](/glossary/tips), and [acknowledgements](/glossary/thanks)
-
-Return to [Information for new attenders](/new_attender)
