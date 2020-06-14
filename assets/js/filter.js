@@ -29,6 +29,7 @@ function filterFunction(input) {
   }
   for (i = 0; i < button.length; i++) {
     txtValue = button[i].textContent || button[i].innerText;
+    caretid = document.getElementById("caret" + i);
     var z = button[i].nextElementSibling;
     if (txtValue.toUpperCase().indexOf(filter) > -1) {
       button[i].style.display = "block";
@@ -39,6 +40,7 @@ function filterFunction(input) {
       button[i].style.display = "none";
     button[i].className = button[i].className.replace("color-1-light ", "buttonyellow ");
     button[i].className = button[i].className.replace("textwhite", "");
+    caretid.className = "fas fa-caret-right";
 	  if (z === null) {} else {
     z.className = z.className.replace(" filterShow", "filterHide");
 	  }
@@ -50,16 +52,23 @@ function filterFunction(input) {
 function openAccordion(id) {
   var x = document.getElementById(id);
   var y = document.getElementById(id).parentElement;
+  var caretcounter = id.replace("entry", "caret");
+  var caretid = document.getElementById(caretcounter);
+	  console.log(caretcounter);
+    // caretid.className = "fas fa-caret-down";
+	  console.log(caretid);
   if (x.className.indexOf("filterShow") == -1) {
     x.className = x.className.replace("filterHide", " filterShow");
     x.previousElementSibling.classList.toggle("color-1-light");
     x.previousElementSibling.classList.toggle("buttonyellow");
     x.previousElementSibling.classList.toggle("textwhite");
+    caretid.className = "fas fa-caret-down";
   } else {
     x.className = x.className.replace(" filterShow", "filterHide");
     x.previousElementSibling.classList.toggle("color-1-light");
     x.previousElementSibling.classList.toggle("buttonyellow");
     x.previousElementSibling.classList.toggle("textwhite");
+    caretid.className = "fas fa-caret-right";
   }
 }
 

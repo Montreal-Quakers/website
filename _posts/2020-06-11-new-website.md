@@ -11,7 +11,7 @@ Check out some of the fun new features:
 * Better and more translations
 * Animations
 * New look and feel
-* About 75% faster
+* 75% faster
 * More accessibility information
 * More information about Quakerism geared at newcomers
 

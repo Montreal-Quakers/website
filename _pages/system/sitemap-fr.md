@@ -4,6 +4,7 @@ permalink: /_pages/sitemap-fr.html
 title: Site Map en français
 lang: fr
 trans: system_sitemap
+exclude_from_search: true
 ---
 <ul>
 {% for item in site.data.navigation.fr %}

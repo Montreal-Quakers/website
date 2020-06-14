@@ -6,6 +6,6 @@ trans: meeting_resources
 In addition, feel free to [request](/contact) any of these non-public resources to integrate better into the meeting:
 * Meeting contact list
 * Internal meeting listserv (rarely used, but only for members and current regular attenders)
-* List of current [committee](/new_attender/committees) [members](/roles.html)
-* Meeting [budget](https://drive.google.com/drive/u/5/folders/1YIS_eZQAaOt9VLYdMD6LmH2cuRRTKRTK)
-* Past [business meeting](/new_attender/business) [minutes](/minutes.html)
+* List of current [committee](/new_attender/committees) [members](/roles.html){: rel="noopener" target="_blank"}
+* Meeting [budget](https://drive.google.com/drive/u/5/folders/1YIS_eZQAaOt9VLYdMD6LmH2cuRRTKRTK){: rel="noopener" target="_blank"}
+* Past [business meeting](/new_attender/business) [minutes](/minutes.html){: rel="noopener" target="_blank"}

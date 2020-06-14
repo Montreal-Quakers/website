@@ -20,8 +20,8 @@
  </div>
  <div class="sticky_anchor">
    <div class="filterbye">&nbsp;</div>
-   <div class=abc><a class="textwhite">&nbsp; {{ abc }}</a><div class=stanchor><a name="{{ abc }}"></a></div></div>{% endunless %}
-   <button id="entry_id{{ counter }}" onclick="openAccordion('entry{{ counter }}')" class="list_button buttonyellow">{% if each.entry-href %}<a href="{{ each.entry-href }}">{{ each.entry }}</a>{% else %}{{ each.entry }}{% endif %}</button>{% if each.entry-id %}<span class=stanchor><a id="{{ each.entry-id }}"></a></span>{% endif %}
+   <div class=abc><a class="textwhite"> &nbsp;{{ abc }}</a><div class=stanchor><a name="{{ abc }}"></a></div></div>{% endunless %}
+   <button id="entry_id{{ counter }}" onclick="openAccordion('entry{{ counter }}')" class="list_button buttonyellow">{% if each.entry-href %}<i id="caret{{ counter }}" class="fas fa-caret-right"></i> &nbsp;&nbsp;<a href="{{ each.entry-href }}">{{ each.entry }}</a>{% else %}<i id="caret{{ counter }}" class="fas fa-caret-right"></i>&nbsp;&nbsp; {{ each.entry }}{% endif %}</button>{% if each.entry-id %}<span class=stanchor><a id="{{ each.entry-id }}"></a></span>{% endif %}
  <div class="list_div filterHide" id="entry{{ counter }}">
 	 <p>{% if each.translation-href %}<a href="{{ each.translation-href }}">{{ each.translation }}</a>{% else %}{{ each.translation }}{% endif %}</p>
  	{% if each.comment-translation %}<p>{{ each.comment-translation }}</p>{% endif %}

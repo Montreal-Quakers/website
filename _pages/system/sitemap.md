@@ -4,6 +4,7 @@ permalink: /_pages/sitemap.html
 title: English Site Map
 lang: en
 trans: system_sitemap
+exclude_from_search: true
 ---
 <ul>
 {% for item in site.data.navigation.en %}
