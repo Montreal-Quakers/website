@@ -15,9 +15,16 @@
 // 
 // }
 
+// @font-face {
+//   font-family: "Playfair Display";
+//   src: url(/assets/google_fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf);
+//   font-display: swap;
+// }
+
+
 @font-face {
-  font-family: "Playfair Display";
-  src: url(/assets/google_fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf);
+  font-family: "Bitter";
+  src: url(/assets/google_fonts/Bitter/Bitter-Regular.ttf);
   font-display: swap;
 }
 
@@ -34,13 +41,6 @@
   font-weight: bold;
   font-display: swap;
 }
-
-// @font-face {
-//   font-family: "Source Sans Pro";
-//   src: url(/assets/google_fonts/Source_Sans_Pro/SourceSansPro-Light.ttf);
-//   font-weight: lighter;
-// }
- 
  
 @font-face {
   font-family: "Source Sans Pro";
@@ -48,3 +48,9 @@
   font-weight: 800;
   font-display: swap;
 }
+
+// @font-face {
+//   font-family: "Source Sans Pro";
+//   src: url(/assets/google_fonts/Source_Sans_Pro/SourceSansPro-Light.ttf);
+//   font-weight: lighter;
+// }

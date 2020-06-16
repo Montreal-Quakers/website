@@ -132,7 +132,7 @@ $verynarrow: {{ site.verynarrow }} !global;
     font: {
       family: $font-serif;
       size: $header-font-size;}
-    letter-spacing: $serif-spacing;
+    // letter-spacing: $serif-spacing;
     color: $header-color-text;
     position: relative;
     padding:20px 20px;
@@ -243,7 +243,7 @@ $verynarrow: {{ site.verynarrow }} !global;
      left: 50%;
      font: {size: $nav-font-size;
        family: $font-serif;}
-     letter-spacing: $serif-spacing;
+     // letter-spacing: $serif-spacing;
      transform: translate(-50%, 0%);
      background-color: $color-1-dark;
      color: $nav-color-text;

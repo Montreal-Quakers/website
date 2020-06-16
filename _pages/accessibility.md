@@ -37,38 +37,38 @@ Worship is on the main floor
 
 ### [Midweek Meetings](/midweek) at the Newman Centre
 ###### Mobility
-We meet on the second floor
-* This space is not wheelchair accessible
-* Must go down six steps and then up two flights of stairs
-* No automated doors
+We meet on the second floor.
+* This space is not wheelchair accessible.
+* Must go down six steps and then up two flights of stairs.
+* No automated doors.
 
-Please [let us know](/contact) if you require additional information or accommodations for accessibility
+Please [let us know](/contact) if you require additional information or accommodations for accessibility.
 
 ### [Quebec City worship group](/qc)
 ###### Mobility
-* Parking is available
-* The group meets on the main floor, but up four stairs
-  * The space is therefore not wheelchair accessible
+* Parking is available.
+* The group meets on the main floor, but up four stairs.
+  * The space is therefore not wheelchair accessible.
 
 ###### Language
-* The Quebec City worship group is primarily in French
-  * Translation is available
-  * When we have guests who speak only one language, we can and do translate for them
-  * Nearly everyone understands English
-* We frequently have visitors from the US or Britain
+* The Quebec City worship group is primarily in French.
+  * Translation is available.
+  * When we have guests who speak only one language, we can and do translate for them.
+  * Nearly everyone understands English.
+* We frequently have visitors from the US or Britain.
 
-Please [let us know](/contact) if you require additional information or accommodations for accessibility
+Please [let us know](/contact) if you require additional information or accommodations for accessibility.
 
 ### [Laurentian worship group](/laurentians)
 ###### Mobility
-Worship is on the main floor
-* Please give us [advanced notice](/laurentians)
-* Wheelchair access via a ramp
-* Wheelchair accessible washroom on the main floor
-* Parking available
-* Other levels may not be accessible
-* Doors are not automatic
+Worship is on the main floor.
+* Wheelchair access via a ramp.
+  * Please give us [advanced notice](/laurentians).
+* Wheelchair accessible washroom on the main floor.
+* Parking available.
+* Other levels may not be accessible.
+* Doors are not automatic.
 
 ###### Language
-* The Laurentian worship group speaks primarily English but is bilingual
-Please contact the [Laurentian worship group](/laurentians) directly for more information, as their precise meeting place changes with the seasons 
+* The Laurentian worship group speaks primarily English but is bilingual.
+Please contact the [Laurentian worship group](/laurentians) directly for more information.

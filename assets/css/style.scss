@@ -34,7 +34,7 @@ h1,h2,h3,h4,h5,h6 {
 	font-weight: 400;
 	margin: 10px 0;
 	font-family: $font-serif;
-	letter-spacing: $serif-spacing;
+	//letter-spacing: $serif-spacing;
 }
 h2 {font-size: 175%}
 h3 {font-size: 140%}
@@ -78,7 +78,7 @@ button {
   }
   &.serif {
     font-family: $font-serif;
-    letter-spacing: $serif-spacing;
+    //letter-spacing: $serif-spacing;
   }
 }
 .footer {
@@ -92,7 +92,7 @@ button {
      h3 {
 	padding-top: .5em;
         font-family: $font-serif;
-	letter-spacing: $serif-spacing;
+	//letter-spacing: $serif-spacing;
 	font-size: 2em;
      }
      h6 {
