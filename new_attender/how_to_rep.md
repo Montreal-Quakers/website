@@ -1,5 +1,5 @@
 ---
-title: How to Represent Meeting
+title: <i class="far fa-hand-paper color-1-text"></i> How to Represent Meeting
 lang: en
 trans: how_to_rep
 ---
