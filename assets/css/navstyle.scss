@@ -347,19 +347,18 @@ ul.breadcrumb {
 ul.breadcrumb li {
   display: inline;
   font-size: $body-font-size;
+  color: white;
 }
 ul.breadcrumb li+li:before {
   padding: 8px;
-  color: black;
   content: "/\00a0";
 }
 ul.breadcrumb li a {
   color: white;
-  text-decoration: none;
+  text-decoration: underline;
 }
 ul.breadcrumb li a:hover {
-  color: white;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 // animations

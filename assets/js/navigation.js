@@ -78,6 +78,9 @@ function topFunction() {
 function flipIcon () {
 	var i = document.getElementById("flippy");
 	var i2 = document.getElementById("flippy2");
+	// Clear automatic routing of the homepage to a language
+	var choice = null;
+	localStorage.setItem('lang',choice)
 	if (i2.classList.contains("searchy")) {
 	i.classList.add("rotate-hor-center");
         		

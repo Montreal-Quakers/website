@@ -10,8 +10,8 @@ If you see a role that you'd like to learn more about, please feel free to [cont
 * Assistant clerk (a great position to learn more)
 * Recording clerk
 * Treasurer
-* Representative for Representative Meeting in the fall and spring
-* Representative at Canadian Yearly Meeting in August
+* [Representative](/new_attender/how_to_rep) for Representative Meeting in the fall and spring
+* [Representative](/new_attender/how_to_rep) at Canadian Yearly Meeting in August
 
 ## Committees
 

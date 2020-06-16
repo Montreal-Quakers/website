@@ -27,10 +27,10 @@ en:
     - subtitle: The Laurentians
       subhovertitle: Laurentian Worship Group
       sublink: /laurentians
-    - subtitle: Accessibility
-      subhovertitle: Accessibility information for our places of worship
-      sublink: /accessibility
-      subicon: <i class="fas fa-universal-access fa-fw"></i>
+      # - subtitle: Accessibility
+      #   subhovertitle: Accessibility information for our places of worship
+      #   sublink: /accessibility
+      #   subicon: <i class="fas fa-universal-access fa-fw"></i>
 - title: News
   hovertitle: The Latest Updates
   link: /posts
@@ -89,3 +89,11 @@ fr:
 - title: Contact
   link: /contact-fr
   icon: <i class='far fa-envelope-open'></i>
+
+welcome:
+- title: Bienvenue
+  link: /index-fr
+  lang: fr
+- title: Welcome
+  link: /index-en
+  lang: en

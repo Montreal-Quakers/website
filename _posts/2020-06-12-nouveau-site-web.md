@@ -3,9 +3,9 @@ title: Le nouveau site web est arrivé!
 tags: [website]
 lang: fr
 trans: website202006
-author: Clerk
+author: Modérateur
 ---
-Notre nouveau site web est arrivé -- et en style. Merci à tout le monde qui nous a aidé à l'améliorer!
+Notre nouveau site web est arrivé, et en style. Merci à tout le monde qui nous a aidé à l'améliorer!
 
 Profitez des nouvelles fonctionalités:
 * Plus de contenu

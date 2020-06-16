@@ -1,3 +1,11 @@
+{% if page.lang == "fr" %}{% assign fr = true %}{% endif %}
+<div class=center>
+  <span><button class="randombtn" onclick="openAll()">{% if fr %}Ouvrir tout{% else %}Open all{% endif %}</button>&nbsp;
+  <button class="randombtn" onclick="closeAll()">{% if fr %}Fermer tout{% else %}Close all{% endif %}</button>&nbsp;
+  {% if fr %}<button class="randombtn" onclick="randomEntry{% if page.trans == "glossary_fren" %}_fran{% endif %}()">Entrée au hasard</button>{% else %}
+   <button class="randombtn" onclick="randomEntry{% if page.trans == "glossary_fren" %}_fran{% endif %}()">Random entry</button>{% endif %}
+<div>&nbsp;</div>
+</div>
   {% comment %}The code below is the alphabet link at the top{% endcomment %}
 {% if page.trans == "glossary_fren" %}{% assign glossy = site.data.glossaire %}
 {% else %}{% assign glossy = site.data.glossary %}{% endif %}
@@ -9,9 +17,9 @@
 {% unless nowslice == abc %}{% assign abc = nowslice %}
 <a class="color-1-dark-text" href="#{{ abc }}">{{ abc }}</a>{% endunless %}{% endfor %}</div>
    {% comment %}ok, now the filter bar{% endcomment %}
-{% assign counter = 0 %}<div>&nbsp;</div>
+{% assign counter = -1 %}<div>&nbsp;</div>
 <div id=filterDropdown>
-	<input label="Filter glossary" id="filterInput" type="search" autocomplete=off placeholder="{% if page.lang == "fr" %}Recherchez par entrée{% else %}Filter by entry{% endif %}..." onkeyup="filterFunction(this)" onsearch="filterFunction(this)">
+	<input label="Filter glossary" id="filterInput" type="search" autocomplete=off placeholder="{% if fr %}Recherchez par entrée{% else %}Filter by entry{% endif %}..." onkeyup="filterFunction(this)" onsearch="filterFunction(this)">
 <div>{% comment %}Now all the entries{% endcomment %}
 {% for each in glossy %}{% assign counter = counter | plus: 1 %}
  {% assign nowslice = each.entry | slice: 0 | capitalize %}
@@ -21,8 +29,8 @@
  <div class="sticky_anchor">
    <div class="filterbye">&nbsp;</div>
    <div class=abc><a class="textwhite"> &nbsp;{{ abc }}</a><div class=stanchor><a name="{{ abc }}"></a></div></div>{% endunless %}
-   <button id="entry_id{{ counter }}" onclick="openAccordion('entry{{ counter }}')" class="list_button buttonyellow">{% if each.entry-href %}<i id="caret{{ counter }}" class="fas fa-caret-right"></i> &nbsp;&nbsp;<a href="{{ each.entry-href }}">{{ each.entry }}</a>{% else %}<i id="caret{{ counter }}" class="fas fa-caret-right"></i>&nbsp;&nbsp; {{ each.entry }}{% endif %}</button>{% if each.entry-id %}<span class=stanchor><a id="{{ each.entry-id }}"></a></span>{% endif %}
- <div class="list_div filterHide" id="entry{{ counter }}">
+   <button id="button{{ counter }}" onclick="toggleAccordion('{{ counter }}')" class="list_button buttonyellow">{% if each.entry-href %}<i id="caret{{ counter }}" class="fas fa-caret-right"></i> &nbsp;&nbsp;<a href="{{ each.entry-href }}">{{ each.entry }}</a>{% else %}<i id="caret{{ counter }}" class="fas fa-caret-right"></i>&nbsp;&nbsp; {{ each.entry }}{% endif %}</button>{% if each.entry-id %}<span class=stanchor><a id="{{ each.entry-id }}"></a></span>{% endif %}
+ <div class="list_div filterHide" id="div{{ counter }}">
 	 <p>{% if each.translation-href %}<a href="{{ each.translation-href }}">{{ each.translation }}</a>{% else %}{{ each.translation }}{% endif %}</p>
  	{% if each.comment-translation %}<p>{{ each.comment-translation }}</p>{% endif %}
  </div>

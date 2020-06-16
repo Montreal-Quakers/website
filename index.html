@@ -1,0 +1,15 @@
+---
+layout: default
+lang: en
+trans: index-choose
+---
+<section class="cards cards_index" id="cards">
+  <ul>
+{% for each in site.data.navigation.welcome %}
+  <a onclick="chooseLang('{{ each.lang }}')">
+	<li>{{ each.title }}</li>
+  </a>
+   {% endfor %}
+ </ul>
+</section>
+<script src="/assets/js/lang-choose.js"></script>

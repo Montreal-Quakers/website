@@ -10,7 +10,7 @@ $buttonyellow: #fafad2;
         max-width:$text-width;
 	box-sizing: border-box;
 }
-.content{max-width:$text-width}
+.content{max-width:$text-width;flex: 0 1 auto}
 .cards {padding:1rem}
 .cards > ul {
   display: grid;
@@ -26,6 +26,7 @@ $buttonyellow: #fafad2;
 .cards > ul > a {
   text-decoration: none;
   border-radius: .5rem;
+  cursor: pointer;
   &:hover > li > h3 {
        background: $color-1-light;
  //      transform: translate(0px,75px);
@@ -58,8 +59,23 @@ $buttonyellow: #fafad2;
 //  transition: transform .5s;
 //   transition: border-radius 1s;
 }
+
+.cards_index > ul > a > li {
+	font-family: $font-serif;
+	font-size: 2.0em;
+	background: $color-1-dark;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+        transition: background .3s;
+   &:hover {
+	   background: $color-1
+   }
+}
+
 //.sticky_anchor{position:relative}
 .abc {
+  padding: 0 0 0 5px;
   width: 100%;
   position: sticky;
   display: block;
@@ -73,7 +89,7 @@ $buttonyellow: #fafad2;
 @media screen and (min-width: $mob-pixels) {
 .abc{top:53px}
 .stanchor a {top: -80px !important}
-.list_button{scroll-margin: 83px 0 0 0}
+.list_button{scroll-margin: 133px 0 0 0}
 }
 @media screen and (max-width: $mob-pixels - 1) {
 .abc{top:0px}
@@ -120,16 +136,16 @@ $buttonyellow: #fafad2;
 	border-radius: .7em;
 }
 .list_div {
+	border: .15em solid transparent;
         width: 100%;
 	max-width: $text-width;
-        padding: .3em 2.8em ;
+        padding: .3em 1em .3em 3.8em ;
         text-align: left;
 	white-space: normal;
 }
 .list_button {
 	@extend .list_div;
-        padding: .3em 1.8em ;
-	border: none;
+        padding: .3em 1em .3em 1.8em ;
 	outline: 0;
 	&:target {
 		border: .15em solid $color-1;

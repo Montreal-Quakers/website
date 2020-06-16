@@ -35,13 +35,16 @@ en:
     - subtitle: Singing Potluck
       sublink: /new_attender/singing_group
 - title: Membership
-  hovertitle: Learn about membership at meeting
+  hovertitle: Learn About Membership at Meeting
   link: /new_attender/membership
   icon: <i class="fas fa-hand-holding-medical fa-fw"></i>
 - title: Structure
   hovertitle: Meeting roles and committees
   link: /new_attender/committees
   icon: <i class="fas fa-screwdriver fa-fw"></i>
+  submenu:
+    - subtitle: How to Represent Meeting
+      sublink: /new_attender/how_to_rep
 - title: En-Fr Glossary
   hovertitle: French-English Quaker glossary
   link: /new_attender/glossary

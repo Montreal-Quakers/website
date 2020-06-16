@@ -4,6 +4,7 @@ permalink: /_pages/sitemap.html
 title: English Site Map
 lang: en
 trans: system_sitemap
+type: system_grid
 exclude_from_search: true
 ---
 <ul>

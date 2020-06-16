@@ -312,6 +312,8 @@ input {
   &_tad {vertical-align:sub}
 }
 
+.bit_left {margin: 0 0 0 -3px}
+
 .container-content {
    width: 100%;
    margin: 0 auto 0;
@@ -323,6 +325,7 @@ input {
 
 .content {  // always on the left if there's media
    flex: 0 1 $text-width;
+   // flex: 0 1 $text-width;
    padding: 0 66px 0;
    font-family: $font-sans; 
    font-size:1em;

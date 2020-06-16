@@ -17,6 +17,7 @@ Worship is on the main floor
   * In the front, an attendant is nearly always available to help
 
 ###### Hearing
+* Our meeting has an auxiliary hearing aid system that we set up upon [request](/contact)
 * Our meeting has a frequent attender who is an ASL sign-language interpreter
   * [Contact us](/contact) for more details
 
@@ -64,7 +65,7 @@ Worship is on the main floor
 * Please give us [advanced notice](/laurentians)
 * Wheelchair access via a ramp
 * Wheelchair accessible washroom on the main floor
-* Wheelchair accessible parking in the front lot
+* Parking available
 * Other levels may not be accessible
 * Doors are not automatic
 
