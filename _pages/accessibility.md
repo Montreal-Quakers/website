@@ -5,7 +5,7 @@ trans: accessibility
 ---
 Please [let us know](/contact) if you require additional information or accommodations for accessibility
 
-### [Sunday Meeting](/directions) at the Greene Centre
+### Sunday Meeting at the [Greene Centre](/directions)
 ###### Mobility
 Worship is on the main floor
 * Wheelchair access via a ramp in the front and rear of the building
@@ -35,7 +35,7 @@ Worship is on the main floor
   * Nearly everyone is passively bilingual
   * However, we frequently have visitors from the US or Britain, or participants who have just moved to Montreal
 
-### [Midweek Meetings](/midweek) at the Newman Centre
+### Midweek Meetings at the [Newman Centre](/midweek)
 ###### Mobility
 We meet on the second floor.
 * This space is not wheelchair accessible.
@@ -44,7 +44,7 @@ We meet on the second floor.
 
 Please [let us know](/contact) if you require additional information or accommodations for accessibility.
 
-### [Quebec City worship group](/qc)
+### Quebec City worship group at the [Anglican rectory](/qc)
 ###### Mobility
 * Parking is available.
 * The group meets on the main floor, but up four stairs.
@@ -59,7 +59,7 @@ Please [let us know](/contact) if you require additional information or accommod
 
 Please [let us know](/contact) if you require additional information or accommodations for accessibility.
 
-### [Laurentian worship group](/laurentians)
+### Laurentian worship group in the [annex](/laurentians)
 ###### Mobility
 Worship is on the main floor.
 * Wheelchair access via a ramp.
