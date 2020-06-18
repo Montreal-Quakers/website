@@ -12,9 +12,9 @@ Si c’est votre première assemblée Quaker, [ce lien](/a_propos.html) donne un
 
 ### [Contactez-nous](/contact-fr.html) pour plus de détails:
 
-[quakersquebec@gmail.com](mailto:quakersquebec@gmail.com){:  rel="noopener" target="_blank"}
+[quebec@montreal.quaker.ca](mailto:quebec@montreal.quaker.ca){: rel="noopener" target="_blank"}
 
-[Facebook](https://www.facebook.com/QuakersQuebecCanada/){:  rel="noopener" target="_blank"}
+[Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}
 
 ![Les initiateurs](/assets/images/qc_2.jpg){: .img_center100}
 
