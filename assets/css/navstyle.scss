@@ -139,7 +139,7 @@ $verynarrow: {{ site.verynarrow }} !global;
   }
   
   .noback {
-	  background-color: transparent;
+	  background-color: transparent !important;
   }
 
  #widehome {
