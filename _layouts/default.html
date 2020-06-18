@@ -7,7 +7,7 @@ layout: compress
 <head>
   <meta charset="UTF-8">
   <!-- Preload some files and fonts to improve page load speed -->
-  <link rel="preload" href="/assets/css/navstyle.css" as="style">
+  <link rel="preload" href="/assets/css/newnav.css" as="style">
   <link rel="preload" href="/assets/css/style.css" as="style">
   <!-- <link rel="preload" href="/assets/google_fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf" as="font" type="font/ttf" crossorigin> -->
   <link rel="preload" href="/assets/google_fonts/Bitter/Bitter-Regular.ttf" as="font" type="font/ttf" crossorigin>
@@ -25,7 +25,7 @@ layout: compress
   <!-- <link rel="stylesheet" href="/assets/css/all.css"> -->
   <link rel="stylesheet" href="/assets/css/style.css">
   {% if page.trans == "new_attender" or page.trans == "glossary_fren" or page.trans == "glossary_enfr" or page.trans == "index-choose" or page.type == "system_grid" %}<link rel="stylesheet" href="/assets/css/grid.css">{% endif %}
-  <link rel="stylesheet" href="/assets/css/navstyle.css">
+  <link rel="stylesheet" href="/assets/css/newnav.css">
   <link rel="icon" type="image/png" href="/assets/images/quaker_icon_32x32.png" sizes="32x32">
   <link rel="apple-touch-icon" href="/assets/images/quaker_icon_192x192.png" sizes="192x192">
   <link rel="manifest" href="/manifest{% if fr %}-fr{% endif %}.webmanifest">
@@ -48,7 +48,7 @@ layout: compress
 <body>
  <nav>
 	 {% comment %}This inserts the code for the navigation{% endcomment %}
-   {% include datanavigation.html %}
+   {% include newnav.html %}
    {% comment %}Turn alerts on and off using _config.yml, see the README{% endcomment %}
    <div class="container-alert">
    {% if page.url != "/nouveau/" and page.url != "/new_attender/" and page.url contains "/nouveau/" or page.url contains "/new_attender/" or page.url contains "/glossary/" or page.url contains "/glossaire/" %}{% include breadcrumbs.html %}{% endif %}
