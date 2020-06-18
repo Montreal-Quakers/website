@@ -16,12 +16,15 @@ There is no one answer.
   * Also, a loving outcome isn’t necessarily an action: it can be worshipping together
 
 ## Roles <i class="fas fa-theater-masks fa-fw color-1-text"></i>
-### The clerk
+### The clerk<span class="stanchor"><a name="clerk"></a></span>
 The clerk sets the tone, explains the item or asks knowledgeable people to do so, moves the item from a stage of information, to clarification, to action, to assigning action to people or committees. The clerk tries to find the sense of the meeting and eventually unity. The clerk tests his or her understanding of the sense of the meeting by proposing it and asking if it is right. 
 
-The more people think and act like clerks, the better the business meeting!
+The more people think and act like clerks, the better the business meeting.
 
-### Recording clerk
+### Assistant clerk<span class="stanchor"><a name="the-assistant-clerk"></a></span>
+The assistant clerk facilitates business meeting in the absence of the clerk, and generally assists in tasks such as correspondance and announcements.
+
+### Recording clerk<span class="stanchor"><a name="the-recording-clerk"></a></span>
 The recording clerk tries to record the decisions and the sense of the meeting.
 
 ## The sense of the meeting

@@ -6,9 +6,9 @@ trans: committees
 If you see a role that you'd like to learn more about, please feel free to [contact us](/contact).
 
 ## Roles
-* Clerk
-* Assistant clerk (a great position to learn more)
-* Recording clerk
+* [Clerk](/new_attender/business#clerk)
+* [Assistant clerk](/new_attender/business#the-assistant-clerk) (a great position to learn more)
+* [Recording clerk](/new_attender/business#the-recording-clerk)
 * Treasurer
 * [Representative](/new_attender/repping_meeting) for Representative Meeting in the fall and spring
 * [Representative](/new_attender/repping_meeting) at Canadian Yearly Meeting in August
