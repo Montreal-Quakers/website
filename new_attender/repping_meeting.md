@@ -3,7 +3,7 @@ title: <i class="far fa-hand-paper color-1-text"></i> How to Represent Meeting
 lang: en
 trans: repping_meeting
 ---
-So, you're thinking of representing Montreal Quaker Meeting... and perhaps you're wondering what you've gotten yourself into. Whether this is your first or your fiftieth time, this article has some tips for you.
+So, you're thinking of representing Montreal Quaker Meeting... or perhaps you're wondering what you've gotten yourself into. Whether this is your first or your fiftieth time, this article has some tips for you.
 
 ### Prayer
 However you understand this word, prayer is your most important task as a Montreal Quaker Meeting representative. 
