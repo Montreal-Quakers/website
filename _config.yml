@@ -118,8 +118,9 @@ markdown: kramdown
 include: ['_pages',".htaccess"]
 exclude: ["backup","notes","Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"] 
 sass:
-  sass_dir: ./_sass
-  style: compressed
+   sass_dir: ./_sass
+   style: compressed
+   sourcemap: always
 tipue_search:
   include:
     pages: true

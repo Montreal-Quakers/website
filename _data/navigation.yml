@@ -97,3 +97,31 @@ welcome:
 - title: Welcome
   link: /index-en
   lang: en
+
+footer-en: 
+- title: Home
+  link: /index-en
+- title: Accueil
+  link: /index-fr
+- title: About
+  link: /intro
+- title: Directions
+  link: /directions
+- title: Accessibility
+  link: /accessibility
+- title: Contact
+  link: /contact
+
+footer-fr:
+- title: Accueil
+  link: /index-fr
+- title: Home
+  link: /index-en
+- title: À propos
+  link: /intro-fr
+- title: Coordonnées
+  link: /coordonnées
+- title: Accessibilité
+  link: /accessibilité
+- title: Contact
+  link: /contact-fr

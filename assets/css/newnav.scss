@@ -5,7 +5,7 @@ $mob-pixels: {{ site.breakpoint }};
 $verynarrow: {{ site.verynarrow }};
 
 // Remove underline under links
-#linkoff,#narrowheader,a#wideheader,#nolink,.navbar a {
+#linkoff,#narrowheader,a#wideheader,#nolink,.navbar a,#wideheader a {
 	&,&:link,&:visited,&:hover {
     text-decoration: none;
     }
@@ -13,22 +13,15 @@ $verynarrow: {{ site.verynarrow }};
 
 // These lines style both wide and narrow versions of the site
 .navbar {
-  overflow: hidden;
+  display: flex;
+  align-items: center;
+  //overflow: hidden;
   z-index: 500;
   width:100%;
+  max-width: 100%;
   font-family: $font-sans;
   font-weight: bold;
   #response {cursor:pointer}
-  a,#response,button,.search-container {
-    display: block;
-    padding: 14px 11px;
-    color: $nav-color-text;
-    text-align: center;
-    font-family: $font-sans;
-    font-size: $nav-font-size;
-    font-weight: bold;
-    white-space: nowrap;
-  }
   a.active,a:hover {
      background-color: $color-active;
      color: $nav-color-text;
@@ -40,6 +33,7 @@ $verynarrow: {{ site.verynarrow }};
   // widescreen search
   .search-container {
     flex: 1 0 auto;
+    margin-left: auto;
     display: flex;
     justify-content: flex-end;
     // max-width: 100%;
@@ -50,7 +44,6 @@ $verynarrow: {{ site.verynarrow }};
     button {
      flex: 0 0 auto;
      padding: 14px;
-   //  margin-right: 4px;
      background-color: $color-1-light;
      color: $nav-color-text;
      // font-size: 1em;
@@ -79,8 +72,7 @@ $verynarrow: {{ site.verynarrow }};
 }
 
 .dropdown {
-  float: left;
-  overflow: hidden;
+  //overflow: hidden;
    .dropbtn {
       display: block;
       border: none;
@@ -121,27 +113,39 @@ $verynarrow: {{ site.verynarrow }};
 
 // WIDE screen
 @media screen and (min-width: $mob-pixels) {
- #wideheader * {
+ #wideheader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    //overflow: hidden;
     margin: 0px;
     background-color: $color-1-dark;
-    text: {
-      align: center;
-      decoration: none;}
+    width: 100%;
+    max-width: 100%;
     white-space: nowrap;
-    vertical-align: middle;
-    font: {
-      family: $font-serif;
-      size: $header-font-size;}
     // letter-spacing: $serif-spacing;
     color: $header-color-text;
-    position: relative;
-    padding:20px 20px;
+    padding:0 20px;
+    .birds {
+      display: flex;
+      align-items: center;
+      overflow: hidden;
+      background: transparent;
+      padding: 20px;
+      font: {family: $font-serif;
+        size: $header-font-size;}
+    }
+    .widetext {
+      display: flex;
+      align-items: center;
+      padding: 0px 40px; 
+      font: {family: $font-serif;
+        size: $header-font-size;}
+      //height: 100%
+      height: 175px;
+    }
   }
   
-  .noback {
-	  background-color: transparent !important;
-  }
-
  #widehome {
     text-align: left;
     color: $nav-color-text;
@@ -149,13 +153,23 @@ $verynarrow: {{ site.verynarrow }};
     text-decoration: none;
  }
  #narrowhome,#narrowheader,.icon_right {
-     display: none;
+     display: none !important;
  }
 
  .navbar {
    display: flex;
    align-items: center;
+   justify-content: flex-start;
    background-color: $color-1;
+   a,#response,button,.search-container {
+     color: $nav-color-text;
+     text-align: center;
+     font-family: $font-sans;
+     font-size: $nav-font-size;
+     font-weight: bold;
+     white-space: nowrap;
+   } 
+   a {padding: 14px 11px}
     input[type=search] {
      &.input_narrow {width: 1px}
      &.input_hide {visibility: hidden}
@@ -177,6 +191,7 @@ $verynarrow: {{ site.verynarrow }};
  .dropdown:hover .dropdown-content {
     display: block;
   }
+  #formy {flex: 1 1 210px;}
 
  .show {display: inline !important;}
  .hide {display: none !important;}
@@ -234,17 +249,14 @@ $verynarrow: {{ site.verynarrow }};
      display: none;
       }
      }
-  #wideheader,#widehome,#narrowhome,#special,#searchsubmit,#unfold,.dropdown .dropbtn  {
+  #wideheader,#widehome,#narrowhome,#special,#searchsubmit,#unfold,.dropdown .dropbtn,.dropdown  {
      display: none;
   }
   #narrowheader {
-     position: absolute;
-     margin-top: 17px;
-     left: 50%;
-     font: {size: .8em;
+     display: block;
+     font: {size: $mobile-header-font-size;
        family: $font-serif;}
      // letter-spacing: $serif-spacing;
-     transform: translate(-50%, 0%);
      background-color: transparent;
      color: $nav-color-text;
      white-space: nowrap;
@@ -255,28 +267,28 @@ $verynarrow: {{ site.verynarrow }};
      font-size: $header-font-size;
    }
 
-   .icon_right {
-     display: block;
-     float: right;
-     text-decoration: none;
-     z-index: 600;
-   }
    .navbar {
+     justify-content: space-between;
+     vertical-align: middle;
+     font-weight: normal;
      background-color: $color-1-dark;
-     & > .icon_right > a {
-	   padding: 12.5px 12px 9px;
-     }
+     color:$nav-color-text;
     .icon {
-      font-size: $header-font-size;
-      float: left;
+      padding: 11.0px 10px;
+      align-self: flex-start;
+      font-size: $mobile-header-font-size;
       display: block;
       cursor: pointer;
      &:hover {
         background-color: $color-1-light;
       }
-     &_right a {
-       float: right;
-       display: block;
+     &_right {
+       padding: 10px 10px;
+       align-self: flex-end;
+       display: flex;
+       align-items: center;
+       text-decoration: none;
+       z-index: 600;
       }
      }
    &.responsive {
@@ -305,7 +317,7 @@ $verynarrow: {{ site.verynarrow }};
           }
        &-content {position: relative;}
       }
-    // This is all still under .navbar.responsive
+    // This is all still under narrow view, .navbar.responsive
     input[type=search], .search-container, #response, #narrowhome {
       float: none;
       display: block;

@@ -2,7 +2,7 @@
 ---
 @import 'colors';
 $height: 7rem;
-$mob-pixels: {{ site.breakpoint }} !global;
+$mob-pixels: {{ site.breakpoint }};
 $buttonyellow: #fafad2;
 
 .container-content {
@@ -62,9 +62,12 @@ $buttonyellow: #fafad2;
 
 .cards_index > ul > a > li {
 	font-family: $font-serif;
-	font-size: 2.0em;
+	font-style: italic;
+	font-size: 1.9em;
 	background: $color-1-dark;
 	display: flex;
+	padding: 8px;
+	height: auto;
 	align-items: center;
 	justify-content: center;
         transition: background .3s;
@@ -73,6 +76,10 @@ $buttonyellow: #fafad2;
    }
 }
 
+.cards_index > ul {
+  grid-template-rows: repeat(auto-fit, minmax(5rem, 1fr));	
+  grid-gap: 1rem;
+}
 //.sticky_anchor{position:relative}
 .abc {
   padding: 0 0 0 5px;
