@@ -1,8 +1,8 @@
 ---
 ---
 @import "colors.scss";
-$mob-pixels: {{ site.breakpoint }};
-$verynarrow: {{ site.verynarrow }};
+$mob-pixels: {{ site.breakpoint }} !global;
+$verynarrow: {{ site.verynarrow }} !global;
 
 // Remove underline under links
 #linkoff,#narrowheader,a#wideheader,#nolink,.navbar a {
@@ -139,7 +139,7 @@ $verynarrow: {{ site.verynarrow }};
   }
   
   .noback {
-	  background-color: transparent !important;
+	  background-color: transparent;
   }
 
  #widehome {
@@ -239,13 +239,13 @@ $verynarrow: {{ site.verynarrow }};
   }
   #narrowheader {
      position: absolute;
-     margin-top: 17px;
+     margin-top: 13px;
      left: 50%;
-     font: {size: .8em;
+     font: {size: $nav-font-size;
        family: $font-serif;}
      // letter-spacing: $serif-spacing;
      transform: translate(-50%, 0%);
-     background-color: transparent;
+     background-color: $color-1-dark;
      color: $nav-color-text;
      white-space: nowrap;
    }
