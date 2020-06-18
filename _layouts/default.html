@@ -49,9 +49,9 @@ layout: compress
  <nav>
 	 {% comment %}This inserts the code for the navigation{% endcomment %}
    {% include datanavigation.html %}
-   {% if page.url != "/nouveau/" and page.url != "/new_attender/" and page.url contains "/nouveau/" or page.url contains "/new_attender/" or page.url contains "/glossary/" or page.url contains "/glossaire/" %}{% include breadcrumbs.html %}{% endif %}
    {% comment %}Turn alerts on and off using _config.yml, see the README{% endcomment %}
    <div class="container-alert">
+   {% if page.url != "/nouveau/" and page.url != "/new_attender/" and page.url contains "/nouveau/" or page.url contains "/new_attender/" or page.url contains "/glossary/" or page.url contains "/glossaire/" %}{% include breadcrumbs.html %}{% endif %}
    {% if site.redalerts == "all" %}
      <div class="stickystart redalert"><div></div><div class="alert">{% if fr %}{% capture alerte %}{% include alert/redalerte.md %}{% endcapture %}{{ alerte | markdownify }}
      {% else %}{% capture alert %}{% include alert/redalert.md %}{% endcapture %}{{ alert | markdownify }}
