@@ -43,7 +43,7 @@ Speak to folks at meeting, have them go over reports with you beforehand. Or, ev
 1. Try to have some fun, too.
   * Representing the meeting is a golden opportunity to meet Quakers across Canada, make new friends in new places, be renewed
 
-### Money
+### Expenses
 The expectation is that Montreal Quakers will finance your travel and meals; if local Quakers aren't providing billeting, the local meeting should pay for your lodging as well. Please discuss with the meeting if anything offered is inadequate. In turn, do your best to reduce cost and complexity to the meeting, but remember that representing the meeting should ultimately be a pleasure. Quakers may have a puritan past, but there's no need to carry all of that into the present.
 
 ### More information
