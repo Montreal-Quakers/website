@@ -5,14 +5,14 @@ trans: book_bible
 ---
 At our next meeting, we will be studying:
 
-# Thessolonians 1
+# 1 Thessolonians
 
 Right now, we are meeting on Thursdays at 3:30 pm. Next meeting:
 ## Thursday, June 18th, 2020
 
 Over the next few months we plan to read these books:
-* Thessalonians 1-2
-* Thessalonians 2-3
+* 1 Thessalonians
+* 2 Thessalonians
 * Galatians
 
 ### Practical details
