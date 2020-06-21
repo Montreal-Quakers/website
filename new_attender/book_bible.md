@@ -5,7 +5,7 @@ trans: book_bible
 ---
 At our next meeting, we will be studying:
 
-# 1 Thessolonians
+# 2 Thessolonians 1
 
 Right now, we are meeting on Thursdays at 3:30 pm. Next meeting:
 ## Thursday, June 18th, 2020
