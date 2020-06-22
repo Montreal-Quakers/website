@@ -8,7 +8,6 @@ To those who find a spiritual home in our meeting, we encourage you to consider 
 Your donations make possible functions such as:
 
 * Rental of the room used for Meeting for Worship every Sunday, and Wednesdays for Mid-week Meeting
-* Rental of the room used for Monthly meetings and other special meetings
 * Listing of information about our Meeting on a website
 * Supporting the work of Canadian Yearly Meeting
 * Purchasing pamphlets and books for Montreal Meeting

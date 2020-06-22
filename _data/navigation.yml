@@ -83,7 +83,7 @@ fr:
 - title: Programmation
   link: /calendrier
   icon: <i class='far fa-calendar-alt'></i>
-- title: Faire un don
+- title: Donner
   link: /don
   icon: <i class='fas fa-coins'></i>
 - title: Contact
