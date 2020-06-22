@@ -5,14 +5,14 @@ trans: book_bible
 ---
 À notre prochaine réunion, nous allons étudier:
 
-# Thessaloniciens 1
+# 2 Thessaloniciens 1
 
 On se réunit le jeudi à 15h30. Prochaine réunion:
 ## jeudi le 18 juin, 2020
 
 Au cours des prochains mois nous allons lire les extraits suivants:
-* Thessalonians 1-2
-* Thessalonians 2-3
+* 1 Thessalonians 
+* 2 Thessalonians
 * Galatians
 
 ### Détails pratiques

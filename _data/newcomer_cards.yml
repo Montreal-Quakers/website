@@ -58,8 +58,10 @@ en:
       sublink: /glossary/texts
     - subtitle: Acknowledgements
       sublink: /glossary/thanks
-    - subtitle: Glossaire Ang-Fr
+    - subtitle: Fr-En Glossary
       sublink: /new_attender/glossary_fren
+    - subtitle: Iconography
+      sublink: /glossary/icon
 - title: Gatherings
   hovertitle: Larger Quaker gatherings
   link: /new_attender/gatherings
@@ -89,6 +91,8 @@ fr:
       sublink: /glossary/remerciements
     - subtitle: Glossaire Fr-Ang
       sublink: /nouveau/glossaire_fran
+    - subtitle: Iconographie
+      sublink: /glossary/icon-fr
 - title: Apprendre
   hovertitle: Approfondir vos connaissances du Quakerism
   link: /nouveau/approfondir
