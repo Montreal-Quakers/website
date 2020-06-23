@@ -38,10 +38,10 @@ Speak to folks at meeting, have them go over reports with you beforehand. Or, ev
 1. Be ready to bring the particular perspective of your meeting to larger decisions.
   * For instance, if you come from a meeting with many new members, and you happen to know that several found Quakers through a website, that might be a relevant fact when the budget for redoing the website comes up for discussion. It may be that many at the business meeting come from small worship groups with aging members.
   * Take what you know about our meeting and do your best to share what you've seen and heard with the larger group
-1. Read the reports as best you can, inform yourself as best you can considering you're a volunteer and life's other constraints
+1. As best you can, read the reports and inform yourself considering you're a volunteer and life's other constraints.
   * Despite all our limitations, if we are faithful we can still be an instrument of love.
-1. Try to have some fun, too.
-  * Representing the meeting is a golden opportunity to meet Quakers across Canada, make new friends in new places, be renewed
+1. Have fun.
+  * Representing the meeting is a golden opportunity to meet Quakers across Canada, make new friends in new places, and find renewal.
 
 ### Expenses
 The expectation is that Montreal Quakers will finance your travel and meals; if local Quakers aren't providing billeting, the local meeting should pay for your lodging as well. Please discuss with the meeting if anything offered is inadequate. In turn, do your best to reduce cost and complexity to the meeting, but remember that representing the meeting should ultimately be a pleasure. Quakers may have a puritan past, but there's no need to carry all of that into the present.
