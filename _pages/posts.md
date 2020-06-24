@@ -4,7 +4,11 @@ hovertitle: The Latest Updates
 lang: en
 trans: news
 ---
-Many of our meeting's events are posted to a listserv available to folks who have attended meetings before and indicated interest in hearing about our events. If anyone is interested in being on this list without ever having attended meeting, you can [contact us](/contact.html). This page is for major events that we announce more broadly to the public.
+Our [calendar](/calendar) shows our upcoming events.
+
+This page is for major events and updates that we announce more broadly to the public. 
+
+More minor updates are sent to a listserv. If anyone is interested in being on this list, you can [contact us](/contact.html). 
 
 <ul>
 {% assign posty=site.posts | where:"lang","en" %}

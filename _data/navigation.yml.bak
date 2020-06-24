@@ -33,7 +33,7 @@ en:
       sublink: /accessibility
       subicon: <i class="fas fa-universal-access fa-fw"></i>
 - title: Updates
-  hovertitle: The Latest Updates
+  hovertitle: The Latest Events & News
   link: /posts
   icon: <i class='fas fa-rss'></i>
 - title: Next steps
