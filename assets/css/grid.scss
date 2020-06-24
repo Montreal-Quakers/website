@@ -2,7 +2,7 @@
 ---
 @import 'colors';
 $height: 7rem;
-$mob-pixels: {{ site.breakpoint }} !global;
+$mob-pixels: {{ site.breakpoint }};
 $buttonyellow: #fafad2;
 
 .container-content {

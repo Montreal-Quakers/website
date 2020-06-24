@@ -1,8 +1,8 @@
 ---
 ---
 @import "colors.scss";
-$mob-pixels: {{ site.breakpoint }} !global;
-$verynarrow: {{ site.verynarrow }} !global;
+$mob-pixels: {{ site.breakpoint }};
+$verynarrow: {{ site.verynarrow }};
 
 // Remove underline under links
 #linkoff,#narrowheader,a#wideheader,#nolink,.navbar a {
