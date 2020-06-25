@@ -4,7 +4,7 @@ lang: en
 trans: sandbox
 exclude_from_search: true
 ---
-{{ secrets.TEST }}
+secrets: {{ secrets.TEST }}
 
 Add any text you want here, play around with formatting and inserting images.
 
