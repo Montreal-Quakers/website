@@ -11,9 +11,9 @@ On se réunit le jeudi à 15h30. Prochaine réunion:
 ## jeudi le 18 juin, 2020
 
 Au cours des prochains mois nous allons lire les extraits suivants:
-* 1 Thessalonians 
-* 2 Thessalonians
-* Galatians
+* 1 Thessaloniciens 
+* 2 Thessaloniciens
+* Galates
 
 ### Détails pratiques
 * Souvent on lit à haute voix et puis on discute
