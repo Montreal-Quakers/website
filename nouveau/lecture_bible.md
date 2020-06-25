@@ -5,7 +5,7 @@ trans: book_bible
 ---
 À notre prochaine réunion, nous allons étudier:
 
-# 2 Thessaloniciens 1
+# Galates 1
 
 On se réunit le jeudi à 15h30. Prochaine réunion:
 ## jeudi le 2 juillet, 2020
