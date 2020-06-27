@@ -178,8 +178,14 @@ $verynarrow: {{ site.verynarrow }};
     &:hover .dropdown-content {
         display: block;
     }
-    &:first-child:hover i::before {
-      content: "\f0d8";
+    &:hover i:nth-of-type(1):before {
+      content: "\f0d7";
+      font-family: "Font Awesome 5 Free";
+      display: inline-block;
+      //padding-right: 3px;
+      vertical-align: middle;
+      font-weight: 900;
+      margin: 0 0 0 -3px;
     }
   }
 
