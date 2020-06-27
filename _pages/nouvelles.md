@@ -3,7 +3,7 @@ title: <i class="far fa-newspaper"></i> &nbsp;Nouvelles
 lang: fr
 trans: news
 ---
-Notre [calendrier](/calendrier) contient les prochains événements.
+Consultez notre [calendrier](/calendrier) d'événements.
 
 Cette page, comme la [page Facebook(https://fb.com/MontrealQuakers/) (majoritairement en anglais), annonce des mises à jour et des événements majeurs de notre communauté.
 
