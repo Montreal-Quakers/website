@@ -37,7 +37,7 @@
 		{% if item.submenu != nil %}
 		{% assign counter = counter | plus: 1 %}
   <div class="dropdown">
-	  <button {% if item.hovertitle %}title="{{ item.hovertitle }}" {% endif %}onclick="responsiveClick('dropdown{{ counter }}')" class="dropbtn" {% if item.hovertitle %}title="{{ item.hovertitle }}"{% endif %} ><i class="fa fa-caret-down"></i> &nbsp;{{ item.title }}{% if item.icon %} &nbsp;{{ item.icon }}{% endif %}
+	  <button {% if item.hovertitle %}title="{{ item.hovertitle }}" {% endif %}onclick="responsiveClick('dropdown{{ counter }}')" class="dropbtn" {% if item.hovertitle %}title="{{ item.hovertitle }}"{% endif %} ><i class="fa fa-caret-down hoverchange"></i> &nbsp;{{ item.title }}{% if item.icon %} &nbsp;{{ item.icon }}{% endif %}
     </button>
     <div class="dropdown-content" id="dropdown{{ counter }}">
 	    {% for subitem in item.submenu %}{% assign realurl = page.url | url_decode %}

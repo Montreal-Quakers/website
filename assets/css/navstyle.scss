@@ -175,15 +175,11 @@ $verynarrow: {{ site.verynarrow }};
   }
 
  .dropdown {
-    ::before {
-       font-family: "Font Awesome 5 Free";
-       content: "\f095";
-       display: inline-block;
-       vertical-align: middle;
-       font-weight: 900;
+    &:hover .dropdown-content {
+        display: block;
     }
-    :hover .dropdown-content {
-      display: block;
+    &:first-child:hover i::before {
+      content: "\f0d8";
     }
   }
 
