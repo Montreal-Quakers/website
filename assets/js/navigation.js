@@ -12,12 +12,12 @@ if (mq.matches) {
   function responsiveClick(id) {
    var x = document.getElementById(id);
    x.classList.toggle("show_block");
-   var truth = x.previousElementSibling.firstChild.classList.contains('fa-caret-down')
+   var truth = x.previousElementSibling.firstChild.classList.contains('fa-caret-right')
    if (truth) {
-      x.previousElementSibling.firstChild.className = "fa fa-caret-up";
+      x.previousElementSibling.firstChild.className = "fa fa-caret-down";
    }
    if (!truth) {
-      x.previousElementSibling.firstChild.className = "fa fa-caret-down";
+      x.previousElementSibling.firstChild.className = "fa fa-caret-right";
    }
   }
   // Close the dropdown if the user clicks outside of it
@@ -29,7 +29,7 @@ if (mq.matches) {
      var openDropdown = dropdowns[i];
      if (openDropdown.classList.contains('show_block')) {
       openDropdown.classList.remove('show_block');
-      openDropdown.previousElementSibling.firstChild.className = "fa fa-caret-down";
+      openDropdown.previousElementSibling.firstChild.className = "fa fa-caret-right";
       y = openDropdown.previousElementSibling.firstChild.className;
     }
    }

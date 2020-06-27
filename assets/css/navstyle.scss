@@ -174,8 +174,19 @@ $verynarrow: {{ site.verynarrow }};
     background-color: $color-1-dark;
   }
 
- .dropdown:hover .dropdown-content {
-    display: block;
+ .dropdown {
+    &:hover .dropdown-content {
+        display: block;
+    }
+    &:hover i:nth-of-type(1):before {
+      content: "\f0d7";
+      font-family: "Font Awesome 5 Free";
+      display: inline-block;
+      //padding-right: 3px;
+      vertical-align: middle;
+      font-weight: 900;
+      margin: 0 0 0 -3px;
+    }
   }
 
  .show {display: inline !important;}
