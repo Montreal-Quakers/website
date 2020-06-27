@@ -174,8 +174,17 @@ $verynarrow: {{ site.verynarrow }};
     background-color: $color-1-dark;
   }
 
- .dropdown:hover .dropdown-content {
-    display: block;
+ .dropdown {
+    ::before {
+       font-family: "Font Awesome 5 Free";
+       content: "\f095";
+       display: inline-block;
+       vertical-align: middle;
+       font-weight: 900;
+    }
+    :hover .dropdown-content {
+      display: block;
+    }
   }
 
  .show {display: inline !important;}
