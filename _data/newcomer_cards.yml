@@ -21,10 +21,6 @@ en:
   hovertitle: Deepen knowledge about Quakerism
   link: /new_attender/deepen
   icon: <i class="fas fa-arrow-circle-right fa-fw"></i>
-- title: About business
-  hovertitle: How business meeting works
-  link: /new_attender/business
-  icon: <i class="fas fa-pencil-alt fa-fw"></i>
 - title: Make Friends
   hovertitle: Deepen relationships at meeting
   link: /new_attender/know_us
@@ -34,10 +30,6 @@ en:
       sublink: /new_attender/book_bible
     - subtitle: Singing Potluck
       sublink: /new_attender/singing_group
-- title: Membership
-  hovertitle: Learn About Membership at Meeting
-  link: /new_attender/membership
-  icon: <i class="fas fa-hand-holding-medical fa-fw"></i>
 - title: Structure
   hovertitle: Meeting roles and committees
   link: /new_attender/committees
@@ -45,6 +37,14 @@ en:
   submenu:
     - subtitle: How to Represent Meeting
       sublink: /new_attender/repping_meeting
+- title: About business
+  hovertitle: How business meeting works
+  link: /new_attender/business
+  icon: <i class="fas fa-pencil-alt fa-fw"></i>
+- title: Membership
+  hovertitle: Learn About Membership at Meeting
+  link: /new_attender/membership
+  icon: <i class="fas fa-hand-holding-medical fa-fw"></i>
 - title: En-Fr Glossary
   hovertitle: French-English Quaker glossary
   link: /new_attender/glossary
@@ -72,10 +72,41 @@ fr:
   hovertitle: Ressources et informations sur l'Assemblée de Montréal
   link: /nouveau/info_assemblée
   icon: <i class="fas fa-list-alt fa-fw"></i>
+- title: Demandez de l'aide
+  link: /nouveau/aide
+  icon: <i class="fas fa-hand-holding-heart fa-fw"></i>
+  submenu:
+    - subtitle: Fond d'aide
+      sublink: /nouveau/fond_daide
+- title: Apprendre
+  hovertitle: Approfondir vos connaissances du Quakerism
+  link: /nouveau/approfondir
+  icon: <i class="fas fa-arrow-circle-right fa-fw"></i>
+- title: Se faire un.e Ami.e
+  hovertitle: Approfondir vos relations avec notre communauté
+  link: /nouveau/nous_connaître
+  icon: <i class="fas fa-user-friends fa-fw"></i>
+  submenu:
+    - subtitle: Club de lecture & étude biblique
+      sublink: /nouveau/lecture_bible
+    - subtitle: Groupe de chant
+      sublink: /nouveau/chant
+- title: Structure
+  hovertitle: Rôles et comités
+  link: /nouveau/comités
+  icon: <i class="fas fa-screwdriver fa-fw"></i>
 - title: Assemblée d'affaires
   hovertitle: Comment déroule l'assemblée d'affaires
   link: /nouveau/affaires
   icon: <i class="fas fa-pencil-alt fa-fw"></i>
+- title: Devenir membre
+  hovertitle: Le rôle et processus
+  link: /nouveau/devenir_membre
+  icon: <i class="fas fa-hand-holding-medical fa-fw"></i>
+- title: Rassemblements
+  hovertitle: Rassemblements plus grands
+  link: /nouveau/rassemblements
+  icon: <i class="far fa-circle fa-fw"></i>
 - title: Glossaire Ang-Fr
   hovertitle: Glossaire Quaker anglais-français
   link: /nouveau/glossaire
@@ -93,38 +124,7 @@ fr:
       sublink: /nouveau/glossaire_fran
     - subtitle: Iconographie
       sublink: /glossary/icon-fr
-- title: Apprendre
-  hovertitle: Approfondir vos connaissances du Quakerism
-  link: /nouveau/approfondir
-  icon: <i class="fas fa-arrow-circle-right fa-fw"></i>
-- title: Demandez de l'aide
-  link: /nouveau/aide
-  icon: <i class="fas fa-hand-holding-heart fa-fw"></i>
-  submenu:
-    - subtitle: Fond d'aide
-      sublink: /nouveau/fond_daide
-- title: Se faire un.e Ami.e
-  hovertitle: Approfondir vos relations avec notre communauté
-  link: /nouveau/nous_connaître
-  icon: <i class="fas fa-user-friends fa-fw"></i>
-  submenu:
-    - subtitle: Club de lecture & étude biblique
-      sublink: /nouveau/lecture_bible
-    - subtitle: Groupe de chant
-      sublink: /nouveau/chant
-- title: Structure
-  hovertitle: Rôles et comités
-  link: /nouveau/comités
-  icon: <i class="fas fa-screwdriver fa-fw"></i>
 - title: Podcasts (anglais)
   hovertitle: Des podcasts en anglais
   link: /nouveau/podcasts-fr
   icon: <i class="fas fa-headphones-alt fa-fw"></i>
-- title: Devenir membre
-  hovertitle: Le rôle et processus
-  link: /nouveau/devenir_membre
-  icon: <i class="fas fa-hand-holding-medical fa-fw"></i>
-- title: Rassemblements
-  hovertitle: Rassemblements plus grands
-  link: /nouveau/rassemblements
-  icon: <i class="far fa-circle fa-fw"></i>
