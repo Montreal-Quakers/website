@@ -39,21 +39,24 @@ media_pages:
 
     # Turn alerts on and off using this variable below. 
     # If you want alerts on all pages on the website, set 'alerts: all'.
-    # If you want alerts on only certain pages, (the ones listed under "alert_pages", set "alerts: some" 
+    # If you want alerts on only certain pages, (the ones listed under "alert_pages"), set "alerts: some" 
+      # Then put "- page_trans:" for each page an alert should appear under
     # Anything else, like '"alerton = "off"' and alerts will be off.
     # Change alert colour in the _sass/_colors.scss, $alert-color
 
 redalerts: some
+redalert_en-text: alert/en-covid.md
+redalert_fr-text: alert/fr-covid.md
 redalert_pages:
   - page_trans: index
   - page_trans: directions
   - page_trans: quebec
-  - page_trans: midweek
 
-greenalerts: off
+greenalerts: some
+greenalert_en-text: alert/en-midweek_over.md
+greenalert_fr-text: alert/fr-midweek_over.md
 greenalert_pages:
-  - page_trans: index
-  - page_trans: contact
+  - page_trans: midweek
 
     #This section allows you to easily control which pages will have which bird and text animation
 bird_left: 

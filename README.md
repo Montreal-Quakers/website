@@ -105,7 +105,7 @@ This site is designed so that it's fairly easy to change text as needed. Minor m
 ## Where to find more advanced stuff
 A bunch of instructions for more advanced changes to the website appear near the end of this README. 
 
-Most of the more advanced changes you want to make to the site are done in [_config.yml](https://github.com/Montreal-Quakers/website/blob/master/_config.yml), for instance, to add a site alert, choose which pages it will appear on, turn on and off animations for certain pages.
+Most of the more advanced changes you want to make to the site are done in [_config.yml](https://github.com/Montreal-Quakers/website/blob/master/_config.yml), for instance, to add a site alert, choose which pages it will appear on, alter its text, or to turn on and off animations for certain pages.
 
 Just to give an idea of the basic structure, the navigation menus (all the links at the top of the page) are generated in ```_includes/datanavigation.html``` and styled in ```/assets/css/navstyle.scss``` but it shouldn't be necessary to touch that. The rest of the most advanced building blocks of this website are in ```_layouts``` and ```_includes```, whereas all the simple, changeable stuff are in .md files in ```_pages```, ```_posts```, or (slightly more advanced) in ```_data/```. Note that some things, especially in the ```_layout``` and ```_includes``` folders, are complicated in order to allow as much as possible to be done in easy markdown files.
 
@@ -172,6 +172,8 @@ You can turn alerts on and off in this website. There's no need to code HTML to 
 
 ```
 alerts: some
+redalert_en-text: alert/en-covid.md
+redalert_fr-text: alert/fr-covid.md
 alert_pages:
   - page_trans: index
   - page_trans: directions
@@ -179,7 +181,9 @@ alert_pages:
 
 (The ```page_trans``` code for every page can be found at the [site health page](https:/mtl.summerhays.net/_pages/health.html)).
 
-To edit the alert text itself, go to ```_include/alert.md``` or for the French ```_include/alerte.md```. To change the alert color, go to ```_sass/colors.scss``` and change ```$alert-color:``` to anything you like.
+To create or edit the alert text itself, go to ```_include/alert/```. You can either change the text of the current file (as indicated by ```redalert_en-text``` in English and ```redalert_fr-text``` in French). Or make a new file within ```_include/alert/``` and point ```_config.yml```. For instance, create a new file at ```_includes/alert/newfile.md``` and then change ```redalert_en-text: alert/newfile.md```. 
+
+To change the alert color, go to ```_sass/colors.scss``` and change ```$redalert-color:``` to anything you like and all of this applies to ```greenalert``` the same way.
 
 # Adding images
 
