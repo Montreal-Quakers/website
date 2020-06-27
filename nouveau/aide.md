@@ -4,7 +4,7 @@ lang: fr
 trans: request_help
 ---
 Comme participant.e ou comme membre, vous pouvez demander de l'aide de la communauté Quaker de Montréal. Cette aide peut être sous plusieurs formes:
-* [Aide financière d'urgence](/new_attender/discretionary_fund) (la politique d'aide est en anglais mais [contactez-nous](/contact-fr) pour connaître les modalités à suivre)
+* [Aide financière d'urgence](/nouveau/fond_daide)
   * Vous pouvez demander de l'aide jusqu'à $250 jusqu'à deux fois par année
 * Nous pouvons former un comité de clarification afin de vous aider à prendre une décision difficile
 * Nous pouvons former un comité d'aide afin de vous soutenir, par exemple, en cas d'hospitalisation ou de stress
