@@ -154,7 +154,7 @@ $buttonyellow: #fafad2;
 	}
 	&:hover {
 		color: $nav-color-text;
-		background: lighten($color-1-light,10%);
+		background: darken($color-1-light,10%);
 	}
 }
 .buttonyellow {
