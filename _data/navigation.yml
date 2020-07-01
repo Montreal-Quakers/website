@@ -1,8 +1,9 @@
 en:
-- title: About Us
+- title: I'm new
   hovertitle: About Us
   link: /intro
-  icon: <i class='far fa-address-card'></i>
+  icon: <i class="far fa-hand-paper"></i>
+#  {% comment %}<i class='far fa-address-card'></i>{% endcomment %}
   submenu: 
     - subtitle: First Time
       sublink: /about
@@ -27,21 +28,22 @@ en:
     - subtitle: The Laurentians
       subhovertitle: Laurentian Worship Group
       sublink: /laurentians
-      # - subtitle: Accessibility
-      #   subhovertitle: Accessibility information for our places of worship
-      #   sublink: /accessibility
-      #   subicon: <i class="fas fa-universal-access fa-fw"></i>
-- title: News
-  hovertitle: The Latest Updates
+    - subtitle: Accessibility
+      subhovertitle: Accessibility information for our places of worship
+      sublink: /accessibility
+      subicon: <i class="fas fa-universal-access fa-fw"></i>
+- title: Updates
+  hovertitle: The Latest Events & News
   link: /posts
   icon: <i class='fas fa-rss'></i>
-#    - title: Current Attenders
-#      hovertitle: Information to better integrate into the meeting community
-#      link: /new_attender/
-- title: Calendar
-  link: /calendar
-  icon: <i class='far fa-calendar-alt'></i>
-- title: Contribute
+- title: Next steps
+  hovertitle: Information to better integrate into the meeting community
+  link: /new_attender/
+  icon: <i class="fas fa-arrow-circle-right fa-fw"></i>
+# - title: Calendar
+#   link: /calendar
+#   icon: <i class='far fa-calendar-alt'></i>
+- title: Donate
   link: /donate
   icon: <i class='fas fa-coins'></i>
 - title: Contact Us
@@ -49,8 +51,10 @@ en:
   icon: <i class='far fa-envelope-open'></i>
 
 fr:
-- title: À propos
-  icon: <i class='far fa-address-card'></i>
+- title: Première fois
+  icon: <i class="far fa-hand-paper"></i>
+  link: /intro-fr
+#  {% comment %}<i class='far fa-address-card'></i>{% endcomment %}
   submenu:
     - subtitle: Déroulement
       sublink: /à_propos
@@ -58,9 +62,6 @@ fr:
       sublink: /intro-fr
     - subtitle: Nos valeurs (les témoignages)
       sublink: /témoignages
-      #    - title: Nouveaux participant.e.s
-      #      hovertitle: Des informations pour mieux s'intégrer dans notre communauté
-      #      link: /nouveau/
     - subtitle: Liens et histoire
       sublink: /liens_histoire
 - title: Nous trouver
@@ -80,9 +81,14 @@ fr:
   hovertitle: Nos mises à jour
   link: /nouvelles
   icon: <i class='fas fa-rss'></i>
-- title: Programmation
-  link: /calendrier
-  icon: <i class='far fa-calendar-alt'></i>
+  # - title: Programmation
+  #   link: /calendrier
+  #   icon: <i class='far fa-calendar-alt'></i>
+- title: Prochaine étape
+  hovertitle: Des informations pour mieux s'intégrer dans notre communauté
+  link: /nouveau/
+  icon: <i class="fas fa-arrow-circle-right fa-fw"></i>
+# - title: Calendar
 - title: Donner
   link: /don
   icon: <i class='fas fa-coins'></i>
