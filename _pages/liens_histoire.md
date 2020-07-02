@@ -8,6 +8,7 @@ trans: links_history
 ## Sur les Quakers (en français)
 
 * [Un cours en ligne sur les Quakers](https://quaker.ca/publication/introduction-aux-quakers-et-a-leur-culte-non-programme/){: rel="noopener" target="_blank"}
+  * Ce cours sera organisé par téléphone de temps en temps. [Contactez-nous](/contact-fr) pour plus de détails, mais vous pouvez consulter le matériel en tout temps.
 {% comment %}* [Un cours en ligne sur les Quakers](http://moodle.woodbrooke.org.uk/course/view.php?id=60#section-0){:  rel="noopener" target="_blank"}
 So sad, Woodbrooke seems to have deleted this course -- post this again if they ever put it back! As for the following link, it is just too old and beat up and dusty.
 * [Un résumé du Quakerisme en français](http://quaker.chez-alice.fr/){: rel="noopener" target="_blank"}
