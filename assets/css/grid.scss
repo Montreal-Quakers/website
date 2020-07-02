@@ -28,7 +28,7 @@ $buttonyellow: #fafad2;
   border-radius: .5rem;
   cursor: pointer;
   &:hover > li > h3 {
-       background: $color-1-light;
+       background: $color-1;
  //      transform: translate(0px,75px);
  //      border-radius: .5rem;
        // transition: background .3s;
@@ -52,7 +52,7 @@ $buttonyellow: #fafad2;
 }
 
 .cards > ul > a > li > h3 {
-  background: $color-1;
+  background: $color-1-dark;
   margin: 0;
   padding: 10px;
   transition: background .3s;
