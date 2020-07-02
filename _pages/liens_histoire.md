@@ -10,8 +10,8 @@ trans: links_history
 * [Un cours en ligne sur les Quakers](https://quaker.ca/publication/introduction-aux-quakers-et-a-leur-culte-non-programme/){: rel="noopener" target="_blank"}
 {% comment %}* [Un cours en ligne sur les Quakers](http://moodle.woodbrooke.org.uk/course/view.php?id=60#section-0){:  rel="noopener" target="_blank"}
 So sad, Woodbrooke seems to have deleted this course -- post this again if they ever put it back! As for the following link, it is just too old and beat up and dusty.
-* [Un résumé du Quakerisme en français](http://quaker.chez-alice.fr/){: rel="noopener" target="_blank"}{% endcomment %}
-* Un résumé du Quakerisme [« S'attendre à Dieu »](/assets/PDF/EDommen-SAttendreADieu2.pdf) (PDF), par Quaker suisse Ed Dommen
+* [Un résumé du Quakerisme en français](http://quaker.chez-alice.fr/){: rel="noopener" target="_blank"}
+{% endcomment %}* Un résumé du Quakerisme [« S'attendre à Dieu »](/assets/PDF/EDommen-SAttendreADieu2.pdf) (PDF), par Quaker suisse Ed Dommen
 * Une ressource pour expliquer le quakerisme aux enfants en bas de 10 ans [Le culte Quaker et moi](/assets/PDF/LeCulteQuakerEtMoi-small.pdf) (PDF), par Quaker suisse Ed Dommen
 * Ce [PDF](/assets/PDF/CongeniesE.pdf) (en anglais) conte l'histoire quand même particulière des Quakers dans le sud de la France
 
