@@ -5,7 +5,7 @@ trans: directions
 ---
 ![Quakers pour la paix](/assets/images/mtl_homepage3.jpg){: class="img_center100"}
 
-### Coordonnées
+## Coordonnées
 
 [1090 Greene, Westmount, QC, H3Z 1Z9](https://www.google.com/maps/search/1090%20Greene,%20Westmount,%20QC,%20H3Z%201Z9){: rel="noopener" target="_blank"}
 
@@ -16,7 +16,7 @@ trans: directions
 
 Notre assemblée a lieu au rez-de-chaussée (dans la « Sunroom »). Tout le monde est bienvenu.
 
-### Quand
+## Quand
 
 Les assemblées Quaker ont lieu le dimanche de **11h à midi**.
 

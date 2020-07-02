@@ -3,15 +3,15 @@ title: <i class="fas fa-hand-holding-medical fa-fw color-1-light-text"></i> Memb
 lang: en
 trans: membership
 ---
-### The role of membership for Montreal Quakers
+## The role of membership for Montreal Quakers
 Some people, for various reasons, attend meeting and even serve on Quaker committees for many years without being a member. Anyone, member or attender, is welcome at meeting; anyone may attend and even share ministry at meeting and at business meeting; members and regular attenders can serve on committees. That said, membership also is important, even if there are few specific distinctions or privileges that come with it.
-### The purpose of membership
+## The purpose of membership
 * We are all shaped by experiences. At some point, becoming a member — "being" a Quaker — is simply an honest statement that we have been shaped by this Quaker community, among many other influences
 * Membership should be a leading from Spirit, in other words, an expression of the miracle of love for and within this community, our membership in a kind of spiritual family
 * The purpose of the membership process is to discern whether this miracle has happened, and if so, to recognize and celebrate it
 * Membership also may serve to signal a desire for inclusion and contribution
 
-### The membership process
+## The membership process
 1. The interested person writes a letter to the Clerk stating a wish to apply for membership. This letter can be long or short and may answer questions such as:
   * How long have you been attending?
   * How involved are you?

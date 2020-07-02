@@ -5,7 +5,7 @@ trans: repping_meeting
 ---
 So, you're thinking of representing Montreal Quaker Meeting... or perhaps you're wondering what you've gotten yourself into. Whether this is your first or your fiftieth time, this article has some tips for you.
 
-### Prayer
+## Prayer
 However you understand this word, prayer is your most important task as a Montreal Quaker Meeting representative. 
 * Quaker [business meetings](/new_attender/business) are first and foremost a spiritual exercise. 
 * Perhaps use the time at business meeting to:
@@ -19,15 +19,15 @@ However you understand this word, prayer is your most important task as a Montre
   * Queries are relevant such as, "Is this for me to speak now or to share privately later?" 
   * Yet other times, it is more spiritually honest to speak up immediately without hesitation.
 
-### Questions
+## Questions
 Some say that our greatest strength is our greatest weakness. But when you are representing Montreal Meeting to other bodies, the opposite is often the case: your greatest weakness, perhaps, for instance, your unfamiliarity with the surprisingly intricate goings-on of Canadian Yearly Meeting, is your greatest strength. Sometimes, a fresh voice who asks fresh questions can help break Quakers out of routine and move the group toward finding Spirit's purpose for us. At a minimum, if you are profoundly confused, there is a valid need for the meeting and for Canadian Yearly Meeting or other body to better prepare you, and that is important information.
 
 Of course there is always too much of a good thing, and questions must be based on having read the relevant reports and sought background information. In other words, be prepared also to not understand everything immediately and to need some patience.
 
-### How to become more informed
+## How to become more informed
 Speak to folks at meeting, have them go over reports with you beforehand. Or, even better, have previous representatives come to meetings with you, introduce you to people, and give you important context.
 
-### Your role as representative
+## Your role as representative
 1. Carry concerns of the local meeting to Representative Meeting.
   * For instance, one year, Quakers in Victoria, BC desired to open a conversation about splitting Canadian Yearly Meeting into Eastern and Western halves, partially for environmental reasons.
   * If the meeting, or individual members, have not charged you with any particular concern to bring, no need to worry about this.
@@ -43,8 +43,8 @@ Speak to folks at meeting, have them go over reports with you beforehand. Or, ev
 1. Have fun.
   * Representing the meeting is a golden opportunity to meet Quakers across Canada, make new friends in new places, and find renewal.
 
-### Expenses
+## Expenses
 The expectation is that Montreal Quakers will finance your travel and meals; if billeting isn't provided, the local meeting should pay for your lodging as well. Please discuss with the meeting if anything offered is inadequate. In turn, do your best to reduce cost and complexity to the meeting, but remember that representing the meeting should ultimately be a pleasure. Quakers may have a puritan past, but there's no need to carry all of that into the present.
 
-### More information
+## More information
 See Canadian Yearly Meeting's [Organization & Procedure](https://quaker.ca/resources/organization-and-procedure/){: rel="noopener" target="_blank"} document for more information about Representative Meeting and the Canadian Yearly Meeting gathering.

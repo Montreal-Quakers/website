@@ -8,7 +8,7 @@ Our singing group generally uses a few key resources:
 * Worship in Song: A Friends Hymnal
 * [Songs for singing](https://drive.google.com/file/d/1LcCqchfmrGPa6x6v4b1MS5PcfpQ1YCLT/view?usp=sharing){: rel="noopener" target="_blank"}
 
-### Practical details
+## Practical details
 No musical background or talent is required. We make music together to enjoy being and eating together
 
 The group is potluck format, first we eat and then (on full bellies) we sing

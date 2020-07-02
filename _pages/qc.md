@@ -15,7 +15,7 @@ If this will be your first time at a Quaker Meeting, you may want to read [this 
 
 [Contact us](/contact.html) for details, or contact the worship group directly via email at [quakersquebec@gmail.com](mailto:quakersquebec@gmail.com){: rel="noopener" target="_blank"} or via [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}.
 
-### Accessibility
+## Accessibility
 Our worship space is on the main floor but up four stairs, and so it is unfortunately **not** wheelchair accessible.
 
 See our [accessibility](/accessibility) page for more information or [contact](/contact) us with any questions

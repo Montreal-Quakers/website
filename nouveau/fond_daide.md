@@ -17,7 +17,7 @@ Le fonds discrétionnaire du Comité des anciens et des veilleurs (Ministry & Co
 
 Les demandes sont confidentielles et ne sont discutées qu'au sein du comité M&C. À la fin de l'année budgétaire, le comité de S&C fera un rapport à la réunion mensuelle détaillant chaque paiement par montant, date et s'il s'agit de la première ou de la deuxième demande de l'année, mais ne doit pas inclure le nom du destinataire (s ).
 
-### Formulaire de demande <span class="stanchor"><a name="demande"></a></span>
+## Formulaire de demande <span class="stanchor"><a name="demande"></a></span>
 
 * Nom
 * Contact

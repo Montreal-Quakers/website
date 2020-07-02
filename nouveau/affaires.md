@@ -3,9 +3,9 @@ title: <i class="fas fa-coins color-1-text"></i> Déroulement d'une assemblée d
 trans: business_meeting
 lang: fr
 ---
-### L'appelation
+## L'appelation
 Nous nous rappelons souvent que le nom au complet de l'assemblée d'affaires est « un culte qui sert d'assemblée d'affaires ». Cette assemblée doit être avant tout une forme de culte
-### L'objectif de l'assemblée d'affaires
+## L'objectif de l'assemblée d'affaires
 L’objectif de l’assemblée d’affaires est de se faire une idée sur la façon dont la communauté est guidée par l’Esprit dans ses actions. 
 
 * Par exemple, cela ne veut pas dire que parce que l’Esprit a en tête la couleur orange et que nous choisissons le jaune pour la couleur d’un tapis que nous sommes de mauvais quakers

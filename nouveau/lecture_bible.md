@@ -15,7 +15,7 @@ Au cours des prochains mois nous allons lire les extraits suivants:
 * 2 Thessaloniciens
 * Galates
 
-### Détails pratiques
+## Détails pratiques
 * Souvent on lit à haute voix et puis on discute
   * Souvent il n'est pas nécessaire de lire en avance
 * Notre rencontre dure 40 minutes d'habitude, à peu près

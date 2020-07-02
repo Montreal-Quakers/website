@@ -15,7 +15,7 @@ Over the next few months we plan to read these books:
 * 2 Thessalonians
 * Galatians
 
-### Practical details
+## Practical details
 * We often simply read aloud as a group and then discuss
   * Usually no need to read in advance
 * Our group seldom meets longer than 40 minutes

@@ -17,7 +17,7 @@ The Ministry & Counsel (M&C) discretionary fund is intended to be a source of te
 
 Requests are be confidential and only discussed within the M&C committee. At the end of the budget year the M&C committee will make a report to the Monthly Meeting detailing each payment by amount, date, and whether it is the first or second request of the year, but should not include the name of the recipient(s).
 
-### Discretionary Fund Application Questions <span class="stanchor"><a name="application"></a></span>
+## Discretionary Fund Application Questions <span class="stanchor"><a name="application"></a></span>
 
 * Name
 * Name of person referring you, if you are not a member or regular attender

@@ -8,7 +8,7 @@ Notre groupe de chant utilise quelques ressources clés:
 * Worship in Song: A Friends Hymnal
 * [Songs for singing](https://drive.google.com/file/d/1LcCqchfmrGPa6x6v4b1MS5PcfpQ1YCLT/view?usp=sharing){: rel="noopener" target="_blank"}
 
-### Détails pratiques
+## Détails pratiques
 * Aucun talent ni connaissance musical n'est nécessaire
   * On fait la musique ensemble pour le plaisir d'être et de manger ensemble
 * On mange format potluck

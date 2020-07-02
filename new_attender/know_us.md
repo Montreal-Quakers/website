@@ -16,7 +16,7 @@ If you'd like to be more involved but you're not sure how, perhaps the best thin
   * If you don't see a role that might interest you, perhaps ask anyway: there are many fascinating ways to join and serve Quakers in Canada, at interfaith groups, in North America, the UN, and the world. That list is only the beginning
 * Do you know about larger Quaker [gatherings](/new_attender/gatherings)?
 
-### Asking vs. being asked
+## Asking vs. being asked
 If you've been with us for a while, hopefully someone has discussed many of these items with you. If we haven't approached you, it may be because:
 * We're a volunteer organization; we may not be as pro-active as some places with paid staff due to limited volunteer energy
 * It is completely against our [values](/intro) to pressure people into serving on committees or membership. We are leery — sometimes too leery — of arm-twisting, sometimes hesitating quite a bit before bringing up some of these topics, particularly membership.

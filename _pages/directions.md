@@ -5,7 +5,7 @@ trans: directions
 ---
 ![Quaker banner](/assets/images/mtl_homepage3.jpg){: class="img_center100"}
 
-### Address
+## Address
 
 [1090 Greene, Westmount, QC, H3Z 1Z9](https://www.google.com/maps/search/1090%20Greene,%20Westmount,%20QC,%20H3Z%201Z9){: rel="noopener" target="_blank"}
 
@@ -15,13 +15,13 @@ trans: directions
 
 We meet in the sunroom on the Greene Centre's main floor. All are welcome.
 
-### Time
+## Time
 
 Quaker silent Meeting for Worship is every Sunday from **11:00 a.m. to noon**. We suggest arriving a few minutes before 11:00 but we much prefer your company to your absence! Childcare is available but if possible please do give us a few days [notice](/contact.html).
 
 If this will be your first time at a Quaker Meeting, you may want to read [this information](/about.html) about what to expect.
 
-### [Accessibility](/accessibility)
+## [Accessibility](/accessibility)
 
 Our worship space is **wheelchair accessible** via the front ramp and the rear entrance of the Greene Centre; the Greene Centre has an accessible washroom and handicap parking behind the building.
 

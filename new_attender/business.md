@@ -3,9 +3,9 @@ title: <i class="fas fa-coins color-1-text"></i> How Meeting for Business works 
 trans: business_meeting
 lang: en
 ---
-### The name
+## The name
 We remind ourselves often that the name for a business meeting is "Meeting for Worship with attention to business." Our business meeting is first and foremost a meeting for _worship_. Business is secondary.
-### The goal of business meeting
+## The goal of business meeting
 The goal of business meeting is to figure out how our community is led by Spirit, the Spirit of love, to act in the world. 
 
 There is no one answer.
