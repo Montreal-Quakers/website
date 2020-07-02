@@ -2,7 +2,7 @@
 layout: default
 trans: index
 lang: fr
-permalink: index-fr
+permalink: /index-fr
 ---
 ### [À propos des Quakers](/intro-fr)
 
@@ -22,10 +22,10 @@ Nous regroupons des Quakers de toutes tendances&nbsp;—&nbsp; des Quakers athé
 ### [<i class="fas fa-map-marker-alt fa-fw color-1-dark-text"></i> <u>Nous trouver</u>](/coordonnées){: id="linkoff"}
 
 Notre plus grande assemblée a lieu le dimanche à 11h au [Centre Greene](/coordonnées). Voici toutes les occasions de vous joindre à nous:
-* [Notre assemblée le dimanche](/coordonnées) à 11h00 au [Centre Greene](/coordonnées)
+* [Notre assemblée le dimanche](/coordonnées) à 11h00 au Centre Greene
 * Un groupe de [mi-semaine](/mi-semaine)
 * Un groupe aux [Laurentides](/laurentides)
 * Un groupe à [Québec](/quebec), le premier dimanche du mois
 * Nous espérons bientôt former un groupe de la [Rive-Sud](/rive-sud). 
 
-Une fois par mois nous chantons et nous offrons des activités pour les jeunes la plupart de l’année. Contactez-nous pour confirmer ou venez vous joindre à nous n'importe quel [dimanche](/coordonnées).
+Une fois par mois nous chantons et nous offrons des activités pour les jeunes la plupart de l’année. [Contactez-nous](/contact-fr) pour confirmer ou venez vous joindre à nous n'importe quel [dimanche](/coordonnées).

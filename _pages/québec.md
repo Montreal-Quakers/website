@@ -2,7 +2,7 @@
 lang: fr
 trans: quebec
 ---
-![Logo](/assets/images/quebec.jpg){: .img_center100}
+![Groupe Quaker de Québec image avec arbres](/assets/images/quebec.jpg){: .img_center100}
 
 Le Groupe des Quakers à Québec se rencontre chaque premier dimanche du mois à 11h00 au [31 rue des Jardins dans le Vieux-Québec](https://www.google.com/maps/search/31%20rue%20des%20Jardins,%20Qu%C3%A9bec){: target="_blank" rel="noopener"} à la chapelle All Saints Chapel, [ce bâtiment](https://goo.gl/maps/Z9wtKLtwAHEGSB7V6){: target="_blank" rel="noopener"} situé dans la cour de la cathédrale anglicane Holy Trinity.
 
@@ -16,7 +16,7 @@ Si c’est votre première assemblée Quaker, [ce lien](/a_propos.html) donne un
 
 [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}
 
-![Les initiateurs](/assets/images/qc_2.jpg){: .img_center100}
+![Les initiateurs du groupe](/assets/images/qc_2.jpg){: .img_center100}
 
 ## LA VOIE QUAKER, UNE FAÇON DE VIVRE…
 Les quakers, ou Société Religieuse des Amis, (les termes quakers ou amis peuvent être utilisés indifféremment) ont toujours été préoccupés par les questions de justice sociale, de paix et d’environnement. Les témoignages  d’égalité, paix, intégrité, communauté, éco-responsabilité et simplicité  sont représentatifs de la façon de vivre des amis. Pour eux il n’y a pas de séparation entre le séculier et le sacré. Ils ont ainsi tendance à considérer que chaque action menée dans sa propre vie constitue un témoignage de leurs convictions spirituelles. Même si les origines du quakerisme sont chrétiennes, les quakers peuvent être chrétiens ou pas. La relation à Dieu ou au transcendant peut se faire de différentes façons selon chacun.
@@ -27,4 +27,4 @@ Le culte chez les quakers est un culte silencieux. Les participants s’assoient
 
 ### Pour plus d’information sur le quakerisme, voir la page [Liens et histoire](/liens_histoire.html):
 
-![Chaises](/assets/images/quebec_wg.jpg){: .img_center75}
+![Chaises dans la salle](/assets/images/quebec_wg.jpg){: .img_center75}

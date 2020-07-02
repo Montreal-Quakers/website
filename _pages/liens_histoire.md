@@ -9,11 +9,10 @@ trans: links_history
 
 {% comment %}* [Un cours en ligne sur les Quakers](http://moodle.woodbrooke.org.uk/course/view.php?id=60#section-0){:  rel="noopener" target="_blank"}
 So sad, Woodbrooke seems to have deleted this course -- post this again if they ever put it back!
-{% endcomment %}* [Un résumé du Quakerisme en français](http://quaker.chez-alice.fr/){:  rel="noopener" target="_blank"}
-* [Glossaire Quaker anglais-français](http://www.simongrant.org/quaker/gloss/enfr.html){:  rel="noopener" target="_blank"}
+{% endcomment %}* [Un résumé du Quakerisme en français](http://quaker.chez-alice.fr/){: rel="noopener" target="_blank"}
 * [S'attendre à Dieu](/assets/PDF/EDommen-SAttendreADieu2.pdf) (PDF), par Quaker suisse Ed Dommen
 * Une ressource pour expliquer le quakerisme aux enfants en bas de 10 ans [Le culte Quaker et moi](/assets/PDF/LeCulteQuakerEtMoi-small.pdf) (PDF), par Quaker suisse Ed Dommen
-* Ce PDF (en anglais) conte l'histoire quand même particulière des Quakers dans le sud de la France
+* Ce [PDF](/assets/PDF/CongeniesE.pdf) (en anglais) conte l'histoire quand même particulière des Quakers dans le sud de la France
 
 #### Pour participer à la discussion
 * Majoritairement **en anglais**: [Le groupe de discussion des Quakers au Canada](https://www.facebook.com/groups/532516183429702/){:  rel="noopener" target="_blank"}  sans oublier quelques autres groupes sur Facebook, de l'[informatif](https://www.facebook.com/groups/2207263944/){:  rel="noopener" target="_blank"} au [loufoque](https://www.facebook.com/groups/assbadfriends/).
@@ -30,7 +29,7 @@ So sad, Woodbrooke seems to have deleted this course -- post this again if they 
 
 ### Histoire des Quakers à Montréal
 
-[Petit à petit, l’oiseau fait son nid Par Chantal Fournier](/assets/PDF/MMM-History-CF.V100.05.15.pdf){:  rel="noopener" target="_blank"}
+[Petit à petit, l’oiseau fait son nid Par Chantal Fournier](/assets/PDF/MMM-History-CF.V100.05.15.pdf){: rel="noopener" target="_blank"} (PDF)
 
 ##### Auparavant, notre Centre Quaker à Montréal sur de Maisonneuve
 ![Our previous meetinghouse on de Maisonneuve](/assets/images/1974%20MaisW%20(1).JPG){:class="img_center75"}

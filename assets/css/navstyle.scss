@@ -29,9 +29,15 @@ $verynarrow: {{ site.verynarrow }};
     font-weight: bold;
     white-space: nowrap;
   }
-  a.active,a:hover {
-     background-color: $color-active;
-     color: $nav-color-text;
+  a {
+    &.active {
+      background-color: $color-active;
+      color: $nav-color-text;
+    }
+    &:hover {
+      background-color: $color-1-dark;
+      color: $nav-color-text;
+    }
   }
   .icon {
      display: none;
@@ -112,10 +118,6 @@ $verynarrow: {{ site.verynarrow }};
     display: block;
     padding: 12px 14px;
     text-align: left;
-    &:hover {
-      background-color: $color-active;
-      color: $nav-color-text;
-    }
   }
 }
 
@@ -256,7 +258,7 @@ $verynarrow: {{ site.verynarrow }};
        family: $font-serif;}
      // letter-spacing: $serif-spacing;
      transform: translate(-50%, 0%);
-     background-color: $color-1-dark;
+     background-color: transparent;
      color: $nav-color-text;
      white-space: nowrap;
    }
@@ -274,6 +276,9 @@ $verynarrow: {{ site.verynarrow }};
    }
    .navbar {
      background-color: $color-1-dark;
+     a:hover,a.active {
+       background-color: darken($color-1,5%);
+     }
      & > .icon_right > a {
 	   padding: 12.5px 12px 9px;
      }
@@ -283,7 +288,7 @@ $verynarrow: {{ site.verynarrow }};
       display: block;
       cursor: pointer;
      &:hover {
-        background-color: $color-1-light;
+        background-color: $color-1;
       }
      &_right a {
        float: right;
@@ -314,7 +319,15 @@ $verynarrow: {{ site.verynarrow }};
             text-align: left;
             cursor: pointer;
           }
-       &-content {position: relative;}
+       &-content {
+         position: relative;
+         background:lighten($color-1-dark,10%); 
+         //padding: 0 0 0 15px;
+         text-indent: 0.8em;
+         &:before {
+//           content: &emsp;
+         }
+       }
       }
     // This is all still under .navbar.responsive
     input[type=search], .search-container, #response, #narrowhome {
@@ -352,12 +365,15 @@ $verynarrow: {{ site.verynarrow }};
 ul.breadcrumb {
   padding: 10px 16px;
   list-style: none;
-  background-color: $color-1-light;
+  background-color: lighten($color-1-dark,10%);
   margin: 0;
 }
 ul.breadcrumb li {
   display: inline;
-  font-size: $body-font-size;
+  //font-size: $body-font-size;
+  font-family: $font-sans;
+  font-size: $nav-font-size;
+  //font-weight: bold;
   color: white;
 }
 ul.breadcrumb li+li:before {
