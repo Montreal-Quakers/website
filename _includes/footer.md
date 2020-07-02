@@ -1,5 +1,5 @@
 
-### {{ site.title }}
+## {{ site.title }}
 
 Sundays, 11 AM, Greene Centre<br>
 

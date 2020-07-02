@@ -1,5 +1,5 @@
 
-### {{ site.title-fr }} 
+## {{ site.title-fr }} 
 
 Le dimanche à 11h au Centre Greene
 
