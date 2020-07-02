@@ -18,7 +18,7 @@ If you see a role that you'd like to learn more about, please feel free to [cont
 ## Committees <i class="fas fa-screwdriver fa-fw color-1-dark-text"></i>
 
 ### Ministry & Counsel
-Ensures that Meeting for Worship or for Business proceeds on the basis of a silent and attentive search for Divine guidance; arranges Meetings for marriage; prepares the annual Spiritual State of the Meeting report. This committee is responsible for adult religious education and silent announcements. Oversees the nurture and support of members and attenders, convening clearness committees for those who need or request them; assists with arrangements at time of death and sees that ill, troubled, or needy Friends are visited. 
+Ensures that Meeting for Worship or for Business proceeds on the basis of a silent and attentive search for Divine guidance; arranges Meetings for marriage; prepares the annual Spiritual State of the Meeting report. This committee is responsible for adult religious education and silent announcements. Oversees the nurture and support of members and attenders, convening clearness committees for those who need or request them; assists with arrangements at time of death and sees that ill, troubled, or needy Friends are visited. See Organization & Procedure [chapter 7](https://quaker.ca/cympublications/organization-and-procedure/#CHAPTER_7_Meeting_of_Ministry_and_Counsel){: rel="noopener" target="_blank"} for more information.
 
 ### Nominations
 Considers capabilities, experiences, special gifts and talents of members and attenders as well as duties and responsibilities of each committee and office to select friends to serve the Meeting.

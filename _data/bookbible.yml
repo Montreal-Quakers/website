@@ -1,0 +1,15 @@
+verse: 
+  en: Galatians 2
+  fr: Galate 2
+  fr-date: jeudi le 7 juillet, 2020
+  en-date: Thursday, July 7th, 2020
+
+next:
+- reading: 1 Thessalonians
+- reading: 2 Thessalonians
+- reading: Galatians
+
+prochain:
+- lecture: 1 Thessaloniciens
+- lecture: 2 Thessaloniciens
+- lecture: Galates

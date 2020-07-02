@@ -5,15 +5,14 @@ trans: book_bible
 ---
 At our next meeting, we will be studying:
 
-# Galatians 1
+# {{ site.data.bookbible.verse.en }}
 
 Right now, we are meeting on Thursdays at 3:30 pm. Next meeting:
-## Thursday, July 2nd, 2020
+## {{ site.data.bookbible.verse.en-date }}
 
 Over the next few months we plan to read these books:
-* 1 Thessalonians
-* 2 Thessalonians
-* Galatians
+{% for each in site.data.bookbible.next %}
+* {{ each.reading }}{% endfor %}
 
 ## Practical details
 * We often simply read aloud as a group and then discuss

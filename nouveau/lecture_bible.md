@@ -5,15 +5,14 @@ trans: book_bible
 ---
 À notre prochaine réunion, nous allons étudier:
 
-# Galates 1
+# {{ site.data.bookbible.verse.fr }}
 
 On se réunit le jeudi à 15h30. Prochaine réunion:
-## jeudi le 2 juillet, 2020
+## {{ site.data.bookbible.verse.fr-date }}
 
 Au cours des prochains mois nous allons lire les extraits suivants:
-* 1 Thessaloniciens 
-* 2 Thessaloniciens
-* Galates
+{% for each in site.data.bookbible.prochain %}
+* {{ each.lecture }}{% endfor %}
 
 ## Détails pratiques
 * Souvent on lit à haute voix et puis on discute

@@ -17,7 +17,8 @@ Si vous voyez un rôle au sujet duquel vous aimeriez apprendre plus, n'hésitez 
 
 ## Comités <i class="fas fa-screwdriver fa-fw color-1-dark-text"></i>
 ### Comité des anciens et des veilleurs
-Veille sur le bien-être spirituel des membres, du déroulement du culte, et de l'Assemblée en général
+Veille sur le bien-être spirituel des membres, du déroulement du culte, et de l'Assemblée en général. Voir (en anglais) Organization & Procedure [chapitre 7](https://quaker.ca/cympublications/organization-and-procedure/#CHAPTER_7_Meeting_of_Ministry_and_Counsel){: rel="noopener" target="_blank"} pour plus d'informations.
+
 
 ### Comité des nominations
 Propose des noms à l'assemblée pour des postes à combler
