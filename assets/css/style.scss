@@ -2,6 +2,8 @@
 ---
 // Already imported
 @import "colors";
+$mob-pixels: {{ site.breakpoint }};
+$verynarrow: {{ site.verynarrow }};
 // @import "include-media";
 
 *,*:before,*:after{box-sizing:inherit}
@@ -324,9 +326,7 @@ input {
 }
 
 .content {  // always on the left if there's media
-   flex: 0 1 $text-width;
-   // flex: 0 1 $text-width;
-   padding: 0 66px 0;
+   padding: 0 66px;
    font-family: $font-sans; 
    font-size:1em;
    text-align:left;
@@ -334,7 +334,17 @@ input {
    color: $body-color-text;
    margin-bottom: 0;
 }
+@media screen and (min-width: $mob-pixels) {
+  .content {
+    flex: 0 1 $text-width;
+  }
+}
 
+@media screen and (max-width: $mob-pixels - 1) {
+  .content {
+     flex: 0 1 auto;
+  }
+}
 .media {
    flex: 1 0 400px;
    padding: 0 3px;
@@ -387,7 +397,6 @@ input {
    }
 }
 // Media & Container responsiveness
-// @include media("<=800px") {
 @media screen and (max-width: 800px) {
   .container-content {   
     flex-direction: column;

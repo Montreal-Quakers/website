@@ -11,7 +11,7 @@ However you understand this word, prayer is your most important task as a Montre
 * Perhaps use the time at business meeting to:
   * pray for folks at your local meeting
   * for Quakers in Canada or beyond
-  * or for peace and justice in our world
+  * for peace and justice in our world
 * For the business as it arises, it often happens that representatives won't be moved to say much.
   * The business presented is hopefully in good and competent hands. 
   * In that case, our role as representative is simply to give thanks for this. 
@@ -44,7 +44,7 @@ Speak to folks at meeting, have them go over reports with you beforehand. Or, ev
   * Representing the meeting is a golden opportunity to meet Quakers across Canada, make new friends in new places, and find renewal.
 
 ### Expenses
-The expectation is that Montreal Quakers will finance your travel and meals; if local Quakers aren't providing billeting, the local meeting should pay for your lodging as well. Please discuss with the meeting if anything offered is inadequate. In turn, do your best to reduce cost and complexity to the meeting, but remember that representing the meeting should ultimately be a pleasure. Quakers may have a puritan past, but there's no need to carry all of that into the present.
+The expectation is that Montreal Quakers will finance your travel and meals; if billeting isn't provided, the local meeting should pay for your lodging as well. Please discuss with the meeting if anything offered is inadequate. In turn, do your best to reduce cost and complexity to the meeting, but remember that representing the meeting should ultimately be a pleasure. Quakers may have a puritan past, but there's no need to carry all of that into the present.
 
 ### More information
 See Canadian Yearly Meeting's [Organization & Procedure](https://quaker.ca/resources/organization-and-procedure/){: rel="noopener" target="_blank"} document for more information about Representative Meeting and the Canadian Yearly Meeting gathering.
