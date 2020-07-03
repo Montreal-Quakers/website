@@ -154,18 +154,21 @@ $verynarrow: {{ site.verynarrow }};
      display: none;
  }
 
- .navbar {
-   display: flex;
-   align-items: center;
-   background-color: $color-1;
-    input[type=search] {
-     &.input_narrow {width: 1px}
-     &.input_hide {visibility: hidden}
-     &.input_show {
-       width: 210px; 
-       visibility: visible;
-     }
-   }
+  .navbar {
+    display: flex;
+    align-items: center;
+    background-color: $color-1;
+     input[type=search] {
+      &.input_narrow {width: 1px}
+      &.input_hide {visibility: hidden}
+      &.input_show {
+        width: 210px; 
+        visibility: visible;
+      }
+    }
+    &.sticky > a:hover {
+      background: $color-1;
+    }
   }
   
   #special {
@@ -213,6 +216,9 @@ $verynarrow: {{ site.verynarrow }};
   
    .navbar.sticky .dropdown-content {
        position: fixed;
+       a:hover {
+         background: $color-1-dark;
+       }
    }
   
   // Keeping page anchors in the right place
