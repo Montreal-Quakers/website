@@ -3,7 +3,11 @@ title: Links & History
 lang: en
 trans: links_history
 ---
-![Benches with light](assets/images/benches2-243x300.gif){:class="img_center"}
+<picture>
+  <source srcset="/assets/images/benches.webp" type="image/webp">
+  <source srcset="/assets/images/benches.jpg" type="image/jpg">
+  <img src="/assets/images/benches.webp" class="img_center" alt="Benches with light">
+</picture>
 ## For newcomers, about Quakers
 * [QuakerSpeak videos](https://quakerspeak.com/){: rel="noopener" target="_blank"}, for instance [this one](https://www.youtube.com/watch?time_continue=1&v=I63xA-VZGXw&feature=emb_title){: rel="noopener" target="_blank"}, are an excellent resource.
 * Letters to a fellow seeker by Steve Chase, 
@@ -33,4 +37,8 @@ trans: links_history
 * [History of Montreal Meeting (1929-1964) Lloyd Williams](/assets/PDF/MMM_history-Lloyd-Williams.pdf){: rel="noopener" target="_blank"}
 
 ### Our previous meetinghouse on de Maisonneuve
-![Our previous meetinghouse on de Maisonneuve](/assets/images/1974%20MaisW%20(1).JPG){:class="img_center75"}
+<picture>
+  <source srcset="/assets/images/1974_MaisW_1.webp" type="image/webp">
+  <source srcset="/assets/images/1974_MaisW_1.jpg" type="image/jpg">
+  <img src="/assets/images/1974_MaisW_1.webp" class="img_center75" alt="Our previous meetinghouse on de Maisonneuve">
+</picture>

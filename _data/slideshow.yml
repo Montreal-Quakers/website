@@ -1,16 +1,21 @@
 slideshow1:
 - title: Our historic meetinghouse on de Maisonneuve
   titre-fr: Notre chez nous sur la rue Maisonneuve pendant les années 1970
-  file: 1974 MaisW (1).JPG
+  file: 1974_MaisW_1.jpg
+  webp_file: 1974_MaisW_1.webp
 - title: The Greene Centre
   titre-fr: Le Centre Greene
-  file: MMM sign - Greene.JPG
+  file: MMM sign - Greene.jpg
+  webp_file: MMM sign - Greene.webp
 - title: A painting of the Greene Centre
   titre-fr: Un tableau du Centre Greene
   file: centre_greene_painting.jpg
+  webp_file: centre_greene_painting.webp
 - title: 
   titre-fr: 
   file: good_group.jpg
+  webp_file: good_group.webp
 - title: Continuing a long tradition of struggle for social justice
   titre-fr: Le travail pour la paix continue
   file: mtl_homepage3.jpg
+  webp_file: mtl_homepage3.webp

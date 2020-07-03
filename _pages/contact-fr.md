@@ -11,4 +11,8 @@ N'hésitez pas à nous poser des questions.
 
 {% include contact.html %}
 
-![Le groupe en cercle](/assets/images/circle_group_cropped.jpeg){:class="img_center100"}
+<picture>
+  <source srcset="/assets/images/circle_group_cropped.webp" type="image/webp">
+  <source srcset="/assets/images/circle_group_cropped.jpeg" type="image/jpg">
+  <img src="/assets/images/circle_group_cropped.webp" class="img_center100" alt="Le groupe en cercle">
+</picture>

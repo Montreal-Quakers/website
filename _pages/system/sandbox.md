@@ -4,8 +4,6 @@ lang: en
 trans: sandbox
 exclude_from_search: true
 ---
-secrets: ${{ secrets.TEST }}
-
 Add any text you want here, play around with formatting and inserting images.
 
 This is a guide to the [Markdown](https://guides.github.com/features/mastering-markdown/) format.
