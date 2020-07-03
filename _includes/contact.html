@@ -4,7 +4,7 @@
       <p><input class="w3-input w3-border w3-animate-input" type="email" placeholder="{% if fr %}Courriel{% else %}Email{% endif %}" required name="{% if fr %}Courriel{% else %}Email{% endif %}"></p>
       <p><input class="w3-input w3-border w3-animate-input" type="text" required placeholder="{% if fr %}Objet{% else %}Subject{% endif %}" name="{% if fr %}Objet{% else %}Subject{% endif %}"></p>
       <input class="w3-input w3-border w3-animate-input" type="text" placeholder="Message" required name="Message">
-     {% if fr %}<<input type="hidden" name="_language" value="fr">{% endif %}
+     {% if fr %}<input type="hidden" name="_language" value="fr">{% endif %}
       <p>
         <button class="w3-button color-1-dark" type="submit">
           <i class="fa fa-paper-plane"></i> &nbsp;{% if fr %}ENVOYER{% else %}SEND MESSAGE{% endif %}

@@ -13,7 +13,7 @@ en:
       sublink: /testimonies
     - subtitle: Links and History
       sublink: /links_history
-- title: Where We Meet 
+- title: Find Us
   icon: <i class='fas fa-map-marker-alt'></i>
   submenu:
     - subtitle: Sundays in Montreal

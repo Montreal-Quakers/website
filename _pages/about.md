@@ -42,4 +42,4 @@ In the quietness of a Quaker Meeting those present can become aware of a deep an
 
 <i class="fas fa-mug-hot color-1-dark-text"></i><span class="stanchor"><a name="tea"></a></span> &nbsp;After about an hour, two Friends will shake hands to mark the end of the worship. The Clerk then may announce forthcoming events and give news of members. Afterwards, do feel free to stay for tea and snacks. Speak to someone nearby, particularly if you wish to know more about Quakers. &nbsp;<i class="fas fa-book-reader color-1-text"></i> Literature is usually available, and books can often be borrowed from the library about Quaker [values](/intro.html), [work](/testimonies.html), and [history](/links_history.html).
 
-![](/assets/images/benches2-243x300.gif){:class="img_center"}
+![](/assets/images/benches.jpg){:class="img_center"}

@@ -35,3 +35,5 @@ Les Amis (Quakers) prennent un moment de recul face aux distractions de la vie q
 <i class="fas fa-book-reader color-1-text"></i> &nbsp;Lire nos brochures ou emprunter un livre si vous voulez [à propos](/intro-fr.html) des Quakers ou de notre [histoire](/liens_histoire.html).
 
 Nous vous souhaitons la bienvenue!
+
+![](/assets/images/benches.jpg){:class="img_center"}

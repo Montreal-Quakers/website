@@ -6,11 +6,11 @@ permalink: /index-en
 ---
 ### [About Quakers](/intro)
 
-Quakers are a community of seekers of diverse beliefs. We seek meaningful life, an accepting community, and doing good in the world. 
+Quakers are a community of seekers with diverse beliefs. We seek meaningful life, an accepting community, and doing good in the world. 
 
-Quakers cherish humanity, perceiving an Inner Light or “that of God” in every human being. Love is the source of [Quaker values](/testimonies) and centuries of peace-building work.
+Quakers cherish humanity, perceiving an Inner Light or “that of God” in every human being. Love is the source of [Quaker values](/testimonies) and our peace-building work.
 
-We are an [active and affirming](/intro) community &nbsp;[![Rainbow flag](/assets/images/Rainbow-Flag.jpg){: height="22" class="down_a_tad"}](/intro) &nbsp;All are welcome.
+We are an active and affirming community &nbsp;[![Rainbow flag](/assets/images/Rainbow-Flag.jpg){: height="22" class="down_a_tad"}](/intro) &nbsp;All are welcome.
 
 <br>
 ### [Quaker practice](/about)
@@ -22,10 +22,10 @@ We are Quakers of all kinds — Christian Quakers, nontheist Quakers, Buddhist Q
 ### [<i class="fas fa-map-marker-alt fa-fw color-1-dark-text"></i> ](/directions){: id="linkoff"}[Where we meet](/directions)
 
 Our main meeting is on Sundays at the [Greene Centre](/directions). Here are our opportunities to join us: 
-* [Sunday Meeting](/directions), every Sunday at 11 AM at the [Greene Centre](/directions)
+* [Sunday Meeting](/directions), every Sunday at 11 AM near Lionel-Groulx metro
 * [Midweek Meeting](/midweek), Wednesdays at 5:30 PM near McGill University during the academic year
 * [Quebec City Worship Group](/quebec), first Sunday of the month at 11 AM in old Quebec
-* [Laurentian Worship Group](/laurentians), Sundays at 10:30 AM
+* [Laurentian Worship Group](/laurentians), Sundays at 10:30 AM in Saint-Hippolyte
 * [South Shore Worship Group](/south_shore) may soon form, likely in St. Lambert. [Contact us](/contact) for updates.
 
 Our main meeting has a children’s program and a music group — please [contact us](/contact) to confirm the details. Please feel welcome to join us any [Sunday](/directions).
