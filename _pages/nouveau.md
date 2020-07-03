@@ -1,5 +1,5 @@
 ---
-title: Pour les personnes qui participent déjà un peu
+title: Pour les personnes qui participent déjà
 lang: fr
 trans: new_attender
 permalink: /nouveau/
