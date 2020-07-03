@@ -3,7 +3,11 @@ title: Midweek Meeting
 lang: en
 trans: midweek
 ---
-![Library books](/assets/images/Ryan-library_books.jpg){: .img_center75}
+<picture>
+  <source srcset="/assets/images/Ryan-library_books.webp" type="image/webp">
+  <source srcset="/assets/images/Ryan-library_books.jpg" type="image/jpg">  
+  <img src="/assets/images/Ryan-library_books.webp" class="img_center75" alt="Library books">
+</picture>
 
 ## When
 * During the academic year (**Sept-Nov, Jan-March**). Because the Newman Centre closes outside these months, [check for updates](#updates) as there may be significant location changes from April through August and in December. 
@@ -32,4 +36,8 @@ The Newman Centre is unfortunately **not** wheelchair accessible
 
 See our [accessibility](/accessibility) page for more information or contact us with any questions
 
-![Ryan Library](/assets/images/ClaudeRyanLibrary.jpg){: .img_center}
+<picture>
+  <source srcset="/assets/images/ClaudeRyanLibrary.webp" type="image/webp">
+  <source srcset="/assets/images/ClaudeRyanLibrary.jpg" type="image/jpg">
+  <img src="/assets/images/ClaudeRyanLibrary.webp" class="img_center" alt="Ryan Library">
+</picture>

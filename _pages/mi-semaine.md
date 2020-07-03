@@ -3,7 +3,11 @@ title: Groupe de mi-semaine
 lang: fr
 trans: midweek
 ---
-![Livres](/assets/images/Ryan-library_books.jpg){: .img_center75}
+<picture>
+  <source srcset="/assets/images/Ryan-library_books.webp" type="image/webp">
+  <source srcset="/assets/images/Ryan-library_books.jpg" type="image/jpg">  
+  <img src="/assets/images/Ryan-library_books.webp" class="img_center75" alt="Livres">
+</picture>
 
 ## Quand
 * Pendant l’année universitaire (**de septembre à novembre, janvier à mars**). Puisque le Centre Newman ferme en décembre et entre avril et août, suivez nos [mises à jour](#misesàjour), car il se peut qu’il y ait beaucoup de changements de lieu.
@@ -25,4 +29,8 @@ Toutes et tous sont le bienvenu!
 
 Si c’est votre première assemblée Quaker, [ce lien](/a_propos.html) donne une idée de ce à quoi s’attendre.
 
-![Bibliothèque Ryan](/assets/images/ClaudeRyanLibrary.jpg){: .img_center}
+<picture>
+  <source srcset="/assets/images/ClaudeRyanLibrary.webp" type="image/webp">
+  <source srcset="/assets/images/ClaudeRyanLibrary.jpg" type="image/jpg">
+  <img src="/assets/images/ClaudeRyanLibrary.webp" class="img_center" alt="Ryan Library">
+</picture>

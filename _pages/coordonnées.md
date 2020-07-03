@@ -3,7 +3,11 @@ title: L'assemblée de dimanche
 lang: fr
 trans: directions
 ---
-![Quakers pour la paix](/assets/images/mtl_homepage3.jpg){: class="img_center100"}
+<picture>
+  <source srcset="/assets/images/mtl_homepage3.webp" type="image/webp">
+  <source srcset="/assets/images/mtl_homepage3.jpg" type="image/jpg">  
+  <img src="/assets/images/mtl_homepage3.webp" class="img_center100" alt="Bannière Quakers pour la Paix">
+</picture>
 
 ## Coordonnées
 
