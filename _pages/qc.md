@@ -21,7 +21,7 @@ Great news! The Quaker Worship Group in Quebec City has begun! Every first Sunda
 
 If this will be your first time at a Quaker Meeting, you may want to read [this information](/about.html) about what to expect.
 
-[Contact us](/contact.html) for details, or contact the worship group directly via email at [quakersquebec@gmail.com](mailto:quakersquebec@gmail.com){: rel="noopener" target="_blank"} or via [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}.
+[Contact us](/contact.html) for details, or contact the worship group directly via email at [quebec@montreal.quaker.ca](mailto:quebec@montreal.quaker.ca){: rel="noopener" target="_blank"} or via [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}.
 
 ## Accessibility
 Our worship space is on the main floor but up four stairs, and so it is unfortunately **not** wheelchair accessible.
