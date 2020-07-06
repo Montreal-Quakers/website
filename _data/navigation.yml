@@ -3,7 +3,6 @@ en:
   hovertitle: About Us
   link: /intro
   icon: <i class="far fa-hand-paper"></i>
-#  {% comment %}<i class='far fa-address-card'></i>{% endcomment %}
   submenu: 
     - subtitle: First Time
       sublink: /about
@@ -25,7 +24,7 @@ en:
       sublink: /qc
     - subtitle: South Shore
       sublink: /south_shore
-    - subtitle: The Laurentians
+    - subtitle: Laurentians
       subhovertitle: Laurentian Worship Group
       sublink: /laurentians
 #    - subtitle: Accessibility
@@ -67,15 +66,15 @@ fr:
 - title: Nous trouver
   icon: <i class='fas fa-map-marker-alt'></i>
   submenu:
-    - subtitle: Le dimanche à Montréal
+    - subtitle: Dimanche à Montréal
       sublink: /coordonnées
     - subtitle: Mi-semaine à Montréal
       sublink: /mi-semaine
     - subtitle: À Québec
       sublink: /québec
-    - subtitle: Sur la Rive-Sud
+    - subtitle: Rive-Sud
       sublink: /rive-sud
-    - subtitle: Dans les Laurentides
+    - subtitle: Laurentides
       sublink: /laurentides
 - title: Nouvelles
   hovertitle: Nos mises à jour
@@ -84,7 +83,7 @@ fr:
   # - title: Programmation
   #   link: /calendrier
   #   icon: <i class='far fa-calendar-alt'></i>
-- title: Prochaine étape
+- title: Étape suivante
   hovertitle: Des informations pour mieux s'intégrer dans notre communauté
   link: /nouveau/
   icon: <i class="fas fa-arrow-circle-right fa-fw"></i>
