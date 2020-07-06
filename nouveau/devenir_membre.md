@@ -12,7 +12,7 @@ N'importe qui, membre ou participant.e, est le bienvenu:
   * Même chose pour notre assemblée d'affaires
   * Les membres et des participant.e.s réguliers peuvent offrir ses services sur nos comités
 
-Cela étant dit, il est important de devenir membre, même si peut de distinctions ou privilèges en découle
+Cela étant dit, il est important de devenir membre, même si peut de distinctions ou privilèges en découle.
 ## L'objectif en devenant membre
 * Nous sommes toutes et tous formé.e.s par nos expériences. À un moment donné, devenir membre — « être » un Quaker — est tout simplement une expression honnête de la manière dont cette communauté nous a influencé, parmi plusieurs autres influences
 * On devrait devenir membre si, et seulement si, l'Esprit d'amour nous guide dans ce sens. Autrement dit, on devient membre par le miracle qui est l'amour à l'intérieur de cette communauté, une participation dans une sorte de famille spirituelle
@@ -20,4 +20,4 @@ Cela étant dit, il est important de devenir membre, même si peut de distinctio
 * Devenir membre peut aussi signaler son désir d'inclusion et de contribution
 
 ## Le processus
-Plus de détails sont disponibles sur notre page sur le [_membership_](/new_attender/membership) (en anglais)
+Plus de détails sont disponibles sur notre page sur le [_membership_](/new_attender/membership) (en anglais).

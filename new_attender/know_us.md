@@ -12,7 +12,7 @@ If you'd like to be more involved but you're not sure how, perhaps the best thin
   * Teaching art to refugee children
   * With community groups such as Solidarity Across Borders and non-profits such as Council of Canadians
 * Joining a [committee](/new_attender/committees.html) is a great way to know us better and contribute to the life of the meeting community
-  * If one of the [committees](/new_attender/committees.html) might interest you, feel free to inquire. No pressure, and the question is appreciated
+  * If one of the [committees](/new_attender/committees.html) might interest you, feel free to inquire
   * If you don't see a role that might interest you, perhaps ask anyway: there are many fascinating ways to join and serve Quakers in Canada, at interfaith groups, in North America, the UN, and the world. That list is only the beginning
 * Do you know about larger Quaker [gatherings](/new_attender/gatherings)?
 
