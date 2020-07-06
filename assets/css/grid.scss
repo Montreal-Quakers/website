@@ -27,7 +27,7 @@ $buttonyellow: #fafad2;
   text-decoration: none;
   border-radius: .5rem;
   cursor: pointer;
-  &:hover > li > h3 {
+  &:hover > li {
        background: $color-1;
  //      transform: translate(0px,75px);
  //      border-radius: .5rem;
@@ -44,6 +44,21 @@ $buttonyellow: #fafad2;
   color: $nav-color-text;
   background: $color-1;
   margin: auto;
+  background: $color-1-dark;
+  margin: 0;
+  padding: 10px;
+  transition: background .3s;
+  font-family: $font-serif;
+
+  
+  font-size: 1.6rem;
+  background: $color-1-dark;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background .3s;
+//  transition: transform .5s;
+//   transition: border-radius 1s;
 //  transition: 1s;
 //   &:hover {
 // 	  background: white;
@@ -51,24 +66,9 @@ $buttonyellow: #fafad2;
 //   }
 }
 
-.cards > ul > a > li > h3 {
-  background: $color-1-dark;
-  margin: 0;
-  padding: 10px;
-  transition: background .3s;
-//  transition: transform .5s;
-//   transition: border-radius 1s;
-}
-
 .cards_index > ul > a > li {
-	font-family: $font-serif;
-	font-size: 2.0em;
-	font-style: italic;
-	background: $color-1-dark;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-        transition: background .3s;
+  font-style: italic;
+  font-size: 2.0em;
    &:hover {
 	   background: $color-1
    }
