@@ -10,10 +10,10 @@ Notre groupe de chant utilise quelques ressources clés:
 
 ## Détails pratiques
 * Aucun talent ni connaissance musical n'est nécessaire
-  * On fait la musique ensemble pour le plaisir d'être et de manger ensemble
+  * On fait la musique ensemble pour le plaisir d'être ensemble et de partager un repas
 * On mange format potluck
   * D'abord on mange et puis on chante
 * On se réunit chez quelqu'un
-* Apportez un instrument ou des suggestions de chanson si vous voulez
+* Apportez un instrument ou des suggestions de chanson si vous voulez, mais ce n'est pas nécessaire
 
-[Contactez-nous](/contact-fr) pour plus de détails
+[Contactez-nous](/contact-fr) pour plus de détails.

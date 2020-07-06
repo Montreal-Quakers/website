@@ -3,7 +3,7 @@ title: <i class="fas fa-book-reader color-1-text"></i> Club de lecture & étude 
 lang: fr
 trans: book_bible
 ---
-À notre prochaine réunion, nous allons étudier:
+À notre prochaine réunion, nous allons lire:
 
 # {{ site.data.bookbible.verse.fr }}
 

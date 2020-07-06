@@ -4,7 +4,9 @@ lang: fr
 trans: know_us
 ---
 Si vous souhaitez participer davantage dans la vie de notre communauté mais ne savez pas comment, voici quelques suggestions:
-* Le plus simple: exprimez-vous. Ce n’est pas facile, mais c’est le plus direct. Si vous en faites part auprès de la modératrice ou du modérateur, un membre du Comité des veilleurs (Ministry & Counsel), ou bien un autre membre. Nous ferons de notre mieux pour vous aider. Parfois nous ne sommes tout simplement pas au courant de vos souhaits
+* Le plus simple: exprimez-vous. Ce n’est pas facile, mais c’est le plus direct. 
+  * Faites-en part auprès de la modératrice ou du modérateur, un membre du Comité des veilleurs (Ministry & Counsel), ou bien un autre membre. Nous ferons de notre mieux pour vous aider
+  * Parfois nous ne sommes tout simplement pas au courant de vos souhaits
 * [Renseignez-vous](/contact-fr.html) au sujet de notre [club de lecture / groupe d'étude biblique](/nouveau/lecture_bible) ou bien notre [groupe de chant](/nouveau/chant)
 * Ajoutez notre [agenda](https://calendar.google.com/calendar/embed?src=clerk%40montreal.quaker.ca&ctz=America%2FToronto){:  rel="noopener" target="_blank"} au vôtre ([instructions](https://support.google.com/calendar/answer/37100?hl=fr){:  rel="noopener" target="_blank"})
 * Souvent, nous sortons dîner après le culte du dimanche. Venez ou bien invitez quelqu’un au café
@@ -18,7 +20,7 @@ Si vous souhaitez participer davantage dans la vie de notre communauté mais ne 
 * Connaissez-vous les plus grands [rassemblements](/nouveau/rassemblements) des Quakers?
 
 ## Demander, ou attendre qu’on vous demande
-Si vous êtes avec nous depuis un certain temps, on espère que quelqu'un a discuté de bon nombre de ces possibilités avec vous. Si nous ne vous avons pas abordé, c'est peut-être parce que:
+Si vous êtes avec nous depuis un certain temps, on espère que quelqu'un aura déjà discuté de bon nombre de ces possibilités avec vous. Sinon, c'est peut-être parce que:
 
 * Nous ne fonctionnons pas comme un groupe rémunéré et nous n’avons pas assez de bénévoles
 * Il est tout à fait contraire à nos valeurs de faire pression sur les gens pour qu’ils deviennent membres ou qu'ils fassent partie d’un comité. Nous nous méfions — parfois trop — d’avoir l’air de faire pression surtout en matière d’appartenance
