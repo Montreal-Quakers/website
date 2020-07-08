@@ -6,12 +6,10 @@
        <a href={% if page.lang =="fr" %}"/index-fr"{% else %}"/index-en"{% endif %}>
   <!-- top left bird -->
        <img alt="top left bird logo" class="{% for each in site.bird_left %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/quaker_icon_95x95.png" width="95px" height="95px">
-		     </a>
 		     
      <!-- top header -->
-     <a class="noback {% for each in site.header_animation %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %} " href={% if page.lang =="fr" %}"/index-fr"{% else %}"/index-en"{% endif %}>{% if fr %}{{ site.title-fr }}{% else %}{{ site.title }}{% endif %}</a>
+     <span class="noback {% for each in site.header_animation %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %} " >{% if fr %}{{ site.title-fr }}{% else %}{{ site.title }}{% endif %}</span>
      <!-- top right bird -->
-     <a class="noback" href={% if page.lang =="fr" %}"/index-fr"{% else %}"/index-en"{% endif %}>
      <img alt="top right bird logo" class="noback {% for each in site.bird_right %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/quaker_icon_95x95.png" width="95px" height="95px">
      </a>
 
