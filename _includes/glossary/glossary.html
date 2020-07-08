@@ -19,7 +19,7 @@
    {% comment %}ok, now the filter bar{% endcomment %}
 {% assign counter = -1 %}<div>&nbsp;</div>
 <div id=filterDropdown>
-	<input label="Filter glossary" id="filterInput" type="search" autocomplete=off placeholder="{% if fr %}Recherchez par entrée{% else %}Filter by entry{% endif %}..." onkeyup="filterFunction(this)" onsearch="filterFunction(this)">
+	<input aria-label="Filter glossary" id="filterInput" type="search" autocomplete=off placeholder="{% if fr %}Recherchez par entrée{% else %}Filter by entry{% endif %}..." onkeyup="filterFunction(this)" onsearch="filterFunction(this)">
 <div>{% comment %}Now all the entries{% endcomment %}
 {% for each in glossy %}{% assign counter = counter | plus: 1 %}
  {% assign nowslice = each.entry | slice: 0 | capitalize %}

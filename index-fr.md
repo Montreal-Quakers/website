@@ -19,7 +19,7 @@ Le cœur de l'assemblée Quaker est notre [culte silencieux](/a_propos). Nous no
 Nous regroupons des Quakers de toutes tendances&nbsp;—&nbsp; des Quakers athées, des Quakers chrétiens, des Quakers bouddhistes&nbsp;—,&nbsp;unis en cercle autour de notre pratique traditionnelle du culte silencieux et notre quête de mettre [l'amour au centre de nos vies](/intro-fr).
 
 <br>
-## [<i class="fas fa-map-marker-alt fa-fw color-1-dark-text"></i> <u>Nous trouver</u>](/coordonnées){: id="linkoff"}
+## [<i class="fas fa-map-marker-alt fa-fw color-1-dark-text"></i> <u>Nous trouver</u>](/coordonnées){: id="linkoff" aria-label="Coordonnées"}
 
 Notre plus grande assemblée a lieu le dimanche à 11h au [Centre Greene](/coordonnées). Voici toutes les occasions de vous joindre à nous:
 * [Notre assemblée le dimanche](/coordonnées) à 11h00 au Centre Greene

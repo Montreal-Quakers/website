@@ -19,7 +19,7 @@ The centre of the Quaker meeting is our quiet [meeting for worship](/about). We 
 We are Quakers of all kinds — Christian Quakers, nontheist Quakers, Buddhist Quakers, and more — gathered in a circle around our 400-year old practice and our common quest to better [live love](/intro).
 
 <br>
-## [<i class="fas fa-map-marker-alt fa-fw color-1-dark-text"></i> ](/directions){: id="linkoff"}[Where we meet](/directions)
+## [<i class="fas fa-map-marker-alt fa-fw color-1-dark-text"></i> ](/directions){: id="linkoff" aria-label="Directions"}[Where we meet](/directions)
 
 Our main meeting is on Sundays at the [Greene Centre](/directions). Here are our opportunities to join us: 
 * [Sunday Meeting](/directions), every Sunday at 11 AM near Lionel-Groulx metro

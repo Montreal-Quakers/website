@@ -6,9 +6,11 @@ trans: index-choose
 <section class="cards cards_index" id="cards">
   <ul>
 {% for each in site.data.navigation.welcome %}
-  <a onclick="chooseLang('{{ each.lang }}')">
-	<li>{{ each.title }}</li>
-  </a>
+    <li>
+      <a onclick="chooseLang('{{ each.lang }}')">
+        {{ each.title }}
+      </a>
+    </li>
    {% endfor %}
  </ul>
 </section>

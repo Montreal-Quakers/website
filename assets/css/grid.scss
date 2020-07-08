@@ -23,7 +23,7 @@ $buttonyellow: #fafad2;
   padding: 0;
 }
 
-.cards > ul > a {
+.cards > ul > li > a {
   text-decoration: none;
   border-radius: .5rem;
   cursor: pointer;
@@ -35,7 +35,7 @@ $buttonyellow: #fafad2;
   }
 }
 
-.cards > ul > a > li {
+.cards > ul > li > a {
   border-radius: .5rem;
   text-align: center;
   height: $height;
@@ -66,7 +66,7 @@ $buttonyellow: #fafad2;
 //   }
 }
 
-.cards_index > ul > a > li {
+.cards_index > ul > li > a {
   font-style: italic;
   font-size: 2.0em;
    &:hover {

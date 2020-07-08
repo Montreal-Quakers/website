@@ -2,9 +2,9 @@
     <ul>
 	    {% if page.lang == "fr" %}{% assign cards = site.data.newcomer_cards.fr %}{% else %}{% assign cards = site.data.newcomer_cards.en %}{% endif %}
             {% for each in cards %}
-      <a href="{{ each.link }}" title="{{ each.hovertitle }}"><li>
+      <li><a href="{{ each.link }}" title="{{ each.hovertitle }}">
 		{{ each.title }}&nbsp; {{ each.icon }}
-      </li></a>
+      </a></li>
       {% endfor %}
     </ul>
   </section>
