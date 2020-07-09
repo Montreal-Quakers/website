@@ -85,13 +85,13 @@ function toggleAccordion(id) {
   var caretid = document.getElementById("caret" + id);
   if (x.className.indexOf("filterShow") == -1) {
     x.className = x.className.replace("filterHide", "filterShow");
-    y.classList.toggle("color-1-light");
+    y.classList.toggle("color-active");
     y.classList.toggle("buttonyellow");
     y.classList.toggle("textwhite");
     caretid.className = "fas fa-caret-down bit_left";
   } else {
     x.className = x.className.replace("filterShow", "filterHide");
-    y.classList.toggle("color-1-light");
+    y.classList.toggle("color-active");
     y.classList.toggle("buttonyellow");
     y.classList.toggle("textwhite");
     caretid.className = "fas fa-caret-right";

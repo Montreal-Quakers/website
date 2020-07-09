@@ -237,6 +237,11 @@ button {
    }
 }
 
+.color-active {
+	background-color: $color-active;
+	color: $nav-color-text;
+}
+
 main {
    flex: 1 0 auto;
    min-height: auto;
