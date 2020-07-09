@@ -19,7 +19,7 @@ More minor updates are sent to a listserv. If anyone is interested in being on t
   {% for post in posty %}
     <li>
       <a href="{{ post.url }}">
-        <h2>{{ post.title }}</h2>
+        <h3>{{ post.title }}</h3>
       </a>
       <p>{{ post.date | date: "%B %-d, %Y" }}</p>
       {{ post.excerpt }}

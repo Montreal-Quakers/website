@@ -18,7 +18,7 @@ Les nouvelles plus mineures sont envoyés à une liste d'envoi. Pour vous y insc
  {% for post in posty %}
  <li>
   <a href="{{ post.url }}">
-  <h2>{{ post.title }}</h2>
+  <h3>{{ post.title }}</h3>
   </a>
 <p> 
 <!-- Whitespace added for readability -->

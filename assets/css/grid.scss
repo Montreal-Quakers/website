@@ -24,43 +24,31 @@ $buttonyellow: #fafad2;
 }
 
 .cards > ul > li > a:first-child {
-  text-decoration: none;
-  border-radius: .5rem;
-  cursor: pointer;
-  &:hover {
-       background: $color-1;
- //      transform: translate(0px,75px);
- //      border-radius: .5rem;
-       // transition: background .3s;
-  }
-  text-align: center;
-  height: $height;
-  overflow: hidden;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  color: $nav-color-text;
-  background: $color-1;
-  margin: auto;
-  background: $color-1-dark;
-  margin: 0;
-  padding: 10px;
-  transition: background .3s;
-  font-family: $font-serif;
-  font-size: 1.5rem;
-  background: $color-1-dark;
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: $font-serif;
+  font-size: 1.5rem;
+  text-decoration: none;
+  text-align: center;
+  border-radius: .5rem;
+  cursor: pointer;
+  height: $height;
+  overflow: hidden;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: auto;
+//  background: $color-1-dark;
+//  margin: 0;
+  padding: 10px;
+  background: $color-1-dark;
+  color: $nav-color-text;
   transition: background .3s;
-//  transition: transform .5s;
-//   transition: border-radius 1s;
-//  transition: 1s;
-//   &:hover {
-// 	  background: white;
-//          box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
-//   }
+  &:hover {
+       background: $color-1;
+  }
 }
 
-.cards_index > ul > li > a {
+.cards_index > ul > li > a:first-child {
 //  display: inline-block;
   transition: all 0.5s;
   font-style: italic;
