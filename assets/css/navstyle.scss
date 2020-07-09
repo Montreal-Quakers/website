@@ -216,8 +216,9 @@ $verynarrow: {{ site.verynarrow }};
   
    .navbar.sticky .dropdown-content {
        position: fixed;
+       background: $color-1-dark;
        a:hover {
-         background: $color-1-dark;
+         background: $color-1;
        }
    }
   
