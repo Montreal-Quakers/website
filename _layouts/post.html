@@ -22,7 +22,7 @@ layout: default
 {% endcase %}
 
 
-{{ page.date | date: "%Y" }} - {{ page.author }}
+{{ page.date | date: "%Y" }} — {{ page.author }}
 
 {{ content }}
 
@@ -72,7 +72,7 @@ layout: default
 <p class=center>Retour aux <a href="/nouvelles.html">nouvelles</a>
 
 {% else %}
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+<p>{{ page.date | date_to_string }} — {{ page.author }}</p>
 
 {{ content }}
 
