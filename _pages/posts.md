@@ -13,9 +13,10 @@ More minor updates are sent to a listserv. If anyone is interested in being on t
 <ul>
 {% assign posty=site.posts | where:"lang","en" %}
   {% for post in posty %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }} — posted {{ post.date | date: "%B %-d, %Y" }}</a>
+    <li><span>
+      <a href="{{ post.url }}"><h2>{{ post.title }} — posted {{ post.date | date: "%B %-d, %Y" }}</h2></a></span>
       {{ post.excerpt }}
+      <div>&nbsp;</div>
     </li>
   {% endfor %}
 </ul>

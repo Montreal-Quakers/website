@@ -19,18 +19,18 @@ Les nouvelles plus mineures sont envoyés à une liste d'envoi. Pour vous y insc
 {{ post.date | date: "%-d" }}
 {% assign m = post.date | date: "%-m" %}
 {% case m %}
-  {% when '1' %}jan
-  {% when '2' %}fév
-  {% when '3' %}mar
-  {% when '4' %}avr
+  {% when '1' %}janvier
+  {% when '2' %}février
+  {% when '3' %}mars
+  {% when '4' %}avril
   {% when '5' %}mai
-  {% when '6' %}jun
-  {% when '7' %}jul
-  {% when '8' %}aoû
-  {% when '9' %}sep
-  {% when '10' %}oct
-  {% when '11' %}nov
-  {% when '12' %}dec
+  {% when '6' %}juin
+  {% when '7' %}juillet
+  {% when '8' %}août
+  {% when '9' %}septembre
+  {% when '10' %}octobre
+  {% when '11' %}novembre
+  {% when '12' %}decembre
 {% endcase %}
 {{ post.date | date: "%Y" }}
 </a>
