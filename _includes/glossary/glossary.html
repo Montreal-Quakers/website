@@ -1,9 +1,9 @@
 {% if page.lang == "fr" %}{% assign fr = true %}{% endif %}
 <div class=center>
-  <span><button class="randombtn" onclick="openAll()">{% if fr %}Ouvrir tout{% else %}Open all{% endif %}</button>&nbsp;
-  <button class="randombtn" onclick="closeAll()">{% if fr %}Fermer tout{% else %}Close all{% endif %}</button>&nbsp;
-  {% if fr %}<button class="randombtn" onclick="randomEntry{% if page.trans == "glossary_fren" %}_fran{% endif %}()">Entrée au hasard</button>{% else %}
-   <button class="randombtn" onclick="randomEntry{% if page.trans == "glossary_fren" %}_fran{% endif %}()">Random entry</button>{% endif %}
+  <span><button class="randombtn" onkeypress="openAll()" onclick="openAll()">{% if fr %}Ouvrir tout{% else %}Open all{% endif %}</button>&nbsp;
+  <button class="randombtn" onkeypress="closeAll()" onclick="closeAll()">{% if fr %}Fermer tout{% else %}Close all{% endif %}</button>&nbsp;
+  {% if fr %}<button class="randombtn" onkeypress="randomEntry{% if page.trans == "glossary_fren" %}_fran{% endif %}()" onclick="randomEntry{% if page.trans == "glossary_fren" %}_fran{% endif %}()">Entrée au hasard</button>{% else %}
+   <button class="randombtn" onkeypress="randomEntry{% if page.trans == "glossary_fren" %}_fran{% endif %}()" onclick="randomEntry{% if page.trans == "glossary_fren" %}_fran{% endif %}()">Random entry</button>{% endif %}
 <div>&nbsp;</div>
 </div>
   {% comment %}The code below is the alphabet link at the top{% endcomment %}
@@ -29,7 +29,7 @@
  <div class="sticky_anchor">
    <div class="filterbye">&nbsp;</div>
    <div class=abc><a class="textwhite"> &nbsp;{{ abc }}</a><div class=stanchor><a name="{{ abc }}"></a></div></div>{% endunless %}
-   <button id="button{{ counter }}" onclick="toggleAccordion('{{ counter }}')" class="list_button buttonyellow">{% if each.entry-href %}<i id="caret{{ counter }}" class="fas fa-caret-right"></i> &nbsp;&nbsp;<a href="{{ each.entry-href }}">{{ each.entry }}</a>{% else %}<i id="caret{{ counter }}" class="fas fa-caret-right"></i>&nbsp;&nbsp; {{ each.entry }}{% endif %}</button>{% if each.entry-id %}<span class=stanchor><a id="{{ each.entry-id }}"></a></span>{% endif %}
+   <button id="button{{ counter }}" onclick="toggleAccordion('{{ counter }}')" onkeypress="toggleAccordion('{{ counter }}')" class="list_button buttonyellow">{% if each.entry-href %}<i id="caret{{ counter }}" class="fas fa-caret-right"></i> &nbsp;&nbsp;<a href="{{ each.entry-href }}">{{ each.entry }}</a>{% else %}<i id="caret{{ counter }}" class="fas fa-caret-right"></i>&nbsp;&nbsp; {{ each.entry }}{% endif %}</button>{% if each.entry-id %}<span class=stanchor><a id="{{ each.entry-id }}"></a></span>{% endif %}
  <div class="list_div filterHide" id="div{{ counter }}">
 	 <p>{% if each.translation-href %}<a href="{{ each.translation-href }}">{{ each.translation }}</a>{% else %}{{ each.translation }}{% endif %}</p>
  	{% if each.comment-translation %}<p>{{ each.comment-translation }}</p>{% endif %}

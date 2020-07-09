@@ -7,7 +7,7 @@ trans: index-choose
   <ul>
 {% for each in site.data.navigation.welcome %}
     <li>
-      <a onclick="chooseLang('{{ each.lang }}')">
+      <a onkeypress="chooseLang('{{ each.lang }}')" onclick="chooseLang('{{ each.lang }}')">
         <span>{{ each.title }} </span>
       </a>
     </li>
