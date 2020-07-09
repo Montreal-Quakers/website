@@ -10,6 +10,8 @@ Cette page, comme la [page Facebook](https://fb.com/MontrealQuakers/){: rel="noo
 
 Les nouvelles plus mineures sont envoyés à une liste d'envoi. Pour vous y inscrire, il suffit de nous [contacter](/contact-fr.html).
 
+<h2>Articles récents</h2>
+
 <section class="cards" id="cards">
 <ul>
 {% assign posty = site.posts | where:"lang","fr" %}

@@ -11,6 +11,8 @@ This page, like our [Facebook page](https://fb.com/MontrealQuakers/){: rel="noop
 
 More minor updates are sent to a listserv. If anyone is interested in being on this list, you can [contact us](/contact.html). 
 
+<h2>Recent Updates</h2>
+
 <section class="cards" id="cards">
 <ul>
 {% assign posty=site.posts | where:"lang","en" %}
