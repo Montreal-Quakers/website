@@ -23,7 +23,7 @@ $buttonyellow: #fafad2;
   padding: 0;
 }
 
-.cards > ul > li > a {
+.cards > ul > li > a:first-child {
   text-decoration: none;
   border-radius: .5rem;
   cursor: pointer;
@@ -33,10 +33,6 @@ $buttonyellow: #fafad2;
  //      border-radius: .5rem;
        // transition: background .3s;
   }
-}
-
-.cards > ul > li > a {
-  border-radius: .5rem;
   text-align: center;
   height: $height;
   overflow: hidden;
@@ -49,8 +45,6 @@ $buttonyellow: #fafad2;
   padding: 10px;
   transition: background .3s;
   font-family: $font-serif;
-
-  
   font-size: 1.5rem;
   background: $color-1-dark;
   display: flex;

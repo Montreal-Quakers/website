@@ -2,6 +2,7 @@
 title: <i class="far fa-newspaper"></i> &nbsp;Nouvelles
 lang: fr
 trans: news
+type: system_grid
 ---
 Consultez notre [calendrier](/calendrier) d'événements.
 
@@ -9,12 +10,15 @@ Cette page, comme la [page Facebook](https://fb.com/MontrealQuakers/){: rel="noo
 
 Les nouvelles plus mineures sont envoyés à une liste d'envoi. Pour vous y inscrire, il suffit de nous [contacter](/contact-fr.html).
 
+<section class="cards" id="cards">
 <ul>
 {% assign posty = site.posts | where:"lang","fr" %}
-  {% for post in posty %}
-
-    <li>
-      <a href="{{ post.url }}">{{ post.title }} — publié le 
+ {% for post in posty %}
+ <li>
+  <a href="{{ post.url }}">
+  <h2>{{ post.title }}</h2>
+  </a>
+<p> 
 <!-- Whitespace added for readability -->
 {{ post.date | date: "%-d" }}
 {% assign m = post.date | date: "%-m" %}
@@ -33,8 +37,9 @@ Les nouvelles plus mineures sont envoyés à une liste d'envoi. Pour vous y insc
   {% when '12' %}decembre
 {% endcase %}
 {{ post.date | date: "%Y" }}
-</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
+</p>
+ {{ post.excerpt }}
+<a href="{{ post.url }}">lire la suite</a>
+ </li>
+ {% endfor %}
 </ul>
