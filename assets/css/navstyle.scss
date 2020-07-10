@@ -372,7 +372,7 @@ $verynarrow: {{ site.verynarrow }};
 ul.breadcrumb {
   padding: 10px 16px;
   list-style: none;
-  background-color: lighten($color-1-dark,10%);
+  background-color: $color-active;
   margin: 0;
 }
 ul.breadcrumb li {
