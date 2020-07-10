@@ -1,10 +1,15 @@
 @import "font";
 @import "variables";
+// Used these colours for a LONG while there
+// $color-1:  #205592;
+// $color-1-light: #4287D6;
+// $color-1-dark: #0D2541;
+// $color-active: lighten(#163b64,0%);
 
 $color-1:  #205592;
-$color-1-light: #4287D6;
-$color-1-dark: #0D2541;
-$color-active: lighten(#163b64,0%);
+$color-1-light: #5881c3;
+$color-1-dark: #002d64;
+$color-active: darken($color-1,4%);
 $body-font-size: 17px;
 $body-color: white;
 $body-color-text: black;
