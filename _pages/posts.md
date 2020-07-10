@@ -1,5 +1,5 @@
 ---
-title: <i class="far fa-newspaper"></i> &nbsp;News and Updates &nbsp;<i class="fas fa-bullhorn"></i>
+title: <i class="far fa-newspaper color-1-dark-text"></i> &nbsp;News and Updates &nbsp;<i class="fas fa-bullhorn color-1-text"></i>
 hovertitle: The Latest Updates
 lang: en
 trans: news
