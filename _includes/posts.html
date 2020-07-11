@@ -2,10 +2,13 @@
 {% if fr %} {% assign posty=site.posts | where:"lang","fr" %}
 {% else %} {% assign posty=site.posts | where:"lang","en" %}
 {% endif %}
-<section class="cards" id="cards">
+
+<section class="posts">
 <ul>
   {% for post in posty %}
-  {% if fr %}{% comment %}All this code is just to assign the date properly in French{% endcomment %}
+
+            {% comment %}All this code is just to assign the date properly in French{% endcomment %}
+  {% if fr %}
       {% capture date_cap %} {{ post.date | date: "%-d" }} {% assign m = post.date | date: "%-m" %}
       {% case m %}
         {% when '1' %}janvier {% when '2' %}février {% when '3' %}mars {% when '4' %}avril {% when '5' %}mai {% when '6' %}juin {% when '7' %}juillet {% when '8' %}août {% when '9' %}septembre  {% when '10' %}octobre {% when '11' %}novembre  {% when '12' %}decembre
@@ -14,16 +17,19 @@
       {% endcapture %}{% assign datey = date_cap %}
     {% else %}
   {% assign datey = post.date | date: "%B %-d, %Y" %}
-  {% endif %}{% comment %}Below is the actual code creating the cards{% endcomment %}
-    <li>
-      <a href="{{ post.url }}">
-	 <h3>{{ post.title }}</h3>
-      </a>
-      <p>{{ datey }}</p>
-      {{ post.excerpt }}
-      <a href="{{ post.url }}">{% if fr %}lire la suite{% else %}continue reading{% endif %}</a>
-      <div>&nbsp;</div>    
-    </li>
-  {% endfor %}
-  </ul>
+  {% endif %}
+{% comment %}Below is the actual code creating the cards{% endcomment %}
+
+  <li>
+    <a class="post-card" href="{{ post.url }}">
+       <h3>{{ post.title }}</h3>
+         <div class="post-container">
+    <p>{{ datey }}</p>
+    {{ post.excerpt }}
+    <a href="{{ post.url }}" class="decorate_link">{% if fr %}lire la suite{% else %}continue reading{% endif %}</a>
+      </div></a>
+    <div>&nbsp;</div>    
+  </li>
+ {% endfor %}
+ </ul>
 </section>
