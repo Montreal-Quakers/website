@@ -10,8 +10,8 @@
     }
   ],
   "start_url": "{{ site.myurl }}/?source=pwa",
-  "background_color": "#205592",
+  "background_color": "#01579b",
   "display": "standalone",
   "scope": "/",
-  "theme_color": "#0D2541"
+  "theme_color": "#002f6c"
 }
