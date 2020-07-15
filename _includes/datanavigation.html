@@ -67,8 +67,8 @@
   {% endif %}
   {% endif %}
   <div class="search-container">
-	  <form id="formy" title="search form" class="" action="/search-{% if fr %}fr{% else %}en{% endif %}">
-	    <input title="{% if fr %}Texte de recherche{% else %}search text{% endif %}" id="inputsearch" aria-label="{% if fr %}Texte de recherche{% else %}search text{% endif %}" type="search" class="input_hide" onfocusout="foldSearch()" placeholder="{% if fr %}Recherchez...{% else %}Search...{% endif %}" autocomplete="off" name="q">
+	  <form id="formy" title="{% if fr %}Formulaire de recherche{% else %}Search form{% endif %}" aria-label="{% if fr %}Formulaire de recherche{% else %}Search form{% endif %}class="" action="/search-{% if fr %}fr{% else %}en{% endif %}">
+	    <input title="{% if fr %}Texte de recherche{% else %}search text{% endif %}" id="inputsearch" aria-label="{% if fr %}Texte de recherche{% else %}Search text{% endif %}" type="search" class="input_hide" onfocusout="foldSearch()" placeholder="{% if fr %}Recherchez...{% else %}Search...{% endif %}" autocomplete="off" name="q">
 	    <button title="{% if fr %}Bouton de recherche{% else %}Search button{% endif %}" aria-label="{% if fr %}Soumettre la recherche{% else %}Search submit button{% endif %}" id="searchsubmit" class="hide" type="submit"><i class="fas fa-search"></i></button>
     </form>
 	    <button title="{% if fr %}Ouvrir le champ de recherche{% else %}Search open{% endif %}" aria-label="{% if fr %}Ouvrir le champ de recherche {% else %}Search tray open{% endif %}" id="unfold" class="show" onkeypress="unfoldSearch()" onclick="unfoldSearch()"><i class="fas fa-search"></i></button>
