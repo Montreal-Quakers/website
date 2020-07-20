@@ -24,6 +24,6 @@ Notre assemblée a lieu au rez-de-chaussée (dans la « Sunroom »). Tout le mon
 
 Les assemblées Quaker ont lieu le dimanche de **11h à midi**.
 
-Bien qu’il soit préférable d’arriver avant 11h, votre présence nous est plus importante que votre ponctualité! La garde d’enfant est disponible mais il vaut mieux nous [prévenir](/contact-fr.html) d’avance, surtout l’été.
+Bien qu’il soit préférable d’arriver avant 11h, votre présence nous est plus importante que la ponctualité! La garde d’enfant est disponible mais il vaut mieux nous [prévenir](/contact-fr.html) d’avance, surtout l’été.
 
 Si c’est votre première assemblée Quaker, [ce lien](/a_propos.html) donne une idée de ce à quoi s’attendre.
