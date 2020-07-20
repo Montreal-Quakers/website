@@ -1,3 +1,4 @@
+<hr style="height:10px;visibility:hidden;margin:0"/>
 
 ## {{ site.title }}
 
