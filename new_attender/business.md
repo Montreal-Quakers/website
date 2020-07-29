@@ -63,4 +63,4 @@ Standing aside means that a participant recognizes through others’ ministry th
 
 Resources:
 * [Canadian Friend article on clerking](https://quaker.ca/wp-content/uploads/2020/05/TCF-Spring-2020-Final-Digital.pdf){: rel="noopener" target="_blank"} (p. 12-13)
-* [Youtube video on clerking](https://www.youtube.com/watch?v=1KJpF0fzZk}){: rel="noopener" target="_blank"}
+* [Youtube video on clerking](https://youtu.be/1KJpF0fzZkI){: rel="noopener" target="_blank"}
