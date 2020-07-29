@@ -33,7 +33,7 @@ Contrairement à ce qui est parfois véhiculé, les quakers sont très bien int�
 
 Le culte chez les quakers est un culte silencieux. Les participants s’assoient en cercle pendant environ une heure, en silence. C’est un temps d’écoute et d’attente qui demande une certaine maturité. Le silence n’est pas un but mais un moyen. Il est possible qu’une personne éprouve le besoin de prendre très brièvement la parole afin d’exprimer ce qui se meut en elle pendant ce temps de calme. Même si elle est peu fréquente cette parole enrichi le culte. Il n’y a ni prêtre, ni pasteur, ni credo, ni sacrements. L’expérience de Dieu est une expérience personnelle qui est accessible à chacun.
 
-## Pour plus d’information sur le quakerisme, voir la page [Liens et histoire](/liens_histoire.html):
+Pour plus d’information sur le quakerisme, voir la page [Liens et histoire](/liens_histoire.html):
 
 <picture>
   <source srcset="/assets/images/quebec_wg.webp" type="image/webp">
