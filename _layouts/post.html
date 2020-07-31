@@ -52,15 +52,17 @@ layout: default
 
   <p class=center>
     {% if next %}
-    <a href="{{ next.url }}" class="next" title="{{ next.title }}">&lt; {% if fr %}Précédant{% else %}Older{% endif %}</a>
+    <a href="{{ next.url }}" class="w3-button color-1-dark" title="{{ next.title }}"><i class="fas fa-angle-left"></i>&nbsp; {% if fr %}Précédant{% else %}Older{% endif %}</a>
     {% endif %}
     {% if prev and next %}
       <span>&nbsp; | &nbsp;</span>
     {% if prev %}
-      <a href="{{ prev.url }}" class="prev" title="{{ prev.title }}">{% if fr %}Suivant{% else %}Newer{% endif%} &gt;</a>
+      <a href="{{ prev.url }}" class="w3-button color-1-dark" title="{{ prev.title }}">{% if fr %}Suivant{% else %}Newer{% endif%}&nbsp; <i class="fas fa-angle-right"></i></a>
     {% endif %}
     {% endif %}
   </p>
 {% endif %}
 
-<p class=center>{% if fr %}Retour aux <a href="/nouvelles.html">nouvelles{% else %}Back to <a href="/posts.html">News{% endif %}</a>
+<p class=center>
+<a class="w3-button color-1-dark" aria-label="Retour aux nouvelles" href="/{% if fr %}nouvelles{% else %}posts{% endif %}"><i class="fas fa-angle-up"></i> &nbsp; {% if fr %}Retour aux nouvelles{% else %}Back to Updates{% endif %}</a>
+</p>
