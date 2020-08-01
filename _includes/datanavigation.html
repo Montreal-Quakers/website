@@ -3,7 +3,7 @@
     <div id="wideheader">
   <!-- I put a few animations in for specific pages, just to make the site a bit more playful -->
      <div style="overflow: hidden;">
-       <a href={% if page.lang =="fr" %}"/index-fr"{% else %}"/index-en"{% endif %}>
+       <a href={% if page.lang =="fr" %}"/accueil"{% else %}"/home"{% endif %}>
   <!-- top left bird -->
        <img alt="top left bird logo" class="{% for each in site.bird_left %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/quaker_icon_95x95.png" width="95px" height="95px">
 		     
@@ -20,14 +20,14 @@
 	<div id="special">&nbsp; </div>
 	<!-- Narrowheader refers what the header looks like on a narrow screen -->
   <div id="narrowheader" class="">
-	  <a href="{% if fr %}/index-fr{% else %}/index-en{% endif %}" id="nolink" class="{% for each in site.mobile_header_animation %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %}">{% if fr %} {{ site.short_title-fr }} {% else %} {{ site.short_title }} {% endif %}</a>
+	  <a href="{% if fr %}/accueil{% else %}/home{% endif %}" id="nolink" class="{% for each in site.mobile_header_animation %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %}">{% if fr %} {{ site.short_title-fr }} {% else %} {{ site.short_title }} {% endif %}</a>
   </div>
 </div>
 
 <div class="navbar" id="myNavbar">
   <a title="Dropdown menu" class="icon" onkeypress="respondBar()" onclick="respondBar()"><i class="fas fa-bars"></i></a>
-	<a id="widehome" aria-label="Home" alt="Home" title="Home" class="{% case page.url %}{% when '/' or '/index-fr' or '/index-en' %}active{% endcase %}"  href={% if page.lang =="fr" %}"/index-fr"{% else %}"/index-en"{% endif %}  title="{% if fr %}Accueil{% else %}Home{% endif %}">{% if fr %}{% else %}{% endif %} <i class="fas fa-home fa-lg" alt="Home button" style="padding=0;"></i></a>
-	<a id="narrowhome" title="Home" class="{% case page.url %}{% when '/' or '/index-fr' or '/index-en' %}active{% endcase %}"  href={% if page.lang =="fr" %}"/index-fr"{% else %}"/index-en"{% endif %}  title="{% if fr %}Accueil{% else %}Home{% endif %}">{% if fr %}Accueil{% else %}Home{% endif %} &nbsp;<i class="fas fa-home" style="padding=0;"></i></a>
+	<a id="widehome" aria-label="Home" alt="Home" title="Home" class="{% case page.url %}{% when '/' or '/accueil' or '/home' %}active{% endcase %}"  href={% if page.lang =="fr" %}"/accueil"{% else %}"/home"{% endif %}  title="{% if fr %}Accueil{% else %}Home{% endif %}">{% if fr %}{% else %}{% endif %} <i class="fas fa-home fa-lg" alt="Home button" style="padding=0;"></i></a>
+	<a id="narrowhome" title="Home" class="{% case page.url %}{% when '/' or '/accueil' or '/home' %}active{% endcase %}"  href={% if page.lang =="fr" %}"/accueil"{% else %}"/home"{% endif %}  title="{% if fr %}Accueil{% else %}Home{% endif %}">{% if fr %}Accueil{% else %}Home{% endif %} &nbsp;<i class="fas fa-home" style="padding=0;"></i></a>
          {% assign counter = 0 %}
 	  {% if fr %} {% assign doclist = site.data.navigation.fr %}{% else %} {% assign doclist = site.data.navigation.en %}{% endif %}
 	  {% for item in doclist %} 
@@ -75,6 +75,6 @@
   </div>
 			     <!-- Mobile bird icon -->
 	  <div class="icon_right">
-		  <a title="Home" href={% if page.lang =="fr" %}"/index-fr"{% else %}"/index-en"{% endif %}><img alt="top right bird logo" class="{% for each in site.mobile_bird %}{% if page.trans == each.trans %}{{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/quaker_icon_35x35.png" width="34.5px" height="34.5px"></a>
+		  <a title="Home" href={% if page.lang =="fr" %}"/accueil"{% else %}"/home"{% endif %}><img alt="top right bird logo" class="{% for each in site.mobile_bird %}{% if page.trans == each.trans %}{{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/quaker_icon_35x35.png" width="34.5px" height="34.5px"></a>
 	  </div>
 </div>

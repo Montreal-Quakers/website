@@ -1,8 +1,8 @@
 ---
 layout: default
-trans: index
+trans: home
 lang: fr
-permalink: /index-fr
+permalink: /accueil
 ---
 ## [À propos des Quakers](/intro-fr)
 

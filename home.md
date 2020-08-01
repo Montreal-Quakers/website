@@ -1,8 +1,8 @@
 ---
 layout: default
 lang: en
-trans: index
-permalink: /index-en
+trans: home
+permalink: /home
 ---
 ## [About Quakers](/intro)
 
