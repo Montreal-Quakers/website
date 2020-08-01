@@ -21,7 +21,7 @@ webrick:
 # Certain types of media can be assigned to specific pages using this list. Everything in "media" is in the _include folder.
 
 media_pages:
-  - page_trans: index
+  - page_trans: home
     media: youtube/yt_embed.html
   - page_trans: directions
     media: maps/street_directions.html
@@ -48,7 +48,7 @@ redalerts: some
 redalert_en-text: alert/en-covid.md
 redalert_fr-text: alert/fr-covid.md
 redalert_pages:
-  - page_trans: index
+  - page_trans: home
   - page_trans: directions
   - page_trans: quebec
 
@@ -71,7 +71,7 @@ bird_left:
   - animation: roll_bird1
     trans: links_history
   - animation: swing-in1
-    trans: index
+    trans: home
 
 bird_right:
   - animation: land_right
@@ -87,7 +87,7 @@ bird_right:
   - animation: roll_bird2
     trans: links_history
   - animation: swing-in1
-    trans: index
+    trans: home
 
 mobile_bird: 
   - animation: roll_bird1
@@ -103,14 +103,14 @@ mobile_bird:
   - animation: land_right
     trans: directions
   - animation: swing-in1
-    trans: index
+    trans: home
 
     # the text at the top of each page on wide screens
 header_animation:
   - animation: flicker-glow
     trans: contribution
   - animation: focustext
-    trans: index
+    trans: home
 
     # the text at the top of each page on mobile/narrow screens
 mobile_header_animation:
