@@ -84,7 +84,7 @@ $buttonyellow: #fafad2;
   background: $color-1;
   transition: background .3s;
   > a:first-child {
-    display: inline;
+    //display: inline;
     padding: 0;
     text-decoration: none;
   }
@@ -105,6 +105,14 @@ $buttonyellow: #fafad2;
 }
 
 .post-container { 
+  width: 100%;
+  h5 {
+    font-family: $font-serif;
+    margin: 0;
+    padding: 15px;
+    text-indent: 5px;
+    transition: background .3s;
+  }
   p:first-child {margin: 0;text-indent:0px}
   padding: 15px;
    p,a,span {

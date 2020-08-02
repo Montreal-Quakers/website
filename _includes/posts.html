@@ -20,15 +20,16 @@
   {% endif %}
 {% comment %}Below is the actual code creating the cards{% endcomment %}
 
-  <li>
-    <a class="post-card" href="{{ post.url }}">
+<li onclick='location.href="{{ post.url | escape }}";'>
+    <div class="post-card">
        <h3>{{ post.title }}</h3>
-         <div class="post-container">
-    <p><strong>{{ datey }}</strong></p>
-    {{ post.excerpt }}
+    </div>
+    <div class="post-container">
+	    <p><strong>{{ datey }}</strong></p>
+      {{ post.excerpt }}
     <a href="{{ post.url }}" class="decorate_link">{% if fr %}lire la suite{% else %}continue reading{% endif %}</a>
-      </div></a>
     <div>&nbsp;</div>    
+    </div>
   </li>
  {% endfor %}
  </ul>
