@@ -96,11 +96,11 @@ This is my _first_ blog post.
 Go back to the [home](/index.html) page.
 ```
 # Where to find stuff
-The only files in the Github [home directory](https://github.com/Montreal-Quakers/website) that one will need to change are [```index.md```](https://github.com/Montreal-Quakers/website/blob/master/index.md) (the English homepage), [```accueil.md```](https://github.com/Montreal-Quakers/website/blob/master/accueil.md) (the French homepage), and maybe [```404.md```](https://github.com/Montreal-Quakers/website/blob/master/404.md) (the page displayed if there is no matching page, for instance [this](https://montreal.quaker.ca/doesntexist.html)).
+The only files in the Github [home directory](https://github.com/Montreal-Quakers/website) that one will need to change are [```index.md```](https://github.com/Montreal-Quakers/website/blob/master/index.md) (the language chooser), [```home.md```](https://github.com/Montreal-Quakers/website/blob/master/home.md) (the English homepage), [```accueil.md```](https://github.com/Montreal-Quakers/website/blob/master/accueil.md) (the French homepage), and maybe [```404.md```](https://github.com/Montreal-Quakers/website/blob/master/404.md) (the page displayed if there is no matching page, for instance [this](https://montreal.quaker.ca/doesntexist.html)).
 
-All the major pages, except for the index, are in the [```_pages```](https://github.com/Montreal-Quakers/website/tree/master/_pages) directory. Posts (blog updates, found in the ["News"](https://montreal.quaker.ca/posts) part of the website) can be found in [```_posts```](https://github.com/Montreal-Quakers/website/tree/master/_posts). See advanced tasks at the end of this README that explains, for instance, how to alter the site navigation (the links at the top of the page). It should be more advanced but not too advanced.
+All the major pages, except for the index pages, are in the [```_pages```](https://github.com/Montreal-Quakers/website/tree/master/_pages) directory. Posts (blog updates, found in the ["News"](https://montreal.quaker.ca/posts) part of the website) can be found in [```_posts```](https://github.com/Montreal-Quakers/website/tree/master/_posts). See advanced tasks at the end of this README that explains, for instance, how to alter the site navigation (the links at the top of the page). It should be more advanced but not too advanced.
 
-This site is designed so that it's fairly easy to change text as needed. Minor modifications can be easily made to [```index.md```](https://github.com/Montreal-Quakers/website/blob/master/index.md) or [```accueil.md```](https://github.com/Montreal-Quakers/website/blob/master/accueil.md) or to any of the ```.md``` (Markdown) files in [```_pages```](https://github.com/Montreal-Quakers/website/tree/master/_pages) or [```_posts```](https://github.com/Montreal-Quakers/website/tree/master/_posts) without any specialized knowledge, because this site uses a simplified markdown language to translate normal text into website readable HTML.
+This site is designed so that it's fairly easy to change text as needed. Minor modifications can be easily made to [```home.md```](https://github.com/Montreal-Quakers/website/blob/master/home.md) or [```accueil.md```](https://github.com/Montreal-Quakers/website/blob/master/accueil.md) or to any of the ```.md``` (Markdown) files in [```_pages```](https://github.com/Montreal-Quakers/website/tree/master/_pages) or [```_posts```](https://github.com/Montreal-Quakers/website/tree/master/_posts) without any specialized knowledge, because this site uses a simplified markdown language to translate normal text into website readable HTML.
 
 ## Where to find more advanced stuff
 A bunch of instructions for more advanced changes to the website appear near the end of this README. 
@@ -175,7 +175,7 @@ alerts: some
 redalert_en-text: alert/en-covid.md
 redalert_fr-text: alert/fr-covid.md
 alert_pages:
-  - page_trans: index
+  - page_trans: home
   - page_trans: directions
 ```
 
@@ -216,10 +216,10 @@ The layout for these files is in the ```_includes``` folder, for instance: ```_i
 It should be easy to add more media in files in the ```_includes``` folder. To call them up, or to choose which pages they appear on, look in ```_config.yml``` under ```media_pages```. For instance, the first lines say:
 ```
 media_pages:
-  - page_trans: index
+  - page_trans: home
     media: yt_embed.html
 ```
-This means that on the homepage ([/index.html](https://montreal.quaker.ca/index.html)), yt_embed.html will appear full-width next to it. 
+This means that on the homepage ([/home.html](https://montreal.quaker.ca/home.html)), yt_embed.html will appear full-width next to it. 
 
 Note too that there is an image carousel in the sandbox page. That can be inserted in any page the same way as the YouTube videos. For instance, if we want it on the ```about``` page, just add these lines to [```config.yml```](https://github.com/Montreal-Quakers/website/blob/master/_config.yml) under ```media_pages:```:
 ```
