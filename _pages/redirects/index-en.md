@@ -1,6 +1,6 @@
 ---
 redirect: /home
 layout: redirect
-lang: fr
+lang: en
 permalink: /index-en
 ---
