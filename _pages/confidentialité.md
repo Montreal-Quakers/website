@@ -4,22 +4,23 @@ lang: fr
 trans: privacy
 ---
 ## Qui nous sommes
-Nous sommes l'Assemblée Quaker de Montréal. L’adresse de notre site Web est la suivante: https://montreal.quaker.ca.
+Nous sommes l'Assemblée Quaker de Montréal. L’adresse de notre site Web est la suivante: [https://montreal.quaker.ca](https://montreal.quaker.ca).
 
 ## Formulaires de contact
 Si vous remplissez un formulaire de contact, ces informations pourront être conservées indéfiniment dans notre courriel. Vous pouvez demander sa suppression.
 
-## Cookies
-Les cookies peuvent enregistrer votre langue préférée et d’autres préférences.
+## Témoins (cookies)
+Les témoins de navigation peuvent enregistrer votre langue préférée et d’autres préférences.
 
 ## Contenu incorporé provenant d’autres sites Web
 Les articles sur ce site peuvent inclure du contenu incorporé (par exemple des vidéos, des images, des articles, etc.). Le contenu incorporé provenant d’autres sites Web se comporte exactement comme si le visiteur avait visité l’autre site Web.
 
-Ces sites Web peuvent collecter des données vous concernant, utiliser des cookies, intégrer un suivi tiers et surveiller votre interaction avec ce contenu incorporé, y compris le suivi de votre interaction avec le contenu incorporé si vous avez un compte et êtes connecté à ce site Web.
+Ces sites Web peuvent collecter vos données, utiliser des cookies et surveiller votre interaction avec ce contenu incorporé.
 
 ## Nos coordonnées
 Utilisez le formulaire de [contact](/contact-fr.md).
 
 ## License
+[![Licence Creative Commons](/assets/images/cc_logo.png){: class=img_center}](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr){: rel="noopener" target="_blank" class="img_center"}
 
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"><img alt="Licence Creative Commons" class="img_center" style="border-width:0" src="/assets/images/cc_logo.png" /></a><br />Cet(te) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
+Cet œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/){: rel="noopener" target="_blank"}
