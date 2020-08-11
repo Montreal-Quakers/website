@@ -19,5 +19,6 @@ Over the next few months we plan to read these books:
   * Usually no need to read in advance
 * Our group seldom meets longer than 40 minutes
 * This group discusses primarily in English
+* Right now, we are meeting on Montreal Meeting's discord channel, but other arrangements can be made
 
 [Contact us](/contact) for more details
