@@ -15,9 +15,9 @@ trans: midweek
 * Des fois nous avons **un club de lecture ou une étude biblique** après. [Contactez-nous](/contact-fr.html) pour plus de détails.
 
 ## Mises à jour <span class="stanchor"><a name="misesàjour"></a></span>
-Pour plus d'informations, joignez-vous au [groupe Facebook](https://www.facebook.com/groups/mtlmidweek/){:  rel="noopener" target="_blank"}, consultez la [page Facebook](https://www.facebook.com/MontrealQuakers/){:  rel="noopener" target="_blank"} (pas besoin d’être membre de Facebook, majoritairement en anglais) ou [contactez-nous](/contact-fr.html) pour toute autre question.
+Pour plus d'informations, joignez-vous au [groupe Facebook](https://www.facebook.com/groups/mtlmidweek/){: rel="noopener" target="_blank"}, consultez la [page Facebook](https://www.facebook.com/MontrealQuakers/){: rel="noopener" target="_blank"} (pas besoin d’être membre de Facebook, majoritairement en anglais) ou [contactez-nous](/contact-fr.html) pour toute autre question.
 ## Où
-[3484 rue Peel, Montréal](https://goo.gl/maps/MeQqk7m8Hegzx9Sz8){:  rel="noopener" target="_blank"}
+[3484 rue Peel, Montréal](https://goo.gl/maps/MeQqk7m8Hegzx9Sz8){: rel="noopener" target="_blank"}
 
 À côté de l’Université McGill au Centre Newman, à la <i class="fas fa-book"></i> Bibliothèque Ryan (au 2e étage). 
 
