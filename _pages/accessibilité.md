@@ -55,3 +55,6 @@ Le culte est au rez-de-chaussée.
 Langue
 * Bien que le groupe des Laurentides soit bilingue, on y parle principalement l’anglais
 Veuillez contacter le [groupe de culte des Laurentides](/laurentides) directement pour plus d'informations.
+
+## Remerciements
+Nous remercions [l'Agence SAT](https://agencesat.com/){: rel="noopener" target="_blank"} qui nous a aidé énormément dans l'accessibilité du site web.

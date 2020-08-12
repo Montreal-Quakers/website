@@ -21,4 +21,4 @@ For more accessibility information on our physical locations, select a place of 
 * Laurentian worship group in the [Annex](/laurentians#accessibility)
 
 ## Acknowledgements
-Our thanks to [Agence SAT](https://agencesat.com/){: rel="noopener" target="_blank"} for the accessibility audit of our website.
+Our thanks to [Agence SAT](https://agencesat.com/){: rel="noopener" target="_blank"} who helped us tremendously in improving the accessibility of our website.

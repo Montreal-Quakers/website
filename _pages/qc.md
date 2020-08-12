@@ -35,7 +35,6 @@ If this will be your first time at a Quaker Meeting, you may want to read [this 
   * When we have guests who speak only one language, we can and do translate for them.
   * Nearly everyone understands English.
 * We frequently have visitors from the US or Britain.
-Our worship space is on the main floor but up four stairs, and so it is unfortunately **not** wheelchair accessible.
 
 <picture>
   <source srcset="/assets/images/qc_2.webp" type="image/webp">
