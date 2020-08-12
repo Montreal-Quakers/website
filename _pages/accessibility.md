@@ -1,74 +1,24 @@
 ---
-title: <i class="fas fa-universal-access fa-fw color-1-dark-text"></i> Accessibility Info
+title: <i class="fas fa-universal-access fa-fw color-1-dark-text"></i> Accessibility Information
 lang: en
 trans: accessibility
 ---
-Please [let us know](/contact) if you require additional information or accommodations for accessibility.
+Please [contact us](/contact) if you require additional information or accommodations for accessibility.
 
-## Sunday Meeting at the [Greene Centre](/directions)
-### Mobility
-Worship is on the main floor.
-* Wheelchair access via a ramp in the front and rear of the building
-* Wheelchair accessible washrooms
-* Wheelchair accessible parking in the rear of the building
-* Other levels may not be accessible
-* Doors are not automatic
-  * There is a bell at the rear door of the building 
-  * In the front, an attendant is nearly always available to help
+Quakers value every human being. If there is anything we can improve your access to our website or our meeting spaces, we hope you will [let us know](/contact).
 
-### Hearing
-* Our meeting has an auxiliary hearing aid system that we set up upon [request](/contact)
-* Our meeting has a frequent attender who is an ASL sign-language interpreter
-  * [Contact us](/contact) for more details
+## Our website
+* If you are finding anything on our website difficult to access (for instance, the screenreader isn't functioning well), please [contact us](/contact) with details and we would be delighted to send you any portion of our website in a Word, PDF, or other document. 
+* If your browser is unable to change colours or size properly on our website, we hope you will [let us know](/contact).
+* This website seeks to meet or exceed W3C accessibility norms.
 
-### Scents and allergies
-* The Greene Centre is a nut-free environment
-* We are working toward becoming a scent-reduced meeting
-* We are conscious of allergens and dietary restrictions at potlucks
+## Our meetings
+For more accessibility information on our physical locations, select a place of worship below. 
 
-### Language
-* Our Sunday meeting happens primarily in English
-  * Translation is available
-  * With guests who speak only one language, we can and do translate for them
-* We have several francophone members and attenders
-  * Most of the meeting is actively bilingual
-  * Nearly everyone is passively bilingual
-  * However, we frequently have visitors from the US or Britain, or participants who have just moved to Montreal
+* Sunday Meeting at the [Greene Centre](/directions#accessibility)
+* Midweek Meetings at the [Newman Centre](/midweek#accessibility)
+* Quebec City worship group at the [Anglican rectory](/qc#accessibility)
+* Laurentian worship group in the [Annex](/laurentians#accessibility)
 
-## Midweek Meetings at the [Newman Centre](/midweek)
-### Mobility
-We meet on the second floor.
-* This space is not wheelchair accessible.
-* Must go down six steps and then up two flights of stairs.
-* No automated doors.
-
-Please [let us know](/contact) if you require additional information or accommodations for accessibility.
-
-## Quebec City worship group at the [Anglican rectory](/qc)
-### Mobility
-* Parking is available.
-* The group meets on the main floor, but up four stairs.
-  * The space is therefore not wheelchair accessible.
-
-### Language
-* The Quebec City worship group is primarily in French.
-  * Translation is available.
-  * When we have guests who speak only one language, we can and do translate for them.
-  * Nearly everyone understands English.
-* We frequently have visitors from the US or Britain.
-
-Please [let us know](/contact) if you require additional information or accommodations for accessibility.
-
-## Laurentian worship group in the [annex](/laurentians)
-### Mobility
-Worship is on the main floor.
-* Wheelchair access via a ramp.
-  * Please give us [advanced notice](/laurentians).
-* Wheelchair accessible washroom on the main floor.
-* Parking available.
-* Other levels may not be accessible.
-* Doors are not automatic.
-
-### Language
-* The Laurentian worship group speaks primarily English but is bilingual.
-Please contact the [Laurentian worship group](/laurentians) directly for more information.
+## Acknowledgements
+Our thanks to [Agence SAT](https://agencesat.com/){: rel="noopener" target="_blank"} for the accessibility audit of our website.

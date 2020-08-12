@@ -12,7 +12,18 @@ Call Pauline Bernier at (514) 709-2466 (or by [email](mailto:laurentian@montreal
 
 If this will be your first time at a Quaker Meeting, you may want to read [this information](about.html) about what to expect.
 
-## Accessibility
-The meeting space is wheelchair accessible
+## [Accessibility](/accessibility) <span class="stanchor"><a name="accessibility"></a></span>
+Please [let us know](/contact) if you require additional information or accommodations for accessibility.
 
-See our [accessibility](/accessibility) page for more information or [contact us](#contact) with any questions
+### Mobility
+Worship is on the main floor.
+* Wheelchair access via a ramp.
+  * Please give us [advanced notice](/laurentians).
+* Wheelchair accessible washroom on the main floor.
+* Parking available.
+* Other levels may not be accessible.
+* Doors are not automatic.
+
+### Language
+* The Laurentian worship group speaks primarily English but is bilingual.
+Please contact the [Laurentian worship group](/laurentians) directly for more information.

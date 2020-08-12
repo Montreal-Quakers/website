@@ -35,6 +35,8 @@ Le culte chez les quakers est un culte silencieux. Les participants s’assoient
 
 Pour plus d’information sur le quakerisme, voir la page [Liens et histoire](/liens_histoire.html):
 
+## Accessibilité <span class="stanchor"><a name="accessibilité"></a></span>
+
 <picture>
   <source srcset="/assets/images/quebec_wg.webp" type="image/webp">
   <source srcset="/assets/images/quebec_wg.jpg" type="image/jpg">

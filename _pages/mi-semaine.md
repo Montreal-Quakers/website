@@ -34,3 +34,5 @@ Si c’est votre première assemblée Quaker, [ce lien](/a_propos.html) donne un
   <source srcset="/assets/images/ClaudeRyanLibrary.jpg" type="image/jpg">
   <img src="/assets/images/ClaudeRyanLibrary.webp" class="img_center" alt="Ryan Library">
 </picture>
+
+## Accessibilité <span class="stanchor"><a name="accessibilité"></a></span>

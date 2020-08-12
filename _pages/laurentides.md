@@ -12,5 +12,5 @@ Appelez Pauline Bernier au (514) 709-2466 (ou par [courriel](mailto:laurentian@m
 
 Si c’est votre première assemblée Quaker, [ce lien](/a_propos.html) donne une idée de ce à quoi s’attendre
 
-## Accessibilité
+## Accessibilité <span class="stanchor"><a name="accessibilité"></a></span>
 La salle est accessible aux personnes en fauteuil roulant

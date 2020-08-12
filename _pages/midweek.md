@@ -31,10 +31,14 @@ All are welcome!
 
 If this will be your first time at a Quaker Meeting, you may want to read [this information](/about.html) about what to expect.
 
-## Accessibility
-The Newman Centre is unfortunately **not** wheelchair accessible
+## [Accessibility](/accessibility) <span class="stanchor"><a name="accessibility"></a></span>
+Please [let us know](/contact) if you require additional information or accommodations for accessibility.
 
-See our [accessibility](/accessibility) page for more information or contact us with any questions
+### Mobility
+We meet on the second floor.
+* This space is unfortunately **not** wheelchair accessible
+* Must go down six steps and then up two flights of stairs
+* No automated doors
 
 <picture>
   <source srcset="/assets/images/ClaudeRyanLibrary.webp" type="image/webp">

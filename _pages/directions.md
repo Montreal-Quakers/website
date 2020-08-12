@@ -26,8 +26,36 @@ Quaker silent Meeting for Worship is every Sunday from **11:00 a.m. to noon**. W
 
 If this will be your first time at a Quaker Meeting, you may want to read [this information](/about.html) about what to expect.
 
-## [Accessibility](/accessibility)
+## [Accessibility](/accessibility) <span class="stanchor"><a name="accessibility"></a></span>
 
-Our worship space is **wheelchair accessible** via the front ramp and the rear entrance of the Greene Centre; the Greene Centre has an accessible washroom and handicap parking behind the building.
+Please [let us know](/contact) if you require additional information or accommodations for accessibility.
 
-See our [accessibility page](/accessibility) for more information or [contact us](/contact) with any questions
+### Mobility
+Worship is on the main floor.
+* Wheelchair access via a ramp in the front and rear of the building
+* Wheelchair accessible washrooms
+* Wheelchair accessible parking in the rear of the building
+* Other levels may not be accessible
+* Doors are not automatic
+  * There is a bell at the rear door of the building
+  * In the front, an attendant is nearly always available to help
+
+### Hearing
+* Our meeting has an auxiliary hearing aid system that we set up upon [request](/contact)
+* A frequent attender is an ASL sign-language interpreter
+  * [Contact us](/contact) for more details
+
+### Scents and allergies
+* The Greene Centre is a nut-free environment
+* We are working toward becoming a scent-reduced meeting
+* We are conscious of allergens and dietary restrictions at potlucks
+
+### Language
+* Our Sunday meeting happens primarily in English
+  * Translation is available
+  * With guests who speak only one language, we can and do translate for them
+* We have several francophone members and attenders
+  * Most of the meeting is actively bilingual
+  * Nearly everyone is passively bilingual
+  * A few speak only French
+  * However, we frequently have visitors from the US or Britain, or participants who have just moved to Montreal

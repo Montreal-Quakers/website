@@ -23,10 +23,19 @@ If this will be your first time at a Quaker Meeting, you may want to read [this 
 
 [Contact us](/contact.html) for details, or contact the worship group directly via email at [quebec@montreal.quaker.ca](mailto:quebec@montreal.quaker.ca){: rel="noopener" target="_blank"} or via [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}.
 
-## Accessibility
-Our worship space is on the main floor but up four stairs, and so it is unfortunately **not** wheelchair accessible.
+## [Accessibility](/accessibility) <span class="stanchor"><a name="accessibility"></a></span>
+### Mobility
+* Parking is available.
+* The group meets on the main floor, but up four stairs.
+  * The space is therefore unfortunately **not** wheelchair accessible.
 
-See our [accessibility](/accessibility) page for more information or [contact](/contact) us with any questions
+### Language
+* The Quebec City worship group is primarily in French.
+  * Translation is available.
+  * When we have guests who speak only one language, we can and do translate for them.
+  * Nearly everyone understands English.
+* We frequently have visitors from the US or Britain.
+Our worship space is on the main floor but up four stairs, and so it is unfortunately **not** wheelchair accessible.
 
 <picture>
   <source srcset="/assets/images/qc_2.webp" type="image/webp">
