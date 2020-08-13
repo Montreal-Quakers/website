@@ -37,7 +37,7 @@ So sad, Woodbrooke seems to have deleted this course -- post this again if they 
 
 [Petit à petit, l’oiseau fait son nid Par Chantal Fournier](/assets/PDF/MMM-History-CF.V100.05.15.pdf){: rel="noopener" target="_blank"} (PDF)
 
-### Auparavant, notre Centre Quaker à Montréal sur de Maisonneuve
+### Auparavant, notre Centre Quaker à Montréal sur boulevard de Maisonneuve ouest
 <picture>
   <source srcset="/assets/images/1974_MaisW_1.webp" type="image/webp">
   <source srcset="/assets/images/1974_MaisW_1.jpg" type="image/jpg">
