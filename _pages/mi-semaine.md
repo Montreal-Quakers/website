@@ -3,11 +3,7 @@ title: Groupe de mi-semaine
 lang: fr
 trans: midweek
 ---
-<picture>
-  <source srcset="/assets/images/Ryan-library_books.webp" type="image/webp">
-  <source srcset="/assets/images/Ryan-library_books.jpg" type="image/jpg">  
-  <img src="/assets/images/Ryan-library_books.webp" class="img_center75" alt="Livres">
-</picture>
+{% include picture.html basename="/assets/images/Ryan-library_books" type="jpg" class="img_center75" alt="Livres" %}
 
 ## Quand
 * Pendant l’année universitaire (**de septembre à novembre, janvier à mars**). Puisque le Centre Newman ferme en décembre et entre avril et août, suivez nos [mises à jour](#misesàjour), car il se peut qu’il y ait beaucoup de changements de lieu.
@@ -29,10 +25,13 @@ Bienvenue à toutes et à tous !
 
 Si c’est votre première assemblée Quaker, [ce lien](/a_propos.html) donne une idée de ce à quoi s’attendre.
 
-<picture>
-  <source srcset="/assets/images/ClaudeRyanLibrary.webp" type="image/webp">
-  <source srcset="/assets/images/ClaudeRyanLibrary.jpg" type="image/jpg">
-  <img src="/assets/images/ClaudeRyanLibrary.webp" class="img_center" alt="Ryan Library">
-</picture>
+## [Accessibilité](/accessibilité) <span class="stanchor"><a name="accessibilité"></a></span>
+Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.
+### Mobilité
+Nous nous rencontrons au deuxième étage.
+* Cet espace n'est pas accessible aux personnes en fauteuil roulant
+* Il faut descendre six marches, puis monter deux étages
+* Pas de portes automatisées
+Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodements pour l'accessibilité.
 
-## Accessibilité <span class="stanchor"><a name="accessibilité"></a></span>
+{% include picture.html basename="/assets/images/ClaudeRyanLibrary" type="jpg" class="img_center" alt="Bibliothèque Ryan" %}

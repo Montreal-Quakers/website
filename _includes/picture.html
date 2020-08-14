@@ -1,0 +1,5 @@
+<picture>
+  <source srcset="{{ include.basename }}.webp" type="image/webp">
+  <source srcset="{{ include.basename }}.{{ include.type }}" type="image/{{ include.type }}">
+  <img src="{{ include.basename }}.webp" class="{{ include.class }}" alt="{{ include.alt }}">
+</picture>

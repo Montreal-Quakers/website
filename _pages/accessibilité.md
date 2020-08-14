@@ -5,56 +5,19 @@ trans: accessibility
 ---
 Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.
 
-## L’assemblée du dimanche au [Centre Greene](/coordonnées)
-### Mobilité
-Nous nous rencontrons au rez-de-chaussée.
+Le Quakerisme se base sur le respect de chaque être humain. Si nous pouvons améliorer votre accès à notre site web ou à nos sites physiques, nous espérons que [vous nous le ferez savoir](/contact-fr).
 
-* Accès en fauteuil roulant par une rampe à l'avant et à l'arrière du bâtiment.
-* Toilettes accessibles aux fauteuils roulants.
-* Stationnement accessible aux fauteuils roulants à l'arrière du bâtiment.
-* D'autres niveaux peuvent ne pas être accessibles.
-* Les portes ne sont pas automatiques.
-  * Il y a une cloche à la porte arrière du bâtiment.
-  * À l'avant, un préposé est presque toujours disponible pour aider.
+## Notre site web
+* Si vous avez de la difficulté à lire une portion de notre site web (par exemple, votre lecteur d'écran fonctionne mal), [contactez-nous](/contact-fr) avec des détails, et il nous ferait plaisir de vous envoyez une partie de notre site web en format Word, PDF ou un autre format.
+* Si votre navigateur web ne parvient pas à modifier correctement les couleurs ou la taille de la police sur notre site web, [contactez-nous](/contact-fr).
+* Ce site web vise à respecter ou à dépasser les [normes d'accessibilité WAI du W3C](https://www.w3.org/WAI/standards-guidelines/fr){: rel="noopener" target="_blank"}.
 
-### Audition
-* Notre assemblée a une participante fréquente qui est un interprète en langue des signes ASL
-* Nous disposons d’un système auditif auxiliaire.
-  * Veuillez [nous contactez](/contact-fr) pour plus d'informations.
-
-### Parfums et allergies
-* Le Greene Center est un environnement sans noix.
-* Nous travaillons à devenir une réunion à parfum réduit.
-* Nous sommes conscients des allergènes et des restrictions alimentaires lors des repas-partage.
-
-## Groupe du mi-semaine au [Centre Newman](/mi-semaine)
-###Mobilité
-Nous nous rencontrons au deuxième étage.
-* Cet espace n'est pas accessible aux fauteuils roulants.
-* Il faut descendre six marches, puis monter deux étages.
-* Pas de portes automatisées.
-Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodements pour l'accessibilité.
-
-## Groupe de Québec à [l'Église Anglicane](/quebec)
-### Mobilité
-* Un parking est disponible.
-* Le groupe se réunit au rez-de-chaussée, mais en montant quatre marches.
-  * L'espace n'est donc pas accessible aux personnes en fauteuil roulant.
-Veuillez nous contacter si vous avez besoin d'informations supplémentaires ou d’accommodements pour l'accessibilité.
-
-## Groupe des Laurentides à [la Grange](/laurentides)
-### Mobilité
-Le culte est au rez-de-chaussée.
-* Accès en fauteuil roulant via une rampe.
-  * Veuillez nous donner [préavis](/laurentides).
-* Toilettes accessibles aux fauteuils roulants au rez-de-chaussée.
-* Stationnement spacieux dans le lot avant.
-* Les autres niveaux peuvent ne pas être accessibles.
-* Les portes ne sont pas automatiques.
-
-Langue
-* Bien que le groupe des Laurentides soit bilingue, on y parle principalement l’anglais
-Veuillez contacter le [groupe de culte des Laurentides](/laurentides) directement pour plus d'informations.
+## Nos lieux de culte
+Pour plus d'informations sur l'accessibilité de chacun de nos sites physiques, consultez une page ci-dessous.
+* L’assemblée du dimanche au [Centre Greene](/coordonnées#accessibilité)
+* Groupe du mi-semaine au [Centre Newman](/mi-semaine#accessibilité)
+* Groupe de Québec dans le [presbytère de l'Église Anglicane](/québec#accessibilité)
+* Groupe des Laurentides à [l'Annexe](/laurentides#accessibilité)
 
 ## Remerciements
-Nous remercions [l'Agence SAT](https://agencesat.com/){: rel="noopener" target="_blank"} qui nous a aidé énormément dans l'accessibilité du site web.
+Nous remercions l'équipe de [l'Agence SAT](https://agencesat.com/){: rel="noopener" target="_blank"} pour l'audit de l'accessibilité qui a beaucoup amélioré ce site web.

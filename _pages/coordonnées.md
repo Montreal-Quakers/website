@@ -3,11 +3,7 @@ title: L'assemblée de dimanche
 lang: fr
 trans: directions
 ---
-<picture>
-  <source srcset="/assets/images/mtl_homepage3.webp" type="image/webp">
-  <source srcset="/assets/images/mtl_homepage3.jpg" type="image/jpg">  
-  <img src="/assets/images/mtl_homepage3.webp" class="img_center100" alt="Bannière Quakers pour la Paix">
-</picture>
+{% include picture.html basename="/assets/images/mtl_homepage3" type="jpg" alt="Bannière Quakers pour la Paix" class="img_center100" %}
 
 ## Coordonnées
 
@@ -28,4 +24,25 @@ Bien qu’il soit préférable d’arriver avant 11h, votre présence nous est p
 
 Si c’est votre première assemblée Quaker, [ce lien](/a_propos.html) donne une idée de ce à quoi s’attendre.
 
-## Accessibilité <span class="stanchor"><a name="accessibilité"></a></span>
+## [Accessibilité](/accessibilité) <span class="stanchor"><a name="accessibilité"></a></span>
+Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.
+### Mobilité
+Nous nous rencontrons au rez-de-chaussée.
+
+* Accès en fauteuil roulant par une rampe à l'avant et à l'arrière du bâtiment.
+* Toilettes accessibles aux fauteuils roulants.
+* Stationnement accessible aux fauteuils roulants à l'arrière du bâtiment.
+* D'autres niveaux peuvent ne pas être accessibles.
+* Les portes ne sont pas automatiques.
+  * Il y a une cloche à la porte arrière du bâtiment.
+  * À l'avant, un préposé est presque toujours disponible pour aider.
+
+### Audition
+* Notre assemblée a une participante fréquente qui est un interprète en langue des signes ASL
+* Nous disposons d’un système auditif auxiliaire.
+  * Veuillez [nous contactez](/contact-fr) pour plus d'informations.
+
+### Parfums et allergies
+* Le Greene Center est un environnement sans noix.
+* Nous travaillons à devenir une réunion à parfum réduit.
+* Nous sommes conscients des allergènes et des restrictions alimentaires lors des repas-partage.

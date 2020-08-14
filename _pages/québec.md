@@ -2,11 +2,7 @@
 lang: fr
 trans: quebec
 ---
-<picture>
-  <source srcset="/assets/images/quebec.webp" type="image/webp">
-  <source srcset="/assets/images/quebec.jpg" type="image/jpg">
-  <img src="/assets/images/quebec.webp" class="img_center100" alt="Groupe Quaker de Québec image avec arbres">
-</picture>
+{% include picture.html basename="/assets/images/quebec" type="jpg" alt="Groupe Quaker de Québec image avec arbres" class="img_center100" %}
 
 Le Groupe des Quakers à Québec se rencontre chaque premier dimanche du mois à 11h00 au [31 rue des Jardins dans le Vieux-Québec](https://www.google.com/maps/search/31%20rue%20des%20Jardins,%20Qu%C3%A9bec){: target="_blank" rel="noopener"} à la chapelle All Saints Chapel, [ce bâtiment](https://goo.gl/maps/Z9wtKLtwAHEGSB7V6){: target="_blank" rel="noopener"} situé dans la cour de la cathédrale anglicane Holy Trinity.
 
@@ -20,11 +16,7 @@ Si c’est votre première assemblée Quaker, [ce lien](/a_propos.html) donne un
 
 [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}
 
-<picture>
-  <source srcset="/assets/images/qc_2.webp" type="image/webp">
-  <source srcset="/assets/images/qc_2.jpg" type="image/jpg">
-  <img src="/assets/images/qc_2.webp" class="img_center100" alt="Les initiateurs du groupe">
-</picture>
+{% include picture.html basename="/assets/images/qc_2" type="jpg" alt="Les initiateurs du groupe" class="img_center100" %}
 
 ## LA VOIE QUAKER, UNE FAÇON DE VIVRE…
 Les quakers, ou Société Religieuse des Amis, (les termes quakers ou amis peuvent être utilisés indifféremment) ont toujours été préoccupés par les questions de justice sociale, de paix et d’environnement. Les témoignages  d’égalité, paix, intégrité, communauté, éco-responsabilité et simplicité  sont représentatifs de la façon de vivre des amis. Pour eux il n’y a pas de séparation entre le séculier et le sacré. Ils ont ainsi tendance à considérer que chaque action menée dans sa propre vie constitue un témoignage de leurs convictions spirituelles. Même si les origines du quakerisme sont chrétiennes, les quakers peuvent être chrétiens ou pas. La relation à Dieu ou au transcendant peut se faire de différentes façons selon chacun.
@@ -35,10 +27,12 @@ Le culte chez les quakers est un culte silencieux. Les participants s’assoient
 
 Pour plus d’information sur le quakerisme, voir la page [Liens et histoire](/liens_histoire.html):
 
-## Accessibilité <span class="stanchor"><a name="accessibilité"></a></span>
+## [Accessibilité](/accessibilité) <span class="stanchor"><a name="accessibilité"></a></span>
+Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.
+### Mobilité
+* Un parking est disponible.
+* Le groupe se réunit au rez-de-chaussée, mais en montant quatre marches.
+  * L'espace n'est donc pas accessible aux personnes en fauteuil roulant.
+Veuillez nous contacter si vous avez besoin d'informations supplémentaires ou d’accommodements pour l'accessibilité.
 
-<picture>
-  <source srcset="/assets/images/quebec_wg.webp" type="image/webp">
-  <source srcset="/assets/images/quebec_wg.jpg" type="image/jpg">
-  <img src="/assets/images/quebec_wg.webp" class="img_center75" alt="Chaises dans la salle">
-</picture>
+{% include picture.html basename="/assets/images/quebec_wg" type="jpg" alt="Chaises dans la salle" class="img_center75" %}

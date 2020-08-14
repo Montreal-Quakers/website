@@ -12,5 +12,17 @@ Appelez Pauline Bernier au (514) 709-2466 (ou par [courriel](mailto:laurentian@m
 
 Si c’est votre première assemblée Quaker, [ce lien](/a_propos.html) donne une idée de ce à quoi s’attendre
 
-## Accessibilité <span class="stanchor"><a name="accessibilité"></a></span>
-La salle est accessible aux personnes en fauteuil roulant
+## [Accessibilité](/accessibilité) <span class="stanchor"><a name="accessibilité"></a></span>
+Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.
+### Mobilité
+Le culte est au rez-de-chaussée.
+* Accès en fauteuil roulant via une rampe.
+  * Veuillez nous donner [préavis](/laurentides).
+* Toilettes accessibles aux fauteuils roulants au rez-de-chaussée.
+* Stationnement spacieux dans le lot avant.
+* Les autres niveaux peuvent ne pas être accessibles.
+* Les portes ne sont pas automatiques.
+
+### Langue
+* Bien que le groupe des Laurentides soit bilingue, on y parle principalement l’anglais
+Veuillez contacter le [groupe de culte des Laurentides](/laurentides) directement pour plus d'informations.

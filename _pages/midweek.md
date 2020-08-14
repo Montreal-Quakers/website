@@ -3,11 +3,7 @@ title: Midweek Meeting
 lang: en
 trans: midweek
 ---
-<picture>
-  <source srcset="/assets/images/Ryan-library_books.webp" type="image/webp">
-  <source srcset="/assets/images/Ryan-library_books.jpg" type="image/jpg">  
-  <img src="/assets/images/Ryan-library_books.webp" class="img_center75" alt="Library books">
-</picture>
+{% include picture.html basename="/assets/images/Ryan-library_books" type="jpg" class="img_center75" alt="Library books" %}
 
 ## When
 * During the academic year (**Sept-Nov, Jan-March**). Because the Newman Centre closes outside these months, [check for updates](#updates) as there may be significant location changes from April through August and in December. 
@@ -40,8 +36,4 @@ We meet on the second floor.
 * Must go down six steps and then up two flights of stairs
 * No automated doors
 
-<picture>
-  <source srcset="/assets/images/ClaudeRyanLibrary.webp" type="image/webp">
-  <source srcset="/assets/images/ClaudeRyanLibrary.jpg" type="image/jpg">
-  <img src="/assets/images/ClaudeRyanLibrary.webp" class="img_center" alt="Ryan Library">
-</picture>
+{% include picture.html basename="/assets/images/ClaudeRyanLibrary" type="jpg" class="img_center" alt="Ryan Library" %}
