@@ -1,17 +1,25 @@
 ---
-layout: default
-lang: en
-trans: index-choose
 ---
-<section class="cards cards_index" id="cards">
-  <ul>
-{% for each in site.data.navigation.welcome %}
-    <li>
-      <a onkeypress="chooseLang('{{ each.lang }}')" onclick="chooseLang('{{ each.lang }}')">
-        <span>{{ each.title }} </span>
-      </a>
-    </li>
-   {% endfor %}
- </ul>
-</section>
-<script src="/assets/js/lang-choose.js"></script>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="refresh" content="1;url="/>
+    <link rel="canonical" href=""/>
+    <title>Page Redirection</title>
+</head>
+<body>
+    <p>If you are not redirected automatically, <a href="/home">go to the home page</a></p>
+    <p>Si votre navigateur ne vous redirige pas, <a href="/accueil">suivez ce lien vers l'accueil</a></p>
+</body>
+<script type="text/javascript">
+window.onload = function() {
+  let choice = localStorage.getItem('lang');
+  if (choice == "null") {
+    window.location.replace("/bienvenue-welcome.html");
+  }
+  else {
+    {% for each in site.data.navigation.welcome %} if (choice === "{{ each.lang }}") {window.location.replace("{{ each.link }}");}{% endfor %}
+    };
+}
+</script>
+</html>
