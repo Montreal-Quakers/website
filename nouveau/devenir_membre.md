@@ -4,20 +4,40 @@ lang: fr
 trans: membership
 ---
 ## Le rôle des membres au sein des Quakers de Montréal
-Certaines personnes, pour diverses raisons, participent, voire servent sur des comités des Quakers de Montréal, depuis nombreuses années sans pour autant devenir membre.
+Certaines personnes assistent aux assemblées et siègent même à des comités des Quakers pendant de nombreuses années sans en être membres. Toute personne est la bienvenue à nos assemblées, peut partager le ministère et même avoir voix aux réunions d'affaires.
 
-N'importe qui, membre ou participant.e, est le bienvenu:
-* À nos assemblées
-  * Tout le monde peut participer et parler lors de celles-ci
-  * Même chose pour notre assemblée d'affaires
-  * Les membres et des participant.e.s réguliers peuvent offrir ses services sur nos comités
+Ceci dit, l'adhésion est importante, même s'il y a peu de distinctions ou de privilèges particuliers qui l'accompagnent. 
 
-Cela étant dit, il est important de devenir membre, même si peut de distinctions ou privilèges en découle.
-## L'objectif en devenant membre
-* Nous sommes toutes et tous formé.e.s par nos expériences. À un moment donné, devenir membre — « être » un Quaker — est tout simplement une expression honnête de la manière dont cette communauté nous a influencé, parmi plusieurs autres influences
-* On devrait devenir membre si, et seulement si, l'Esprit d'amour nous guide dans ce sens. Autrement dit, on devient membre par le miracle qui est l'amour à l'intérieur de cette communauté, une participation dans une sorte de famille spirituelle
-* L'objectif du processus est de discerner si ce miracle a eu lieu et si oui, pour le reconnaître et le célébrer
-* Devenir membre peut aussi signaler son désir d'inclusion et de contribution
+## Le but de l'adhésion
+* Nous sommes tous façonnés par nos expériences. À un moment donné, devenir membre — « être » un Quaker — est tout simplement une expression du rôle que la communauté Quaker a joué dans notre formation
+* L'adhésion doit être une direction de l'Esprit, autrement dit, une expression de l'amour que nous avons ressenti au sein de cette communauté, comme une sorte d’appartenance à une famille spirituelle
+* Le but du processus d'adhésion est de discerner si cet amour est présent, et si oui, de le reconnaître et de le célébrer
+* L'adhésion peut également servir à confirmer un désir d'inclusion et de contribution
 
-## Le processus
-Plus de détails sont disponibles sur notre page sur le [_membership_](/new_attender/membership) (en anglais).
+## Responsabilités et privilèges de l'adhésion
+L'adhésion implique une volonté d'entrer joyeusement dans les activités de la communauté:
+
+* d’assister aux assemblées de culte et aux réunions d’affaires
+* de rendre service au moyen des comités ou autrement
+* de participer financièrement dans une mesure appropriée
+* d’approfondir la connaissance de notre tradition commune
+
+Si après une certaine période de fréquentation et d'études, une personne désire se joindre à notre communauté, nous accueillons sa candidature avec grand plaisir.
+
+## Le processus d'adhésion
+
+1. La personne intéressée écrit une lettre au secrétaire pour poser sa candidature. Cette lettre répondra aux questions suivantes:
+  * Depuis combien de temps assistez-vous?
+  * Quelle est la mesure de votre participation?
+  * Qu'est-ce qui vous donne envie de devenir membre?
+  * Quel a été votre cheminement de foi?
+2. La lettre est remise au secrétaire en main propre, par la poste ou par courriel
+3. Un membre du comité des veilleurs sera en contact pour déterminer qui doit faire partie du comité de clarification
+4. La lettre sera lue à la réunion d’affaires suivante et un comité de clarification sera mis en place
+5. Lors de la réunion du comité de clarification, les membres du comité poseront les questions nécessaires au membre potentiel
+6. Une fois que les choses seront claires (que ce soit après la première réunion ou par la suite) le comité de clarification rédigera une recommandation à présenter lors de la prochaine réunion d'affaires.
+7. À la réunion d’affaires, la communauté approuvera l’acceptation de la candidature ou demandera plus de renseignements au comité de clarification
+
+Une fois la candidature acceptée, une célébration sera prévue pour accueillir le nouveau membre
+
+Pour plus d’informations, voir la section sur [l’Organisation et la procédure de l’assemblée annuelle canadienne](https://quaker.ca/cympublications/organization-and-procedure/#CHAPTER_3_Membership){: rel="noopener" target="_blank"} (en anglais).
