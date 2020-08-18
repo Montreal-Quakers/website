@@ -20,4 +20,4 @@ Pour plus d'informations sur l'accessibilité de chacun de nos sites physiques, 
 * Groupe des Laurentides à [l'Annexe](/laurentides#accessibilité)
 
 ## Remerciements
-Nous remercions l'équipe de [l'Agence SAT](https://agencesat.com/){: rel="noopener" target="_blank"} pour l'audit en l'accessibilité, qui a grandement amélioré ce site web.
+Nous remercions l'équipe de [l'Agence SAT](https://agencesat.com/){: rel="noopener" target="_blank"} pour l'audit en accessibilité, qui a grandement amélioré ce site web.
