@@ -16,10 +16,11 @@ window.onload = function() {
   if (choice == "null") {
     window.location.replace("/bienvenue-welcome.html");
   }
-  else {
+  if (choice === null) {
+    window.location.replace("/bienvenue-welcome.html");
+  }
     {% for each in site.data.navigation.welcome %} if (choice === "{{ each.lang }}") {window.location.replace("{{ each.link }}.html");}
 {% endfor %}
-    };
 }
 </script>
 </html>
