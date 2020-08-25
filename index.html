@@ -3,8 +3,7 @@
 <html>
 <head>
     <meta charset="utf-8"/>
-    <meta http-equiv="refresh" content="1;url="/>
-    <link rel="canonical" href=""/>
+    {% comment %}<meta http-equiv="refresh" content="0;url="/>{% endcomment %}
     <title>Page Redirection</title>
 </head>
 <body>
@@ -18,7 +17,8 @@ window.onload = function() {
     window.location.replace("/bienvenue-welcome.html");
   }
   else {
-    {% for each in site.data.navigation.welcome %} if (choice === "{{ each.lang }}") {window.location.replace("{{ each.link }}");}{% endfor %}
+    {% for each in site.data.navigation.welcome %} if (choice === "{{ each.lang }}") {window.location.replace("{{ each.link }}.html");}
+{% endfor %}
     };
 }
 </script>
