@@ -3,3 +3,4 @@ Allow: /
 Disallow: /_pages/
 Disallow: /search-fr/
 Disallow: /search-en/
+Disallow: /index.html
