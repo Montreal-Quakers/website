@@ -51,8 +51,9 @@ redalert_pages:
   - page_trans: home
   - page_trans: directions
   - page_trans: quebec
+  - page_trans: midweek
 
-greenalerts: some
+greenalerts: off
 greenalert_en-text: alert/en-midweek_over.md
 greenalert_fr-text: alert/fr-midweek_over.md
 greenalert_pages:

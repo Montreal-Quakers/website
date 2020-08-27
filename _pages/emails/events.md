@@ -5,4 +5,4 @@ lang: en
 exclude_from_search: true
 permalink: _pages/email/events
 ---
-permalink: _pages/email
+{: rel="noopener" target="_blank"}
