@@ -16,6 +16,6 @@ prochain:
 - lecture: 1 Thessaloniciens
 - lecture: 2 Thessaloniciens
 - lecture: Galates
-  # - lecture: Timothée
-- reading: 1 Corinthiens
-- reading: 2 Corinthiens
+- lecture: 1 Corinthiens
+- lecture: 2 Corinthiens
+# - lecture: Timothée
