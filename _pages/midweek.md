@@ -3,7 +3,7 @@ title: Midweek Meeting
 lang: en
 trans: midweek
 ---
-{% include picture.html basename="/assets/images/Ryan-library_books" type="jpg" class="img_center75" alt="Library books" %}
+{% include picture.html basename="/assets/images/Ryan-library_books" type="jpg" class="img_center100" alt="Library books" %}
 
 ## When
 * During the academic year (**Sept-Nov, Jan-March**). Because the Newman Centre closes outside these months, [check for updates](#updates) as there may be significant location changes from April through August and in December. 
