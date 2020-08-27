@@ -8,10 +8,14 @@ next:
 - reading: 1 Thessalonians
 - reading: 2 Thessalonians
 - reading: Galatians
-- reading: Timothy
+  # - reading: Timothy
+- reading: 1 Corinthians
+- reading: 2 Corinthians
 
 prochain:
 - lecture: 1 Thessaloniciens
 - lecture: 2 Thessaloniciens
 - lecture: Galates
-- lecture: Timothée
+  # - lecture: Timothée
+- reading: 1 Corinthiens
+- reading: 2 Corinthiens
