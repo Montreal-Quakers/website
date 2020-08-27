@@ -36,4 +36,9 @@ We meet on the second floor.
 * Must go down six steps and then up two flights of stairs
 * No automated doors
 
+### Language
+* Given the proximity to McGill, this group speaks primarily English
+* Whisper translation into French is available
+* Several members are bilingual and francophone
+
 {% include picture.html basename="/assets/images/ClaudeRyanLibrary" type="jpg" class="img_center" alt="Ryan Library" %}

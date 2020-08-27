@@ -3,7 +3,7 @@ title: Groupe de mi-semaine
 lang: fr
 trans: midweek
 ---
-{% include picture.html basename="/assets/images/Ryan-library_books" type="jpg" class="img_center75" alt="Livres" %}
+{% include picture.html basename="/assets/images/Ryan-library_books" type="jpg" class="img_center100" alt="Livres" %}
 
 ## Quand
 * Pendant l’année universitaire (**de septembre à novembre, janvier à mars**). Puisque le Centre Newman ferme en décembre et entre avril et août, suivez nos [mises à jour](#misesàjour), car il se peut qu’il y ait beaucoup de changements de lieu.
@@ -33,5 +33,10 @@ Nous nous rencontrons au deuxième étage.
 * Il faut descendre six marches, puis monter deux étages
 * Pas de portes automatisées
 Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodements pour l'accessibilité.
+
+### Langue
+* Vu sa proximité de McGill, ce groupe parle principalement anglais
+* La traduction chuchotée est disponible
+* Plusieurs membres sont bilingues et francophones
 
 {% include picture.html basename="/assets/images/ClaudeRyanLibrary" type="jpg" class="img_center" alt="Bibliothèque Ryan" %}

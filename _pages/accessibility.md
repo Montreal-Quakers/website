@@ -3,9 +3,9 @@ title: <i class="fas fa-universal-access fa-fw color-1-dark-text"></i> Accessibi
 lang: en
 trans: accessibility
 ---
-Please [contact us](/contact) if you require additional information or accommodations for accessibility.
-
 Quakerism is based on seeing value in every human being. If there is anything we can improve your access to our website or our meeting spaces, we hope you will [let us know](/contact).
+
+Please [contact us](/contact) if you require additional information or accommodations for accessibility.
 
 ## Our website
 * If you are finding anything on our website difficult to access (for instance, the screenreader isn't functioning well), please [contact us](/contact) with details and we would be delighted to send you any portion of our website in Word, PDF, or another format. 
@@ -21,4 +21,4 @@ For more accessibility information on our physical locations, select a place of 
 * Laurentian worship group in the [Annex](/laurentians#accessibility)
 
 ## Acknowledgements
-Our thanks to the team at [Agence SAT](https://agencesat.com/){: rel="noopener" target="_blank"} whose accessibility audit improved this website tremendously.
+Our thanks to the team at [Agence SAT](https://agencesat.com/){: rel="noopener" target="_blank"}, whose accessibility audit greatly improved this website.

@@ -3,7 +3,7 @@ title: <i class="fas fa-head-side-mask color-1-light-text fa-flip-horizontal"></
 lang: en
 trans: covid
 ---
-As a COVID-19 prevention measure, the Sunday Quaker meeting and the Quebec City group will meet online until at least **September 1st, 2020**. This webpage and our [Facebook page](https://www.facebook.com/MontrealQuakers/){: rel="noopener" target="_blank"} will have updates as we learn more. 
+As a COVID-19 prevention measure, the Sunday Quaker meeting and the Quebec City group will meet online until at least **September 7th, 2020**. This webpage and our [Facebook page](https://www.facebook.com/MontrealQuakers/){: rel="noopener" target="_blank"} will have updates as we learn more. 
  
 [Contact us](/contact.html) for details on joining us.
 

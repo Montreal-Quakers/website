@@ -26,4 +26,3 @@ Worship is on the main floor.
 
 ### Language
 * The Laurentian worship group speaks primarily English but is bilingual.
-Please contact the [Laurentian worship group](/laurentians) directly for more information.

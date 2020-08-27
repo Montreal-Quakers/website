@@ -22,7 +22,7 @@ Les assemblées Quaker ont lieu le dimanche de **11h à midi**.
 
 Bien qu’il soit préférable d’arriver avant 11h, votre présence nous est plus importante que la ponctualité! La garde d’enfant est disponible mais il vaut mieux nous [prévenir](/contact-fr.html) d’avance, surtout l’été.
 
-Si c’est votre première assemblée Quaker, [ce lien](/a_propos.html) donne une idée de ce à quoi vous s’attendre.
+Si c’est votre première assemblée Quaker, [ce lien](/a_propos.html) donne une idée de ce à quoi vous attendre.
 
 ## [Accessibilité](/accessibilité) <span class="stanchor"><a name="accessibilité"></a></span>
 Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.
@@ -38,6 +38,14 @@ Nous nous rencontrons au rez-de-chaussée.
   * À l'avant, un préposé est presque toujours disponible pour aider.
 * La station Lionel-Groulx (et non pas la station Atwater) est accessible aux personnes en fauteuil roulant.
   * Si on part de la station Lionel-Groulx, il y a une petite côte à monter pour aller au Centre Greene.
+
+### Langue
+* Cette assemblée a lieu principalement en anglais
+  * La traduction est disponible
+  * Lorsque quelqu'un ne parle qu'une langue, nous pouvons faire une traduction chuchotée
+  * La plupart des gens sont bilingues
+* Nous avons plusieurs membres francophones
+  * Quelques membres ne parlent que français ou anglais
 
 ### Audition
 * Notre assemblée a une participante fréquente qui est un interprète en langue des signes ASL

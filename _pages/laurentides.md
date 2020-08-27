@@ -8,12 +8,13 @@ Le dimanche à 10h30.
 ## Comment nous trouver
 [l’Atelier des Arts, 1056 des Hauteurs, St-Hippolyte, QC](https://goo.gl/maps/9LgPP2XZ7VcxjvDQ9){: rel="noopener" target="_blank"}, près du Lac-Cornu.
 ## Contact
-Appelez Pauline Bernier au (514) 709-2466 (ou par [courriel](mailto:laurentian@montreal.quaker.ca) mais c'est moins fiable) pour confirmer votre présence ou pour plus de détails
+Appelez Pauline Bernier au (514) 709-2466 (ou par [courriel](mailto:laurentian@montreal.quaker.ca) mais c'est moins fiable) pour confirmer votre présence ou pour plus de détails.
 
-Si c’est votre première assemblée Quaker, [ce lien](/a_propos.html) donne une idée de ce à quoi vous attendre
+Si c’est votre première assemblée Quaker, [ce lien](/a_propos.html) donne une idée de ce à quoi vous attendre.
 
 ## [Accessibilité](/accessibilité) <span class="stanchor"><a name="accessibilité"></a></span>
-Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.
+Veuillez contacter le [groupe de culte des Laurentides](/laurentides) directement si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.
+
 ### Mobilité
 Le culte est au rez-de-chaussée.
 * Accès en fauteuil roulant via une rampe.
@@ -25,4 +26,3 @@ Le culte est au rez-de-chaussée.
 
 ### Langue
 * Bien que le groupe des Laurentides soit bilingue, on y parle principalement l’anglais
-Veuillez contacter le [groupe de culte des Laurentides](/laurentides) directement pour plus d'informations.
