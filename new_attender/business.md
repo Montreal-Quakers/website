@@ -61,6 +61,6 @@ Standing aside means that a participant recognizes through others’ ministry th
   * Recognizing their different witness in Spirit, and not feeling moved to continue to object, the participant may choose to tell people that they "stand aside," which means they're prepared to move forward
   * The minutes may or may not reflect this fact
 
-Resources:
+## Resources:
 * [Canadian Friend article on clerking](https://quaker.ca/wp-content/uploads/2020/05/TCF-Spring-2020-Final-Digital.pdf){: rel="noopener" target="_blank"} (p. 12-13)
 * [Youtube video on clerking](https://youtu.be/1KJpF0fzZkI){: rel="noopener" target="_blank"}
