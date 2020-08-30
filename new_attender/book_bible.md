@@ -14,11 +14,13 @@ Over the next few months we plan to read these books:
 {% for each in site.data.bookbible.next %}
 * {{ each.reading }}{% endfor %}
 
+Feel free to [contact us](/contact) with suggestions or requests.
+
 ## Practical details
 * We often simply read aloud as a group and then discuss
   * Usually no need to read in advance
 * Our group seldom meets longer than 40 minutes
 * This group discusses primarily in English
-* Right now, we are meeting on Montreal Meeting's discord channel, but other arrangements can be made
+* Right now, we are meeting on Montreal Meeting's Discord channel, but other arrangements can be made
 
-[Contact us](/contact) for more details
+[Contact us](/contact) for more details.

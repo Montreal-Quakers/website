@@ -14,6 +14,8 @@ Au cours des prochains mois nous allons lire les extraits suivants:
 {% for each in site.data.bookbible.prochain %}
 * {{ each.lecture }}{% endfor %}
 
+[Contactez-nous](/contact-fr) avec des suggestions ou des demandes.
+
 ## Détails pratiques
 * Souvent on lit à haute voix et puis on discute
   * Souvent il n'est pas nécessaire de lire en avance
@@ -21,4 +23,4 @@ Au cours des prochains mois nous allons lire les extraits suivants:
 * La discussion est principalement en anglais
   * Les membres sont au moins passivement bilingue, alors vous pouvez vous exprimer en français
 
-[Contactez-nous](/contact-fr) pour plus de détails
+[Contactez-nous](/contact-fr) pour plus de détails.

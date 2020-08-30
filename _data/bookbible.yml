@@ -1,17 +1,21 @@
 verse: 
-  en: Galatians 4
-  fr: Galates 4
-  fr-date: jeudi le 20 août, 2020 à 15h30
-  en-date: Thursday, August 20th, 2020 at 3:30 PM
+  en: Corinthians 4
+  fr: Corinthiens 4
+  fr-date: jeudi le 3 septembre, 2020 à 15h30
+  en-date: Thursday, September 3rd, 2020 at 3:30 PM
 
 next:
 - reading: 1 Thessalonians
 - reading: 2 Thessalonians
 - reading: Galatians
-- reading: Timothy
+  # - reading: Timothy
+- reading: 1 Corinthians
+- reading: 2 Corinthians
 
 prochain:
 - lecture: 1 Thessaloniciens
 - lecture: 2 Thessaloniciens
 - lecture: Galates
-- lecture: Timothée
+- lecture: 1 Corinthiens
+- lecture: 2 Corinthiens
+# - lecture: Timothée
