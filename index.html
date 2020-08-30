@@ -19,17 +19,17 @@
     <p id=fr></p>
 </body>
 <script type="text/javascript">
-// window.onload = function() {
-//   let choice = localStorage.getItem('lang');
-//   if (choice == "null") {
-//     window.location.replace("/bienvenue-welcome");
-//   }
-//   if (choice === null) {
-//     window.location.replace("/bienvenue-welcome");
-//   }
-//     {% for each in site.data.navigation.welcome %} if (choice === "{{ each.lang }}") {window.location.replace("{{ each.link }}");}
-// {% endfor %}
-// }
+window.onload = function() {
+  let choice = localStorage.getItem('lang');
+  if (choice == "null") {
+    window.location.replace("/bienvenue-welcome");
+  }
+  if (choice === null) {
+    window.location.replace("/bienvenue-welcome");
+  }
+    {% for each in site.data.navigation.welcome %} if (choice === "{{ each.lang }}") {window.location.replace("{{ each.link }}");}
+{% endfor %}
+}
 setTimeout(() => {
 document.getElementById("en").innerHTML = 'If you are not redirected automatically, <a id="en-link" href="/home">go to the home page</a>';
 
