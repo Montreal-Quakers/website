@@ -30,7 +30,7 @@ Les Amis (Quakers) prennent un moment de recul face aux distractions de la vie q
 
 <i class="far fa-pause-circle color-1-light-text"></i><span class="stanchor"><a name="attendre"> </a></span> &nbsp;Ensuite par un silence respectueux chacun l’accueille, car il est inapproprié de faire un commentaire, une discussion ou un débat pendant le culte. Il y a une limite d’une fois par personne afin de permettre à chacun de participer. Nous trouvons que cela aide à ouvrir nos cœurs, à renforcer les liens, à trouver la paix intérieure et à encourager la bienveillance en tout temps.
 
-<i class="fas fa-mug-hot color-1-dark-text"></i><span class="stanchor"><a name="thé"> </a></span> &nbsp;Après l’assemblée, il y a une période d'annonces suivie de rafraîchissements, parfois avec un sujet de discussion. Si vous le pouvez, prenez un thé avec nous afin de nous permettre de mieux se connaître et, si vous avez des questions, n'hésitez pas à les poser.
+<i class="fas fa-mug-hot color-1-dark-text"></i><span class="stanchor"><a name="thé"> </a></span> &nbsp;Après l’assemblée, il y a une période d'annonces suivie de rafraîchissements, parfois avec un sujet de discussion. Si vous le pouvez, prenez un thé avec nous pour mieux nous connaître et, si vous avez des questions, n'hésitez pas à les poser.
 
 <i class="fas fa-book-reader color-1-text"></i> &nbsp;Lire nos brochures ou emprunter un livre si vous voulez [à propos](/intro-fr.html) des Quakers ou de notre [histoire](/liens_histoire.html).
 
