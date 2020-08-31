@@ -7,7 +7,7 @@ As a COVID-19 prevention measure, we have updated our worship schedule:
 * Sunday meeting: at the regular time via **videoconference on the internet** until at least {{ site.covid-close-date-en }}.
 * Midweek meeting: **videoconference on the internet** at the regular time for the entirety of fall 2020.
 * Quebec City worship group: at the regular time via **videoconference on the internet** until at least {{ site.covid-close-date-en }}
-* Laurentian worship group: **in person** at the regular time but it is better to [call first](/laurentians#contact).
+* Laurentian worship group: **in person** at the regular time, but it is better to [call first](/laurentians#contact).
 
 This webpage but also our [Facebook page](https://www.facebook.com/MontrealQuakers/){: rel="noopener" target="_blank"} will have updates as we learn more. 
  
