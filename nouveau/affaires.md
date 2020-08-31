@@ -60,3 +60,7 @@ Se tenir à l'écart signifie qu’un participant reconnaît que l’Esprit guid
 * Par exemple, la plupart croient que l'Esprit guide le groupe à aider une famille réfugiée, mais un membre croit que le groupe devrait aider un foyer pour sans-abri
   * Se tenir à l'écart signifie que le membre reconnaît le témoin du groupe
   * Le membre n'a pas changé d'idée mais ne s'objecte plus; il accepte d'avancer
+
+## Ressources (en anglais):
+* [Canadian Friend article on clerking](https://quaker.ca/wp-content/uploads/2020/05/TCF-Spring-2020-Final-Digital.pdf){: rel="noopener" target="_blank"} (p. 12-13)
+* [Youtube video on clerking](https://youtu.be/1KJpF0fzZkI){: rel="noopener" target="_blank"}

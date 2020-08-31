@@ -9,9 +9,14 @@
     <style>p {font-size: 17px}</style>
 </head>
 <body>
-    <p>If you are not redirected automatically, <a href="/home">go to the home page</a></p>
+    <noscript><p id=en>If you are not redirected automatically, <a id="en-link" href="/home">go to the home page</a></p>
 <br><br><br>
-    <p>Si votre navigateur ne vous redirige pas, <a href="/accueil">suivez ce lien vers l'accueil</a></p>
+    <p id=fr>Si votre navigateur ne vous redirige pas, <a id="fr-link" href="/accueil">suivez ce lien vers l'accueil</a></p>
+    </noscript>
+
+    <p id=en></p>
+<br><br><br>
+    <p id=fr></p>
 </body>
 <script type="text/javascript">
 window.onload = function() {
@@ -25,5 +30,10 @@ window.onload = function() {
     {% for each in site.data.navigation.welcome %} if (choice === "{{ each.lang }}") {window.location.replace("{{ each.link }}");}
 {% endfor %}
 }
+setTimeout(() => {
+document.getElementById("en").innerHTML = 'If you are not redirected automatically, <a id="en-link" href="/home">go to the home page</a>';
+
+document.getElementById("fr").innerHTML = 'Si votre navigateur ne vous redirige pas, <a id="fr-link" href="/accueil">suivez ce lien vers l\'accueil</a>';
+}, 2000);
 </script>
 </html>
