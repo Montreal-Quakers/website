@@ -31,7 +31,6 @@ Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations suppl�
   * L'espace n'est donc pas accessible aux personnes en fauteuil roulant.
 
 ### Langue
-* Le groupe de Québec se déroule principalement en français.
-* La traduction chuchotée en anglais peut être disponible
+* Le culte du groupe de Québec se déroule principalement en français.
 
 {% include picture.html basename="/assets/images/quebec_wg" type="jpg" alt="Chaises dans la salle" class="img_center100" %}

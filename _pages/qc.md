@@ -28,9 +28,6 @@ Please [let us know](/contact) if you require additional information or accommod
 
 ### Language
 * The Quebec City worship group is primarily in French.
-  * Translation is available.
-  * When we have guests who speak only one language, we can and do translate for them.
-  * Nearly everyone understands English.
-* We frequently have visitors from the US or Britain.
+  * Most participants are bilingual
 
 {% include picture.html basename="/assets/images/quebec" type="jpg" alt="Quebec worship group logo" class="img_center100" %}
