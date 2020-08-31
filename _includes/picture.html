@@ -2,7 +2,6 @@
   {% if include.figcaption %}<figure>{% endif %}
     <source srcset="{{ include.basename }}.webp" type="image/webp">
     <source srcset="{{ include.basename }}.{{ include.type }}" type="image/{{ include.type }}">
-    <img src="{{ include.basename }}.webp" class="{{ include.class }}" alt="{{ include.alt }}">
-  {% if include.figcaption %}<figcaption><em>{{ include.figcaption }}</em></figcaption>
-  </figure>{% endif %}
+    <img src="{{ include.basename }}.webp" class="{{ include.class }}" alt="{{ include.alt }}" {% if include.style %}style="{{ include.style }}"{% endif %}>
+  {% if include.figcaption %}<figcaption><em>{{ include.figcaption }}</em></figcaption></figure>{% endif %}
 </picture>

@@ -18,7 +18,7 @@ Please [let us know](/contact) if you require additional information or accommod
 ### Mobility
 Worship is on the main floor.
 * Wheelchair access via a ramp.
-  * Please give us [advanced notice](/laurentians).
+  * Please give us [advanced notice](/laurentians#contact).
 * Wheelchair accessible washroom on the main floor.
 * Parking available.
 * Other levels may not be accessible.

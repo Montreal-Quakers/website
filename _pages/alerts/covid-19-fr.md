@@ -3,7 +3,13 @@ title: <i class="fas fa-head-side-mask color-1-light-text fa-flip-horizontal"></
 lang: fr
 trans: covid
 ---
-Comme mesure préventive contre la COVID-19, les assemblées Quaker de dimanche et de Québec seront en ligne au moins jusqu’au **7 septembre 2020**. Cette page et notre [page Facebook](https://www.facebook.com/MontrealQuakers/){: rel="noopener" target="_blank"} (majoritairement en anglais) auront des options de culte en ligne et d’autres mises à jours.
+Comme mesure préventive contre la COVID-19, voici les modifications:
+* L'assemblée de dimanche: **en ligne** seulement jusqu'au moins le {{ site.covid-close-date-fr }}.
+* Le culte du groupe de Québec: **en ligne** seulement jusqu'au moins le {{ site.covid-close-date-fr }}.
+* Le culte du groupe de mi-semaine sera **en ligne en automne 2020**.
+* Le culte du groupe aux Laurentides est **en présentiel**, mais il vaut mieux [appeler avant](/laurentians#contact).
+
+Surtout cette page mais aussi notre [page Facebook](https://www.facebook.com/MontrealQuakers/){: rel="noopener" target="_blank"} (majoritairement en anglais) auront des options de culte en ligne et d’autres mises à jours.
 
 [Contactez-nous](/contact-fr.html) pour connaître les modalités.
 

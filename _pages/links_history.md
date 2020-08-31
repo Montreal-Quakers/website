@@ -3,11 +3,8 @@ title: Links & History
 lang: en
 trans: links_history
 ---
-<picture>
-  <source srcset="/assets/images/benches.webp" type="image/webp">
-  <source srcset="/assets/images/benches.jpg" type="image/jpg">
-  <img src="/assets/images/benches.webp" class="img_center" alt="Benches with light">
-</picture>
+{% include picture.html basename="/assets/images/benches" type="jpg" alt="Benches with light" class="img_center" %}
+
 ## For newcomers, about Quakers
 * [QuakerSpeak videos](https://quakerspeak.com/){: rel="noopener" target="_blank"}, for instance [this one](https://www.youtube.com/watch?time_continue=1&v=I63xA-VZGXw&feature=emb_title){: rel="noopener" target="_blank"}, are an excellent resource.
 * Letters to a fellow seeker by Steve Chase, 
@@ -36,9 +33,4 @@ trans: links_history
 * [Women's Speaking](http://www.qhpress.org/texts/fell.html){: rel="noopener" target="_blank"} has some texts by notable Quaker women, for instance, one of the founders of Quakerism, Margaret Fell.
 * [History of Montreal Meeting (1929-1964) Lloyd Williams](/assets/PDF/MMM_history-Lloyd-Williams.pdf){: rel="noopener" target="_blank"} (PDF)
 
-### Our previous meetinghouse on de Maisonneuve
-<picture>
-  <source srcset="/assets/images/1974_MaisW_1.webp" type="image/webp">
-  <source srcset="/assets/images/1974_MaisW_1.jpg" type="image/jpg">
-  <img src="/assets/images/1974_MaisW_1.webp" class="img_center75" alt="Our previous meetinghouse on de Maisonneuve">
-</picture>
+{% include picture.html basename="/assets/images/1974_MaisW_1" type="jpg" alt="Our previous meetinghouse on de Maisonneuve" class="img_center75" figcaption="Our previous meetinghouse on de Maisonneuve" %}

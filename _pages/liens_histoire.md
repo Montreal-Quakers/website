@@ -3,11 +3,7 @@ title: Liens & histoire
 lang: fr
 trans: links_history
 ---
-<picture>
-  <source srcset="/assets/images/benches.webp" type="image/webp">
-  <source srcset="/assets/images/benches.jpg" type="image/jpg">
-  <img src="/assets/images/benches.webp" class="img_center" alt="Des bancs dans la lumière">
-</picture>
+{% include picture.html basename="/assets/images/benches" type="jpg" alt="Des bancs dans la lumière" class="img_center" %}
 
 ## Sur les Quakers (en français)
 
@@ -37,9 +33,4 @@ So sad, Woodbrooke seems to have deleted this course -- post this again if they 
 
 [Petit à petit, l’oiseau fait son nid Par Chantal Fournier](/assets/PDF/MMM-History-CF.V100.05.15.pdf){: rel="noopener" target="_blank"} (PDF)
 
-### Auparavant, notre Centre Quaker à Montréal sur boulevard de Maisonneuve ouest
-<picture>
-  <source srcset="/assets/images/1974_MaisW_1.webp" type="image/webp">
-  <source srcset="/assets/images/1974_MaisW_1.jpg" type="image/jpg">
-  <img src="/assets/images/1974_MaisW_1.webp" class="img_center75" alt="Notre lieu de culte auparavant">
-</picture>
+{% include picture.html basename="/assets/images/1974_MaisW_1" type="jpg" alt="Notre lieu de culte auparavant" class="img_center75" figcaption="Auparavant, notre Centre Quaker à Montréal sur boulevard de Maisonneuve ouest" %}

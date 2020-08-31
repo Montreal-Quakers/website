@@ -18,11 +18,11 @@ permalink: /à_propos
     
 ************
 
-Les Amis (Quakers) prennent un moment de recul face aux distractions de la vie quotidienne en se regroupant le dimanche. Brièvement, notre but est de mettre de côté nos préoccupations pour un moment; nous encourageons la simplicité, la paix, l’intégrité, l’égalité des races et des orientations et l’entraide dans l’organisation communautaire. 
+Les Quakers prennent un moment de recul face aux distractions de la vie quotidienne.
 
 ![](/assets/images/no-tie_color.png){: img_left height="20px" style="vertical-align:middle"}<span class="stanchor"><a name="cravate"> </a></span> &nbsp;Lors d'une assemblée Quaker aucune tenue vestimentaire particulière n'est prescrite.
 
-<i class="fas fa-chair" style="color: #4d1a00;"></i><span class="stanchor"><a name="chaise"> </a></span> &nbsp;Prenez n'importe quel siège. L’assemblée débute au moment où nous nous assoyons en silence et elle dure jusqu’au moment où les responsables font un signe de conclusion, comme se donner la main. Bien qu’il soit préférable d’arriver quelques minutes à l'avance, votre présence nous est plus importante que votre ponctualité.
+<i class="fas fa-chair" style="color: #4d1a00;"></i><span class="stanchor"><a name="chaise"> </a></span> &nbsp;Prenez n'importe quel siège. L’assemblée débute au moment où nous nous assoyons en silence; elle dure jusqu’au moment où les responsables font un signe de conclusion, comme se donner la main. Bien qu’il soit préférable d’arriver quelques minutes à l'avance, votre présence nous est plus importante que votre ponctualité.
 
 <i class="fas fa-search color-1-text"></i><span class="stanchor"><a name="regarde"> </a></span> &nbsp;Dans la tranquillité, nous écoutons. Certains écoutent Dieu, d'autres la nature ou leur conscience. Par cette pratique, nous apprenons à accueillir le meilleur de nous-mêmes.
 

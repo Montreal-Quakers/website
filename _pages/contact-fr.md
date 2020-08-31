@@ -11,8 +11,4 @@ N'hésitez pas à nous poser des questions.
 
 {% include contact.html %}
 
-<picture>
-  <source srcset="/assets/images/circle_group_cropped.webp" type="image/webp">
-  <source srcset="/assets/images/circle_group_cropped.jpeg" type="image/jpg">
-  <img src="/assets/images/circle_group_cropped.webp" class="img_center100" alt="Le groupe en cercle">
-</picture>
+{% include picture.html basename="/assets/images/circle_group_cropped" type="jpg" alt="Le groupe en cercle" class="img_center100" %}
