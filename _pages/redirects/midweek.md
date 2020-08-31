@@ -1,5 +1,5 @@
 ---
 redirect: https://meet.google.com/oje-tygi-wib
 layout: redirect
-permalink: /midweek.html
+permalink: /midweek-meet.html
 ---
