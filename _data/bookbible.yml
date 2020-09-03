@@ -1,8 +1,8 @@
 verse: 
-  en: Corinthians 1
-  fr: Corinthiens 1
-  fr-date: jeudi le 3 septembre, 2020 à 15h30
-  en-date: Thursday, September 3rd, 2020 at 3:30 PM
+  en: 1 Corinthians 5
+  fr: 1 Corinthiens 5
+  fr-date: mercredi le 9 septembre, 2020 à 20h15
+  en-date: Wednesday, September 9th, 2020 at 8:15 PM
 
 next:
 - reading: 1 Thessalonians
@@ -11,6 +11,7 @@ next:
   # - reading: Timothy
 - reading: 1 Corinthians
 - reading: 2 Corinthians
+- reading: Ecclesiastes 1
 
 prochain:
 - lecture: 1 Thessaloniciens
@@ -18,4 +19,5 @@ prochain:
 - lecture: Galates
 - lecture: 1 Corinthiens
 - lecture: 2 Corinthiens
+- lecture: Ecclésiaste 1
 # - lecture: Timothée
