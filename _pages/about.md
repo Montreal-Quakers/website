@@ -3,21 +3,21 @@ title: Your First Quaker Meeting in Six Steps
 lang: en
 trans: about
 ---
-1. &nbsp;[![](/assets/images/no-tie_color.png){: img_left height="35px" class="down_a_bit_more"} &nbsp;You're welcome as you are. Dress comfortably (ties are fine too)](#notie){: id="linkoff"}  <br>
+1. &nbsp;[![](/assets/images/no-tie_color.png){: img_left height="35px" class="down_a_bit_more"} &nbsp;You're welcome as you are. Dress comfortably (ties are fine too).](#notie){: id="linkoff"}  <br>
 
-2. [<i class="fas fa-chair fa-fw fa-2x down_a_bit_more" style="color: #4d1a00;"></i> Sit anywhere you like](#chair){: id="linkoff"}
-
-  
-1. [<i class="fas fa-search fa-fw fa-2x color-1-text down_a_bit_more"></i> In the quiet of Quaker meeting, look inside](#look){: id="linkoff"}
+2. [<i class="fas fa-chair fa-fw fa-2x down_a_bit_more" style="color: #4d1a00;"></i> Sit anywhere you like.](#chair){: id="linkoff"}
 
   
-1. [<i class="fas fa-hand-holding-heart fa-fw fa-2x down_a_bit_more" style="color: crimson"></i> If moved, speak from the heart. If not, listen](#heart){: id="linkoff"}
+1. [<i class="fas fa-search fa-fw fa-2x color-1-text down_a_bit_more"></i> In the quiet of Quaker meeting, look inside.](#look){: id="linkoff"}
+
+  
+1. [<i class="fas fa-hand-holding-heart fa-fw fa-2x down_a_bit_more" style="color: crimson"></i> If moved, speak from the heart. If not, listen.](#heart){: id="linkoff"}
 
 
-1. [<i class="far fa-pause-circle fa-fw fa-2x color-1-light-text down_a_bit_more"></i> After people speak, allow a moment for reflection. Out of respect, we avoid responding to others during worship](#wait){: id="linkoff"}
+1. [<i class="far fa-pause-circle fa-fw fa-2x color-1-light-text down_a_bit_more"></i> After people speak, allow a moment for reflection. Out of respect, we avoid responding to others during worship.](#wait){: id="linkoff"}
 
 
-1. [<i class="fas fa-mug-hot fa-fw fa-2x color-1-dark-text"></i> We encourage you to stay for tea after if you are able](#tea){: id="linkoff"}
+1. [<i class="fas fa-mug-hot fa-fw fa-2x color-1-dark-text"></i> We encourage you to stay for tea after if you are able.](#tea){: id="linkoff"}
 
   
 ************
