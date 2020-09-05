@@ -5,6 +5,8 @@ trans: usfw-2020-09
 tags: FWCC, invitation
 author: Newsletter
 ---
+We are invited to participate in a USFW meeting on Saturday 26 September, 2020 from 10am-12noon (EST) 5-7PM Kenya Time. North American women will meet to worship and discuss with Kenyan and Congolese women, some in Africa and some who have emigrated to Canada and the U.S. One of the key organizers is Marian Baker, who visited us last summer and whose travelogue of her journey through African communities last fall was sent out to interested Friends in MMM as her voyage unfolded. 
+
 All are invited.
 
 ### Where
