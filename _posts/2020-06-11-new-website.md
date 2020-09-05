@@ -22,3 +22,5 @@ To come:
   * Learning more
   * Podcast recommendations
   * Meeting policies and resources
+
+For comparison, the [previous website can still be viewed at Archive.org](https://web.archive.org/web/20190216082942/https://montreal.quaker.ca/en/index/){: rel="noopener" target="_blank"}.

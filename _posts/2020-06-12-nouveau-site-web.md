@@ -22,3 +22,5 @@ Profitez des nouvelles fonctionalités:
   * L'assemblée d'affaires
   * Apprendre plus
   * Des ressources pour mieux connaître la communauté
+
+[Le site précédant est toujours visible à Archive.org](https://web.archive.org/web/20190216082942/https://montreal.quaker.ca/en/index/){: rel="noopener" target="_blank"}.
