@@ -44,12 +44,12 @@ media_pages:
     # Anything else, like '"alerton = "off"' and alerts will be off.
     # Change alert colour in the _sass/_colors.scss, $alert-color
 
-covid-close-date-en: September 15th, 2020
-covid-close-date-fr: 15 septembre 2020
+covid-close-date-en: October 1st, 2020
+covid-close-date-fr: 1er octobre 2020
 
 redalerts: some
-redalert_all_en-text: alert/en-covid.md
-redalert_all_fr-text: alert/fr-covid.md
+redalert_all_text-en: alert/en-covid.md
+redalert_all_text-fr: alert/fr-covid.md
 redalert_pages:
   - page_trans: home
     redalert_text-en: alert/en-covid.md
@@ -63,14 +63,17 @@ redalert_pages:
   - page_trans: midweek
     redalert_text-en: alert/en-covid.md
     redalert_text-fr: alert/fr-covid.md
+  - page_trans: laurentians
+    redalert_text-en: alert/en-covid.md
+    redalert_text-fr: alert/fr-covid.md
 
-bluealerts: off
-bluealert_en-text: alert/en-midweek_over.md
-bluealert_fr-text: alert/fr-midweek_over.md
+bluealerts: some
+bluealert_all_text-en: alert/en-midweek_over.md
+bluealert_all_text-fr: alert/fr-midweek_over.md
 bluealert_pages:
   - page_trans: midweek
-    bluealert_text-en: alert/en-covid.md
-    bluealert_text-fr: alert/fr-covid.md
+    bluealert_text-en: alert/en-midweek_timechange.md
+    bluealert_text-fr: alert/fr-midweek_timechange.md
 
     #This section allows you to easily control which pages will have which bird and text animation
 bird_left: 
