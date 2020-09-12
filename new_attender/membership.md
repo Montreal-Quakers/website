@@ -4,7 +4,7 @@ lang: en
 trans: membership
 ---
 ## The role of membership for Montreal Quakers
-Some people attend meeting and even serve on Quaker committees for many years without being a member. Anyone is welcome at meeting, may ministry at meeting and at business meeting; members and regular attenders can serve on committees. 
+Some people attend meeting and even serve on Quaker committees for many years without being a member. Anyone is welcome at meeting, may give ministry at meeting and at business meeting; members and regular attenders can serve on committees. 
 
 That said, membership is important, even if there are few specific distinctions or privileges that come with it.
 

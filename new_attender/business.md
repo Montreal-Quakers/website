@@ -11,9 +11,9 @@ The goal of business meeting is to figure out how our community is led by Spirit
 There is no one answer.
 * To take a silly example, trying to decide what colour rug to buy, it’s not as if God has the colour orange in mind and that we’re being bad little Quakers if we purchase a red rug
 * Arthur Larabee, long-time clerk of Philadelphia Yearly Meeting, speaks of the goal of business meeting being “to find a loving outcome” 
-  * There are many possible loving outcomes -- orange and red and other coloured rugs -- and none of them are known in advance before the meeting starts
+  * There are many possible loving outcomes -- orange and red and other coloured rugs -- and none of them is known in advance before the meeting starts
   * The purpose of the meeting is to discover some loving outcomes
-  * Also, a loving outcome isn’t necessarily an action: it can be worshipping together
+  * A loving outcome isn’t necessarily an action: it can be worshipping together
 
 ## Roles <i class="fas fa-theater-masks fa-fw color-1-text"></i>
 ### The clerk<span class="stanchor"><a name="clerk"></a></span>
@@ -28,12 +28,12 @@ The assistant clerk facilitates business meeting in the absence of the clerk, an
 The recording clerk tries to record the decisions and the sense of the meeting.
 
 ## The sense of the meeting
-The sense of the meeting: is the generally agreed upon articulation of the discernment and decision. The sense of the meeting could be that there is no unity, it could be no decision, it could be multiple opinions. The sense of the meeting is an articulation of where the group is at generally in their feelings and opinion.
+The sense of the meeting is _the generally agreed upon articulation of the discernment and decision_. The sense of the meeting could be that there is no unity, it could be no decision, it could be multiple opinions. The sense of the meeting is an articulation of where the group is at generally in their feelings and opinion.
 ## Unity vs. consensus
 ### Consensus
 Perhaps some have been part of a consensus-based group. Basically, it means a kind of voting where everyone has to consent to an action.
 ### Unity
-Unity: is the spiritual unity of the group, the clear sense that the Spirit is leading the group in a particular direction. Note that the Spirit may be moving us individually in a very different direction than the group. Unity is corporate, not personal.
+Unity is the spiritual unity of the group, the clear sense that the Spirit is leading the group in a particular direction. Note that the Spirit may be moving us individually in a very different direction than the group. Unity is corporate, not personal.
 
 Unity is usually known through unanimity. Most of the time we know unity through a unanimously agreed upon sense of the meeting that the group is moved by Spirit in a particular direction or to take a particular action.
 
@@ -47,11 +47,10 @@ Depending on the size of the group, a tiny minority cannot hold up the process w
 
 Similarly, Quaker business meeting has expectations about how members behave.
 * Most importantly, we need to be open in mind and spirit
-
-If the meeting senses that a member is not open in mind or spirit (e.g. “No, stupid idea and I don’t want to talk about it!”) or comes with preconceived or selfish notions then their objections don’t count. 
+  * If the meeting senses that a member is not open in mind or spirit (e.g. “No, stupid idea and I don’t want to talk about it!”) or comes with preconceived or selfish notions then their objections don’t count. 
 * If no one sees fit to hold up the process for that objection, and as a last resort, the meeting is in unity and can move forward
 
-So unity is not unanimity nor consensus even if unity should usually be found by a unanimous sense of the meeting. In rare cases, the group may decide it is in unity despite objections of a tiny minority.
+Unity is neither unanimity nor consensus even if unity should usually be found by a unanimous sense of the meeting. In rare cases, the group may decide it is in unity despite objections of a tiny minority.
 
 Nonetheless, moving forward without unanimity should be quite rare.
 ### Standing aside
