@@ -12,14 +12,14 @@ Your donations make possible functions such as:
 * Supporting the work of Canadian Yearly Meeting
 * Purchasing pamphlets and books for Montreal Meeting
 * Travel expenses for speakers and delegates
-* Donations to worthy causes approved by the meeting for Worship for Business.
+* Donations to worthy causes approved by Montreal Meeting
 
 Thank you for your consideration.
 
 We do not pass a collections plate during Meeting on Sunday. In order to donate, you may:
-* use the [CanadaHelps form](https://www.canadahelps.org/en/charities/religious-society-of-friends-quakers-montreal-monthly-meet/){: t rel="noopener" arget="_blank"} below
-* use our donation box at meeting
-* make a cheque payable to “Religious Society of Friends (Quakers) Montreal Monthly Meeting”, mailed c/o Montreal Quakers, 1090 Greene Ave., H3Z 1Z9.
+1. Use the [CanadaHelps form](https://www.canadahelps.org/en/charities/religious-society-of-friends-quakers-montreal-monthly-meet/){: t rel="noopener" arget="_blank"} below.
+2. Use our donation box at meeting.
+3. Make a cheque payable to “Religious Society of Friends (Quakers) Montreal Monthly Meeting”, mailed c/o Montreal Quakers, 1090 Greene Ave., H3Z 1Z9.
 
 Donations of over $10 are eligible for a tax receipt, as the meeting is a CRA registered charity (CRA registration #892605163 RR 0001).
 

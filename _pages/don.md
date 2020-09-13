@@ -18,9 +18,9 @@ Merci pour votre considération.
 
 Nous ne percevons pas de don lors de l’assemblée du dimanche. Nous encourageons nos membres à faire un don par un de ces trois moyens:
 
-* Utilisez le formulaire [CanaDon](https://www.canadahelps.org/fr/organismesdebienfaisance/religious-society-of-friends-quakers-montreal-monthly-meet/){: rel="noopener" target="_blank"} ci-dessous
-* Les dons peuvent se faire en espèces ou par chèque dans la boîte réservée à cet effet lors d'une de nos assemblées
-* Par chèque envoyé par la poste à l’attention de «Religious Society of Friends (Quakers) Montreal Monthly Meeting» (Vous pouvez le raccourcir à «Rel. Soc. of Friends (Quakers) Mtl MM»). Vous pouvez envoyer un chèque à l’attention des Quakers de Montréal, 1090 Greene Ave., H3Z 1Z9
+1. Utilisez le formulaire [CanaDon](https://www.canadahelps.org/fr/organismesdebienfaisance/religious-society-of-friends-quakers-montreal-monthly-meet/){: rel="noopener" target="_blank"} ci-dessous.
+2. Les dons peuvent se faire en espèces ou par chèque dans la boîte réservée à cet effet lors d'une de nos assemblées.
+3. Par chèque envoyé par la poste à l’attention de «Religious Society of Friends (Quakers) Montreal Monthly Meeting» (Vous pouvez le raccourcir à «Rel. Soc. of Friends (Quakers) Mtl MM»). Vous pouvez envoyer un chèque à l’attention des Quakers de Montréal, 1090 Greene Ave., H3Z 1Z9.
 
 Les dons de plus de 10 $ sont admissibles à un reçu aux fins de l'impôt; l'Assemblée est un organisme de bienfaisance enregistré de l'ARC (numéro d'enregistrement de l'ARC 892605163 RR 0001).
 

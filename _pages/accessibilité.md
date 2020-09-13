@@ -5,7 +5,7 @@ trans: accessibility
 ---
 Le Quakerisme se base sur le respect de chaque être humain. Si nous pouvons améliorer votre accès à notre site web ou à nos sites physiques, nous espérons que [vous nous le ferez savoir](/contact-fr).
 
-Veuillez [nous contacter](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.
+Veuillez [nous contacter](/contact-fr) si vous avez besoin d'informations supplémentaires.
 
 ## Notre site web
 * Si vous avez des difficultés à lire une ou des portion(s) de notre site web (par exemple votre lecteur d'écran fonctionne mal), [contactez-nous](/contact-fr) avec les détails et il nous fera plaisir de vous envoyer les sections concernées de notre site web en format Word, PDF ou autre format à votre convenance.

@@ -28,7 +28,7 @@ A Quaker Meeting is based on silence, marking a pause from the distractions of e
 
 <i class="fas fa-chair" style="color: #4d1a00;"></i><span class="stanchor"><a name="chair"> </a></span> &nbsp;Go in as soon as you are ready; sit anywhere you like. Meeting for Worship starts as soon as the first person sits down; it ends after about an hour when the appointed person marks the conclusion of worship, for instance by shaking hands. It is preferable to arrive a few minutes early, but punctuality is much less important than your company.
 
-<i class="fas fa-search color-1-text"></i><span class="stanchor"><a name="look"> </a></span> &nbsp;We take the quiet of Quaker meeting to listen. Some listen to God, others to nature or their conscience. Bring whatever is pressing on your mind to the Meeting. It can be a time of insight, healing, and calm.
+<i class="fas fa-search color-1-text"></i><span class="stanchor"><a name="look"> </a></span> &nbsp;We take the quiet time of Quaker meeting to listen. Some listen to God, others to nature or their conscience. Bring whatever is pressing on your mind to the Meeting. It can be a time of insight, healing, and calm.
 
 <i class="fas fa-hand-holding-heart" style="color: crimson"></i><span class="stanchor"><a name="heart"> </a></span> &nbsp;Someone present may feel inspired by this experience to say something which will deepen and enrich the worship. This brief "vocal ministry" may involve song, prayer, a reading, or a vocal message of concern, hope, or thanksgiving.
 
