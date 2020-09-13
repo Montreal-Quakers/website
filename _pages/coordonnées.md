@@ -11,7 +11,7 @@ trans: directions
 
 * Près de la **station Lionel-Groulx et Atwater** (Lionel-Groulx est un peu plus proche)
 * Le **stationnement** est disponible derrière le Centre Greene
-* Notez que le Centre Greene **décourage** les fragrances, les arachides et les noix.
+* Notez que le Centre Greene **décourage** les fragrances, les arachides et les noix
 * Le Centre Greene est **accessible** à partir des portes en avant et en arrière également
 
 Notre assemblée a lieu au rez-de-chaussée (dans la « Sunroom »). Tout le monde est bienvenu.
@@ -40,15 +40,15 @@ Nous nous rencontrons au rez-de-chaussée.
   * Si on part de la station Lionel-Groulx, il y a une petite côte à monter pour aller au Centre Greene.
 
 ### Langue
-* Cette assemblée a lieu principalement en anglais
-  * La traduction est disponible
-  * Lorsque quelqu'un ne parle qu'une langue, nous pouvons faire une traduction chuchotée
-  * La plupart des gens sont bilingues
-* Nous avons plusieurs membres francophones
-  * Quelques membres ne parlent que français ou anglais
+* Cette assemblée a lieu principalement en anglais.
+  * La traduction est disponible.
+  * Lorsque quelqu'un ne parle qu'une langue, nous pouvons faire une traduction chuchotée.
+  * La plupart des gens sont bilingues.
+* Nous avons plusieurs membres francophones.
+  * Quelques membres ne parlent que français ou anglais.
 
 ### Audition
-* Notre assemblée a une participante fréquente qui est un interprète en langue des signes ASL
+* Notre assemblée a une participante fréquente qui est un interprète en langue des signes ASL.
 * Nous disposons d’un système auditif auxiliaire.
   * Veuillez [nous contactez](/contact-fr) pour plus d'informations.
 
