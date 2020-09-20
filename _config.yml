@@ -36,6 +36,8 @@ media_pages:
     media2: calendar2.html
   - page_trans: sandbox
     media: slideshow.html
+  - page_trans: south_shore
+    media: maps/street_barnabas.html
 
     # Turn alerts on and off using this variable below. 
     # If you want alerts on all pages on the website, set 'alerts: all'.
@@ -64,6 +66,9 @@ redalert_pages:
     redalert_text-en: alert/en-covid.md
     redalert_text-fr: alert/fr-covid.md
   - page_trans: laurentians
+    redalert_text-en: alert/en-covid.md
+    redalert_text-fr: alert/fr-covid.md
+  - page_trans: south_shore
     redalert_text-en: alert/en-covid.md
     redalert_text-fr: alert/fr-covid.md
 
