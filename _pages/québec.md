@@ -21,16 +21,14 @@ Si c’est votre première assemblée Quaker, [cette page](/a_propos.html) donne
 
 Pour plus d’information sur le Quakerisme, voir la page [Liens et histoire](/liens_histoire.html):
 
-{% include picture.html basename="/assets/images/quebec" type="jpg" alt="Groupe Quaker de Québec image avec arbres" class="img_center100" %}
-
 ## [Accessibilité](/accessibilité) <span class="stanchor"><a name="accessibilité"></a></span>
 Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.
 ### Mobilité
-* Un parking est disponible.
+* Un parking accessible est disponible.
 * Le groupe se réunit au rez-de-chaussée, mais en montant quatre marches.
   * L'espace n'est donc pas accessible aux personnes en fauteuil roulant.
 
 ### Langue
 * Le culte du groupe de Québec se déroule principalement en français.
 
-{% include picture.html basename="/assets/images/quebec_wg" type="jpg" alt="Chaises dans la salle" class="img_center100" %}
+{% include picture.html basename="/assets/images/quebec" type="jpg" alt="Groupe Quaker de Québec image avec arbres" class="img_center75" %}

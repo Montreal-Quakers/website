@@ -16,13 +16,11 @@ If this will be your first time at a Quaker Meeting, you may want to read [this 
 ## Contact
 [Contact us](/contact.html) for details, or contact the worship group directly via email at [quebec@montreal.quaker.ca](mailto:quebec@montreal.quaker.ca){: rel="noopener" target="_blank"} or via [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}.
 
-{% include picture.html basename="/assets/images/quebec_wg" type="jpg" alt="Chaises dans la salle" class="img_center100" %}
-
 ## [Accessibility](/accessibility) <span class="stanchor"><a name="accessibility"></a></span>
 Please [let us know](/contact) if you require additional information or accommodations for accessibility.
 
 ### Mobility
-* Parking is available.
+* Wheelchair accessible parking is available.
 * The group meets on the main floor, but up four stairs.
   * The space is therefore unfortunately **not** wheelchair accessible.
 
@@ -30,4 +28,4 @@ Please [let us know](/contact) if you require additional information or accommod
 * The Quebec City worship group is primarily in French.
   * Most participants are bilingual
 
-{% include picture.html basename="/assets/images/quebec" type="jpg" alt="Quebec worship group logo" class="img_center100" %}
+{% include picture.html basename="/assets/images/quebec" type="jpg" alt="Quebec worship group logo" class="img_center75" %}
