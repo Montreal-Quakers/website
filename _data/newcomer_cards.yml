@@ -50,6 +50,8 @@ en:
   link: /new_attender/glossary
   icon: <i class="fas fa-book-reader fa-fw"></i>
   submenu:
+    - subtitle: Introduction
+      sublink: /glossary/intro-en
     - subtitle: Abbreviations
       sublink: /glossary/abs
     - subtitle: Tips
@@ -112,6 +114,8 @@ fr:
   link: /nouveau/glossaire
   icon: <i class="fas fa-book-reader fa-fw"></i>
   submenu:
+    - subtitle: Introduction
+      sublink: /glossary/intro-fr
     - subtitle: Abréviations
       sublink: /glossary/abr
     - subtitle: Conseils

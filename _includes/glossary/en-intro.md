@@ -3,4 +3,4 @@
 
 Click any of the {% if page.trans == "glossary_fren" %}{{ site.data.glossaire.size }}{% else %}{{ site.data.glossary.size }}{% endif %} entries below to view definitions and commentary.
 
-See [abbreviations](/glossary/abs), [translations of oft-quoted texts](/glossary/texts), [tips](/glossary/tips), and [acknowledgements](/glossary/thanks).
+See [introduction](/glossary/intro-en), [abbreviations](/glossary/abs), [translations of oft-quoted texts](/glossary/texts), [tips](/glossary/tips), and [acknowledgements](/glossary/thanks).

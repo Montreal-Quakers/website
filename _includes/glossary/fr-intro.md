@@ -2,4 +2,4 @@ Un glossaire {% if page.trans == "glossary_fren" %}français-anglais (et [anglai
 
 Cliquer sur les termes ci-dessous pour voir les définitions et les commentaires. 
 
-Voir [abréviations](/glossary/abr), [des traductions de quelques textes souvent cités](/glossary/cite), [conseils](/glossary/conseils) et [remerciements](/glossary/remerciements).
+Voir [introduction](/glossary/intro-fr), [abréviations](/glossary/abr), [traductions de quelques textes souvent cités](/glossary/cite), [conseils](/glossary/conseils) et [remerciements](/glossary/remerciements).
