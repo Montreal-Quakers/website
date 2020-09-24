@@ -21,7 +21,7 @@ Adjacent to McGill University at the Newman Centre's <i class="fas fa-book"></i>
 **Parking** may be available. Contact the [Newman Centre](https://newmancentre.org/){: rel="noopener" target="_blank"}
 
 ## How to find us
-To find the **Ryan Library**, enter the Newman Centre from the driveway, proceed up the stairs to the second floor, end of the hallway facing Peel.
+To find the **Ryan Library**, enter the [Newman Centre](https://goo.gl/maps/MeQqk7m8Hegzx9Sz8){: rel="noopener" target="_blank"} from the driveway, proceed up the stairs to the second floor, end of the hallway facing Peel.
 
 All are welcome!
 

@@ -15,7 +15,7 @@ Pour plus d'informations, joignez-vous au [groupe Facebook](https://www.facebook
 ## Où
 [3484 rue Peel, Montréal](https://goo.gl/maps/MeQqk7m8Hegzx9Sz8){: rel="noopener" target="_blank"}
 
-À côté de l’Université McGill au Centre Newman, à la <i class="fas fa-book"></i> Bibliothèque Ryan (au 2e étage). 
+À côté de l’Université McGill au [Centre Newman](https://goo.gl/maps/MeQqk7m8Hegzx9Sz8){: rel="noopener" target="_blank"}, à la <i class="fas fa-book"></i> Bibliothèque Ryan (au 2e étage). 
 
 Le Centre Newman n'est malheureusement **pas accessible** aux personnes en fauteuil roulant.
 ## Comment nous trouver

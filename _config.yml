@@ -105,7 +105,7 @@ bird_right:
   - animation: land_right
     trans: laurentians
   - animation: land_right
-    trans: directions
+    trans: south_shore
   - animation: roll_bird2
     trans: links_history
   - animation: swing-in1
