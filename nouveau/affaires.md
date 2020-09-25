@@ -16,12 +16,15 @@ L’objectif de l’assemblée d’affaires est de se faire une idée sur la fa�
   * Une issue aimante n’est pas nécessairement une action: ça peut-être tout simplement de continuer à se recueillir ensemble.
 
 ## Rôles <i class="fas fa-theater-masks fa-fw color-1-text"></i>
-### La modératrice ou le modérateur <span class="stanchor"><a name="clerc"></a></span>
+### La modératrice ou le modérateur <span class="stanchor"><a name="modératrice"></a></span>
 La modératrice ou le modérateur (clerc) donne le ton, explique le sujet, ou demande à quelqu’un d’autre de le faire, et d’un sujet d’information, il amène ce sujet au stade de la clarification, de l’action, pour ensuite confier cette action aux personnes ou au comités désignés. Cette personne essaie de trouver le sens de l’assemblée et éventuellement trouver l’unité. Elle met à l’épreuve sa compréhension du sens de l’assemblée en la lui proposant et en lui demandant si cette compréhension est juste.
 
 Plus les participants pensent et agissent comme une modératrice, mieux déroule l'assemblée d'affaires
 
-### Secrétaire de séance
+### Assistant.e à la modératrice ou au modérateur <span class="stanchor"><a name="assistante"></a></span>
+L'assistante à la modératrice ou au modérateur anime l'assemblée d'affaires en cas d'absence et aide avec d'autres tâches telles que la correspondance et les annonces.
+
+### Secrétaire de séance <span class="stanchor"><a name="secrétaire"></a></span>
 La ou le secrétaire de séance essaie d'articuler et écrire les décisions et le sens de l'assemblée
 
 ## Le sens de l'assemblée <span class="stanchor"><a name="sens"></a></span>
