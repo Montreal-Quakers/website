@@ -3,26 +3,22 @@ title: <i class="fas fa-book-reader color-1-text"></i> Book club & Bible study <
 lang: en
 trans: book_bible
 ---
-At our next meeting, we will be studying:
+## Practical details
+* This groups meets on **Wednesdays from 8:15 pm to 9:00 pm** (after midweek meeting).
+* **No need to read in advance**, the text is read aloud, followed by discussion.
+* The group seldom meets longer than 40 minutes.
+* Discussion is held primarily **in English**.
+* During COVID, the study group meets on Montreal Meeting's **Discord channel**.
 
-# {{ site.data.bookbible.verse.en }}
+[Contact us](/contact) for more details.
 
-Right now, we are meeting on Wednesdays from 8:15pm to 9:00pm, after midweek meeting.
-Next meeting:
+## Our next meeting
+At our next meeting, on **{{ site.data.bookbible.verse.en-date }}** we will be studying **{{ site.data.bookbible.verse.en }}**.
 
-## {{ site.data.bookbible.verse.en-date }}
-
+## Past readings
 We have been reading from these books:
 {% for each in site.data.bookbible.next %}
 * {{ each.reading }}{% endfor %}
 
 Feel free to [contact us](/contact) with suggestions or requests.
 
-## Practical details
-* We often simply read aloud as a group and then discuss
-  * No need to read in advance, unless you want to
-* Our group seldom meets longer than 40 minutes
-* This group discusses primarily in English
-* Right now, we are meeting on Montreal Meeting's Discord channel, but other arrangements can be made
-
-[Contact us](/contact) for more details.
