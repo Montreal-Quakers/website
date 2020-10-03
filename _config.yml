@@ -90,6 +90,8 @@ bird_left:
     trans: quebec
   - animation: land_left_flip
     trans: laurentians
+  - animation: land_left_flip
+    trans: south_shore
   - animation: roll_bird1
     trans: links_history
   - animation: swing-in1
@@ -122,6 +124,8 @@ mobile_bird:
     trans: quebec
   - animation: land_right
     trans: laurentians
+  - animation: land_right
+    trans: south_shore
   - animation: land_right
     trans: directions
   - animation: swing-in1
