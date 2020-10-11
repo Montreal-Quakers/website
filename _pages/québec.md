@@ -10,16 +10,16 @@ Le Groupe des Quakers à Québec se rencontre **chaque premier dimanche du mois 
 ## Où
 Au [31 rue des Jardins dans le Vieux-Québec](https://www.google.com/maps/search/31%20rue%20des%20Jardins,%20Qu%C3%A9bec){: target="_blank" rel="noopener"} à la chapelle All Saints, [ce bâtiment](https://goo.gl/maps/Z9wtKLtwAHEGSB7V6){: target="_blank" rel="noopener"} étant situé dans la cour de la cathédrale anglicane Holy Trinity.
 
-## [Contact](/contact-fr.html)
+## [Contact](/contact-fr)
 
 [quebec@montreal.quaker.ca](mailto:quebec@montreal.quaker.ca){: rel="noopener" target="_blank"}
 
 [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}
 
 ## Déroulement
-Si c’est votre première assemblée Quaker, [cette page](/a_propos.html) donne une idée de ce à quoi vous attendre.
+Si c’est votre première assemblée Quaker, [cette page](/a_propos) donne une idée de ce à quoi vous attendre.
 
-Pour plus d’information sur le Quakerisme, voir la page [Liens et histoire](/liens_histoire.html):
+Pour plus d’information sur le Quakerisme, voir la page [Introduction](/intro-fr).
 
 ## [Accessibilité](/accessibilité) <span class="stanchor"><a name="accessibilité"></a></span>
 Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.
