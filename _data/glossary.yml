@@ -14,7 +14,7 @@
 - entry: application for membership
   translation: demande d'admission (f) 
 - entry: Area Meeting
-  translation: Assemblée régionale (f). <i>Pour l'emploi du maj./min., cf.</i> <a href='#YM'>YEARLY MEETING</a>
+  translation: Assemblée régionale (f). <i>Pour l'emploi du majuscule/miniscule, cf.</i> <a href='#YM'>YEARLY MEETING</a>
 - entry: as the way opens
   translation: selon que la voie s'ouvre 
 - entry: Asia - West Pacific Section (FWCC)
@@ -65,7 +65,7 @@
   translation: clore, clôturer, le culte, la réunion
   comment-translation: "<i>On peut souvent tourner la phrase de manière plus naturelle: 'le culte s'est terminé...'</i>"
 - entry: concern
-  entry-href: /glossary/texts.html#12
+  entry-href: /glossary/texts#12
   entry-id: concern
   translation: concern (m) 
   comment-translation: <i>Le sens de ce mot est très précis en terminologie quaker.  Aucun mouvement religieux francophone ne connaît rien d'équivalent. Il vaut mieux par conséquent reprendre l'original avec tout le sens qu'il est seul à porter. 'Mot intraduisible en français' (FWCC 1946).  <br /> Pour expliquer son sens à des non-quakers, on peut se servir d'une construction autour du mot 'souci' ou  'préoccupation'.</i>
@@ -113,9 +113,9 @@
 - entry: facing bench
   entry-id: facing
   translation: banc de face, des anciens (m) 
-  comment-translation: <i>Dans le temps, les ministres et anciens occupaient un banc faisant face au reste de l'assistance lors du culte et des réunions d'affaires.  Cette pratique n'a plus cours, mais la disposition correspondante des bancs subsiste dans certains anciens lieux de culte. </i> Cf. <a href="/glossary/icon.html">iconography</a></i>
+  comment-translation: <i>Dans le temps, les ministres et anciens occupaient un banc faisant face au reste de l'assistance lors du culte et des réunions d'affaires.  Cette pratique n'a plus cours, mais la disposition correspondante des bancs subsiste dans certains anciens lieux de culte. </i> Cf. <a href="/glossary/icon">iconography</a></i>
 - entry: Faith and Practice
-  translation: Foi et pratique (f); Titre du <a href='/nouveau/glossaire.html#livre'>LIVRE DE DISCIPLINE</a> de plusieurs Assemblées annuelles 
+  translation: Foi et pratique (f); Titre du <a href='/nouveau/glossaire_fran#livre'>LIVRE DE DISCIPLINE</a> de plusieurs Assemblées annuelles 
 - entry: fellowship
   entry-id: fellowship
   translation: fraternité (f)
@@ -131,7 +131,7 @@
 - entry: Friend
   entry-id: friend
   translation: Ami-e
-  comment-translation: "<i> Malgré lusage décrit sous Quaker (qv dans le glossaire EF), Ami-e prend un maj. pour le distinguer du mot ami dusage courant et laïc. La pratique est dailleurs identique en anglais avec Friend et friend: cf. FRIEND OF FRIENDS.  </i>"
+  comment-translation: "<i> Malgré lusage décrit sous Quaker (qv dans le glossaire English-Français), Ami-e prend un majuscule pour le distinguer du mot ami dusage courant et laïc. La pratique est d'ailleurs identique en anglais avec Friend et friend: cf. FRIEND OF FRIENDS.  </i>"
 - entry: friend of Friends
   translation: ami-e des Amis (CH), membre associé (F)
 - entry: Friends Peace Team
@@ -182,7 +182,7 @@
   translation: devenir membre (de la Société religieuse des Amis) 
 - entry: Journal, journal
   translation: Journal, journal (m) 
-  comment-translation: <i>Maj. s'il s'agit du titre d'un ouvrage (p.ex. le Journal de George Fox ou de John Woolman);</i> <i>min. s'il s'agit d'un exercice spirituel. </i>
+  comment-translation: <i>Majuscule s'il s'agit du titre d'un ouvrage (p.ex. le Journal de George Fox ou de John Woolman);</i> <i>miniscule s'il s'agit d'un exercice spirituel. </i>
 - entry: lay down
   translation: mettre fin à, abandonner (une activité)
 - entry: leading
@@ -203,7 +203,7 @@
 - entry: Meeting (group)
   entry-id: meeting
   translation: groupe (m) (si suivi d'un nom de lieu, p.e groupe de Genève), groupe local (si le lieu n'est pas précisé) 
-  comment-translation: <i>Il s'agit du niveau de base de la structure géographique de la Société religieuse des Amis; il correspond à la paroisse dans les Eglises constituées. <br /> Pour les autres niveaux, cf. leur nom respectif.<br /> Pour l'emploi du maj./min., cf. <a href='#YM'>YEARLY MEETING</a></i>
+  comment-translation: <i>Il s'agit du niveau de base de la structure géographique de la Société religieuse des Amis; il correspond à la paroisse dans les Eglises constituées. <br /> Pour les autres niveaux, cf. leur nom respectif.<br /> Pour l'emploi du majuscule/miniscule, cf. <a href='#YM'>YEARLY MEETING</a></i>
 - entry:  Meeting for business
   translation: Assemblée, réunion d'affaires (f) 
   entry-id: m4b
@@ -304,9 +304,9 @@
 - entry: pastoral Meeting
   translation: groupe (m) à pasteur, qui a recours aux services d'un-e pasteur-e rétribué-e 
   comment-translation: <i>Il ne faut se permettre 'Amis pasteurisés' que si l'ambiance est intime et décontractée. </i>
-- entry: Peace testimony <i>(text.<a href='/glossary/texts.html#8'>8</a>, <a href='/glossary/texts.html#14'>14</a>)</i></a>
-  entry-href: /glossary/texts.html#peace
-  translation: <a href='/glossary/texts.html#paix'>témoignage de la paix</a> (m)
+- entry: Peace testimony <i>(text.<a href='/glossary/texts#8'>8</a>, <a href='/glossary/texts#14'>14</a>)</i></a>
+  entry-href: /glossary/texts#peace
+  translation: <a href='/glossary/texts#paix'>témoignage de la paix</a> (m)
 - entry: Peaceable Kingdom
   translation: Royaume paisible (m); cf. Esaïe 32.18 
 - entry: peacemaker
@@ -384,7 +384,7 @@
 - entry: release
   translation: (1) rétribuer, subventionner; (2) accepter la d&eacute;mission
 - entry: relief
-  translation: secours (m, singulier ou pluriel); cf. <a href='/nouveau/glossaire.html#secours'>SECOURS QUAKER</a>
+  translation: secours (m, singulier ou pluriel); cf. <a href='/nouveau/glossaire_fran#secours'>SECOURS QUAKER</a>
 - entry: Religious Society of Friends
   translation: Société religieuse des Amis (f) 
 - entry: Religious Society of Friends (Quakers) in Britain
@@ -424,8 +424,8 @@
 - entry: speak in meeting
   translation: s'exprimer au culte
 - entry: speak to one's condition
-  entry-href: /glossary/texts.html#speak
-  translation: <a href='/glossary/texts.html#parler'>parler à sa condition</a>
+  entry-href: /glossary/texts#speak
+  translation: <a href='/glossary/texts#parler'>parler à sa condition</a>
 - entry: speak truth to power
   translation: parler vrai au pouvoir; dire, présenter la vérité au pouvoir 
   comment-translation: "<i>Ces expressions ne sont que des propositions: il n'existe pas de traduction consacrée de ce mot d'ordre quaker. </i>"
@@ -447,14 +447,14 @@
 - entry: testify
   translation: témoigner 
 - entry: testimony
-  entry-href: /glossary/texts.html#testimony
-  translation: <a href='/glossary/texts.html#temoignage'>témoignage</a> (m).
+  entry-href: /glossary/texts#testimony
+  translation: <a href='/glossary/texts#temoignage'>témoignage</a> (m).
 - entry: that of God
   translation: la partie de Dieu (1), l'étincelle divine (f) (2) 
   comment-translation: <i>(1) est plus littérale, mais les francophones se servent volontiers de (2) pour dire la même chose; en revanche (2) n'a pas d'équivalent courant dans la terminologie quaker anglaise. </i>
 - entry: thee and thou (v)
   entry-id: thee
-  translation: tutoyer, cf. <a href='/nouveau/glossaire.html#tutoyer'>TUTOYER</a>
+  translation: tutoyer, cf. <a href='/nouveau/glossaire_fran#tutoyer'>TUTOYER</a>
 - entry: threshing meeting
   translation: réunion (f), culte (m), pour éclaircir un problème
 - entry: travelling ministry
@@ -465,7 +465,7 @@
   translation: lettre d'introduction (f) 
 - entry: Triennial
   translation: Triennale (f) 
-- entry: unity (text.<a href='/glossary/texts.html#14'>14</a>, <a href='/glossary/texts.html#16'>16</a>)
+- entry: unity (text.<a href='/glossary/texts#14'>14</a>, <a href='/glossary/texts#16'>16</a>)
   translation: unité (f), entente (f),  vérité (f)
 - entry: unprogrammed Meeting (event)
   translation: culte sans programme, non-programm&eacute;, silencieux (m) 
@@ -485,8 +485,8 @@
 - entry: waiting worship
   translation: culte d'attente (m)
 - entry: walk cheerfully
-  entry-href: /glossary/texts.html#walk
-  translation: <a href='/glossary/texts.html#marcher'>marcher joyeux</a>
+  entry-href: /glossary/texts#walk
+  translation: <a href='/glossary/texts#marcher'>marcher joyeux</a>
 - entry: water baptism
   translation: baptême d'eau (m) 
 - entry: wedding
@@ -514,7 +514,7 @@
 - entry: Yearly Meeting
   entry-id: YM
   translation: assemblée annuelle (f) 
-  comment-translation: <i>Prend un<br/> -A maj.  lorsqu'il s'agit d'une entité géographique (Assemblée annuelle de France) <br /> -a min. lorsqu'il s'agit d'une rencontre (on se verra à l'assemblée annuelle) ou  d'un type d' institution ('les assemblées annuelles d'Europe sont de tailles diverses') </i>
+  comment-translation: <i>Prend un<br/> -A maj.  lorsqu'il s'agit d'une entité géographique (Assemblée annuelle de France) <br /> -a miniscule lorsqu'il s'agit d'une rencontre (on se verra à l'assemblée annuelle) ou  d'un type d'institution ('les assemblées annuelles d'Europe sont de tailles diverses') </i>
 - entry: Yearly Meeting session
   translation: séance de l'assemblée annuelle (f)
 - entry: Young Friend

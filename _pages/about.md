@@ -36,6 +36,6 @@ A Quaker Meeting is based on silence, marking a pause from the distractions of e
 
 <i class="fas fa-mug-hot color-1-dark-text"></i><span class="stanchor"><a name="tea"></a></span> &nbsp;After meeting, there is a period of announcements and refreshments. Afterwards, if you can, please do stay for tea and snacks and get to know us better. If you have any questions, please don't hesitate to ask.
 
-<i class="fas fa-book-reader color-1-text"></i> Literature is usually available, and books can often be borrowed from the library about Quaker [values](/intro.html), [work](/testimonies.html), and [history](/links_history.html).
+<i class="fas fa-book-reader color-1-text"></i> Literature is usually available, and books can often be borrowed from the library about Quaker [values](/intro), [work](/testimonies), and [history](/links_history).
 
 ![](/assets/images/benches.jpg){:class="img_center"}

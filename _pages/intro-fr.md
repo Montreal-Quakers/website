@@ -13,7 +13,7 @@ trans: intro
   * Toutes et tous, même les enfants, peuvent faire du « ministère ».
   * Aucun organisme national ne prend de décision pour les Quakers de Montréal.
 
-### <i class="fas fa-road fa-fw fa-2x color-1-dark-text down_a_bit"></i> Une quête libre : les Quakers ne dictent jamais ce qu'il faut [croire](/témoignages.html) 
+### <i class="fas fa-road fa-fw fa-2x color-1-dark-text down_a_bit"></i> Une quête libre : les Quakers ne dictent jamais ce qu'il faut [croire](/témoignages) 
   * À partir de racines chrétiennes, l'arbre Quaker fait ramifier en plusieurs branches, du christianisme jusqu'à l'agnosticisme.
   * Nous chérissons nos auteurs Quakers mais nous n'avons aucun livre sacré, aucun acte de foi.
   * Nous recherchons des vies remplies d'amour et de sens par tous les moyens.
@@ -24,8 +24,8 @@ trans: intro
   * La plupart d'entre nous ont découvert le Quakerisme à l'âge adulte; la première assemblée ne s'oublie pas.
   * Vous êtes bienvenu à vous joindre à nous pour travailler vers un monde meilleur.
 
-Voir [le déroulement d'une assemblée Quaker](/a_propos.html) pour plus d'informations sur nos pratiques.
+Voir [le déroulement d'une assemblée Quaker](/a_propos) pour plus d'informations sur nos pratiques.
 
-Voir [les valeurs Quaker](/témoignages.html) pour apprendre plus sur nos témoignages.
+Voir [les valeurs Quaker](/témoignages) pour apprendre plus sur nos témoignages.
 
-N'hésitez pas à nous [écrire ou appeler](/contact-fr.html) si vous avez des questions.
+N'hésitez pas à nous [écrire ou appeler](/contact-fr) si vous avez des questions.

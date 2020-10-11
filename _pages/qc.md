@@ -11,10 +11,10 @@ Every first Sunday of the month, at 11 a.m.
 ## How to find us
 [31 rue des Jardins, Québec](https://www.google.com/maps/search/31%20rue%20des%20Jardins,%20Qu%C3%A9bec){: rel="noopener" target="_blank"} (the [building](https://goo.gl/maps/Z9wtKLtwAHEGSB7V6){: rel="noopener" target="_blank"} in the courtyard of the Holy Trinity Anglican Cathedral in Old Québec)
 
-If this will be your first time at a Quaker Meeting, you may want to read [this information](/about.html) about what to expect.
+If this will be your first time at a Quaker Meeting, you may want to read [this information](/about) about what to expect.
 
 ## Contact
-[Contact us](/contact.html) for details, or contact the worship group directly via email at [quebec@montreal.quaker.ca](mailto:quebec@montreal.quaker.ca){: rel="noopener" target="_blank"} or via [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}.
+[Contact us](/contact) for details, or contact the worship group directly via email at [quebec@montreal.quaker.ca](mailto:quebec@montreal.quaker.ca){: rel="noopener" target="_blank"} or via [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}.
 
 ## [Accessibility](/accessibility) <span class="stanchor"><a name="accessibility"></a></span>
 Please [let us know](/contact) if you require additional information or accommodations for accessibility.

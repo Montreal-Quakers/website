@@ -26,6 +26,6 @@ Ces valeurs ne sont pas des règles à imposer; elles doivent émerger de notre 
   
 ![](/assets/images/Rainbow-Flag.jpg){: img_left height="25"} &nbsp;Notre communauté est ouverte à toutes et à tous.
 
-En lire plus sur [comment fonctionne une assemblée Quaker](/a_propos.html).
+En lire plus sur [comment fonctionne une assemblée Quaker](/a_propos).
 
-Ou bien [en apprendre plus](/liens_histoire.html) sur plusieurs autres sujets, dont le travail des Quakers au Canada.
+Ou bien [en apprendre plus](/liens_histoire) sur plusieurs autres sujets, dont le travail des Quakers au Canada.

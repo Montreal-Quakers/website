@@ -8,10 +8,10 @@ trans: midweek
 ## When
 * During the academic year (**Sept-Nov, Jan-March**). Because the Newman Centre closes outside these months, [check for updates](#updates) as there may be significant location changes from April through August and in December. 
 * **Wednesdays** from 5:30 pm to 6:30 pm. We usually provide snacks after.
-* We sometimes hold a **book club/Bible study** after. [Contact us](/contact.html) for details.
+* We sometimes hold a **book club/Bible study** after. [Contact us](/contact) for details.
 
 ## To get updates <span class="stanchor"><a name="updates"></a></span>
-For announcements or last minute changes, join the [Midweek Meeting Facebook group](https://www.facebook.com/groups/mtlmidweek){: rel="noopener" target="_blank"}, check the [Facebook page](https://www.facebook.com/MontrealQuakers){: rel="noopener" target="_blank"} (no Facebook account required), or [contact us](/contact.html) with questions.
+For announcements or last minute changes, join the [Midweek Meeting Facebook group](https://www.facebook.com/groups/mtlmidweek){: rel="noopener" target="_blank"}, check the [Facebook page](https://www.facebook.com/MontrealQuakers){: rel="noopener" target="_blank"} (no Facebook account required), or [contact us](/contact) with questions.
 
 ## Where
 [3484 Peel Street, Montreal](https://goo.gl/maps/MeQqk7m8Hegzx9Sz8){: rel="noopener" target="_blank"}
@@ -25,7 +25,7 @@ To find the **Ryan Library**, enter the [Newman Centre](https://goo.gl/maps/MeQq
 
 All are welcome!
 
-If this will be your first time at a Quaker Meeting, you may want to read [this information](/about.html) about what to expect.
+If this will be your first time at a Quaker Meeting, you may want to read [this information](/about) about what to expect.
 
 ## [Accessibility](/accessibility) <span class="stanchor"><a name="accessibility"></a></span>
 Please [let us know](/contact) if you require additional information or accommodations for accessibility.

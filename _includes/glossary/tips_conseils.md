@@ -3,7 +3,7 @@ Les verbes réfléchis figurent dans le glossaire français&ndash;anglais à l'e
 
 Les renvois à d'autres mots au sein du glossaire sont indiqués par des majuscules (p.ex.: "cf. CLERK")
 
-La note "**text.**" indique que l'expression en question est citée dans son contexte dans la section "[Quelques textes quakers souvent cités](texts.html)".
+La note "**text.**" indique que l'expression en question est citée dans son contexte dans la section "[Quelques textes quakers souvent cités](texts)".
 
 Les noms présentés avec un trait d'union, du genre Ami-e, indiquent qu'Ami en est la forme masculine et qu'Amie en est la féminine.
 
@@ -17,7 +17,7 @@ In the French-English glossary, reflexive verbs are placed in the alphabetical p
 
 Cross-references to other entries within the glossary are indicated in capitals (e.g.: 'cf. CLERK')
 
-The reference '**text.**' indicates that the expression in question is presented in its context in the section '[Some often-quoted Quaker texts](texts.html)'.
+The reference '**text.**' indicates that the expression in question is presented in its context in the section '[Some often-quoted Quaker texts](texts)'.
 
 In French, nouns presented with a dash, e.g. Ami-e indicate that Ami is the masculine and Amie the feminine form.
 

@@ -22,7 +22,7 @@ These websites may collect data about you, use cookies, embed additional third-p
 Visitor form submissions may be checked through an automated spam detection service.
 
 ## Contact information
-Use the [contact form](/contact.html)
+Use the [contact form](/contact)
 
 ## Usage
 

@@ -28,6 +28,6 @@ They are our testimony of how Spirit calls us to live in this world.
   
 ![](/assets/images/Rainbow-Flag.jpg){: img_left height="25"} &nbsp;Our [community](/intro) is open to all and is LGBTQ+-friendly.
 
-See [how a meeting works](/about.html) for more about what worshipping with us is like.
+See [how a meeting works](/about) for more about what worshipping with us is like.
 
-See our [links and resources](/links_history.html) for more information about many topics such as Quakers at the UN and Quaker service work in Canada.
+See our [links and resources](/links_history) for more information about many topics such as Quakers at the UN and Quaker service work in Canada.

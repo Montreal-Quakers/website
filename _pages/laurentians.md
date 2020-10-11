@@ -10,7 +10,7 @@ Sundays at 10:30 am.
 ## Contact <span class="stanchor"><a name="contact"></a></span>
 Call Pauline Bernier at (514) 709-2466 (or by [email](mailto:laurentian@montreal.quaker.ca) but this is less reliable) to confirm your presence or for further details.
 
-If this will be your first time at a Quaker Meeting, you may want to read [this information](about.html) about what to expect.
+If this will be your first time at a Quaker Meeting, you may want to read [this information](about) about what to expect.
 
 ## [Accessibility](/accessibility) <span class="stanchor"><a name="accessibility"></a></span>
 Please [let us know](/contact) if you require additional information or accommodations for accessibility.
