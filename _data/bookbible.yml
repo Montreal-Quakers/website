@@ -1,23 +1,17 @@
 verse: 
-  en: 1 Corinthians 16
-  fr: 1 Corinthiens 16
-  fr-date: mercredi le 14 octobre, 2020 à 20h15
-  en-date: Wednesday, October 14th, 2020 at 8:15 PM
+  en: 1 Peter 3
+  fr: 1 Pierre 3
+  fr-date: mercredi le 4 novembre, 2020 à 18h15
+  en-date: Wednesday, November 4th, 2020 at 6:15 PM
 
 next:
-- reading: 1 Thessalonians
-- reading: 2 Thessalonians
-- reading: Galatians
+- reading: 2 Peter
+- reading: TBD
+- reading: Exodus
   # - reading: Timothy
-- reading: 1 Corinthians
-- reading: 2 Corinthians
-- reading: Ecclesiastes 1
 
 prochain:
-- lecture: 1 Thessaloniciens
-- lecture: 2 Thessaloniciens
-- lecture: Galates
-- lecture: 1 Corinthiens
-- lecture: 2 Corinthiens
-- lecture: Ecclésiaste 1
+- lecture: 2 Pierre
+- lecture: être déterminé
+- lecture: Exode
 # - lecture: Timothée
