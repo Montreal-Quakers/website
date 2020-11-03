@@ -4,7 +4,7 @@ lang: en
 trans: book_bible
 ---
 ## Practical details
-* This groups meets on **Wednesdays from 6:15 pm to 7:00 pm** (after midweek meeting).
+* This groups meets on **Wednesdays from 6:15 pm to 7:00 pm** (before midweek meeting).
 * **No need to read in advance**, the text is read aloud, followed by discussion.
 * The group seldom meets longer than 40 minutes.
 * Discussion is held primarily **in English**.
