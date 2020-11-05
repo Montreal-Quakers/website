@@ -4,7 +4,7 @@ lang: fr
 trans: book_bible
 ---
 ## Détails pratiques
-* Ce groupe se réunit le **mercredi de 20h15 à 21h** (après le culte de mi-semaine).
+* Ce groupe se réunit le **mercredi de 18h15 à 19h** (avant le culte de mi-semaine).
 * **Il n'est pas nécessaire de lire en avance**, car on lit à haute voix et puis on discute.
 * Notre rencontre dure 40 minutes à peu près.
 * La discussion est principalement **en anglais**.

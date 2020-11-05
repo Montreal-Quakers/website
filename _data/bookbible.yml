@@ -1,17 +1,15 @@
 verse: 
   en: 1 Peter 3
   fr: 1 Pierre 3
-  fr-date: mercredi le 4 novembre, 2020 à 18h15
-  en-date: Wednesday, November 4th, 2020 at 6:15 PM
+  fr-date: mercredi le 11 novembre, 2020 à 18h15
+  en-date: Wednesday, November 11th, 2020 at 6:15 PM
 
 next:
 - reading: 2 Peter
-- reading: TBD
 - reading: Exodus
   # - reading: Timothy
 
 prochain:
 - lecture: 2 Pierre
-- lecture: être déterminé
 - lecture: Exode
 # - lecture: Timothée
