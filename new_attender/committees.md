@@ -3,7 +3,7 @@ title: <i class="fas fa-screwdriver fa-fw color-1-dark-text"></i> Committees & R
 lang: en
 trans: committees
 ---
-Quakers recognize and celebrate leadership, but minimize hierarchy. The purpose of these roles is less to make decisions, and certainly not to impose decisions on others, but rather to facilitate listening to Spirit in collective decision-making, a listening that is at the heart of Quaker life.
+Quakers recognize and celebrate leadership, but minimize hierarchy. The purpose of these roles is not so much to make decisions, and certainly not to impose decisions on others, but rather to facilitate the collective listening to Spirit in decision-making, a listening that is at the heart of Quaker life.
 
 If you see a role that you'd like to learn more about, please feel free to [contact us](/contact).
 
