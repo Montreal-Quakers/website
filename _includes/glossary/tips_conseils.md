@@ -9,7 +9,7 @@ Les noms présentés avec un trait d'union, du genre Ami-e, indiquent qu'Ami en 
 
 Si aucun genre n'est indiqué, le nom peut être soit masculin, soit féminin.
 
-En anglais, le glossaire suit la pratique des Nations Unies et respecte lorthographe anglaise.
+En anglais, le glossaire suit la pratique des Nations Unies et respecte l'orthographe anglaise.
 
 L'anglais recourt plus volontiers aux majuscules que le français. Les majuscules dans ce glossaire sont volontairement choisis pour correspondre à l'usage courant dans chaque langue.
 {% else %}
