@@ -1,7 +1,7 @@
 ---
 lang: en
 title: Update on Marian Baker's Ministry
-categories: African, Quakers
+categories: African Quakers
 author: Marian Baker
 ---
 ## Message 1: October 13th, 2020  
