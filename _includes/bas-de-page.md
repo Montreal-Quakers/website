@@ -2,7 +2,8 @@
 
 ## {{ site.title-fr }} 
 
-Le dimanche à 11h au Centre Greene
+Le dimanche à 11h au [Centre Greene](/coordonnées.html)
+
 
 [{{ site.adresse }}](/coordonnées.html)
 

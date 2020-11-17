@@ -2,7 +2,7 @@
 
 ## {{ site.title }}
 
-Sundays, 11 AM, Greene Centre<br>
+Sundays, 11 AM, [Greene Centre](/directions.html) <br>
 
 [{{ site.address }}](/directions.html)
 
