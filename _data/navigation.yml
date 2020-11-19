@@ -8,7 +8,7 @@ en:
       sublink: /about
     - subtitle: Introduction to Quakers 
       sublink: /intro
-    - subtitle: Quaker Values (Testimonies)
+    - subtitle: Quaker Values
       sublink: /testimonies
     - subtitle: Links and History
       sublink: /links_history
@@ -59,7 +59,7 @@ fr:
       sublink: /à_propos
     - subtitle: Introduction aux Quakers
       sublink: /intro-fr
-    - subtitle: Nos valeurs (les témoignages)
+    - subtitle: Nos valeurs
       sublink: /témoignages
     - subtitle: Liens et histoire
       sublink: /liens_histoire
