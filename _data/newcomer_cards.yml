@@ -46,7 +46,7 @@ en:
   link: /new_attender/membership
   icon: <i class="fas fa-hand-holding-medical fa-fw"></i>
 - title: En-Fr Glossary
-  hovertitle: French-English Quaker glossary
+  hovertitle: English-French Quaker glossary
   link: /new_attender/glossary
   icon: <i class="fas fa-book-reader fa-fw"></i>
   submenu:

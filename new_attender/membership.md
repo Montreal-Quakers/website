@@ -30,7 +30,7 @@ We encourage applications for membership from those who, after a certain time of
   * What has your faith journey been like?
 2. Give that letter to the clerk by hand, mail, or email.
 3. Someone from the Ministry & Counsel committee will be in touch to ask about who would be best to serve on the clearness committee for membership.
-4. The Clerk will read your letter and form a committee at the next business meeting.
+4. The Clerk will read this letter and form a committee at the next business meeting.
 5. At the clearness committee meeting, committee members will ask the prospective member questions in order to arrive at clarity about membership.
 6. Once things are clear (which may not happen at the first meeting), the clearness committee will craft a recommendation to be presented at the next business meeting.
 7. The community will either accept the new member or request further discernment from the clearness committee.
