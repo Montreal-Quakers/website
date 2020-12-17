@@ -3,7 +3,7 @@ title: <i class="fas fa-music color-1-text"></i> Groupe de chant
 lang: fr
 trans: singing_group
 ---
-Notre groupe de chant utilise quelques ressources clés (il faut rien pour pouvoir participer, on peut vous fournir une copie si nécessaire):
+Notre groupe de chant utilise quelques ressources clés (il faut rien pour pouvoir participer, on peut vous fournir une copie si nécessaire aussi):
 * Rise Up Singing: The Group Singing Songbook by Peter Blood and Annie Patterson
 * Worship in Song: A Friends Hymnal
 * [Songs for singing](https://drive.google.com/file/d/1LcCqchfmrGPa6x6v4b1MS5PcfpQ1YCLT/view?usp=sharing){: rel="noopener" target="_blank"}
