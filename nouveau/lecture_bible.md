@@ -1,5 +1,5 @@
 ---
-title: <i class="fas fa-book-reader color-1-text"></i> Club de lecture & étude biblique <i class="fas fa-bible color-1-dark-text"></i>
+title: <i class="fas fa-book-reader color-1-text"></i> Club de lecture & d'étude biblique <i class="fas fa-bible color-1-dark-text"></i>
 lang: fr
 trans: book_bible
 ---
