@@ -66,12 +66,12 @@ layout: compress
    {% endif %}
        {% comment %}Blue alerts now{% endcomment %}
    {% if site.bluealerts == "all" %}
-     <div class="stickystart bluealert"><div></div><div class="alert">{% if fr %}{% capture alerte %}<i class="fas fa-exclamation-circle fa-fw fa-lg"></i> &nbsp;{% include {{ site.bluealert_all_text-fr }} %}{% endcapture %}{{ alerte | markdownify }}
-     {% else %}{% capture alert %}<i class="fas fa-exclamation-circle fa-fw fa-lg"></i> &nbsp;{% include {{ site.bluealert_all_text-en }} %}{% endcapture %}{{ alert | markdownify }}
+     <div class="stickystart bluealert"><div></div><div class="alert">{% if fr %}{% capture alerte %}<i class="fas fa-info-circle fa-fw fa-lg"></i> &nbsp;{% include {{ site.bluealert_all_text-fr }} %}{% endcapture %}{{ alerte | markdownify }}
+     {% else %}{% capture alert %}<i class="fas fa-info-circle fa-fw fa-lg"></i> &nbsp;{% include {{ site.bluealert_all_text-en }} %}{% endcapture %}{{ alert | markdownify }}
    {% endif %}</div>{% include alert/closebtn.html %}</div>{% endif %}
    {% if site.bluealerts == "some" %}{% for each in site.bluealert_pages %}
      {% if page.trans == each.page_trans %}<div class="stickystart bluealert"><div></div><div class="alert">
-		     {% if fr %}{% capture alerte %}<i class="fas fa-exclamation-circle fa-fw fa-lg"></i> &nbsp;{% include {{ each.bluealert_text-fr }} %}{% endcapture %}{{ alerte | markdownify }}{% elsif page.trans == each.page_trans %}{% capture alert %}<i class="fas fa-exclamation-circle fa-fw fa-lg"></i> &nbsp;{% include {{ each.bluealert_text-en }} %}{% endcapture %}{{ alert | markdownify }} {% endif %}  </div>{% include alert/closebtn.html %}</div>{% endif %}
+		     {% if fr %}{% capture alerte %}<i class="fas fa-info-circle fa-fw fa-lg"></i> &nbsp;{% include {{ each.bluealert_text-fr }} %}{% endcapture %}{{ alerte | markdownify }}{% elsif page.trans == each.page_trans %}{% capture alert %}<i class="fas fa-info-circle fa-fw fa-lg"></i> &nbsp;{% include {{ each.bluealert_text-en }} %}{% endcapture %}{{ alert | markdownify }} {% endif %}  </div>{% include alert/closebtn.html %}</div>{% endif %}
    {% endfor %}
    {% endif %}
    </div>
