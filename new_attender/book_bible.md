@@ -10,7 +10,7 @@ trans: book_bible
 * Discussion is held primarily **in English**.
 * During COVID, the study group meets on Montreal Meeting's **Discord channel**.
 
-[Contact us](/contact) for a link to the discord of further details.
+[Contact us](/contact) for a link to the Discord of further details.
 
 ## Our next meeting
 At our next meeting, on **{{ site.data.bookbible.verse.en-date }}** we will be studying **{{ site.data.bookbible.verse.en }}**.
