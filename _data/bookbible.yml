@@ -1,15 +1,13 @@
 verse: 
-  en: Isaiah 10
-  fr: Isaiah 10
-  en-date: Wednesday, January 20, 2021 at 6:15 PM
-  fr-date: mercredi le 20 janvier, 2020 à 18h15
+  en: Isaiah 15
+  fr: Isaïe 15
+  en-date: Wednesday, January 27, 2021 at 6:15 PM
+  fr-date: mercredi le 27 janvier, 2021 à 18h15
 
 next:
-- reading: TBD
 - reading: Exodus
-  # - reading: Timothy
+# - reading: Timothy
 
 prochain:
-- lecture: être déterminé
 - lecture: Exode
 # - lecture: Timothée
