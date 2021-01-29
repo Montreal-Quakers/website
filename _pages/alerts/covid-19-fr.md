@@ -15,6 +15,6 @@ Comme mesure préventive contre la COVID-19, voici les modifications:
 [Contactez-nous](/contact-fr.html) pour connaître les modalités.
 
 ## Soutien
-La communauté offre du soutien, y compris du **soutien financier**, pour les membres et les participant.e.s pendant ce moment difficile.
+Notre communauté offre du soutien, y compris du **soutien financier**, pour les membres et les participant.e.s pendant ce moment difficile.
 
-[Contactez-nous](/contact-fr.html) pour connaître les modalités.
+[Contactez-nous](/contact-fr.html) pour en connaître les modalités.
