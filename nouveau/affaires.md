@@ -60,7 +60,7 @@ Cependant cette situation devrait être très rare (il nous est jamais arrivé e
 ### Se tenir à l’écart
 Se tenir à l'écart signifie qu’un participant reconnaît que l’Esprit guide le groupe dans une direction différente qui semble être la bonne. Ce faisant, il ne ressent pas le besoin de s’objecter et choisit de se tenir à l’écart. Le procès-verbal peut, ou pas, en témoigner. 
 
-* Par exemple, la plupart croient que l'Esprit guide le groupe à aider une famille réfugiée, mais un membre croit que le groupe devrait aider un foyer pour sans-abri.
+* Par exemple, la plupart croit que l'Esprit guide le groupe à aider une famille réfugiée, mais un membre croit que le groupe devrait aider un foyer pour sans-abri.
   * Se tenir à l'écart signifie que le membre reconnaît le témoin du groupe.
   * Le membre n'a pas changé d'idée mais ne s'objecte plus; il accepte d'avancer.
 
