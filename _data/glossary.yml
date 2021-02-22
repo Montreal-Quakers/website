@@ -183,6 +183,9 @@
 - entry: Journal, journal
   translation: Journal, journal (m) 
   comment-translation: <i>Majuscule s'il s'agit du titre d'un ouvrage (p.ex. le Journal de George Fox ou de John Woolman);</i> <i>miniscule s'il s'agit d'un exercice spirituel. </i>
+- entry: joys and sorrows
+  translation: Les joies et les peines (f)
+  comment-translation: Selon une pratique courante des assemblées nord-américaines, le culte se termine avec cette invitation aux participants de partager les joies et les peines, c'est-à-dire des requêtes de prière ou des événements récents qui ont marqué la vie de quelqu'un.
 - entry: lay down
   translation: mettre fin à, abandonner (une activité)
 - entry: leading
