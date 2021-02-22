@@ -23,4 +23,4 @@ Utilisez le formulaire de [contact](/contact-fr.md).
 ## License
 [![Licence Creative Commons](/assets/images/cc_logo.png){: class=img_center}](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr){: rel="noopener" target="_blank" class="img_center"}
 
-Cet œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/){: rel="noopener" target="_blank"}
+Cet œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr){: rel="noopener" target="_blank"}

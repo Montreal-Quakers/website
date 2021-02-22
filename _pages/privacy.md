@@ -25,5 +25,6 @@ Visitor form submissions may be checked through an automated spam detection serv
 Use the [contact form](/contact)
 
 ## Usage
+[![Creative Commons Licence](/assets/images/cc_logo.png){: class=img_center}](https://creativecommons.org/licenses/by-nc-sa/4.0/){: rel="noopener" target="_blank" class="img_center"}
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" class="img_center" style="border-width:0" src="/assets/images/cc_logo.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/){: rel="noopener" target="_blank"}.
