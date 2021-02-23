@@ -16,8 +16,9 @@
         </div>
      </div>
 <div style="position:relative;">
-	<!-- For some reason the sticky header had been jumping early, so I added a microscopic special div to prevent this -->
+	<!-- A microscopic special div to mark where the stickyscroll begins. The second special div serves to create a buffer so that when the navbar becomes sticky, special2 adds padding so that the screen doesn't jump -->
 	<div id="special">&nbsp; </div>
+	<div id="special2">&nbsp; </div>
 	<!-- Narrowheader refers what the header looks like on a narrow screen -->
   <div id="narrowheader" class="">
 	  <a href="{% if fr %}/accueil{% else %}/home{% endif %}" id="nolink" class="{% for each in site.mobile_header_animation %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %}">{% if fr %} {{ site.short_title-fr }} {% else %} {{ site.short_title }} {% endif %}</a>
@@ -78,3 +79,6 @@
 		  <a title="Home" href={% if page.lang =="fr" %}"/accueil"{% else %}"/home"{% endif %}><img alt="top right bird logo" class="{% for each in site.mobile_bird %}{% if page.trans == each.trans %}{{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/quaker_icon_35x35.png" width="34.5px" height="34.5px"></a>
 	  </div>
 </div>
+
+<!-- Special div for intersectionObserver-->
+<div id="intersectionObserver1">&nbsp; </div>
