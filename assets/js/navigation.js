@@ -1,9 +1,9 @@
 ---
 ---
 const mq = window.matchMedia( "(min-width: {{ site.breakpoint }})" );
-var target1 = document.getElementById("intersectionObserver1");
-var target2 = document.getElementById("special");
-var target3 = document.getElementById("special2");
+var obs1 = document.getElementById("intersectionObserver1");
+var target1 = document.getElementById("special1");
+var target2 = document.getElementById("special2");
 var mybutton = document.getElementById("myBtn");
 var y = document.getElementById("myNavbar");
 var btn = document.getElementById("searchbutton");
@@ -12,7 +12,7 @@ var media = document.getElementById("media");
 // Instead of using a calculation on scroll, this new backend (2021) uses intersectionObserver
 let observer1 = new IntersectionObserver(callback1);
 // start observing the target element
-observer1.observe(target1);
+observer1.observe(obs1);
 
 // Scroll to top button
 function callback1(entries, observer1) {
@@ -35,7 +35,7 @@ function topFunction() {
 // Sticky navbar on widescreens
 if (mq.matches) {
   let observer2 = new IntersectionObserver(callback2);
-  observer2.observe(target2);
+  observer2.observe(target1);
 
   function callback2(entries, observer2) {
     entries.forEach(entry => {
@@ -43,12 +43,12 @@ if (mq.matches) {
         if (y.classList.contains("sticky")) {
   	y.classList.add("return_color");
           y.classList.remove("sticky");
-  	target3.classList.remove("stickyOffset");
+  	target2.classList.remove("stickyOffset");
         }
       } else {
           y.classList.remove("return_color");
   	y.classList.add("sticky");
-  	target3.classList.add("stickyOffset");
+  	target2.classList.add("stickyOffset");
       }
     });
   }
