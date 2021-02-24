@@ -1,7 +1,10 @@
 ---
 ---
+document
+  target1 = getElementById("intersectionObserver1");
+
 mq = window.matchMedia( "(min-width: {{ site.breakpoint }})" );
-target1 = document.getElementById("intersectionObserver1");
+# target1 = document.getElementById("intersectionObserver1");
 target2 = document.getElementById("special");
 target3 = document.getElementById("special2");
 mybutton = document.getElementById("myBtn");
