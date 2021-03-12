@@ -3,6 +3,7 @@
 // Already imported
 @import "colors";
 $mob-pixels: {{ site.breakpoint }};
+$media-pixels: {{ site.mediabreak }};
 $verynarrow: {{ site.verynarrow }};
 // @import "include-media";
 
@@ -403,7 +404,7 @@ input {
    }
 }
 // Media & Container responsiveness
-@media screen and (max-width: 800px) {
+@media screen and (max-width: $media-pixels) {
   .container-content {   
     flex-direction: column;
   }
@@ -420,10 +421,13 @@ input {
   .content {
 	  padding: 20px;
   }
+  .widespace {
+	  display: none;
+  }
 }
 
 // @include media(">800px") {
-@media screen and (min-width: 800px + 1) {
+@media screen and (min-width: $media-pixels + 1) {
   .embed-container2 {
 	  display: default
   }
