@@ -78,7 +78,6 @@ layout: compress
 </nav>
 	{% comment %}These are the headers, which are included only if the page has them. There's a weird bug for the homepage that forces it to have a title, thus the following unless statement...{% endcomment %}
   <header>
-	<br>
     {% unless page.trans == "home" %}{% if page.title %} <h1 class="header">{{ page.title }}</h1>{% endif %}
     {% if page.description %}<h2 class="header">{{ page.description }}</h2>{% endif %}
     {% endunless %}
