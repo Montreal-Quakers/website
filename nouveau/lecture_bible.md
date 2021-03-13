@@ -15,8 +15,8 @@ trans: book_bible
 ## Notre prochaine réunion
 À notre prochaine réunion, **{{ site.data.bookbible.verse.fr-date }}**, nous allons lire **{{ site.data.bookbible.verse.fr }}**.
 
-## Lectures passées
-Au cours des derniers mois nous avons lu les extraits suivants:
+## Lectures à venir
+Au cours des prochains mois nous allons lire les extraits suivants:
 {% for each in site.data.bookbible.prochain %}
 * {{ each.lecture }}{% endfor %}
 
