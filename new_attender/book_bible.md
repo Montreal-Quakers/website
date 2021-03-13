@@ -11,7 +11,7 @@ trans: book_bible
 * During COVID, the study group meets on **Zoom** and communicates via Montreal Meeting's **Discord channel**.
 * All are welcome, whether you are an avid Bible reader or not!
 
-[Contact us](/contact) for a link to the Discord for further details.
+[Contact us](/contact) for further details.
 
 ## Our next meeting
 At our next meeting, on **{{ site.data.bookbible.verse.en-date }}** we will be studying **{{ site.data.bookbible.verse.en }}**.
