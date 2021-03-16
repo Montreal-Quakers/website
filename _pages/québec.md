@@ -8,7 +8,7 @@ trans: quebec
 Le Groupe des Quakers à Québec se rencontre **chaque premier dimanche du mois à 11h00**.
 
 ## Où
-Au [31 rue des Jardins dans le Vieux-Québec](https://www.google.com/maps/search/31%20rue%20des%20Jardins,%20Qu%C3%A9bec){: target="_blank" rel="noopener"} à la chapelle All Saints, [ce bâtiment](https://goo.gl/maps/Z9wtKLtwAHEGSB7V6){: target="_blank" rel="noopener"} étant situé dans la cour de la cathédrale anglicane Holy Trinity.
+[À la chapelle All Saints, 31 rue des Jardins dans le Vieux-Québec](https://www.google.com/maps/search/31%20rue%20des%20Jardins,%20Qu%C3%A9bec){: target="_blank" rel="noopener"}, [ce bâtiment](https://goo.gl/maps/Z9wtKLtwAHEGSB7V6){: target="_blank" rel="noopener"} étant situé dans la cour de la cathédrale anglicane Holy Trinity à Vieux-Québec.
 
 ## [Contact](/contact-fr)
 

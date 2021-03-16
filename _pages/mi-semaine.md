@@ -13,7 +13,7 @@ trans: midweek
 ## Mises à jour <span class="stanchor"><a name="misesàjour"></a></span>
 Pour plus d'informations, joignez-vous au [groupe Facebook](https://www.facebook.com/groups/mtlmidweek/){: rel="noopener" target="_blank"}, consultez la [page Facebook](https://www.facebook.com/MontrealQuakers/){: rel="noopener" target="_blank"} (pas besoin d’être membre de Facebook, majoritairement en anglais) ou [contactez-nous](/contact-fr) pour toute autre question.
 ## Où
-[3484 rue Peel, Montréal](https://goo.gl/maps/MeQqk7m8Hegzx9Sz8){: rel="noopener" target="_blank"}
+[Le centre Newman, 3484 rue Peel, Montréal](https://goo.gl/maps/MeQqk7m8Hegzx9Sz8){: rel="noopener" target="_blank"}
 
 À côté de l’Université McGill au [Centre Newman](https://goo.gl/maps/MeQqk7m8Hegzx9Sz8){: rel="noopener" target="_blank"}, à la <i class="fas fa-book"></i> Bibliothèque Ryan (au 2e étage). 
 

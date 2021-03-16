@@ -14,7 +14,7 @@ trans: midweek
 For announcements or last minute changes, join the [Midweek Meeting Facebook group](https://www.facebook.com/groups/mtlmidweek){: rel="noopener" target="_blank"}, check the [Facebook page](https://www.facebook.com/MontrealQuakers){: rel="noopener" target="_blank"} (no Facebook account required), or [contact us](/contact) with questions.
 
 ## Where
-[3484 Peel Street, Montreal](https://goo.gl/maps/MeQqk7m8Hegzx9Sz8){: rel="noopener" target="_blank"}
+[The Newman Centre, 3484 Peel Street, Montreal](https://goo.gl/maps/MeQqk7m8Hegzx9Sz8){: rel="noopener" target="_blank"}
 
 Adjacent to McGill University at the Newman Centre's <i class="fas fa-book"></i> Ryan Library.
 
