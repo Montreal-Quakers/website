@@ -72,9 +72,6 @@ redalert_pages:
   - page_trans: south_shore
     redalert_text-en: alert/en-covid.md
     redalert_text-fr: alert/fr-covid.md
-  - page_trans: contact
-    redalert_text-en: alert/en-covid.md
-    redalert_text-fr: alert/fr-covid.md
 
 bluealerts: some
 bluealert_all_text-en: alert/en-midweek_over.md
