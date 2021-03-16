@@ -7,7 +7,7 @@ trans: directions
 
 ## Coordonnées
 
-[1090 Greene, Westmount, QC, H3Z 1Z9](https://www.google.com/maps/search/1090%20Greene,%20Westmount,%20QC,%20H3Z%201Z9){: rel="noopener" target="_blank"}
+[Le centre Greene, 1090 Greene, Westmount, QC, H3Z 1Z9](https://www.google.com/maps/search/1090%20Greene,%20Westmount,%20QC,%20H3Z%201Z9){: rel="noopener" target="_blank"}
 
 * Près de la **station Lionel-Groulx et Atwater** (Lionel-Groulx est un peu plus proche)
 * Le **stationnement** est disponible derrière le Centre Greene

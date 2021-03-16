@@ -7,7 +7,7 @@ trans: directions
 
 ## Address
 
-[1090 Greene, Westmount, QC, H3Z 1Z9](https://www.google.com/maps/search/1090%20Greene,%20Westmount,%20QC,%20H3Z%201Z9){: rel="noopener" target="_blank"}
+[The Greene Centre, 1090 Greene, Westmount, QC, H3Z 1Z9](https://www.google.com/maps/search/1090%20Greene,%20Westmount,%20QC,%20H3Z%201Z9){: rel="noopener" target="_blank"}
 
 * Near **Lionel-Groulx and Atwater metros** (Lionel-Groulx is slightly closer).
 * **Parking** available behind the Greene Centre.
