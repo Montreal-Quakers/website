@@ -1,13 +1,15 @@
 verse: 
-  en: Isaiah 35
-  fr: Isaïe 35
+  en: Exodus 1
+  fr: Exode 1
   en-date: Wednesday, March 17, 2021 at 6:15 PM
   fr-date: mercredi le 17 mars, 2021 à 18h15
 
 next:
-- reading: Exodus
+- reading: Ecclesiastes
+- reading: First Among Friends
 # - reading: Timothy
 
 prochain:
-- lecture: Exode
+- lecture: Ecclésiaste
+- lecture: First Among Friends
 # - lecture: Timothée
