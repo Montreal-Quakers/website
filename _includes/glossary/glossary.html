@@ -1,4 +1,5 @@
 {% if page.lang == "fr" %}{% assign fr = true %}{% endif %}
+<span id=copied style="display:none">{% if fr %}Copié!{% else %}Copied!{% endif %}</span>
 <div class=center>
   <span><button class="randombtn" onkeypress="openAll()" onclick="openAll()">{% if fr %}Ouvrir tout{% else %}Open all{% endif %}</button>&nbsp;
   <button class="randombtn" onkeypress="closeAll()" onclick="closeAll()">{% if fr %}Fermer tout{% else %}Close all{% endif %}</button>&nbsp;
@@ -29,10 +30,11 @@
  <div class="sticky_anchor">
    <div class="filterbye">&nbsp;</div>
    <div class=abc><a class="textwhite"> &nbsp;{{ abc }}</a><div class=stanchor><a name="{{ abc }}"></a></div></div>{% endunless %}
-   <button id="button{{ counter }}" onclick="toggleAccordion('{{ counter }}')" onkeypress="toggleAccordion('{{ counter }}')" class="list_button buttonyellow">{% if each.entry-href %}<i id="caret{{ counter }}" class="fas fa-caret-right"></i> &nbsp;&nbsp;<a href="{{ each.entry-href }}">{{ each.entry }}</a>{% else %}<i id="caret{{ counter }}" class="fas fa-caret-right"></i>&nbsp;&nbsp; {{ each.entry }}{% endif %}</button>{% if each.entry-id %}<span class=stanchor><a id="{{ each.entry-id }}"></a></span>{% endif %}
+   <button id="no{{ counter }}" onclick="toggleAccordion('{{ counter }}')" onkeypress="toggleAccordion('{{ counter }}')" class="list_button buttonyellow">{% if each.entry-href %}<i id="caret{{ counter }}" class="fas fa-caret-right"></i> &nbsp;&nbsp;<a href="{{ each.entry-href }}">{{ each.entry }}</a>{% else %}<i id="caret{{ counter }}" class="fas fa-caret-right"></i>&nbsp;&nbsp; {{ each.entry }}{% endif %}</button>{% if each.entry-id %}<span class=stanchor><a id="{{ each.entry-id }}"></a></span>{% endif %}
  <div class="list_div filterHide" id="div{{ counter }}">
 	 <p>{% if each.translation-href %}<a href="{{ each.translation-href }}">{{ each.translation }}</a>{% else %}{{ each.translation }}{% endif %}</p>
  	{% if each.comment-translation %}<p>{{ each.comment-translation }}</p>{% endif %}
+	<p><a id="id{{ counter }}" href="{% if fr %}/nouveau/glossaire{% if page.trans == "glossary_fren" %}_fran{% endif %}#no{{ counter }}{% else %}/new_attender/glossary{% if page.trans == "glossary_fren" %}_fren{% endif %}#no{{ counter }}{% endif %}"></a><span> (<a class=tooltip onclick="copyButton('id{{ counter }}')"><u>{% if fr %}Copier ce lien{% else %}copy link{% endif %}</u><span class="tooltiptext" id="myTooltip_id{{ counter }}">{% if fr %}Copier ce lien dans le presse-papiers{% else %}Copy link to clipboard{% endif %}</span></a>)</span></p>
  </div>
 {% endfor %}
 </div>

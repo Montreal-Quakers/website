@@ -63,7 +63,7 @@ function closeAll() {
 // First the random button
 function randomEntry() {
   var num = Math.floor(Math.random() * ({{ site.data.glossary.size }} - 1 + 1));
-	var randLink = '#button' + num;
+	var randLink = '#no' + num;
 	  window.open(randLink,"_self");
 	if (list_div[num].className.indexOf("filterHide") > -1) {
 		toggleAccordion(num);
@@ -72,7 +72,7 @@ function randomEntry() {
 
 function randomEntry_fran() {
   var num = Math.floor(Math.random() * ({{ site.data.glossaire.size }} - 1 + 1));
-	var randLink = '#button' + num;
+	var randLink = '#no' + num;
 	  window.open(randLink,"_self");
 	if (list_div[num].className.indexOf("filterHide") > -1) {
 		toggleAccordion(num);
@@ -81,7 +81,7 @@ function randomEntry_fran() {
 // This code reverses the current state.
 function toggleAccordion(id) {
   var x = document.getElementById("div" + id);
-  var y = document.getElementById("button" + id);
+  var y = document.getElementById("no" + id); //the button
   var caretid = document.getElementById("caret" + id);
   if (x.className.indexOf("filterShow") == -1) {
     x.className = x.className.replace("filterHide", "filterShow");

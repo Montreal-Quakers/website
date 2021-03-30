@@ -110,5 +110,8 @@ layout: compress
 	   {% if page.lang =="fr" %}{% capture bas-de-page %} {% include bas-de-page.md %}{% endcapture %}{{ bas-de-page | markdownify }}{% else %}{% capture footer %} {% include footer.md %}{% endcapture %}{{ footer | markdownify }}{% endif %}
 	      </footer>
 <script src="/assets/js/navigation.js"></script>   
+{% if page.trans == "glossary_fren" or page.trans == "glossary_enfr" %}
+<script src="/assets/js/copy.js"></script>   
+{% endif %}
 </body>
 </html>
