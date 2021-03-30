@@ -38,8 +38,8 @@ layout: default
     {% endif %}
   {% endfor %}
 
-  {% assign prev_index = item_index | plus: 1 %}
-  {% assign next_index = item_index | minus: 1 %}
+  {% assign next_index = item_index | plus: 1 %}
+  {% assign prev_index = item_index | minus: 1 %}
 
   {% for item in items %}
     {% if forloop.index == prev_index %}
@@ -51,14 +51,14 @@ layout: default
   {% endfor %}
 
   <p class=center>
-    {% if next %}
-    <a href="{{ next.url }}" class="w3-button color-1-dark" title="{{ next.title }}"><i class="fas fa-angle-left"></i>&nbsp; {% if fr %}Précédant{% else %}Older{% endif %}</a>
+    {% if prev %}
+    <a href="{{ prev.url }}" class="w3-button color-1-dark" title="{{ prev.title }}"><i class="fas fa-angle-left"></i>&nbsp; {% if fr %}Précédant{% else %}Older{% endif %}</a>
     {% endif %}
     {% if prev and next %}
       <span>&nbsp; | &nbsp;</span>
-    {% if prev %}
-      <a href="{{ prev.url }}" class="w3-button color-1-dark" title="{{ prev.title }}">{% if fr %}Suivant{% else %}Newer{% endif%}&nbsp; <i class="fas fa-angle-right"></i></a>
     {% endif %}
+    {% if next %}
+      <a href="{{ next.url }}" class="w3-button color-1-dark" title="{{ next.title }}">{% if fr %}Suivant{% else %}Newer{% endif%}&nbsp; <i class="fas fa-angle-right"></i></a>
     {% endif %}
   </p>
 {% endif %}

@@ -54,7 +54,7 @@ layout: compress
    {% include navigation.html %}
    {% comment %}Turn alerts on and off using _config.yml, see the README{% endcomment %}
    <div class="container-alert">
-   {% if page.url != "/nouveau/" and page.url != "/new_attender/" and page.url contains "/nouveau/" or page.url contains "/new_attender/" or page.url contains "/glossary/" or page.url contains "/glossaire/" %}{% include breadcrumbs.html %}{% endif %}
+   {% if page.url != "/nouveau/" and page.url != "/new_attender/" and page.url contains "/nouveau/" or page.url contains "/new_attender/" or page.url contains "/glossary/" or page.url contains "/glossaire/" or page.url == "/privacy" or page.url == "/confidentialit%C3%A9" %}{% include breadcrumbs.html %}{% endif %}
    {% if site.redalerts == "all" %}
      <div class="stickystart redalert"><div></div><div class="alert">{% if fr %}{% capture alerte %}<i class="fas fa-exclamation-circle fa-fw fa-lg"></i> &nbsp;{% include {{ site.redalert_all_text-fr }} %}{% endcapture %}{{ alerte | markdownify }}
      {% else %}{% capture alert %}<i class="fas fa-exclamation-circle fa-fw fa-lg"></i> &nbsp;{% include {{ site.redalert_all_text-en }} %}{% endcapture %}{{ alert | markdownify }}
