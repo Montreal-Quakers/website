@@ -41,6 +41,9 @@ en:
   hovertitle: How business meeting works
   link: /new_attender/business
   icon: <i class="fas fa-pencil-alt fa-fw"></i>
+  submenu:
+    - subtitle: First time at business meeting
+      sublink: /new_attender/first_business
 - title: Membership
   hovertitle: Learn About Membership at Meeting
   link: /new_attender/membership
