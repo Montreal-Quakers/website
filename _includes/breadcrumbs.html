@@ -2,11 +2,13 @@
 {% if page.trans == "privacy" %}
   <li><a href="/{% if page.lang == "fr" %}contact-fr{% else %}contact{% endif %}">{% if page.lang == "fr" %}Contact{% else %}Contact Us{% endif %}</a></li>
   <li>{% if page.lang == "fr" %}Politique de confidentialité{% else %}Privacy Policy{% endif %}</li>
-{% endif %}
-{% unless page.trans == "privacy" %}
+{% elsif page.trans == "livres-français" %}
+  <li><a href="/{% if page.lang == "fr" %}liens_histoire{% else %}links_history{% endif %}">{% if page.lang == "fr" %}Liens & histoire{% else %}Links & History{% endif %}</a></li>
+  <li>{% if page.lang == "fr" %}Sélection de livres en français{% else %}Selection of books in French{% endif %}</li>
+{% else %}
   <li><a href="/{% if page.lang == "fr" %}nouveau{% else %}new_attender{% endif %}/">{% if page.lang == "fr" %}Prochaine étape{% else %}Next steps{% endif %}</a></li>
   {% if page.lang == "fr" %}{% assign doclist = site.data.newcomer_cards.fr %}{% else %}{% assign doclist = site.data.newcomer_cards.en %}{% endif %}{% assign realurl = page.url | url_decode %}{% for item in doclist %}{% assign reallink = item.link %}{% if reallink == realurl %}<li>{{ item.title }}</li>{% endif %}
   {% if item.submenu[0] %}{% for subitem in item.submenu %}
   {% assign realsublink = subitem.sublink %}{% if realsublink == realurl %}<li><a href="{{ item.link }}">{{ item.title }}</a></li><li>{{ subitem.subtitle }}</li>{% endif %}{% endfor %}{% endif %}{% endfor %}
-{% endunless %}
+{% endif %}
 </ul>
