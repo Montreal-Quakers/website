@@ -33,6 +33,6 @@ D’autres titres existent mais certains sont plus difficiles à trouver au Cana
 
 ## Ressources
 * Sur le site web des [Quakers de Paris](https://quakers-paris.fr/des-livres-sur-le-quakerisme/)
-* Ce [site web français dédié au quakerisme](http://quaker.chez-alice.fr/livres.htm) 
+* Un liste de quelques autres livres sur ce [site web français dédié au quakerisme](http://quaker.chez-alice.fr/livres.htm) 
 
-Il existe aussi des traductions du journal de George Fox et de celui de John Woolman (et  d'autres classiques) qui sont disponibles en ligne ainsi que de nombreux articles.
+Il existe aussi de nombreux articles disponibles en ligne.
