@@ -16,7 +16,7 @@ Les livres en français sur les Quakers ne sont pas nombreux. Il est toutefois p
 
 <br>
 * ![La Présence ineffable](/assets/images/Kelly.png){: style="float:right;padding:5px"} Kelly, Thomas R. **La Présence ineffable**, Genève, Labor et Fides, 2012.
-  * Kelly est considéré comme un mystique quaker, un des fondateurs de la tradition libérale du quakerisme. Son texte est très connu chez les Quakers. 
+  * Kelly est considéré comme un mystique quaker, un des fondateurs de la tradition libérale du quakerisme. Son texte est très connu chez les Quakers.
   * Disponible en librairie
 
 <br>
@@ -32,7 +32,7 @@ Les livres en français sur les Quakers ne sont pas nombreux. Il est toutefois p
 D’autres titres existent mais certains sont plus difficiles à trouver au Canada.
 
 ## Ressources
-* Sur le site web des [Quakers de Paris](https://quakers-paris.fr/des-livres-sur-le-quakerisme/)
-* Un liste de quelques autres livres sur ce [site web français dédié au quakerisme](http://quaker.chez-alice.fr/livres.htm) 
+* Une liste de livres sur le site web des [Quakers de Paris](https://quakers-paris.fr/des-livres-sur-le-quakerisme/){: rel="noopener" target="_blank"}
+* Un liste de quelques autres livres sur ce [site web français dédié au quakerisme](http://quaker.chez-alice.fr/livres.htm){: rel="noopener" target="_blank"}
 
 Il existe aussi de nombreux articles disponibles en ligne.
