@@ -22,6 +22,6 @@ Vous aurez deviné que cette rencontre est totalement tributaire de l'évolution
 
 Ce sera un réel plaisir de vous voir!
 
-Jean-Louis Demers 
-Pour le Groupe Quaker de Québec.
+Jean-Louis Demers  
+Pour le Groupe Quaker de Québec.  
 [quebec@montreal.quaker.ca](quebec@montreal.quaker.ca)

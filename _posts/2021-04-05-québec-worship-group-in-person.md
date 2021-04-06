@@ -17,3 +17,11 @@ For people attending for the first time, I invite you to read or reread [Your Fi
 The room is kindly donated to us by the Anglican Cathedral of Quebec. As a thank you, a box will be on site to collect donations for the cathedral. The donation is at the sole discretion of each individual and is voluntary.
 
 If you are running late, please do come anyway and sit with us.
+
+You will have guessed that this meeting is totally dependent on the evolution the pandemic. We will be able to confirm the meeting about two days before.
+
+It will be a real pleasure to see you!
+
+Jean-Louis Demers  
+For the Quebec Worship Group.  
+[quebec@montreal.quaker.ca](quebec@montreal.quaker.ca)
