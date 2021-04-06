@@ -37,13 +37,13 @@ en:
   submenu:
     - subtitle: How to Represent Meeting
       sublink: /new_attender/repping_meeting
-- title: About business
-  hovertitle: How business meeting works
-  link: /new_attender/business
+- title: Business Meeting
+  link: /new_attender/first_business
+  hovertitle: First time at business meeting
   icon: <i class="fas fa-pencil-alt fa-fw"></i>
   submenu:
-    - subtitle: First time at business meeting
-      sublink: /new_attender/first_business
+    - subtitle: How Business Meeting Works
+      sublink: /new_attender/business
 - title: Membership
   hovertitle: Learn About Membership at Meeting
   link: /new_attender/membership
@@ -101,9 +101,12 @@ fr:
   link: /nouveau/comités
   icon: <i class="fas fa-screwdriver fa-fw"></i>
 - title: Assemblée d'affaires
-  hovertitle: Comment déroule l'assemblée d'affaires
-  link: /nouveau/affaires
+  hovertitle: Votre première fois à l'assemblée d'affaires
+  link: /nouveau/affaires_première_fois
   icon: <i class="fas fa-pencil-alt fa-fw"></i>
+  submenu:
+  - subtitle: Comment déroule l'assemblée d'affaires
+    sublink: /nouveau/affaires
 - title: Devenir membre
   hovertitle: Le rôle et processus
   link: /nouveau/devenir_membre

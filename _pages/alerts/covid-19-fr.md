@@ -6,7 +6,7 @@ trans: covid
 ## Horaire
 Comme mesure préventive contre la COVID-19, voici les modifications:
 * L'assemblée de [**dimanche**](/coordonnées): à de 11h à 11h45 avec des activités après **par téléphone ou en ligne par vidéoconférence** jusqu'au moins le {{ site.covid-close-date-fr }}.
-* Le culte du groupe de [**Québec**](/québec): à 11h **par téléphone ou en ligne par vidéoconférence** jusqu'au moins le {{ site.covid-close-date-fr }}.
+* Le culte du groupe de [**Québec**](/québec): reprend **en présentiel** le 2 mai à 13h. Voir les [consignes sanitaires ci-dessous](#consignes).
 * Le culte du groupe de [**mi-semaine**](/mi-semaine): **le mercredi à 19h** (plutôt qu'à 17h30) **par téléphone ou en ligne par vidéoconférence** pendant 45 minutes.
 * Le culte du groupe aux [**Laurentides**](/laurentides): annulé pour l'hiver. Il vaut mieux [appeler avant](/laurentians#contact).
 * Groupe Quaker du [**Rive-Sud**](/rive-sud): nous attendons des conditions plus sécuritaires avant de commencer ce groupe.
@@ -18,3 +18,9 @@ Comme mesure préventive contre la COVID-19, voici les modifications:
 Notre communauté offre du soutien, y compris du **soutien financier**, pour les membres et les participant.e.s pendant ce moment difficile.
 
 [Contactez-nous](/contact-fr.html) pour en connaître les modalités.
+
+## Consignes sanitaires pour toute réunion en présentiel <span class="stanchor"><a name="consignes"></a></span>
+* Désinfection des mains à l'entrée.
+* Port du masque couvrant le nez et la bouche obligatoire jusqu'à ce qu'on soit assis et lors de tout déplacement.
+* Les chaises seront amplements distancées (nous sommes peu nombreux).
+* Aucun breuvage et aucune nouriture ne seront servis.
