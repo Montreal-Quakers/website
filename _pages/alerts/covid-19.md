@@ -23,4 +23,4 @@ The meeting is offering support, including **financial support**, for members an
 * Disinfect hands at the entrance.
 * Wearing a mask, covering nose and mouth, is mandatory until you are seated and during any movement.
 * The chairs will be amply distanced (we are a small group).
-* No drink and no food will be served.
+* Neither drink nor food will be served.
