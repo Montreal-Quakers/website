@@ -7,7 +7,7 @@ trans: covid
 As a COVID-19 prevention measure, we have updated our worship schedule:
 * [**Sunday**](/directions) meeting: from 11 to 11:45 AM via **phone or videoconference on the internet** until at least {{ site.covid-close-date-en }}. We have brief activities after.
 * [**Midweek**](/midweek) meeting: **on Wednesdays at 7 PM** (rather than 5:30 PM) via **phone or videoconference on the internet** for a duration of 45 minutes.
-* [**Quebec City**](/qc) worship group: will begin monthly **in-person** meetings on May 2nd at 1 PM on Sundays, following [the precautions below](#precautions).
+* [**Quebec City**](/qc) worship group: will begin monthly **in-person** meetings on May 2nd, 2021 at 1 PM on Sundays, following [the precautions below](#precautions).
 * [**Laurentian**](/laurentians) worship group: closed for the winter. Best to [call first](/laurentians#contact) to confirm exact dates.
 * [**South Shore**](/south_shore) Worship Group: we're awaiting safer conditions before beginning this worship group.
 * [**Book and Bible study**](/new_attender/book_bible) we'll be meeting on Zoom at 6:15 PM until further notice.
