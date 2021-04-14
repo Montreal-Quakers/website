@@ -8,7 +8,7 @@ We are happy to announce that we will carefully resume the in-person meetings [i
 As always, the following health precautions must be strictly applied:
 
 * Hand disinfection at the entrance.
-* Wearing a mask mandatory until you are seated and when moving around the room.
+* Wearing a mask mandatory at all times.
 * The chairs will be amply distanced (we are a small group).
 * No drinks and no food will be served.
 

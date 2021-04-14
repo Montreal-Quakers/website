@@ -8,7 +8,7 @@ C'est avec un plaisir prudent qu'on vous annonce que nous reprendrons les rencon
 Comme partout, les règles de prévention devront être strictement appliquées:
 
 * Désinfection des mains à l'entrée.
-* Port du masque obligatoire jusqu'à ce qu'on soit assis et lors de tout déplacement.
+* Port du masque obligatoire en tout temps.
 * Les chaise seront amplements distancées (nous sommes peu nombreux).
 * Aucun breuvage et aucune nouriture ne seront servis.
 

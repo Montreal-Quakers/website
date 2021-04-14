@@ -21,6 +21,6 @@ Notre communauté offre du soutien, y compris du **soutien financier**, pour les
 
 ## Consignes sanitaires pour toute réunion en présentiel <span class="stanchor"><a name="consignes"></a></span>
 * Désinfection des mains à l'entrée.
-* Port du masque couvrant le nez et la bouche obligatoire jusqu'à ce qu'on soit assis et lors de tout déplacement.
+* Port du masque couvrant le nez et la bouche obligatoire en tout temps.
 * Les chaises seront amplements distancées (nous sommes peu nombreux).
 * Aucun breuvage et aucune nouriture ne seront servis.
