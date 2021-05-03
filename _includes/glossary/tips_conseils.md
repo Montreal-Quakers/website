@@ -7,7 +7,7 @@
 6. En anglais, le glossaire suit la pratique des Nations Unies et respecte l'orthographe anglaise.
 7. L'anglais recourt plus volontiers aux majuscules que le français. Les majuscules dans ce glossaire sont volontairement choisis pour correspondre à l'usage courant dans chaque langue.
 {% else %}
-1. In the French-English glossary, reflexive verbs are placed in the alphabetical position corresponding to the verb itself, but they are none the less preceded by "se" or " s'... "
+1. In the French-English glossary, reflexive verbs are placed in the alphabetical position corresponding to the verb itself, but they are nonetheless preceded by "se" or "s'..."
 2. Cross-references to other entries within the glossary are indicated in capitals (e.g.: 'cf. CLERK')
 3. The reference '**text.**' indicates that the expression in question is presented in its context in the section '[Some often-quoted Quaker texts](texts)'.
 4. In French, nouns presented with a dash, e.g. "Ami-e" indicate that "Ami" is the masculine and "Amie" the feminine form.

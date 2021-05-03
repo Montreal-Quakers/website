@@ -1,12 +1,23 @@
 ---
-title: 2 mai rencontre annulée!
+title: Reprise des rencontres à Québec
 lang: fr
-trans: 2021-qc-annulé-mai
+trans: 2021-qc-reprise
 ---
-Bonjour à toutes et à tous.
+C'est avec un plaisir prudent qu'on vous annonce que nous reprendrons les rencontres en présence [à Québec](/québec) dès le dimanche 2 mai prochain à 13h00 à la chapelle All Saints, [31 rue des Jardins dans le Vieux-Québec](/québec), ce bâtiment étant situé dans la cour de la cathédrale anglicane Holy Trinity. Un stationnement est disponible. Vous remarquerez que nous avons du changer notre horaire afin d'accomoder la communauté anglicane francophone. Nous pourrons ultérieurement discuter d'un moment qui serait avantageux pour tout le monde.
 
-J'avais annoncé il y a quelque temps la possibilité que nos rencontres reprennent dès dimanche le 2 mai. Or les conditions sanitaires actuelles ne le permettent pas. **Cette rencontre est donc annulée. Cependant, il est prévu que nous organisions une rencontre sur Zoom pendant le mois de mai.** Cette rencontre aura pour but de faire connaissance avec les personnes intéressées au mouvement quaker et de répondre aux questions. Vous serez informés à l'avance. Cette rencontre pourrait se tenir un jour de semaine en début de soirée mais si vous désirez y participer et que vous avez des contraintes d'horaire, faites nous connaitre vos disponibilités et nous tenterons de nous ajuster.
+Comme partout, les règles de prévention devront être strictement appliquées:
 
-D'ici là portez vous bien et faites attention à vous!
+* Désinfection des mains à l'entrée.
+* Port du masque obligatoire jusqu'à ce qu'on soit assis et lors de tout déplacement.
+* Les chaise seront amplements distancées (nous sommes peu nombreux).
+* Aucun breuvage et aucune nouriture ne seront servis.
 
-Nous avons tous hâte de nous revoir.
+Pour les personnes qui viendront pour la première fois, je vous invite à lire ou à relire [le déroulement d'une rencontre quaker](/à_propos).
+
+Le local nous est gracieusement prêté par la Cathédrale Anglicane de Québec. En guise de remerciement, une boite est toujours sur place afin de recueuillir les dons qui seront remis à la cathédrale. Le don est à l'entière discrétion de chacun.e et il est volontaire.
+
+Si vous etes en retard ce n'est pas grave et vous n'avez qu'à venir vous assoir discrètement avec nous.
+
+Vous aurez deviné que cette rencontre est totalement tributaire de l'évolution des consignes concernant la pandémie. On sera en mesure de confirmer la rencontre environ deux jours avant.
+
+Ce sera un réel plaisir de vous voir!
