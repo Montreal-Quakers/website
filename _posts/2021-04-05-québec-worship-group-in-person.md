@@ -20,7 +20,7 @@ If you are running late, please do come anyway and sit with us.
 
 You will have guessed that this meeting is totally dependent on the evolution the pandemic. We will be able to confirm the meeting about two days before.
 
-It will be a real pleasure to see you! :+1:
+It will be a real pleasure to see you!
 
 Jean-Louis Demers  
 For the Quebec Worship Group.  

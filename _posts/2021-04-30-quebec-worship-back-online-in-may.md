@@ -9,4 +9,4 @@ I announced some time ago the possibility of the Quebec City worship group meeti
 
 Until then, be well and take care of yourself!
 
-We all can't wait to see each other again. :+1:
+We all can't wait to see each other again.
