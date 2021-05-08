@@ -9,4 +9,4 @@ J'avais annoncé il y a quelque temps la possibilité que les rencontres du grou
 
 D'ici là portez vous bien et faites attention à vous!
 
-Nous avons tous hâte de nous revoir.
+Nous avons tous hâte de nous revoir. :+1:
