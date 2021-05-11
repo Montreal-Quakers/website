@@ -3,6 +3,7 @@ layout: default
 trans: home
 lang: fr
 permalink: /accueil
+og-title: Accueil
 ---
 ## [À propos des Quakers](/intro-fr)
 

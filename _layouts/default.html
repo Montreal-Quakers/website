@@ -16,11 +16,20 @@ layout: compress
   <link rel="preload" href="/assets/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/assets/google_fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf" as="font" type="font/ttf" crossorigin>
   <link rel="preload" href="/assets/google_fonts/Source_Sans_Pro/SourceSansPro-Black.ttf" as="font" type="font/ttf" crossorigin>
-  <meta name="description" content="{{ site.title}}">
+  <meta name="description" content="{% if site.title %}{{ site.title}}{% else %}{{ page.trans }}{% endif %}">
   <meta name="keywords" content="{{ site.keywords}}">
   <meta name="author" content="{{ site.title}}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#01579B">
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="article:publisher" content="{{ site.url }}" />
+  {% if page.tag %}<meta property="article:tag" content="{{ page.tags }}" />{% endif %}
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:image" content="/assets/images/quaker_icon_192x192.png" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:type" content="{% if page.layout == "post" %}article{% else %}website{% endif %}" />
+  <meta property="og:locale" content="{% if fr %}fr{% else %}en{% endif %}_CA" />
   <html lang="{{ page.lang | default: 'en' }}">
   <link rel="stylesheet" href="/assets/css/fa-custom.css">
   {% comment %}If you want to add FontAwesome 5 icons, comment out the line above by putting it between symbols <!-- --> like this "<!-- <link rel="stylesheet" href="/assets/css/fa-custom.css"> --> and uncomment the line the line below by removing those same symbols (<!-- and -->){% endcomment %}
