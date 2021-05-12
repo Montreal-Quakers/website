@@ -40,7 +40,8 @@ layout: compress
   {% if page.trans == "new_attender" or page.trans == "glossary_fren" or page.trans == "glossary_enfr" or page.trans == "index-choose" or page.type == "system_grid" %}<link rel="stylesheet" href="/assets/css/grid.css">{% endif %}
   <link rel="stylesheet" href="/assets/css/navstyle.css">
   <link rel="preload" href="/assets/js/navigation.js" crossorigin>
-  <link rel="icon" type="image/png" href="/assets/images/quaker_icon_32x32.png" sizes="32x32">
+  {% comment %}<link rel="icon" type="image/png" href="/assets/images/quaker_icon_32x32.png" sizes="32x32">{% endcomment %}
+  <link rel="icon" type="image/png" href="/favicon.ico" sizes="256x256">
   <link rel="apple-touch-icon" href="/assets/images/quaker_icon_192x192.png" sizes="192x192">
   <link rel="manifest" href="/manifest{% if fr %}-fr{% endif %}.webmanifest">
   {% if page.trans == "contribution" %}<link rel="dns-prefetch" href="https://canadahelps.org">{% endif %}
