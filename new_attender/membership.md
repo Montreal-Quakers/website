@@ -2,6 +2,7 @@
 title: <i class="fas fa-hand-holding-medical fa-fw color-1-light-text"></i> Membership
 lang: en
 trans: membership
+og-title: Membership
 ---
 ## The role of membership for Montreal Quakers
 Some people attend meeting and even serve on Quaker committees for many years without being a member. Anyone is welcome at meeting, may give ministry at meeting and at business meeting; members and regular attenders can serve on committees. 

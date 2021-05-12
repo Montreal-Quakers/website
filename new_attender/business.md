@@ -2,6 +2,7 @@
 title: <i class="fas fa-coins color-1-text"></i> How Meeting for Business works <i class="fas fa-pencil-alt fa-fw color-1-dark-text"></i>
 trans: business_meeting
 lang: en
+og-title: How Meeting for Business works
 ---
 ## The name
 We remind ourselves often that the name for a business meeting is "Meeting for Worship with attention to business." Our business meeting is first and foremost a meeting for _worship_. Business is secondary.

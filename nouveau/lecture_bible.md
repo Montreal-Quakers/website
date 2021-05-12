@@ -2,6 +2,7 @@
 title: <i class="fas fa-book-reader color-1-text"></i> Club de lecture & d'étude biblique <i class="fas fa-bible color-1-dark-text"></i>
 lang: fr
 trans: book_bible
+og-title: Club de lecture & d'étude biblique
 ---
 ## Détails pratiques
 * Ce groupe se réunit le **mercredi de 18h15 à 19h** (avant le culte de mi-semaine).

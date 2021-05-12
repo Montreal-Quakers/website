@@ -1,7 +1,8 @@
 ---
-title: <i class="fas fa-list-alt fa-fw color-1-dark-text"></i> Meeting resources and info-sheets 
+title: <i class="fas fa-list-alt fa-fw color-1-dark-text"></i> Meeting resources and info-sheets
 lang: en
 trans: meeting_resources
+og-title: Meeting resources and info-sheets
 ---
 Feel free to [request](/contact) any of these non-public resources to integrate better into the meeting:
 * Meeting contact list

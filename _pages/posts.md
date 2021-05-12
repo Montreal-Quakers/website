@@ -4,6 +4,7 @@ hovertitle: The Latest Updates
 lang: en
 trans: news
 type: system_grid
+og-title: News and Updates
 ---
 Our [calendar](/calendar) shows our upcoming events.
 

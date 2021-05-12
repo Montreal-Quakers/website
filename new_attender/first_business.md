@@ -2,6 +2,7 @@
 title: First time at business meeting <i class="fas fa-pencil-alt fa-fw color-1-dark-text"></i>
 trans: first_business
 lang: en
+og-title: First time at business meeting
 ---
 We're excited that you're considering coming to your first business meeting. Everyone is welcome to attend and even participate in Quaker business meetings, although if it's your first time, we suggest reading about [how Meeting for Business works](/new_attender/business) and focusing on listening.
 

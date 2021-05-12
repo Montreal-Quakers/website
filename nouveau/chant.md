@@ -2,6 +2,7 @@
 title: <i class="fas fa-music color-1-text"></i> Groupe de chant
 lang: fr
 trans: singing_group
+og-title: Groupe de chant
 ---
 Notre groupe de chant utilise quelques ressources clés (il faut rien pour pouvoir participer, on peut vous fournir une copie si nécessaire aussi):
 * Rise Up Singing: The Group Singing Songbook by Peter Blood and Annie Patterson

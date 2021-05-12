@@ -2,6 +2,7 @@
 title: Première fois à une réunion d'affaires <i class = "fas fa-pencil-alt fa-fw color-1-dark-text"> </i>
 trans: first_business
 lang: fr
+og-title: Première fois à une réunion d'affaires
 ---
 Nous sommes ravis que vous envisagiez d'assister à votre première réunion d'affaires. Tout le monde est invité à assister et même à participer aux réunions d'affaires Quaker, bien que si c'est votre première fois, nous vous suggérons de lire [comment fonctionne une réunion d'affaires](/nouveau/affaires) et d'écouter.
 

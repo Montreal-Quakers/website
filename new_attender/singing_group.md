@@ -2,6 +2,7 @@
 title: <i class="fas fa-music color-1-text"></i> Singing Potluck
 lang: en
 trans: singing_group
+og-title: Singing Potluck
 ---
 Our singing group generally uses a few key resources (you don't need to own these to participate; we can also lend you a copy if need be):
 * Rise Up Singing: The Group Singing Songbook by Peter Blood and Annie Patterson

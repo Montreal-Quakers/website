@@ -2,6 +2,7 @@
 title: <i class="far fa-circle fa-fw color-1-text"></i> Rassemblements Quaker
 lang: fr
 trans: gatherings
+og-title: Rassemblements Quaker
 ---
 Vous êtes les bienvenus aux:
 * [Rassemblement régional](https://stlawrence.quaker.ca/index-fr){: rel="noopener" target="_blank"} (événement majoritairement en anglais, quelques pages en français, la traduction peut être disponible)

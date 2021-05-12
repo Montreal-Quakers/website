@@ -2,6 +2,7 @@
 title: <i class="fas fa-hand-holding-medical fa-fw color-1-light-text"></i> Devenir membre
 lang: fr
 trans: membership
+og-title: Devenir membre
 ---
 ## Le rôle des membres au sein des Quakers de Montréal
 Certaines personnes assistent aux assemblées et siègent même à des comités des Quakers pendant de nombreuses années sans en être membres. Toute personne est la bienvenue à nos assemblées, peut partager le ministère et même avoir voix aux réunions d'affaires.

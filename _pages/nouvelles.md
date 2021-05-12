@@ -3,6 +3,7 @@ title: <i class="far fa-newspaper color-1-dark-text"></i> &nbsp;Nouvelles
 lang: fr
 trans: news
 type: system_grid
+og-title: Nouvelles
 ---
 Consultez notre [calendrier](/calendrier) d'événements.
 

@@ -2,6 +2,7 @@
 title: <i class="fas fa-hand-holding-heart fa-fw color-1-dark-text"></i> Demandez de l'aide
 lang: fr
 trans: request_help
+og-title: "Demandez de l'aide"
 ---
 Comme participant.e ou comme membre, vous pouvez demander de l'aide de la communauté Quaker de Montréal. Cette aide peut être sous plusieurs formes:
 * [Aide financière d'urgence](/nouveau/fonds_daide).

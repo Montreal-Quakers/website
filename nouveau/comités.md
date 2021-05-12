@@ -2,6 +2,7 @@
 title: <i class="fas fa-screwdriver fa-fw color-1-dark-text"></i> Comités & rôles <i class="fas fa-theater-masks fa-fw color-1-text"></i>
 lang: fr
 trans: committees
+og-title: Comités & rôles
 ---
 Les Quakers célèbrent les leaders dans leur communauté, mais accordent moins d'importance à la hiérarchie. Nous ne sommes tous que des bénévoles. La fonction de ces rôles n'est pas de prendre des décisions pour le groupe, et surtout pas de les imposer aux autres, mais plutôt de faciliter l'écoute de l'esprit d'amour dans nos décisions collectives, une écoute qui est le noyau de la vie Quaker.
 

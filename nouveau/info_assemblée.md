@@ -2,6 +2,7 @@
 title: <i class="fas fa-list-alt fa-fw color-1-dark-text"></i> Ressources et informations sur la communauté
 lang: fr
 trans: meeting_resources
+og-title: Ressources et informations sur la communauté
 ---
 N'hésitez pas à [demander](/contact-fr) les ressources ci-dessous pour mieux vous intégrer dans la vie de la communauté:
 * La liste de contact

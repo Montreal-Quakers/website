@@ -21,17 +21,17 @@ layout: compress
   <meta name="author" content="{{ site.title}}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#01579B">
-  <meta property="og:title" content="{% if page.og-title %}{{ page.og-title }}{% else %}{{ page.title }}{% endif %}" />
-  <meta property="article:publisher" content="{{ site.url }}" />
-  {% if page.tag %}<meta property="article:tag" content="{{ page.tags }}" />{% endif %}
-  <meta property="twitter:card" content="summary_large_image" />
-  <meta property="fb:app_id" content="299421778303061" />
-  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:title" content="{% if page.og-title %}{{ page.og-title }}{% else %}{{ page.title }}{% endif %}">
+  <meta property="article:publisher" content="{{ site.url }}">
+  {% if page.tag %}<meta property="article:tag" content="{{ page.tags }}">{% endif %}
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="fb:app_id" content="299421778303061">
+  <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:description" content="{% if page.og-title %}{{ page.og-title }}{% elsif page.title %}{{ page.title }}{% elsif site.title %}{{ site.title}}{% else %}{{ page.trans }}{% endif %}">
   <meta property="og:image" content="{{ site.url }}/assets/images/quaker_icon.png" />
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-  <meta property="og:type" content="{% if page.layout == "post" %}article{% else %}website{% endif %}" />
-  <meta property="og:locale" content="{% if fr %}fr{% else %}en{% endif %}_CA" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:type" content="{% if page.layout == "post" %}article{% else %}website{% endif %}">
+  <meta property="og:locale" content="{% if fr %}fr{% else %}en{% endif %}_CA">
   <html lang="{{ page.lang | default: 'en' }}">
   <link rel="stylesheet" href="/assets/css/fa-custom.css">
   {% comment %}If you want to add FontAwesome 5 icons, comment out the line above by putting it between symbols <!-- --> like this "<!-- <link rel="stylesheet" href="/assets/css/fa-custom.css"> --> and uncomment the line the line below by removing those same symbols (<!-- and -->){% endcomment %}
