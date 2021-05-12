@@ -2,6 +2,7 @@
 title: <i class="fas fa-universal-access fa-fw color-1-dark-text"></i> Accessibility Information
 lang: en
 trans: accessibility
+og-title: Accessibility Information
 ---
 Quakerism is based on seeing value in every human being. If there is anything we can improve your access to our website or our meeting spaces, we hope you will [let us know](/contact).
 

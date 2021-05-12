@@ -2,6 +2,7 @@
 title: <i class="fas fa-universal-access fa-fw color-1-dark-text"></i> Informations sur l'accessibilité
 lang: fr
 trans: accessibility
+og-title: Informations sur l'accessibilité
 ---
 Le Quakerisme se base sur le respect de chaque être humain. Si nous pouvons améliorer votre accès à notre site web ou à nos sites physiques, nous espérons que [vous nous le ferez savoir](/contact-fr).
 

@@ -18,6 +18,8 @@
   * [UPDATING](#updating)
   * [Making even more advanced changes](#making-even-more-advanced-changes)
 - [This site vs. Wordpress](#this-site-vs-wordpress)
+- [Troubleshooting](#troubleshooting)
+  * [Weird white line at the top](#weird-white-line-at-the-top)
 
 # About this website
 This GitHub hosts the Montreal Quaker meeting website using a system that converts text into webpages. Like Wordpress, it shouldn't be too tricky to add pages and blog posts, or edit existing pages.
@@ -326,3 +328,7 @@ Anyway, at some point, GitHub may send us an email saying that we need to update
 Making changes will take a bit of time to learn, but it's not tons more complicated than Wordpress, which does offer a graphical interface, but good luck finding what you want and then learning to operate it within the dozens of options and plugins. Also, in terms of multilingual functionality, Wordpress is pretty good but it is still work to get translations to link. I would need to teach the next person something; it is not instantly intuitive. Also, the final product isn't as good -- I haven't been able to figure out how to get the headers and all the menus to translate automatically. Basically, it would take specialized knowledge to change the architecture of the Wordpress site anyway, so why not just make a better structure within which to easily make the minor everyday changes we need. This structure also makes it easier to have a written README that anyone can access, anyone can learn anytime about how to make changes, and anyone can suggest improvements by proposing a pull request.
 
 One thing to note is that nothing on Github is private. Anyone can view all the code for our site and all its previous versions. Not that there is anything private on our current site, and even if there were, private stuff would potentially be just as accessible. If there are any concerns about this, one way forward is to occasionally save the files we want public, delete the repository, and start fresh.
+
+# Troubleshooting
+## Weird white line at the top
+If you add pages using icons in the title, you may get a bug with a weird white line at the top of the page with text like ```COVID-19 Updates"> COVID-19 Updates">```. What's happening is that the default layout for every page ```_layout/default.html``` is trying pass a bunch of information and variables in HTML that improve the site's SEO (search optimization) and how well the site embeds links, for instance, by allowing posts on Facebook to use the appropriate icon. Much of this information is automatically provided by the title of each page. But if that title contains HTML code (for instance, the title of our contact us page is ```<i class="fas fa-pencil-alt shake-tl color-1-text"></i>&nbsp; Contact Us &nbsp;<i class="fas fa-phone shake-bottom color-1-dark-text"></i>```), for some annoying reason it causes a bug in the HTML. As a fix, just add in the frontmatter ```og-title: ``` and then the title without any HTML.

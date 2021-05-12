@@ -2,6 +2,7 @@
 title: <i class="fas fa-head-side-mask color-1-light-text fa-flip-horizontal"></i> Maladie COVID-19
 lang: fr
 trans: covid
+og-title: Maladie COVID-19
 ---
 ## Horaire
 Comme mesure préventive contre la COVID-19, voici les modifications:

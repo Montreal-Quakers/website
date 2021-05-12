@@ -2,6 +2,7 @@
 title: <i class="fas fa-head-side-mask color-1-light-text fa-flip-horizontal"></i> COVID-19 Updates
 lang: en
 trans: covid
+og-title: COVID-19 Updates
 ---
 ## Schedule
 As a COVID-19 prevention measure, we have updated our worship schedule:
