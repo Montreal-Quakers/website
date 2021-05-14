@@ -21,3 +21,7 @@ Si vous etes en retard ce n'est pas grave et vous n'avez qu'à venir vous assoir
 Vous aurez deviné que cette rencontre est totalement tributaire de l'évolution des consignes concernant la pandémie. On sera en mesure de confirmer la rencontre environ deux jours avant.
 
 Ce sera un réel plaisir de vous voir!
+
+Jean-Louis Demers  
+Pour le groupe Quaker de Québec   
+[quebec@montreal.quaker.ca](mailto:quebec@montreal.quaker.ca)

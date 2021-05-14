@@ -24,4 +24,4 @@ It will be a real pleasure to see you!
 
 Jean-Louis Demers  
 For the Quebec Worship Group.  
-[quebec@montreal.quaker.ca](quebec@montreal.quaker.ca)
+[quebec@montreal.quaker.ca](mailto:quebec@montreal.quaker.ca)

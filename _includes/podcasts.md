@@ -10,10 +10,10 @@
 * [On Being](https://onbeing.org/){: rel="noopener" target="_blank"} is an excellent non-Quaker-specific podcast on religion and spirituality that often speaks to and about Quaker faith. Host Krista Tippett talks to Friends such as:
   * [Katy Payne](https://onbeing.org/programs/katy-payne-in-the-presence-of-elephants-and-whales/){: rel="noopener" target="_blank"}
   * [Carrie Newcommer](https://onbeing.org/programs/carrie-newcomer-a-conversation-with-music/){: rel="noopener" target="_blank"}
-  * [Parker Palmer](https://onbeing.org/programs/the-soul-in-depression-mar2018/){: rel="noopener" target="_blank"} (who also writes blog posts on this site)
+  * [Parker Palmer](https://onbeing.org/programs/living-the-questions-whats-our-communal-equivalent-of-rubbing-each-others-feet/){: rel="noopener" target="_blank"} (who also writes blog posts on this site)
   * On Being broadcasts inspiring interviews with people of many faiths.
 * Recommended: [On Carrying a Concern](https://www.ocacshow.org/){: rel="noopener" target="_blank"}, a podcast that interviews Quakers following concerns and leadings into service.
-* [Spirit in Action](https://www.northernspiritradio.org/program/spirit-action){: rel="noopener" target="_blank"} is part of Northern Spirit Radio, founded by Mark Helpsmeet in 2005 with the support of the Eau Claire Friends Meeting in Wisconsin. We recommend:
+* [Spirit in Action](https://www.northernspiritradio.org/spirit-action){: rel="noopener" target="_blank"} is part of Northern Spirit Radio, founded by Mark Helpsmeet in 2005 with the support of the Eau Claire Friends Meeting in Wisconsin. We recommend:
   * [Spirit In The Digital Age: Quakers & Technology](https://www.northernspiritradio.org/episode/spirit-digital-age-quakers-technology){: rel="noopener" target="_blank"}
   * [Fit for Freedom not Friendship](https://www.northernspiritradio.org/episode/fit-freedom-not-friendship-donna-mcdaniel-and-vanessa-julye){: rel="noopener" target="_blank"}
   * [Earth-Community Values & Money Dilemmas](https://www.northernspiritradio.org/episode/earth-community-values-money-dilemmas){: rel="noopener" target="_blank"}
