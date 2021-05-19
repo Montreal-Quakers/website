@@ -27,7 +27,7 @@ Que le rédacteur ait reçu bien moins d'observations sur le glossaire français
 
 Toutes celles et tous ceux qui ont déjà offert des observations sur le glossaire méritent la gratitude non seulement du rédacteur mais surtout de tous les usagers de l'outil. Cela dit, le rédacteur porte la responsabilité de toute erreur, maladresse ou omission.
 
-Un glossaire n'est jamais définitif. Le rédacteur recevra toujours volontiers des observations et des recommandations qui permettront d'améliorer ce glossaire-ci et de le maintenir à jour. N'hésitez surtout pas à communiquer vos observations et recommendations à:
+Un glossaire n'est jamais définitif. Le rédacteur recevra toujours volontiers des observations et des recommandations qui permettront d'améliorer ce glossaire-ci et de le maintenir à jour. N'hésitez surtout pas à communiquer vos observations et recommendations par notre [page de contact](/contact-fr) ou à:
 
 Edward Dommen  
 100, chemin des Mollies  
