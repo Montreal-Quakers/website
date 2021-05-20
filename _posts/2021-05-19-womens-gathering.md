@@ -1,8 +1,8 @@
 ---
 lang: en
-title: "Come to the Spring Gathering of Northeast Region of United Society of Friends Women International: 29 May - 12:30-3PM"
+title: "Spring Gathering, United Society of Friends Women International Northeast Region "
 ---
-Come to Spring Gathering of Northeast Region of United Society of Friends Women International. – 29 May - 12:30-3PM. Via zoom
+Come to the Spring Gathering of Northeast Region of United Society of Friends Women International: 29 May - 12:30-3PM. Via zoom.
 
 The main speaker will be Jane Mutoro pastor of Donholm Friends Church in Nairobi- one that, before Covid, usually had 1500 Friends attending each Sunday! She’s a graduate of Friends Theological College in Kaimosi, Kenya and did her practicum in Samburu. 
 
