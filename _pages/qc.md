@@ -3,7 +3,7 @@ title: Quebec City Worship Group
 lang: en
 trans: quebec
 ---
-{% include picture.html basename="/assets/images/qc_2" type="jpg" alt="The initiators of the group" class="img_center100" figcaption="The initiators of the group, Clara Grouazel and Jean-Louis Demers" %}
+{% include picture.html basename="/assets/images/quebec" type="jpg" alt="Quebec worship group logo" class="img_center75" %}
 
 ## When
 Every first Sunday of the month, at 11 a.m.
@@ -27,5 +27,3 @@ Please [let us know](/contact) if you require additional information or accommod
 ### Language
 * The Quebec City worship group is primarily in French.
   * Most participants are bilingual
-
-{% include picture.html basename="/assets/images/quebec" type="jpg" alt="Quebec worship group logo" class="img_center75" %}
