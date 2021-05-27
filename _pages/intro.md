@@ -9,7 +9,7 @@ trans: intro
   * Our community exists to give us strength to live boldly.
 
 ### <i class="fas fa-arrows-alt-h fa-fw fa-2x color-1-text down_a_bit"></i> &nbsp;An accepting community of equals
-  * We celebrate the leadership within our community, but minimize hierarchy; we have no paid positions.
+  * We celebrate leadership but minimize hierarchy; we have no paid positions.
   * Everyone, including children, may be a "minister."
   * No national organization makes decisions for Montreal Quakers.
 
