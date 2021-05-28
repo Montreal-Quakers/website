@@ -11,7 +11,7 @@
   translation: affirm
 - entry: Ami -e
   translation: Friend
-  comment-translation: <i> Concerning the use of capitals & l.c., cf.  <a href='/new_attender/glossary#friend'>FRIEND</a> </i>
+  comment-translation: Concerning the use of capitals & l.c., cf. [FRIEND](/new_attender/glossary#friend)
 - entry: Ami-e de poids
   translation: weighty, seasoned Friend
 - entry: ami-e des Amis (CH)
@@ -30,9 +30,17 @@
   translation: pastoral Friend
 - entry: ancien-ne
   translation: elder
+- entry: animateur (m), animatrice (f)
+  translation: clerk
+- entry: appel intérieur (m)
+  translation: leading
 - entry: assemblée annuelle (f)
   translation: Yearly Meeting
-  comment-translation: <i> It takes an 'A' (cap.) when it refers to a specific geographical entity; it is then a proper noun (Assemblée annuelle de France). <br /> It takes an 'a' (l.c.) when it refers to <ul> <li> an event; it is then a common noun ('on se retrouvera à l'assemblée annuelle') </li> <li>a type of institution ('les assemblées annuelles d'Europe sont de tailles diverses')</li> </ul> </i>
+  comment-translation: |
+    It takes an 'A' (cap.) when it refers to a specific geographical entity; it is then a proper noun (Assemblée annuelle de France).   
+    It takes an 'a' (l.c.) when it refers to:
+    * an event; it is then a common noun ('on se retrouvera à l'assemblée annuelle')
+    * a type of institution ('les assemblées annuelles d'Europe sont de tailles diverses')
 - entry: Assemblée annuelle de Grande-Bretagne (f)
   translation: Britain Yearly Meeting, Religious Society of Friends (Quakers) in Britain
 - entry: assemblée d'affaires (f)
@@ -54,7 +62,7 @@
 - entry: banc de face (m)
   entry-id: banc
   translation: facing bench 
-  comment-translation: <i><a href='/glossary/icon-fr'>Cf. iconographie</a></i>
+  comment-translation: "[Cf. iconographie](/glossary/icon-fr)"
 - entry: Bureau mondial (m) (Comité consultatif mondial des Amis)
   translation: World Office (FWCC)
 - entry: Bureau Quaker auprès des Nations Unies
@@ -73,7 +81,7 @@
   translation: close the meeting 
 - entry: Comité consultatif mondial des Amis (m)
   translation: Friends World Committee for Consultation 
-  comment-translation: <i> En raccourci on emploie 'Comité mondial' là où en anglais on dit 'FWCC' </i>
+  comment-translation: En raccourci on emploie 'Comité mondial' là où en anglais on dit 'FWCC'
 - entry: comité des anciens et des veilleurs (m)
   translation: "Ministry &amp; Counsel Committee; Oversight, Worship &amp; Ministry committee; Eldership &amp; Oversight Committee: depending on the Yearly Meeting "
 - entry: Comité exécutif (m)
@@ -83,16 +91,15 @@
 - entry: comité de clarification (m)
   translation: Clearness Committee 
 - entry: comité des nominations (m)
-  translation: nominating committee (esp. FWCC), nominations committee.  Cf. <a href='/new_attender/glossary#nominations'>NOMINATIONS COMMITTEE</a>
+  translation: nominating committee (esp. FWCC), nominations committee.  Cf. [NOMINATIONS COMMITTEE](/new_attender/glossary#nominations)
 - entry: concern (m) 
   entry-href: /glossary/cite#12
-  translation: concern, cf. <a href='/new_attender/glossary#concern'>CONCERN (EF)</a>
-  translation-href: /glossary/cite#concern
+  translation: concern, cf. [CONCERN (EF)](/new_attender/glossary#concern)
 - entry: Conseil quaker pour les affaires européennes (m)
   translation: Quaker Council for European Affairs 
 - entry: Conseil œcuménique des Églises (COE)
   translation: World Council of Churches (WCC)
-  comment-translation: <i>En tant que <strong>communion chrétienne mondiale</strong>, le Comité consultatif mondial des Amis jouit de la qualité de <strong>membre associé</strong> du Conseil œcuménique des Églises.  Cela lui donne le droit de désigner un <strong>représentant délégué</strong> au <strong>Comité central du COE</strong>.</i>
+  comment-translation: En tant que **communion chrétienne mondiale**, le Comité consultatif mondial des Amis jouit de la qualité de **membre associé** du Conseil œcuménique des Églises.  Cela lui donne le droit de désigner un **représentant délégué** au **Comité central du COE**.
 - entry: Conseils et questions (m)
   translation: Advices & Queries 
 - entry: conviction (f)
@@ -125,7 +132,7 @@
   translation: join (the Religious Society of Friends) 
 - entry: dimanche (m)
   translation: First Day, Sunday 
-  comment-translation: <i>There is a significant current of English-speaking Friends who refuse to use the names of days and months because of their pagan etymology.  They assign ordinal numbers instead. For these Quakers First Day is Sunday; this differs from usual administrative practice according to which Monday is Day 1 (e.g. airline timetables)</i> 
+  comment-translation: There is a significant current of English-speaking Friends who refuse to use the names of days and months because of their pagan etymology.  They assign ordinal numbers instead. For these Quakers First Day is Sunday; this differs from usual administrative practice according to which Monday is Day 1 (e.g. airline timetables)
 - entry: direction (f)
   translation: leading 
 - entry: direction de l'Esprit (f)
@@ -134,7 +141,7 @@
   translation: divine guidance 
 - entry: distinct
   translation: separate, separated
-  comment-translation: <i>Regarding clergy.</i>
+  comment-translation: Regarding clergy.
 - entry: école du dimanche
   translation: First Day School 
 - entry: Église historiquement pacifiste (f)
@@ -174,31 +181,39 @@
 - entry: inspiré à prendre la parole
   translation: moved to speak 
 - entry: janvier
-  translation: First Month; cf. <a href='/new_attender/glossary#first'>FIRST DAY</a>
+  translation: First Month; cf. [FIRST DAY](/new_attender/glossary#first)
 - entry: Jeune Ami-e
   translation: Young Friend 
 - entry: Jeunes Ami-e-s de l'Europe et du Moyen-Orient
   translation: Europe and Middle East Young Friends 
+- entry: joies et les peines (f)
+  translation: |
+    joys and sorrows   
+    North American Quakers often end meetings by asking participants if they have any joys and sorrows, that is, an invitation to share prayer requests or events that have marked the lives of particpants.
 - entry: Journal, journal (m)
   translation: Journal, journal 
-  comment-translation: "<i>J (cap.): title of a work: e.g. George Fox's or John Woolman's Journal <br /> j (l.c.) a spiritual exercise </i>"
-- entry: Les joies et les peines (f)
-  translation: joys and sorrows <br />North American Quakers often end meetings by asking participants if they have any joys and sorrows, that is, an invitation to share prayer requests or events that have marked the lives of particpants.
+  comment-translation: |
+    J (cap.): title of a work: e.g. George Fox's or John Woolman's Journal  
+    j (l.c.) a spiritual exercise
 - entry: lieu de culte (m)
   translation: Meeting House 
 - entry: livre de discipline (m)
   entry-id: livre
-  translation: "book of discipline <br /> In English as well as French, 'discipline' is used in this phrase in a 16th Century French sense, now archaic: 'instruction, moral guidance, influence' (Petit Robert)" 
+  translation: |
+    book of discipline
+  comment-translation: "In English as well as French, 'discipline' is used in this phrase in a 16th Century French sense, now archaic: 'instruction, moral guidance, influence' (Petit Robert)"
 - entry: lumière (f)
   translation: light 
 - entry: lumière intérieure (f)
   translation: inner, inward, light; that of God within 
 - entry: Maison quaker (f)
-  translation: Meeting House, Quaker House <br />Where Quakers have a whole house for their use, it is often given the name 'Maison quaker'. 
+  translation: |
+    Meeting House, Quaker House 
+    
+    Where Quakers have a whole house for their use, it is often given the name 'Maison quaker' or 'Centre quaker'. 
 - entry: marcher joyeux
   entry-href: /glossary/cite#marcher
-  translation: walk cheerfully
-  translation-href: /glossary/cite#walk
+  translation: "[walk cheerfully](/glossary/cite#walk)"
 - entry: mariage à la manière, à la mode, des Amis (m)
   translation: marriage after the manner of Friends 
 - entry: membre
@@ -243,8 +258,7 @@
   translation: ordering 
 - entry: parler à sa condition
   entry-href: /glossary/cite#parler
-  translation: speak to one's condition
-  translation-href: /glossary/cite#speak
+  translation: "[speak to one's condition](/glossary/cite#speak)"
 - entry: Pèlerinage quaker pour les jeunes (m)
   translation: Quaker Youth Pilgrimage
 - entry: poussé
@@ -255,6 +269,8 @@
   translation: practice 
 - entry: premiers Amis, les (m plurie pluriell)
   translation: Early Friends 
+- entry: préoccupation (f)
+  translation: concern
 - entry: présentation d'un-e enfant (f)
   translation: presentation of a child 
 - entry: procès-verbal (m)
@@ -288,7 +304,7 @@
 - entry: rétribuer
   entry-id: retribuer
   translation: release
-  comment-translation: <i>i.e. pay a person so that they can devote their time to a Quaker cause. </i>
+  comment-translation: i.e. pay a person so that they can devote their time to a Quaker cause.
 - entry: réunion transfrontalière (f)
   translation: Border Meeting 
 - entry: réunion d'affaires (f)
@@ -307,7 +323,7 @@
   translation: Meeting room 
 - entry: Sans croix point de couronne
   translation: No Cross, No Crown 
-  comment-translation: <i> Titre d'un ouvrage de William Penn </i>
+  comment-translation: Titre d'un ouvrage de William Penn
 - entry: séance d'affaires (f)
   translation: Business session
 - entry: séance de l'assemblée annuelle (f)
@@ -336,7 +352,7 @@
 - entry: serment (m)
   translation: oath 
 - entry: silence (m)
-  translation: quiet, silence; cf.  <a href='/new_attender/glossary#moment'>MOMENT OF SILENCE</a>
+  translation: quiet, silence; cf. [MOMENT OF SILENCE](/new_attender/glossary#moment)
 - entry: simplicité (f)
   translation: simplicity 
 - entry: Société religieuse des Amis (f)
@@ -344,17 +360,15 @@
 - entry: soixante vaillants, les (m)
   translation: The Valiant 60 
 - entry: subventionner
-  translation: release; cf. <a href='#retribuer'>RÉTRIBUER</a>
+  translation: release; cf. [RÉTRIBUER](#retribuer)
 - entry: sympathisant-e
   translation: attender
 - entry: témoignage (m)
   entry-href: /glossary/cite#témoignage
-  translation: testimony, witness
-  translation-href: /glossary/cite#testimony
-- entry: témoignage de la paix (m) <i>(text.<a href='/glossary/cite#8'>8</a>, <a href='/glossary/cite#14'>14</a>)</i></a>
+  translation: "[testimony, witness](/glossary/cite#testimony)"
+- entry: témoignage de la paix (m) <i>(text. <a href='/glossary/cite#8'>8</a>, <a href='/glossary/cite#14'>14</a></i>
   entry-href: /glossary/cite#paix
-  translation: Peace testimony
-  translation-href: /glossary/cite#peace
+  translation: "[Peace testimony](/glossary/cite#peace)"
 - entry: témoigner
   translation: testify, witness 
 - entry: Triennale (f)
@@ -364,7 +378,12 @@
 - entry: tutoyer
   entry-id: tutoyer
   translation: Use plain language, speech; thee and thou (v); in French, address a person by 'tu' rather than 'vous'
-  comment-translation: "<i> In 17th century English, the forms thee and thou and you' existed, similar to tu and vous in French.  <a href='/new_attender/glossary#early'>Early Friends (qv)</a> in the English-speaking world vigorously insisted on addressing everyone by thee and thou, as a testimony (<a href='/glossary/cite#1'>text.1</a>) to the equal value of each person.  This tradition could still be found in the 20th century among some Quakers in the United States (however, the verb following would be put into the third person singular rather than the second: e.g.  thee is rather than thou art).<br /> Eighteenth century Anglo-Saxon Friends uncompromisingly exported this practice into French: this is undoubtedly one of the reasons why they were considered uncouth in France at the time. In present-day French, the concern for the equal dignity of each person calls for weighing up two sets of considerations: on the one hand to make a statement by using tu on every occasion on the grounds just described, and on the other to respect the susceptibilities of the person being addressed by resorting to the more respectful vous (the biblically-inclined can refer to 1Co.10.31-32 or Rom.14.19-21). French-speaking Friends lean strongly toward the second option; indeed nowadays they tend to </i>tutoyer<i> rather less readily than mainstream Protestants.<br /> In Africa a further reason argues in favour of vous, at least by Europeans (or Whites): White missionaries used to </i>tutoyer<i> Africans immediately as an expression not of equality but of the Africans inferiority, as one automatically says tu to a child. Given that heritage, Europeans are well-advised to use vous normally in such a context, and to reserve tu for people with whom they are in fact on particularly familiar terms as individuals.  </i>"
+  comment-translation: |
+    In 17th century English, the forms thee and thou and you existed, similar to TU and VOUS in French. [Early Friends (qv)](/new_attender/glossary#early) in the English-speaking world vigorously insisted on addressing everyone by thee and thou, as a testimony ([text.1](/glossary/cite#1)) to the equal value of each person. This tradition could still be found in the 20th century among some Quakers in the United States (however, the verb following would be put into the third person singular rather than the second: e.g.  thee is rather than thou art).  
+
+    Eighteenth century Anglo-Saxon Friends uncompromisingly exported this practice into French: this is undoubtedly one of the reasons why they were considered uncouth in France at the time. In present-day French, the concern for the equal dignity of each person calls for weighing up two sets of considerations: on the one hand to make a statement by using tu on every occasion on the grounds just described, and on the other to respect the susceptibilities of the person being addressed by resorting to the more respectful vous (the biblically-inclined can refer to Corinthians 1 10.31-32 or Romans 14.19-21). French-speaking Friends lean strongly toward the second option; indeed nowadays they tend to _tutoyer_ rather less readily than mainstream Protestants.
+ 
+    In Africa a further reason argues in favour of vous, at least by Europeans (or Whites): White missionaries used to _tutoyer_ Africans immediately as an expression not of equality but of the Africans inferiority, as one automatically says tu to a child. Given that heritage, Europeans are well-advised to use VOUS normally in such a context, and to reserve TU for people with whom they are in fact on particularly familiar terms as individuals.
 - entry: unité (f)
   translation: unity 
 - entry: veilleur-e

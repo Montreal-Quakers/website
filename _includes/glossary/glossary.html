@@ -1,6 +1,5 @@
 {% if page.lang == "fr" %}{% assign fr = true %}{% endif %}
-{% if page.trans == "glossary_fren" %}{% assign glossy = site.data.glossaire %}
-{% else %}{% assign glossy = site.data.glossary %}{% endif %}
+{% if page.trans == "glossary_fren" %}{% assign glossy = site.data.glossaire %}{% else %}{% assign glossy = site.data.glossary %}{% endif %}
 <span id=copied style="display:none">{% if fr %}Copié!{% else %}Copied!{% endif %}</span>
 <div class=center>
   <span><button class="randombtn" onkeypress="openAll()" onclick="openAll()">{% if fr %}Ouvrir tout{% else %}Open all{% endif %}</button>&nbsp;
@@ -17,14 +16,15 @@
   {% if nowslice == "É" or nowslice == "Ê" or nowslice == "È" %}{% assign nowslice = "E" %}{% endif %}
   {% if nowslice == "Â" or nowslice == "À" %}{% assign nowslice = "A" %}{% endif %}
   {% if nowslice == "Ô" or nowslice == "Ö" %}{% assign nowslice = "O" %}{% endif %}
-  {% if nowslice == "S" %}
+  {% if nowslice == "S" or nowslice == "[" %}
     {% assign twoslice = each.entry | slice: 1 | capitalize %}
     {% assign threeslice = each.entry | slice: 2 | capitalize %}
     {% assign fourslice = each.entry | slice: 3 | capitalize %}
     {% if nowslice == "S" and twoslice == "'" %}{% assign nowslice = threeslice %}{% endif %}
+    {% if nowslice == "[" %}{% assign nowslice = twoslice %}{% endif %}
     {% if nowslice == "S" and threeslice == " " %}{% assign nowslice = fourslice %}{% endif %}
 {% endif %}
-{% unless nowslice == abc %}{% if abc > nowslice %}{% if fr %}Oops, les entrées du glossaire n'était pas en ordre, contactez l'administrateur{% else %}Oops, the glossary entries weren't in order, contact the administrator (nowslice: {{ nowslice }} abc: {{ abc }}, {{ each.entry }} {{ fourslice }}){% endif %}{% break %}{% endif %}{% assign abc = nowslice %}
+{% unless nowslice == abc %}{% if abc > nowslice %}{% if fr %}Oops, les entrées du glossaire n'était pas en ordre, contactez l'administrateur{% else %}Oops, the glossary entries weren't in order, contact the administrator (entry: {{ each.entry }}){% endif %}{% break %}{% endif %}{% assign abc = nowslice %}
 <a class="color-1-dark-text" href="#{{ abc }}">{{ abc }}</a>{% endunless %}{% endfor %}</div>
    {% comment %}ok, now the filter bar{% endcomment %}
 {% assign counter = -1 %}<div>&nbsp;</div>
@@ -37,22 +37,24 @@
   {% if nowslice == "É" or nowslice == "Ê" or nowslice == "È" %}{% assign nowslice = "E" %}{% endif %}
   {% if nowslice == "Â" or nowslice == "À" %}{% assign nowslice = "A" %}{% endif %}
   {% if nowslice == "Ô" or nowslice == "Ö" %}{% assign nowslice = "O" %}{% endif %}
-  {% if nowslice == "S" %}
+  {% if nowslice == "S" or nowslice == "[" %}
     {% assign twoslice = each.entry | slice: 1 | capitalize %}
     {% assign threeslice = each.entry | slice: 2 | capitalize %}
     {% assign fourslice = each.entry | slice: 3 | capitalize %}
     {% if nowslice == "S" and twoslice == "'" %}{% assign nowslice = threeslice %}{% endif %}
     {% if nowslice == "S" and threeslice == " " %}{% assign nowslice = fourslice %}{% endif %}
+    {% if nowslice == "[" %}{% assign nowslice = twoslice %}{% endif %}
 {% endif %}
  {% unless nowslice == abc %}{% assign abc = nowslice %}
  </div>
  <div class="sticky_anchor">
    <div class="filterbye">&nbsp;</div>
    <div class=abc><a class="textwhite"> &nbsp;{{ abc }}</a><div class=stanchor><a name="{{ abc }}"></a></div></div>{% endunless %}
-   <button id="no{{ counter }}" onclick="toggleAccordion('{{ counter }}')" onkeypress="toggleAccordion('{{ counter }}')" class="list_button buttonyellow">{% if each.entry-href %}<i id="caret{{ counter }}" class="fas fa-caret-right"></i> &nbsp;&nbsp;<a href="{{ each.entry-href }}">{{ each.entry }}</a>{% else %}<i id="caret{{ counter }}" class="fas fa-caret-right"></i>&nbsp;&nbsp; {{ each.entry }}{% endif %}</button>{% if each.entry-id %}<span class=stanchor><a id="{{ each.entry-id }}"></a></span>{% endif %}
+   <button id="no{{ counter }}" onclick="toggleAccordion('{{ counter }}')" onkeypress="toggleAccordion('{{ counter }}')" class="list_button buttonyellow">
+     {% if each.entry-href %}<i id="caret{{ counter }}" class="fas fa-caret-right"></i> &nbsp;&nbsp;<a href="{{ each.entry-href }}">{{ each.entry }}</a>{% else %}<i id="caret{{ counter }}" class="fas fa-caret-right"></i>&nbsp;&nbsp; {{ each.entry }}{% endif %}</button>{% if each.entry-id %}<span class=stanchor><a id="{{ each.entry-id }}"></a></span>{% endif %}
  <div class="list_div filterHide" id="div{{ counter }}">
-	 <p>{% if each.translation-href %}<a href="{{ each.translation-href }}">{{ each.translation }}</a>{% else %}{{ each.translation }}{% endif %}</p>
- 	{% if each.comment-translation %}<p>{{ each.comment-translation }}</p>{% endif %}
+	 <p>{{ each.translation | markdownify }}</p>
+	 {% if each.comment-translation %}<p><i>{{ each.comment-translation | markdownify }}</i></p>{% endif %}
 	<p><a id="id{{ counter }}" href="{% if fr %}/nouveau/glossaire{% if page.trans == "glossary_fren" %}_fran{% endif %}#no{{ counter }}{% else %}/new_attender/glossary{% if page.trans == "glossary_fren" %}_fren{% endif %}#no{{ counter }}{% endif %}"></a><span> (<a class=tooltip onclick="copyButton('id{{ counter }}')"><u>{% if fr %}Copier ce lien{% else %}copy link{% endif %}</u><span class="tooltiptext" id="myTooltip_id{{ counter }}">{% if fr %}Copier ce lien dans le presse-papiers{% else %}Copy link to clipboard{% endif %}</span></a>)</span></p>
  </div>
 {% endfor %}
