@@ -1,4 +1,6 @@
 {% if page.lang == "fr" %}{% assign fr = true %}{% endif %}
+{% if page.trans == "glossary_fren" %}{% assign glossy = site.data.glossaire %}
+{% else %}{% assign glossy = site.data.glossary %}{% endif %}
 <span id=copied style="display:none">{% if fr %}Copié!{% else %}Copied!{% endif %}</span>
 <div class=center>
   <span><button class="randombtn" onkeypress="openAll()" onclick="openAll()">{% if fr %}Ouvrir tout{% else %}Open all{% endif %}</button>&nbsp;
@@ -8,14 +10,21 @@
 <div>&nbsp;</div>
 </div>
   {% comment %}The code below is the alphabet link at the top{% endcomment %}
-{% if page.trans == "glossary_fren" %}{% assign glossy = site.data.glossaire %}
-{% else %}{% assign glossy = site.data.glossary %}{% endif %}
 <div class="abc_grid">
 {% for each in glossy %}
 {% assign nowslice = each.entry | slice: 0 | capitalize %}
   {% comment %}special processing in French{% endcomment %}
-{% if nowslice == "S" or nowslice == "É" %}{% if each.first_letter %}{% assign nowslice = each.first_letter %}{% endif %}{% endif %}
-{% unless nowslice == abc %}{% assign abc = nowslice %}
+  {% if nowslice == "É" or nowslice == "Ê" or nowslice == "È" %}{% assign nowslice = "E" %}{% endif %}
+  {% if nowslice == "Â" or nowslice == "À" %}{% assign nowslice = "A" %}{% endif %}
+  {% if nowslice == "Ô" or nowslice == "Ö" %}{% assign nowslice = "O" %}{% endif %}
+  {% if nowslice == "S" %}
+    {% assign twoslice = each.entry | slice: 1 | capitalize %}
+    {% assign threeslice = each.entry | slice: 2 | capitalize %}
+    {% assign fourslice = each.entry | slice: 3 | capitalize %}
+    {% if nowslice == "S" and twoslice == "'" %}{% assign nowslice = threeslice %}{% endif %}
+    {% if nowslice == "S" and threeslice == " " %}{% assign nowslice = fourslice %}{% endif %}
+{% endif %}
+{% unless nowslice == abc %}{% if abc > nowslice %}{% if fr %}Oops, les entrées du glossaire n'était pas en ordre, contactez l'administrateur{% else %}Oops, the glossary entries weren't in order, contact the administrator (nowslice: {{ nowslice }} abc: {{ abc }}, {{ each.entry }} {{ fourslice }}){% endif %}{% break %}{% endif %}{% assign abc = nowslice %}
 <a class="color-1-dark-text" href="#{{ abc }}">{{ abc }}</a>{% endunless %}{% endfor %}</div>
    {% comment %}ok, now the filter bar{% endcomment %}
 {% assign counter = -1 %}<div>&nbsp;</div>
@@ -24,7 +33,17 @@
 <div>{% comment %}Now all the entries{% endcomment %}
 {% for each in glossy %}{% assign counter = counter | plus: 1 %}
  {% assign nowslice = each.entry | slice: 0 | capitalize %}
-   {% comment %}special processing in French again{% endcomment %}{% if nowslice == "S" or nowslice == "É" %}{% if each.first_letter %}{% assign nowslice = each.first_letter %}{% endif %}{% endif %}
+   {% comment %}special processing in French again{% endcomment %}
+  {% if nowslice == "É" or nowslice == "Ê" or nowslice == "È" %}{% assign nowslice = "E" %}{% endif %}
+  {% if nowslice == "Â" or nowslice == "À" %}{% assign nowslice = "A" %}{% endif %}
+  {% if nowslice == "Ô" or nowslice == "Ö" %}{% assign nowslice = "O" %}{% endif %}
+  {% if nowslice == "S" %}
+    {% assign twoslice = each.entry | slice: 1 | capitalize %}
+    {% assign threeslice = each.entry | slice: 2 | capitalize %}
+    {% assign fourslice = each.entry | slice: 3 | capitalize %}
+    {% if nowslice == "S" and twoslice == "'" %}{% assign nowslice = threeslice %}{% endif %}
+    {% if nowslice == "S" and threeslice == " " %}{% assign nowslice = fourslice %}{% endif %}
+{% endif %}
  {% unless nowslice == abc %}{% assign abc = nowslice %}
  </div>
  <div class="sticky_anchor">
