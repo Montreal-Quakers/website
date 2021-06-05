@@ -76,6 +76,8 @@ redalert_pages:
   - page_trans: book_bible
     redalert_text-en: alert/en-covid.md
     redalert_text-fr: alert/fr-covid.md
+  - page_trans: index-choose
+    redalert_text-en: alert/bienvenue-welcome-covid.md
 
 bluealerts: some
 bluealert_all_text-en: alert/en-midweek_over.md
