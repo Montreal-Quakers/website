@@ -6,7 +6,7 @@ og-title: COVID-19 Updates
 ---
 ## Schedule
 As a COVID-19 prevention measure, we have updated our worship schedule:
-* [**Sunday**](/directions) meeting: from 11 to 11:45 AM via **phone or videoconference on the internet** until at least {{ site.covid-close-date-en }}. We have brief activities after.
+* [**Sunday**](/directions) meeting: from 11 to 11:45 AM, followed by brief activities, via **phone or videoconference on the internet** until at least {{ site.covid-close-date-en }}.
 * [**Midweek**](/midweek) meeting: **on Wednesdays at 7 PM** (rather than 5:30 PM) via **phone or videoconference on the internet** for a duration of 45 minutes.
 * [**Quebec City**](/qc) worship group: at 11 am on Sundays via **phone or videoconference on the internet** until at least {{ site.covid-close-date-en }}.
 * [**Laurentian**](/laurentians) worship group: closed for the winter. Best to [call first](/laurentians#contact) to confirm exact dates.
