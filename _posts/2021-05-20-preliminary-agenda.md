@@ -10,7 +10,7 @@ Dear Regional Gatherers,
 
 Montreal Meeting's regional gathering committee and Peterborough's children's committee have been busy! We have much to tell you about Regional Gathering the evening of Friday, June 18th and Saturday June 19th, 2021.
 
-* Children's program ([follow this link](https://stlawrence.quaker.ca/2021/05/16/draft-childrens-program.html){: rel="noopener" target="_blank"}
+* Children's program ([follow this link](https://stlawrence.quaker.ca/2021/05/16/draft-childrens-program.html){: rel="noopener" target="_blank"})
 * Regional Gathering program (below)
 * RSVP information (just show up but let us know if you can)
 * Zoom info [contact us](/contact)
@@ -39,4 +39,4 @@ If you're excited and planning to come, you're welcome to just show up, but if y
 4) Zoom information
 [Contact us](/contact) for the Zoom information.
 
-PS Feel free to watch the [St. Lawrence regional gathering website](https://stlawrence.quaker.ca/{: rel="noopener" target="_blank"}) for updates (will be updated soon)!
+PS Feel free to watch the [St. Lawrence regional gathering website](https://stlawrence.quaker.ca/){: rel="noopener" target="_blank"}) for updates (will be updated soon)!
