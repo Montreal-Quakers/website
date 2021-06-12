@@ -1,6 +1,6 @@
 {% if page.lang == "fr" %}{% assign fr = true %}{% endif %}
 {% if fr %} {% assign posty=site.posts | where:"lang","fr" %}
-{% else %} {% assign posty=site.posts | where:"lang","en" %}
+{% else %} {% assign posty=site.posts | where_exp:"page","page.lang != 'fr'" %}
 {% endif %}
 
 <section class="posts">

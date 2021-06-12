@@ -25,7 +25,11 @@ layout: default
   Previous / Next functions
   Assign variables from the entire portfolio collection
 {% endcomment %}
-{% assign items_raw = site.posts | where: 'lang', page.lang %}
+{% if fr %}
+  {% assign items_raw = site.posts | where: 'lang', page.lang %}
+  {% else %} 
+  {% assign items_raw = site.posts | where_exp: "page","page.lang != 'fr'" %}
+{% endif %}
 {% if items_raw %}{% assign items = items_raw | sort: 'year' | reverse %}{% endif %}
 
 {% if items.size > 1 %}

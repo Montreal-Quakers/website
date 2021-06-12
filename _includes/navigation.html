@@ -50,15 +50,16 @@
 		{% endif %}
   {% endfor %}
   <!-- Language changer button -->
-  {% if page.trans %}
-  {% if fr %}{% assign otherlang = "en" %}{% elsif page.lang == "en" %}{% assign otherlang = "fr" %}{% endif %}
+  {% if page.trans or page.glos.trans %}
+  {% if fr %}{% assign otherlang = "en" %}{% else %}{% assign otherlang = "fr" %}{% endif %}
   {% assign otherurl = nil %}
 	{% for each in site.pages %}
-        {% if each.trans == page.trans and each.lang == otherlang %}{% assign otherurl = each.url %}{% endif %}
+	{% unless page.type == "dictionary" %}{% if each.trans == page.trans and each.lang == otherlang %}{% assign otherurl = each.url %}{% break %}{% endif %}{% endunless %}
+	{% if page.type == "dictionary" %}{% if fr %}{% assign base = "/glossary/entry/" %}{% else %}{% assign base = "/glossaire/entr/" %}{% endif %}{% assign otherurl = base | append: page.glos.trans %}{% endif %}
         {% endfor %}
   {% unless otherurl %}
 	{% for each in site.posts %}
-        {% if each.trans == page.trans and each.lang == otherlang %}{% assign otherurl = each.url %}{% endif %}
+	{% if each.trans == page.trans and each.lang == otherlang %}{% assign otherurl = each.url %}{% break %}{% endif %}
 	{% endfor %}
   {% endunless %}
   {% if otherurl %}
@@ -82,3 +83,4 @@
 
 <!-- Special div for intersectionObserver-->
 <div id="intersectionObserver1">&nbsp; </div>
+  {% assign otherurl = nil %}

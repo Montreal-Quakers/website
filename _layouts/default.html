@@ -16,7 +16,7 @@ layout: compress
   <link rel="preload" href="/assets/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/assets/google_fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf" as="font" type="font/ttf" crossorigin>
   <link rel="preload" href="/assets/google_fonts/Source_Sans_Pro/SourceSansPro-Black.ttf" as="font" type="font/ttf" crossorigin>
-  <meta name="description" content="{% if site.title %}{{ site.title}}{% else %}{{ page.trans }}{% endif %}">
+  <meta name="description" content="{% if page.type == "posts" %}{{ post.excerpt }}{% elsif page.description %}{{ page.description }}{% elsif site.title %}{{ site.title }}{% else %}{{ page.trans }}{% endif %}">
   <meta name="keywords" content="{{ site.keywords}}">
   <meta name="author" content="{{ site.title}}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -27,7 +27,7 @@ layout: compress
   <meta property="twitter:card" content="summary_large_image">
   <meta property="fb:app_id" content="299421778303061">
   <meta property="og:site_name" content='{{ site.title }}'>
-  <meta property="og:description" content='{% if page.og-title %}{{ page.og-title }}{% elsif page.title %}{{ page.title }}{% elsif site.title %}{{ site.title}}{% else %}{{ page.trans }}{% endif %}'>
+  <meta property="og:description" content='{% if page.og-title %}{{ page.og-title }}{% elsif page.title %}{{ page.title }}{% elsif site.title %}{{ site.title }}{% else %}{{ page.trans }}{% endif %}'>
   <meta property="og:image" content="{{ site.url }}/assets/images/quaker_icon.png" />
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:type" content="{% if page.layout == "post" %}article{% else %}website{% endif %}">

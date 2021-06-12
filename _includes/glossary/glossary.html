@@ -1,5 +1,5 @@
 {% if page.lang == "fr" %}{% assign fr = true %}{% endif %}
-{% if page.trans == "glossary_fren" %}{% assign glossy = site.data.glossaire %}{% else %}{% assign glossy = site.data.glossary %}{% endif %}
+{% if page.trans == "glossary_fren" %}{% assign glossy = site.data.FR-glossaire-csv %}{% else %}{% assign glossy = site.data.EN-glossary-csv %}{% endif %}
 <span id=copied style="display:none">{% if fr %}Copié!{% else %}Copied!{% endif %}</span>
 <div class=center>
   <span><button class="randombtn" onkeypress="openAll()" onclick="openAll()">{% if fr %}Ouvrir tout{% else %}Open all{% endif %}</button>&nbsp;
@@ -55,7 +55,7 @@
  <div class="list_div filterHide" id="div{{ counter }}">
 	 <p>{{ each.translation | markdownify }}</p>
 	 {% if each.comment-translation %}<p><i>{{ each.comment-translation | markdownify }}</i></p>{% endif %}
-	<p><a id="id{{ counter }}" href="{% if fr %}/nouveau/glossaire{% if page.trans == "glossary_fren" %}_fran{% endif %}#no{{ counter }}{% else %}/new_attender/glossary{% if page.trans == "glossary_fren" %}_fren{% endif %}#no{{ counter }}{% endif %}"></a><span> (<a class=tooltip onclick="copyButton('id{{ counter }}')"><u>{% if fr %}Copier ce lien{% else %}copy link{% endif %}</u><span class="tooltiptext" id="myTooltip_id{{ counter }}">{% if fr %}Copier ce lien dans le presse-papiers{% else %}Copy link to clipboard{% endif %}</span></a>)</span></p>
+	<p><a id="id{{ counter }}" href="{% if fr %}/glossaire/entr/{% else %}/glossary/entry/{% endif %}{{ each.trans }}"></a><span> (<a class=tooltip onclick="copyButton('id{{ counter }}')"><u>{% if fr %}Copier ce lien{% else %}copy link{% endif %}</u><span class="tooltiptext" id="myTooltip_id{{ counter }}">{% if fr %}Copier ce lien dans le presse-papiers{% else %}Copy link to clipboard{% endif %}</span></a>)</span></p>
  </div>
 {% endfor %}
 </div>
