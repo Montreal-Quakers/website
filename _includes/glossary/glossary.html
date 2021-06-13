@@ -55,7 +55,7 @@
  <div class="list_div filterHide" id="div{{ counter }}">
 	 <p>{{ each.translation | markdownify }}</p>
 	 {% if each.comment-translation %}<p><i>{{ each.comment-translation | markdownify }}</i></p>{% endif %}
-	<p><a id="id{{ counter }}" href="{% if fr %}/glossaire/entr/{% else %}/glossary/entry/{% endif %}{{ each.trans }}"></a><span> (<a class=tooltip onclick="copyButton('id{{ counter }}')"><u>{% if fr %}Copier ce lien{% else %}copy link{% endif %}</u><span class="tooltiptext" id="myTooltip_id{{ counter }}">{% if fr %}Copier ce lien dans le presse-papiers{% else %}Copy link to clipboard{% endif %}</span></a>)</span></p>
+	 <p><a id="id{{ counter }}" href="{% if fr %}/glossaire/entr/{% else %}/glossary/entry/{% endif %}{{ each.trans }}"></a><span> (<a class=tooltip onclick="copyButton('id{{ counter }}')"><u>{% if fr %}Copier lien à l'entrée no. {% else %}Copy link to entry #{% endif %}{{ each.permalink }}</u><span class="tooltiptext" id="myTooltip_id{{ counter }}">{% if fr %}Copier ce lien dans le presse-papiers{% else %}Copy link to clipboard{% endif %}</span></a>)</span></p>
  </div>
 {% endfor %}
 </div>

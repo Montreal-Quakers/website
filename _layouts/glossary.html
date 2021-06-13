@@ -27,6 +27,6 @@ _{{ page.glos.translation }}_
 
 <div class=center>
 {% capture entry-nav %}
-{% unless trans-slice-back == "001" %}[{% if fr %}Entrée précédente{% else %}Previous entry{% endif %}](/{% if glos %}glossaire/entr{% else %}glossary/entry{% endif %}/{{ page.glos.trans | minus: 1 }}){: class="w3-button color-1-dark"} {% unless page.glos.trans == max-next %}\|{% endunless %} {% endunless %}{% unless page.glos.trans == max-next %} [Next entry](/{% if glos %}glossaire/entr{% else %}glossary/entry{% endif %}/{{ page.glos.trans | plus: 1 }}){: class="w3-button color-1-dark"}{% endunless %}{% endcapture %}{{ entry-nav | markdownify }}
+{% unless trans-slice-back == "001" %}[{% if fr %}Entrée précédente{% else %}Previous entry{% endif %}](/{% if glos %}/nouveau/glossaire{% else %}/new_attender/glossary{% endif %}/{{ page.glos.trans | minus: 1 }}){: class="w3-button color-1-dark"} {% unless page.glos.trans == max-next %}\|{% endunless %} {% endunless %}{% unless page.glos.trans == max-next %} [Next entry](/{% if glos %}/nouveau/glossaire{% else %}/new_attender/glossary{% endif %}/{{ page.glos.trans | plus: 1 }}){: class="w3-button color-1-dark"}{% endunless %}{% endcapture %}{{ entry-nav | markdownify }}
 </div>
 
