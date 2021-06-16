@@ -30,10 +30,7 @@ og-title: "Bienvenue / Welcome"
 <script type="text/javascript">
 window.onload = function() {
   let choice = localStorage.getItem('lang');
-  if (choice == "null") {
-    window.location.replace("/bienvenue-welcome");
-  }
-  if (choice === null) {
+  if (choice == "null" || choice === null) {
     window.location.replace("/bienvenue-welcome");
   }
     {% for each in site.data.navigation.welcome %} if (choice === "{{ each.lang }}") {window.location.replace("{{ each.link }}");}

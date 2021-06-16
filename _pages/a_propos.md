@@ -10,7 +10,7 @@ permalink: /à_propos
   
 1. [<i class="fas fa-search fa-fw fa-2x color-1-text down_a_bit_more"></i> Dans le silence, écoutez.](#regarde){: id="linkoff"}
   
-1. [<i class="fas fa-hand-holding-heart fa-fw fa-2x down_a_bit_more" style="color: crimson"></i> Si vous vous y sentez incité intérieurement, parlez avec votre cœur. Sinon, écoutez.](#coeur){: id="linkoff"}
+1. [<i class="fas fa-hand-holding-heart fa-fw fa-2x down_a_bit_more heart"></i> Si vous vous y sentez incité intérieurement, parlez avec votre cœur. Sinon, écoutez.](#coeur){: id="linkoff"}
 
 1. [<i class="far fa-pause-circle fa-fw fa-2x color-1-light-text down_a_bit_more"></i> Recueillez-vous un moment après chaque intervention; par souci de respect, nous évitons de répondre aux propos des autres.](#attendre){: id="linkoff"}
    
@@ -26,7 +26,7 @@ Les Quakers prennent un moment de recul face aux distractions de la vie quotidie
 
 <i class="fas fa-search color-1-text"></i><span class="stanchor"><a name="regarde"> </a></span> &nbsp;Dans la tranquillité, nous écoutons. Certains écoutent Dieu, d'autres la nature ou leur conscience. Par cette pratique, nous apprenons à accueillir le meilleur de nous-mêmes.
 
-<i class="fas fa-hand-holding-heart" style="color: crimson"></i><span class="stanchor"><a name="coeur"> </a></span> &nbsp;Il est possible que quelqu'un, inspiré par cette expérience, se mette à parler afin de partager son inspiration. Ce court « ministère vocal » occasionnel et non planifié peut être une chanson, une prière ou un message verbal qui exprime l’espoir, l’action de grâce ou le règlement d’une préoccupation urgente.
+<i class="fas fa-hand-holding-heart heart"></i><span class="stanchor"><a name="coeur"> </a></span> &nbsp;Il est possible que quelqu'un, inspiré par cette expérience, se mette à parler afin de partager son inspiration. Ce court « ministère vocal » occasionnel et non planifié peut être une chanson, une prière ou un message verbal qui exprime l’espoir, l’action de grâce ou le règlement d’une préoccupation urgente.
 
 <i class="far fa-pause-circle color-1-light-text"></i><span class="stanchor"><a name="attendre"> </a></span> &nbsp;Ensuite par un silence respectueux chacun l’accueille, car il est inapproprié de faire un commentaire, une discussion ou un débat pendant le culte. Il y a une limite d’une fois par personne afin de permettre à chacun de participer. Nous trouvons que cela aide à ouvrir nos cœurs, à renforcer les liens, à trouver la paix intérieure et à encourager la bienveillance en tout temps.
 

@@ -8,9 +8,9 @@
 // $color-1-light: #5881c3; // Real google suggested colours
 // $color-1-dark: #002d64;
 
-$color-1:  #01579B; // Real material.io colours (light blue)
-$color-1-light: #4F83CC;
-$color-1-dark: #002F6C;
+$color-1:  #3949ab; // Real material.io colours (light blue 900)
+$color-1-light: #6f74dd;
+$color-1-dark: #00227b;
 $color-active: darken($color-1,6%);
 $body-font-size: 17px;
 $body-color: white;
@@ -18,12 +18,23 @@ $body-color-text: black;
 $header-color-text: white;
 $nav-color-text: white;
 $header-font-size: 138%;
-$redalert-color:  #bf5608; // tried #ce570d;
+$redalert-color: #ab3948; // used to be #bf5608, tried #ce570d;
 $redalert-text-color: white;
 $redalert-link-color: white;
-$bluealert-color: #163b64;
+$bluealert-color: #9c39ab;
 $bluealert-text-color: white;
 $bluealert-link-color: white;
+$heart: #d20404;
+$dark-color-1:  #9fa8da; // Real material.io colours (light blue 900)
+$dark-color-1-light: #d1d9ff;
+$dark-color-1-dark: #6f79a8;
+$dark-color-active: darken($dark-color-1,6%);
+$dark-redalert-color: #da9fa8; // tried #ce570d;
+$dark-redalert-text-color: white;
+$dark-redalert-link-color: white;
+$dark-bluealert-color: #d19fda;
+$dark-bluealert-text-color: white;
+$dark-bluealert-link-color: white;
 $nav-font-size: 1em;
 $font-mono: "Courier New", Courier, monospace; 
 $font-sans: "Source Sans Pro", Helvetica, Arial, sans-serif; // "Source Sans Pro",

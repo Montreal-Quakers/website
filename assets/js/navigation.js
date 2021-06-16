@@ -4,7 +4,7 @@ const mq = window.matchMedia( "(min-width: {{ site.breakpoint }})" );
 var obs1 = document.getElementById("intersectionObserver1");
 var target1 = document.getElementById("special1");
 var target2 = document.getElementById("special2");
-var mybutton = document.getElementById("myBtn");
+var mybutton = document.getElementById("topBtn");
 var y = document.getElementById("myNavbar");
 var btn = document.getElementById("searchbutton");
 var media = document.getElementById("media");
@@ -108,10 +108,10 @@ function flipIcon () {
     newurl.searchParams.set('q',param);
     i2 = newurl;
     console.log(newurl); // "hi"
-    setTimeout(function clicky() {window.location.replace(i2);}, 145);
+    setTimeout(function clicky() {window.location.href = i2;}, 145);
   } else {
     i.classList.add("rotate-hor-center");
-    setTimeout(function clicky() {window.location.replace(i2);}, 145);
+    setTimeout(function clicky() {window.location.href = i2;}, 145);
   }
 }
 

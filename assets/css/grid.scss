@@ -3,7 +3,6 @@
 @import 'colors';
 $height: 7rem;
 $mob-pixels: {{ site.breakpoint }};
-$buttonyellow: #fafad2;
 
 .container-content {
 	flex-direction: column;
@@ -38,14 +37,12 @@ $buttonyellow: #fafad2;
   overflow: hidden;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   margin: auto;
-//  background: $color-1-dark;
-//  margin: 0;
   padding: 10px;
-  background: $color-1-dark;
-  color: $nav-color-text;
+  background: var(--color-1-dark);
+  color: var(--alert-text);
   transition: background .3s;
   &:hover {
-       background: $color-1;
+       background: var(--color-1);
   }
 }
 
@@ -55,7 +52,7 @@ $buttonyellow: #fafad2;
   font-style: italic;
   font-size: 2.0em;
     &:hover {
-	   background: $color-1
+	   background: var(--color-1)
     }
     &:hover span {padding-right: 15px;}
     &:hover span:after {
@@ -65,8 +62,6 @@ $buttonyellow: #fafad2;
   span {transition: 0.5s;}
   span:after {
     content: '\00bb';
-    color: white;
-//    position: absolute;
     opacity: 0;
     top: 0;
     right: -20px;
@@ -80,8 +75,8 @@ $buttonyellow: #fafad2;
   overflow: hidden;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   // margin: auto;
-  color: $nav-color-text;
-  background: $color-1;
+  color: var(--alert-text);
+  background: var(--color-1);
   transition: background .3s;
   > a:first-child {
     //display: inline;
@@ -89,14 +84,14 @@ $buttonyellow: #fafad2;
     text-decoration: none;
   }
   &:hover h3,&:hover {
-    background: $color-active;
+    background: var(--active);
   }
 }
 
 .post-card {
   h3 {
     font-family: $font-serif;
-    background: $color-1-dark;
+    background: var(--color-1-dark);
     text-align: center;
     margin: 0;
     padding: 15px;
@@ -129,10 +124,10 @@ $buttonyellow: #fafad2;
   width: 100%;
   position: sticky;
   display: block;
-  background: $color-1;
+  background: var(--color-1);
   //font-family: $font-serif;
   font-size: 120%;
-  color: $nav-color-text;
+  color: var(--alert-text);
   //text-align: center;
   z-index: 450
 }
@@ -166,10 +161,10 @@ $buttonyellow: #fafad2;
 	padding: 8px;
 //	-webkit-appearance: textfield;
 	overflow: visible;
-	border: .02px dotted $color-1-light;
+	border: .02px dotted var(--color-1-light);
 	&:focus {
-	   border: 2px solid $color-1;
-	   outline: 2px solid $color-1;
+	   border: 2px solid var(--color-1);
+	   outline: 2px solid var(--color-1);
         }
 }
     button::-moz-focus-inner,
@@ -220,8 +215,8 @@ $buttonyellow: #fafad2;
 
 .randombtn {
 	cursor: pointer;
-	color: $nav-color-text;
-	background: $color-1;
+	color: var(--alert-text);
+	background: var(--color-1);
 	// -webkit-appearance: button;
 	border: 1px solid #ccc;
 	border-radius: .7em;
@@ -240,13 +235,13 @@ $buttonyellow: #fafad2;
         padding: .3em 1em .3em 1.8em ;
 	outline: 0;
 	&:target {
-		border: .15em solid $color-1;
+		border: .15em solid var(--color-1);
 	}
 	&:hover {
-		color: $nav-color-text;
-		background: darken($color-1-light,10%);
+		color: var(--alert-text);
+		background: var(--active);
 	}
 }
 .buttonyellow {
-	background: darken($buttonyellow,8%);
+	background: var(--buttonyellow);
 }

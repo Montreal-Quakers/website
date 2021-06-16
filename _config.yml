@@ -27,6 +27,7 @@ media_pages:
     media: youtube/yt_embed.html
   - page_trans: directions
     media: maps/street_directions.html
+      # media: maps/new_directions.html
   - page_trans: laurentians
     media: maps/street_atelier.html
   - page_trans: midweek
@@ -151,7 +152,7 @@ mobile_header_animation:
     trans: contribution
 
 markdown: kramdown
-include: ['_pages',".htaccess"]
+include: ['_pages']
 exclude: ["backup","notes","Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"] 
 sass:
   sass_dir: ./_sass
@@ -208,30 +209,30 @@ emoji:
   src: "https://github.githubassets.com/images/icons/"
 
 
-page_gen-dirs: true # uncomment, if you prefer to generate named folders
-
-page_gen:
-  - data: 'FR-glossaire-csv'
-    template: 'glossary'
-    dir: '/new_attender/glossary/'
-    page_data_prefix: 'glos'
-    name: 'trans'
-    title: 'entry'
-  - data: 'FR-glossaire-csv'
-    template: 'glossaire'
-    dir: '/nouveau/glossaire/'
-    page_data_prefix: 'glos'
-    name: 'trans'
-    title: 'entry'
-  - data: 'EN-glossary-csv'
-    template: 'glossary'
-    dir: '/new_attender/glossary/'
-    page_data_prefix: 'glos'
-    name: 'trans'
-    title: 'entry'
-  - data: 'EN-glossary-csv'
-    template: 'glossaire'
-    dir: '/nouveau/glossaire/'
-    page_data_prefix: 'glos'
-    name: 'trans'
-    title: 'entry'
+    # page_gen-dirs: true # uncomment, if you prefer to generate named folders
+    # 
+    # page_gen:
+    #   - data: 'FR-glossaire-csv'
+    #     template: 'glossary'
+    #     dir: '/new_attender/glossary/'
+    #     page_data_prefix: 'glos'
+    #     name: 'trans'
+    #     title: 'entry'
+    #   - data: 'FR-glossaire-csv'
+    #     template: 'glossaire'
+    #     dir: '/nouveau/glossaire/'
+    #     page_data_prefix: 'glos'
+    #     name: 'trans'
+    #     title: 'entry'
+    #   - data: 'EN-glossary-csv'
+    #     template: 'glossary'
+    #     dir: '/new_attender/glossary/'
+    #     page_data_prefix: 'glos'
+    #     name: 'trans'
+    #     title: 'entry'
+    #   - data: 'EN-glossary-csv'
+    #     template: 'glossaire'
+    #     dir: '/nouveau/glossaire/'
+    #     page_data_prefix: 'glos'
+    #     name: 'trans'
+    #     title: 'entry'

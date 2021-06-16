@@ -22,8 +22,8 @@ body {
     border: 0px; 
     padding: 0px; 
     font-size: $body-font-size;
-    color: $body-color-text;
-    background-color: $body-color;
+    color: var(--body-text);
+    background-color: var(--body-bg);
     height: 100%;
     min-height: 100vh;
     max-width: 100%;
@@ -50,8 +50,6 @@ h1,h2,h3,h4 {
   &.header {
 	font-family: $font-serif;
 	text-align: center;
-        background-color: $body-color;
-        color: $body-color-text;
         padding: 10px;
 	margin: 0 auto 0;
   }
@@ -87,11 +85,11 @@ button {
 }
 .footer {
     flex: 1 0 auto;
-    color: $nav-color-text;
+    color: var(--alert-text);
     font-family: $font-sans;
     font-size: 0.8em;
     padding: 0px 0 5px 0;
-    background-color: $color-1;
+    background-color: var(--color-1);
     text-align: center;
      h3 {
 	padding-top: .5em;
@@ -116,7 +114,7 @@ button {
 .container-alert {
    width: 100%;
    margin: 0 auto;
-   background-color: $body-color;
+   background-color: var(--body-bg);
    position: relative;
    margin-bottom: 0;
    height: 100%;
@@ -129,12 +127,12 @@ button {
       family: $font-sans;
       weight: bold;}
   padding: 20px;
-  color: $redalert-text-color;
+  color: var(--alert-text);
   margin: 0 0 ;
   opacity: 1;
   transition: opacity 0.6s;
   a {
-    color: $redalert-link-color;
+    color: var(--alert-text);
     font-weight: 800;
     font-family: $font-sans;
   }
@@ -144,20 +142,12 @@ button {
 }
 
  .redalert {
-  background-color: $redalert-color;
+  background-color: var(--redalert);
 }
  
 .bluealert {
-  background-color: $bluealert-color;
+  background-color: var(--bluealert);
 }
-
-// .redalert-color-text {
-//    color: $redalert-color;
-// }
-// 
-// .bluealert-color-text {
-//    color: $bluealert-color;
-// }
 
 // The alert close button
 .closebtn {
@@ -165,7 +155,7 @@ button {
   align-self: center;
   font-family: $font-sans;
   padding: 0px 20px 0 15px;
-  color: white;
+  color: var(--alert-text);
   background-color: transparent;
   font-weight: bold;
   font-size: 1em;
@@ -215,38 +205,37 @@ button {
 }
 
 .color-1 {
-	background-color: $color-1;
-	color: white;
+	background-color: var(--color-1);
+	color: var(--alert-text);
    &-text {
-	background-color: $body-color;
-	color: $color-1
+	background-color: var(--alert-text);
+	color: var(--color-1)
    }
    &-dark {
-	background-color: $color-1-dark;
-	color: white
+	background-color: var(--color-1-dark);
+	color: var(--alert-text)
    }
    &-dark-text {
-	background-color: $body-color;
-	color: $color-1-dark
+	background-color: var(--body-bg);
+	color: var(--color-1-dark)
    }
    &-light {
-	background-color: $color-1-light;
+	background-color: var(--color-1-light);
    }
    &-light-text {
-	background-color: $body-color;
-	color: $color-1-light
+	background-color: var(--body-bg);
+	color: var(--color-1-light)
    }
 }
 
 .color-active {
-	background-color: $color-active;
-	color: $nav-color-text;
+	background-color: var(--active);
+	color: var(--alert-text);
 }
 
 main {
    flex: 1 0 auto;
    min-height: auto;
-   background-color: $body-color;
    height: 100%;
 }
 
@@ -282,7 +271,7 @@ main {
      width: 8px;
      left: 4px;
      bottom: 4px;
-     background-color: white;
+     background-color: var(--body-bg);
      -webkit-transition: .4s;
      transition: .4s;
    }
@@ -290,7 +279,7 @@ main {
 
 input {
   &:checked + .slider {
-   background-color: $color-1-light;
+   background-color: var(--color-1-light);
       &:before {
         @include transform(translateX(9px));
       }
@@ -326,7 +315,6 @@ input {
 .container-content {
    width: 100%;
    margin: 0 auto 0;
-   background-color: $body-color;
    height: 100%;
    display: flex;
    justify-content: space-around;
@@ -337,8 +325,6 @@ input {
    font-family: $font-sans; 
    font-size:1em;
    text-align:left;
-   background-color: $body-color;
-   color: $body-color-text;
    margin-bottom: 0;
 }
 @media screen and (min-width: $mob-pixels) {
@@ -380,10 +366,11 @@ input {
 .w3-animate-input{width:50%;transition:width 0.4s ease-in-out}
 .w3-animate-input:focus{width:100%}
 .w3-button{border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;text-align:center;cursor:pointer;white-space:nowrap;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;transition:background-color .3s}
-.w3-button:hover{background-color:$color-1}
+.w3-button:hover{background-color:var(--color-1)}
+.heart {color: var(--heart)}
 
 // scroll up button
-#myBtn {
+#topBtn {
   display: none;
   position: fixed;
   bottom: 20px;
@@ -392,15 +379,15 @@ input {
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: $color-1-dark;
-  color: white;
+  background-color: var(--color-1-dark);
+  color: var(--body-bg);
   cursor: pointer;
   padding: 11px 15px;
   box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
   border-radius:50%;
   transition: 0.3s;
    &:hover {
-     background-color: $color-1-light;
+     background-color: var(--color-1-light);
    }
 }
 // Media & Container responsiveness
