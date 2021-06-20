@@ -5,11 +5,10 @@ trans: news
 type: system_grid
 og-title: Nouvelles
 ---
-Consultez notre [calendrier](/calendrier) d'événements.
-
-Cette page, comme la [page Facebook](https://fb.com/MontrealQuakers/){: rel="noopener" target="_blank"} (majoritairement en anglais), annonce des mises à jour et des événements majeurs de notre communauté.
-
-Les nouvelles plus mineures sont envoyés à une liste d'envoi. Pour vous y inscrire, il suffit de nous [contacter](/contact-fr).
+Cette page annonce des mises à jour et des événements majeurs de notre communauté.
+* Notre [page Facebook](https://fb.com/MontrealQuakers/){: rel="noopener" target="_blank"} (majoritairement en anglais) publie elle aussi nos mises à jour et nos événements majeurs
+* Consultez notre [calendrier d'événements](/calendrier).
+* Les nouvelles réguières plus mineures sont envoyées à une liste d'envoi. Pour vous y inscrire, il suffit de [nous contacter](/contact-fr).
 
 ## Articles récents
 

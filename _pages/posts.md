@@ -6,11 +6,10 @@ trans: news
 type: system_grid
 og-title: News and Updates
 ---
-Our [calendar](/calendar) shows our upcoming events.
-
-This page, like our [Facebook page](https://fb.com/MontrealQuakers/){: rel="noopener" target="_blank"}, is for major events and updates that we announce more broadly to the public. 
-
-More minor updates are sent to a listserv. Anyone interested in receiving these emails may [contact us](/contact). 
+This page is for major events and updates that we announce more broadly to the public. 
+* Our [Facebook page](https://fb.com/MontrealQuakers/){: rel="noopener" target="_blank"} also publishes major events and updates.
+* Our [calendar](/calendar) shows our upcoming events.
+* More minor updates are sent to a listserv. Anyone interested in receiving these emails may [contact us](/contact). 
 
 ## Recent Updates
 
