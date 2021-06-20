@@ -54,8 +54,7 @@
   {% if fr %}{% assign otherlang = "en" %}{% else %}{% assign otherlang = "fr" %}{% endif %}
   {% assign otherurl = nil %}
 	{% for each in site.pages %}
-	{% unless page.type == "dictionary" %}{% if each.trans == page.trans and each.lang == otherlang %}{% assign otherurl = each.url %}{% break %}{% endif %}{% endunless %}
-	{% if page.type == "dictionary" %}{% if fr %}{% assign base = "/glossary/entry/" %}{% else %}{% assign base = "/glossaire/entr/" %}{% endif %}{% assign otherurl = base | append: page.glos.trans %}{% endif %}
+	{% if each.trans == page.trans and each.lang == otherlang %}{% assign otherurl = each.url %}{% break %}{% endif %}
         {% endfor %}
   {% unless otherurl %}
 	{% for each in site.posts %}

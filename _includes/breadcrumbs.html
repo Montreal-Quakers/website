@@ -12,16 +12,6 @@
   {% if item.submenu[0] %}{% for subitem in item.submenu %}
   {% assign realsublink = subitem.sublink %}{% if realsublink == realurl %}<li><a href="{{ item.link }}">{{ item.title }}</a></li><li>{{ subitem.subtitle }}</li>{% endif %}{% endfor %}{% endif %}{% endfor %}
 
-  {% elsif page.type == "dictionary" %}
-    {% assign slice1 = page.glos.trans | slice: 0 %}
-  {% if slice1 == "2" %}
-    <li><a href={% if fr %}"/nouveau/glossaire_fran">Glossaire Fr-Ang{% else %}"/new_attender/glossary_fren">Fr-En Glossary{% endif %}</a></li>
-    {% else %}
-  <li><a href={% if fr %}"/nouveau/glossaire">Glossaire Ang-Fr{% else %}"/new_attender/glossary">En-Fr Glossary{% endif %}</a></li>
-  {% endif %}<li>
-	  {% if fr %}Entrée no. {{ page.glos.trans }}
-	  {% else %}Entry #{{ page.glos.trans }}
-	  {% endif %}</li>
- {% endif %}
+  {% endif %}
 {% endif %}
 </ul>

@@ -37,7 +37,7 @@ layout: compress
   {% comment %}If you want to add FontAwesome 5 icons, comment out the line above by putting it between symbols <!-- --> like this "<!-- <link rel="stylesheet" href="/assets/css/fa-custom.css"> --> and uncomment the line the line below by removing those same symbols (<!-- and -->){% endcomment %}
   <!-- <link rel="stylesheet" href="/assets/css/all.css"> -->
   <link rel="stylesheet" href="/assets/css/style.css">
-  {% if page.trans == "new_attender" or page.trans == "glossary_fren" or page.trans == "glossary_enfr" or page.trans == "index-choose" or page.type == "system_grid" %}<link rel="stylesheet" href="/assets/css/grid.css">{% endif %}
+  {% if page.trans == "new_attender" or page.trans == "index-choose" or page.type == "system_grid" %}<link rel="stylesheet" href="/assets/css/grid.css">{% endif %}
   <link rel="stylesheet" href="/assets/css/navstyle.css">
   <link rel="preload" href="/assets/js/navigation.js" as="script" crossorigin>
   {% comment %}<link rel="icon" type="image/png" href="/assets/images/quaker_icon_32x32.png" sizes="32x32">{% endcomment %}
@@ -66,7 +66,7 @@ layout: compress
    {% include navigation.html %}
    {% comment %}Turn alerts on and off using _config.yml, see the README{% endcomment %}
    <div class="container-alert">
-   {% if page.url != "/nouveau/" and page.url != "/new_attender/" and page.url contains "/nouveau/" or page.url contains "/new_attender/" or page.url contains "/glossary/" or page.url contains "/glossaire/" or page.trans == "privacy" or page.trans == "livres-français" %}{% include breadcrumbs.html %}{% endif %}
+   {% if page.url != "/nouveau/" and page.url != "/new_attender/" and page.url contains "/nouveau/" or page.url contains "/new_attender/" or page.trans == "privacy" or page.trans == "livres-français" %}{% include breadcrumbs.html %}{% endif %}
    {% if site.redalerts == "all" %}
      <div class="stickystart redalert"><div></div><div class="alert">{% if fr %}{% capture alerte %}<i class="fas fa-exclamation-circle fa-fw fa-lg"></i> &nbsp;{% include {{ site.redalert_all_text-fr }} %}{% endcapture %}{{ alerte | markdownify }}
      {% else %}{% capture alert %}<i class="fas fa-exclamation-circle fa-fw fa-lg"></i> &nbsp;{% include {{ site.redalert_all_text-en }} %}{% endcapture %}{{ alert | markdownify }}
@@ -122,8 +122,5 @@ layout: compress
 	   {% if page.lang =="fr" %}{% capture bas-de-page %} {% include bas-de-page.md %}{% endcapture %}{{ bas-de-page | markdownify }}{% else %}{% capture footer %} {% include footer.md %}{% endcapture %}{{ footer | markdownify }}{% endif %}
 	      </footer>
 <script src="/assets/js/navigation.js"></script>   
-{% if page.trans == "glossary_fren" or page.trans == "glossary_enfr" %}
-<script src="/assets/js/copy.js"></script>   
-{% endif %}
 </body>
 </html>

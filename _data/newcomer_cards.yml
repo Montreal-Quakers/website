@@ -48,29 +48,14 @@ en:
   hovertitle: Learn About Membership at Meeting
   link: /new_attender/membership
   icon: <i class="fas fa-hand-holding-medical fa-fw"></i>
-- title: En-Fr Glossary
-  hovertitle: English-French Quaker glossary
-  link: /new_attender/glossary
-  icon: <i class="fas fa-book-reader fa-fw"></i>
-  submenu:
-    - subtitle: Introduction
-      sublink: /glossary/intro-en
-    - subtitle: Abbreviations
-      sublink: /glossary/abs
-    - subtitle: Tips
-      sublink: /glossary/tips
-    - subtitle: Frequent texts
-      sublink: /glossary/texts
-    - subtitle: Acknowledgements
-      sublink: /glossary/thanks
-    - subtitle: Fr-En Glossary
-      sublink: /new_attender/glossary_fren
-    - subtitle: Iconography
-      sublink: /glossary/icon
 - title: Gatherings
   hovertitle: Larger Quaker gatherings
   link: /new_attender/gatherings
   icon: <i class="far fa-circle fa-fw"></i>
+- title: Travel
+  hovertitle: Visiting Quakers in other places
+  link: /new_attender/travel
+  icon: <i class="fas fa-plane"></i>
 
 fr:
 - title: Info Assemblée
@@ -115,26 +100,11 @@ fr:
   hovertitle: Rassemblements plus grands
   link: /nouveau/rassemblements
   icon: <i class="far fa-circle fa-fw"></i>
-- title: Glossaire Ang-Fr
-  hovertitle: Glossaire Quaker anglais-français
-  link: /nouveau/glossaire
-  icon: <i class="fas fa-book-reader fa-fw"></i>
-  submenu:
-    - subtitle: Introduction
-      sublink: /glossary/intro-fr
-    - subtitle: Abréviations
-      sublink: /glossary/abr
-    - subtitle: Conseils
-      sublink: /glossary/conseils
-    - subtitle: Textes souvent cités
-      sublink: /glossary/cite
-    - subtitle: Remerciements
-      sublink: /glossary/remerciements
-    - subtitle: Glossaire Fr-Ang
-      sublink: /nouveau/glossaire_fran
-    - subtitle: Iconographie
-      sublink: /glossary/icon-fr
 - title: Podcasts (anglais)
   hovertitle: Des podcasts en anglais
   link: /nouveau/podcasts-fr
   icon: <i class="fas fa-headphones-alt fa-fw"></i>
+- title: Voyager
+  hovertitle: La visite des Quakers lorsque vous voyagez
+  link: /nouveau/voyage
+  icon: <i class="fas fa-plane"></i>

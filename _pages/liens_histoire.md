@@ -12,6 +12,7 @@ trans: links_history
 So sad, Woodbrooke seems to have deleted this course -- post this again if they ever put it back! As for the following link, it is just too old and beat up and dusty.
 * [Un résumé du Quakerisme en français](http://quaker.chez-alice.fr/){: rel="noopener" target="_blank"}
 {% endcomment %}* Un résumé du Quakerisme [« S'attendre à Dieu »](/assets/PDF/EDommen-SAttendreADieu2.pdf) (PDF), par Quaker suisse Ed Dommen.
+* Pour une excellente ressource sur la terminologie Quaker en français, voir [ce glossaire anglais-français](https://glossary.summerhays.net){: rel="noopener" target="_blank"}.
 * Une ressource pour expliquer le quakerisme aux enfants en bas de 10 ans [Le culte Quaker et moi](/assets/PDF/LeCulteQuakerEtMoi-small.pdf) (PDF), par Quaker suisse Ed Dommen.
 * Ce [PDF](/assets/PDF/CongeniesE.pdf) (en anglais) conte l'histoire quand même particulière des Quakers dans le sud de la France.
 * Voir aussi [cette liste de livres en français sur le quakerisme](/livres-en-français)
