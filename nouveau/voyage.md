@@ -6,7 +6,7 @@ og-title: Voyager de façon quaker
 ---
 ## Voyager
 
-Si vous partez en voyage n'hésitez pas à demander une [minute de voyage](#voyage) au secrétaire. Envoyez cette lettre aux quakers locaux et ils seront encore plus susceptibles de vous donner des conseils sur les endroits où manger, les sites à ne pas manquer et peut-être même les endroits où vous héberger. Une lettre n'est pas nécessaire mais elle ne nuit pas à votre cause non plus. Quoi qu'il en soit, [contactez les assembées locales](#contact) : c'est un excellent moyen de connaître un endroit et des gens merveilleux. Parfois, une maison Quaker locale, telle que [Toronto Meeting](https://www.torontoquakers.org/){: rel="noopener" target="_blank"}, peut même avoir des chambres modiques à louer. Peut-être mieux de [nous contacter](/contact) pour en savoir plus.
+Si vous partez en voyage n'hésitez pas à demander une [minute de voyage](#voyage) au secrétaire. Faites suivre cette minute lorsque vous communiquez avec des quakers locaux et ils seront encore plus susceptibles de vous donner des conseils tels que de bons restaurants, les sites à ne pas manquer et peut-être même les endroits où vous héberger. Une telle minute de voyage n'est pas nécessaire mais elle ne nuit pas non plus. Quoi qu'il en soit, [contactez les assembées locales](#contact) : c'est un excellent moyen de connaître un endroit et des gens merveilleux. Parfois, une maison Quaker locale, telle que [Toronto Meeting](https://www.torontoquakers.org/){: rel="noopener" target="_blank"}, peut même avoir des chambres modiques à louer. Peut-être mieux de [nous contacter](/contact) pour en savoir plus.
 
 ## Déménager
 

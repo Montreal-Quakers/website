@@ -6,7 +6,7 @@ og-title: Travelling Quaker-style
 ---
 ## Travelling
 
-If you're travelling somewhere, don't hesitate to ask the clerk for a [travel minute](#travel). Forward this letter to local Quakers and they will be even more likely to give you tips on places to eat, siteseeing, and perhaps even places to stay. A letter isn't required but it can't hurt. Either way, [contact local meetings](#contact): it's a great way to know a place and wonderful people. Sometimes, a local meetinghouse, such as [Toronto Meeting](https://www.torontoquakers.org/){: rel="noopener" target="_blank"}, may even have accommodations available. In some cases, it may be best to [contact us](/contact) to learn more before reaching out.
+If you're travelling somewhere, don't hesitate to ask the clerk for a [travel minute](#travel). Forward this minute in your communication to local Quakers and they will be even more likely to give you tips on places to eat, siteseeing, and perhaps even places to stay. This minute isn't required but it can't hurt. Either way, [contact local meetings](#contact): it's a great way to know a place and wonderful people. Sometimes, a local meetinghouse, such as [Toronto Meeting](https://www.torontoquakers.org/){: rel="noopener" target="_blank"}, may even have accommodations available. In some cases, it may be best to [contact us](/contact) to learn more before reaching out.
 
 ## Moving elsewhere
 
@@ -14,7 +14,7 @@ If you're moving somewhere, don't hesitate to ask the clerk for a [letter of int
 
 ## Bringing greetings
 
-When Quakers travel, we often "bring greetings" from other meetings. Unless this is officially minuted by the clerk, this is often called "unofficial greetings," but Quakers often "bring greetings," even if unofficialy, when introducing themselves in another Quaker meeting. It's a nice thing to say if you remember to do it.
+When Quakers travel, we often bring greetings from our home meeting to other meetings. Unless this greeting is officially minuted by the clerk, it is often called "unofficial greetings," but Quakers often "bring greetings," even if unofficialy, when introducing themselves in another Quaker meeting. It's a nice thing to say if you remember to do it.
 
 ## How to find other Quaker meetings <span class="stanchor"><a name="contact"> </a></span>
 
