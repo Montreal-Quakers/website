@@ -11,7 +11,6 @@ In the context of review of Faith and Practice, [Cowichan Valley Monthly Meeting
 
 The letter in its entirety is posted below and constitutes the best thinking and loving we can presently express in our support for all loving relationships. This is an age when the diversity of human sexual relationships and identities are increasingly expressed. Too often, rejection and despair are inflicted on the courageous individuals making this expression. Our Meeting believes that our role must be to support and celebrate everyone in their desire for loving connection to each other, in whatever form that might take.
 
-
 ## Our letter
 
 Dear Cowichan Valley Monthly Meeting,
