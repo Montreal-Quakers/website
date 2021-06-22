@@ -21,13 +21,13 @@ When Quakers travel, we often bring greetings from our home meeting to other mee
 * [Québec](/home#-where-we-meet)
 * [Canada](https://quaker.ca/who-we-are/find-a-meeting/){: rel="noopener" target="_blank"}
 * [North America](https://www.fgcquaker.org/connect/quaker-finder){: rel="noopener" target="_blank"}
+* [Latin America](http://fwccamericas.org/find_friends/index.shtml){: rel="noopener" target="_blank"}
 * [The UK and Ireland](http://www.quaker.org.uk/organisation-details){: rel="noopener" target="_blank"}
 * [France](https://www.quakersenfrance.org/){: rel="noopener" target="_blank"}
 * [Belgium and Luxembourg](https://quakers-belux.org/meetings-for-worship-where-and-when/){: rel="noopener" target="_blank"}
 * [Africa](http://fwccafrica.org/){: rel="noopener" target="_blank"}
 * [Asia/West Pacific](http://fwccawps.org/){: rel="noopener" target="_blank"}
 * [Europe/Middle East](http://www.fwccemes.org/fam/){: rel="noopener" target="_blank"}
-* [Latin America](http://fwccamericas.org/find_friends/index.shtml){: rel="noopener" target="_blank"}
 
 ## Definitions (taken from [Friends General Conference](https://www.fgcquaker.org/resources/explanation-letters-introduction-travel-minutes-and-endorsements){: rel="noopener" target="_blank"})
 ### Letters of Introduction <span class="stanchor"><a name="introduction"> </a></span>
@@ -35,14 +35,4 @@ When Quakers travel, we often bring greetings from our home meeting to other mee
 A “letter of introduction” is a communication signed by the clerk of a monthly meeting that identifies the person who is traveling as a Friend or regular attender in good standing.
 ### Minutes of Travel <span class="stanchor"><a name="travel"> </a></span>
 
-A “travel minute” is a formal document from a monthly meeting on behalf of a member or attender, indicating that the bearer has the recommendation of the meeting.
-
-Minutes of travel usually:
-
-* Send greetings to Friends being visited
-* Ask those Friends to give loving care to the visiting Friend
-* Introduce the Friend and the reason for the travel
-* Affirm the gifts of the traveling Friend
-* Close with a prayer that the travel is blessed
-
-A minute of travel is endorsed by the clerk with approval of the meeting. If the Friend is traveling extensively outside of Canada, it is also appropriate for the letter to be approved by the yearly meeting and signed by its clerk.
+A “travel minute” is a formal document from a monthly meeting on behalf of a member or attender introducing the Friend and the reason for the trip. A minute of travel is endorsed by the clerk with approval of the meeting. If the Friend is traveling extensively outside of Canada, it is also appropriate for the letter to be approved by the yearly meeting and signed by its clerk.

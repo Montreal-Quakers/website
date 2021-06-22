@@ -21,13 +21,13 @@ Lorsque les Quakers voyagent, souvent nous apportons les salutations de notre as
 * [Québec](/accueil#-nous-trouver)
 * [Canada](https://quaker.ca/who-we-are/find-a-meeting/){: rel="noopener" target="_blank"}
 * [Amérique du Nord](https://www.fgcquaker.org/connect/quaker-finder){: rel="noopener" target="_blank"}
+* [Amérique Latine](http://fwccamericas.org/find_friends/index.shtml){: rel="noopener" target="_blank"}
 * [Le Royaume-Uni et l'Ireland](http://www.quaker.org.uk/organisation-details){: rel="noopener" target="_blank"}
 * [France](https://www.quakersenfrance.org/){: rel="noopener" target="_blank"}
 * [Belgique et Luxembourg](https://quakers-belux.org/meetings-for-worship-where-and-when/){: rel="noopener" target="_blank"}
 * [Afrique](http://fwccafrica.org/){: rel="noopener" target="_blank"}
 * [Asie/Pacifique de l'ouest](http://fwccawps.org/){: rel="noopener" target="_blank"}
 * [Europe/le Moyen-Orient](http://www.fwccemes.org/fam/){: rel="noopener" target="_blank"}
-* [Amérique Latine](http://fwccamericas.org/find_friends/index.shtml){: rel="noopener" target="_blank"}
 
 ## Définitions (prises de [Friends General Conference](https://www.fgcquaker.org/resources/explanation-letters-introduction-travel-minutes-and-endorsements){: rel="noopener" target="_blank"})
 ### Lettre d'introduction <span class="stanchor"><a name="introduction"> </a></span>
@@ -36,14 +36,4 @@ Une « lettre d'introduction » est une communication signée par le secrétaire
 
 ### Minutes de voyage <span class="stanchor"><a name="voyage"> </a></span>
 
-Une « minute de voyage » est un document formel d'une assemblée Quaker au sujet d'une personne, indiquant leur confiance en elle. 
-
-Habituellement les minutes de voyage :
-
-* Envoyoient des salutations aux assemblées visitées
-* Demandent à ces assemblées de donner des soins affectueux à l'Ami.e en visite
-* Présenter la personne et la raison du voyage
-* Affirmer les cadeaux de l'Ami.e voyageur
-* Terminez par une prière pour que le voyage soit béni
-
-Une minute de voyage est redigé par le secrétaire avec approbation de l'assemblée. Si vous voyagez souvent en dehors du Canada, il convient également que la lettre soit approuvée par l'assemblée annuelle et signée par son secrétaire.
+Une « minute de voyage » est un document formel d'une assemblée Quaker qui présente la personne et la raison du voyage. Une minute de voyage est redigé par le secrétaire avec approbation de l'assemblée. Si vous voyagez souvent en dehors du Canada, il convient également que la lettre soit approuvée par l'assemblée annuelle et signée par son secrétaire.
