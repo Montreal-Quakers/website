@@ -1,5 +1,5 @@
 ---
-layout: compress
+# layout: compress
 ---
 {% if page.lang == "fr" %}{% assign fr = true %}{% endif %}
 <!DOCTYPE html>
@@ -10,11 +10,10 @@ layout: compress
   <link rel="preload" href="/assets/css/navstyle.css" as="style">
   <link rel="preload" href="/assets/css/style.css" as="style">
   <link rel="preload" href="/assets/css/fa-custom.css" as="style">
-  <!-- <link rel="preload" href="/assets/google_fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf" as="font" type="font/ttf" crossorigin> -->
-  <link rel="preload" href="/assets/google_fonts/Bitter/Bitter-Regular.ttf" as="font" type="font/ttf" crossorigin>
+<!---  <link rel="preload" href="/assets/google_fonts/Bitter/Bitter-Regular.ttf" as="font" type="font/ttf" crossorigin>
   <link rel="preload" href="/assets/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/assets/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="/assets/google_fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf" as="font" type="font/ttf" crossorigin>
+  <link rel="preload" href="/assets/google_fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf" as="font" type="font/ttf" crossorigin> -->
   <link rel="preload" href="/assets/google_fonts/Source_Sans_Pro/SourceSansPro-Black.ttf" as="font" type="font/ttf" crossorigin>
   <meta name="description" content="{% if page.type == "posts" %}{{ post.excerpt }}{% elsif page.description %}{{ page.description }}{% elsif site.title %}{{ site.title }}{% else %}{{ page.trans }}{% endif %}">
   <meta name="keywords" content="{{ site.keywords}}">
@@ -121,6 +120,6 @@ layout: compress
 	   {% comment %}For some reason can't include a markdown file as HTML, so the code below translates the markdown into HTML before including. Also note that there is some special footer-header styling in the stylesheet{% endcomment %}
 	   {% if page.lang =="fr" %}{% capture bas-de-page %} {% include bas-de-page.md %}{% endcapture %}{{ bas-de-page | markdownify }}{% else %}{% capture footer %} {% include footer.md %}{% endcapture %}{{ footer | markdownify }}{% endif %}
 	      </footer>
-<script src="/assets/js/navigation.js"></script>   
+<script src="/assets/js/navigation.js" crossorigin></script>   
 </body>
 </html>

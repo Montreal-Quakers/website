@@ -84,7 +84,7 @@ button {
   }
 }
 .footer {
-    flex: 1 0 auto;
+    // flex: 1 0 auto;
     color: var(--alert-text);
     font-family: $font-sans;
     font-size: 0.8em;
@@ -401,7 +401,7 @@ input {
 	  display: none
   }
   .embed-container1 {
-	  display: default;
+	  display: initial;
   }
   .media {
 	  padding: 3px;
@@ -417,7 +417,7 @@ input {
 // @include media(">800px") {
 @media screen and (min-width: $media-pixels + 1) {
   .embed-container2 {
-	  display: default
+	  display: initial
   }
   .embed-container1 {
 	  display: none;
