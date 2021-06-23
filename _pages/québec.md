@@ -2,7 +2,7 @@
 lang: fr
 trans: quebec
 ---
-{% include picture.html basename="/assets/images/quebec" type="jpg" alt="Groupe Quaker de Québec image avec arbres" class="img_center75" %}
+{% include picture.html basename="/assets/images/qc3" type="png" alt="La chappelle" class="img_center75" %}
 
 ## Quand
 Le Groupe des Quakers à Québec se rencontre **chaque premier dimanche du mois à 11h00**.
@@ -31,4 +31,4 @@ Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations suppl�
 ### Langue
 * Le culte du groupe de Québec se déroule principalement en français.
 
-
+{% include picture.html basename="/assets/images/quebec" type="jpg" alt="Groupe Quaker de Québec image avec arbres" class="img_center75" %}
