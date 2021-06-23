@@ -148,3 +148,10 @@ function foldSearch () {
   }, 100);
 }
 
+// function ShowMoreCards() {
+//   var moreText = document.getElementById("more");
+//   var btnText = document.getElementById("MoreBtn");
+// 
+//     btnText.style.display = "none";
+//     moreText.style.display = "inline";
+// }

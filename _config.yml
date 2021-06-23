@@ -7,8 +7,10 @@ email:
 address: 1090 Greene Ave., Westmount
 adresse: 1090 ave. Greene, Westmount
 phone: (514) 307-0820
+phone_link: <a href="tel:+1-514-307-0820">(514) 307-0820</a>
 myurl: https://montreal.quaker.ca
 url: https://montreal.quaker.ca
+fb_link: https://www.facebook.com/MontrealQuakers/
 # myurl: localhost:4000
 
 # This sets the point at which the website will switch from "desktop view" to "mobile/tablet view"
@@ -190,12 +192,6 @@ defaults:
       layout: "default"
       permalink: "/nouveau/:basename"
   - scope:
-      path: "glossary" # an empty string here means all files in the project
-      type: "pages"
-    values:
-      layout: "default"
-      permalink: "/glossary/:basename"
-  - scope:
       path: "_posts" # an empty string here means all files in the project
       type: "posts"
     values:
@@ -207,32 +203,3 @@ plugins:
 
 emoji:
   src: "https://github.githubassets.com/images/icons/"
-
-
-    # page_gen-dirs: true # uncomment, if you prefer to generate named folders
-    # 
-    # page_gen:
-    #   - data: 'FR-glossaire-csv'
-    #     template: 'glossary'
-    #     dir: '/new_attender/glossary/'
-    #     page_data_prefix: 'glos'
-    #     name: 'trans'
-    #     title: 'entry'
-    #   - data: 'FR-glossaire-csv'
-    #     template: 'glossaire'
-    #     dir: '/nouveau/glossaire/'
-    #     page_data_prefix: 'glos'
-    #     name: 'trans'
-    #     title: 'entry'
-    #   - data: 'EN-glossary-csv'
-    #     template: 'glossary'
-    #     dir: '/new_attender/glossary/'
-    #     page_data_prefix: 'glos'
-    #     name: 'trans'
-    #     title: 'entry'
-    #   - data: 'EN-glossary-csv'
-    #     template: 'glossaire'
-    #     dir: '/nouveau/glossaire/'
-    #     page_data_prefix: 'glos'
-    #     name: 'trans'
-    #     title: 'entry'

@@ -4,7 +4,7 @@ lang: en
 trans: contact
 og-title: Contact Us
 ---
-You’re welcome to use the <i class="fas fa-pencil-alt color-1-text"></i> contact form below or call David, our clerk, at <i class="fas fa-phone color-1-dark-text"></i> (514) 307-0820. We can also be reached on [Facebook](https://www.facebook.com/MontrealQuakers/){: rel="noopener" target="_blank"}. Here is our [Privacy Policy](/privacy). 
+You’re welcome to use the <i class="fas fa-pencil-alt color-1-text"></i> contact form below or call David, our clerk, at <i class="fas fa-phone color-1-dark-text"></i> {{ site.phone_link }}. We can also be reached on &nbsp;<i class="fab fa-facebook-f color-1-text"></i> &nbsp;[Facebook](https://www.facebook.com/MontrealQuakers/){: rel="noopener" target="_blank"}. Here is our [Privacy Policy](/privacy). 
 
 Our largest group meets on [Sundays](/directions) at 11 AM at the Greene Centre, [1090 Greene Ave](/directions), Westmount, H3Z 1Z9.
 

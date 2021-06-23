@@ -29,7 +29,7 @@ Lorsque les Quakers voyagent, souvent nous apportons les salutations de notre as
 * [Asie/Pacifique de l'ouest](http://fwccawps.org/){: rel="noopener" target="_blank"}
 * [Europe/le Moyen-Orient](http://www.fwccemes.org/fam/){: rel="noopener" target="_blank"}
 
-## Définitions (prises de [Friends General Conference](https://www.fgcquaker.org/resources/explanation-letters-introduction-travel-minutes-and-endorsements){: rel="noopener" target="_blank"})
+## [Définitions](https://www.fgcquaker.org/resources/explanation-letters-introduction-travel-minutes-and-endorsements){: rel="noopener" target="_blank"}
 ### Lettre d'introduction <span class="stanchor"><a name="introduction"> </a></span>
 
 Une « lettre d'introduction » est une communication signée par le secrétaire d'une assemblée qui identifie la personne qui voyage comme un membre ou un participant régulier de confiance.

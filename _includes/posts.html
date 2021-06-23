@@ -5,8 +5,10 @@
 
 <section class="posts">
 <ul>
+	{% assign counter = 0 %}
   {% for post in posty %}
 
+	{% assign counter = counter | plus: 1 %}
             {% comment %}All this code is just to assign the date properly in French{% endcomment %}
   {% if fr %}
       {% capture date_cap %} {{ post.date | date: "%-d" }} {% assign m = post.date | date: "%-m" %}
@@ -19,7 +21,9 @@
   {% assign datey = post.date | date: "%B %-d, %Y" %}
   {% endif %}
 {% comment %}Below is the actual code creating the cards{% endcomment %}
-
+{% comment %}{% if counter == 7 %}<button id=more class="w3-button color-1-dark" onclick="ShowMoreCards()" id="MoreBtn">{% if fr %}Voir plus{% else %}See more{% endif %}</button>
+<div id=more>
+	{% endif %}{% endcomment %}
 <li onclick='location.href="{{ post.url | escape }}";'>
     <div class="post-card">
        <h3>{{ post.title }}</h3>
@@ -32,5 +36,6 @@
     </div>
   </li>
  {% endfor %}
+</div>
  </ul>
 </section>

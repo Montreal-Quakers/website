@@ -3,6 +3,7 @@
 ## {{ site.title }}
 
 Sundays, 11 AM, [Greene Centre](/directions.html) <br>
+{{ site.phone_link }}
 
 [{{ site.address }}](/directions.html)
 
