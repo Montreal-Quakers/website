@@ -11,7 +11,7 @@ Les Quakers sont une communauté de croyances diverses. Nous recherchons une vie
 
 Les Quakers parlent d’une « Lumière intérieure » ou « une étincelle divine » dans chaque être humain. Les incitations de l’amour, dont nous sommes toutes et tous porteurs, sont à la source des [valeurs Quaker](/témoignages) et de notre engagement au niveau de la paix.
 
-Notre communauté est [ouverte à la diversité](/intro-fr) &nbsp;[![Drapeau arc-en-ciel](/assets/images/Rainbow-Flag.jpg){: height="22" class="down_a_tad"}](/intro-fr) &nbsp;Toutes et tous sont les bienvenus.
+Notre communauté est [ouverte à la diversité](/intro-fr) &nbsp;[![Drapeau arc-en-ciel](/assets/images/Rainbow-Flag.jpg){: height="22" width="35.67" class="down_a_tad"}](/intro-fr) &nbsp;Toutes et tous sont les bienvenus.
 
 <br>
 ## [Les pratiques Quaker](/a_propos)
