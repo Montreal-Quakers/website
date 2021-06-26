@@ -36,4 +36,4 @@ Une « lettre d'introduction » est une communication signée par le secrétaire
 
 ### Note de voyage <span class="stanchor"><a name="voyage"> </a></span>
 
-Une « note de voyage » est un document formel d'une assemblée Quaker qui présente la personne et la raison du voyage. Une note de voyage est redigé par le secrétaire avec approbation de l'assemblée. Si vous voyagez souvent en dehors du Canada, il convient également que la lettre soit approuvée par l'assemblée annuelle et signée par son secrétaire.
+Une « note de voyage » est un document formel d'une assemblée Quaker qui présente la personne et la raison du voyage. Une note de voyage est redigé par le secrétaire avec approbation de l'assemblée. Si vous voyagez souvent en dehors du Canada, il convient également que la note soit approuvée par l'assemblée annuelle et signée par son secrétaire.
