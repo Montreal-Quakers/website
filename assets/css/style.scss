@@ -165,7 +165,7 @@ button {
   display: block;
   z-index: 100;
     &:hover {
-     color: black;
+     color: var(--anti-alert-text);
     }
 }
 

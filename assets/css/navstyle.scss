@@ -20,10 +20,12 @@ html {
 	--redalert: #ab3948;
 	--bluealert: #9c39ab;
 	--alert-text: white;
+	--anti-alert-text: black;
 	--active: #283593;
 	--off: #333;
         --buttonyellow: #ffff72;
         --heart: #d20404;
+	--leaf: green;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -36,9 +38,12 @@ html {
 	--redalert: #da9fa8;
 	--bluealert: #d19fda;
 	--alert-text: black;
+	--anti-alert-text: white;
 	--active: #7986cb;
 	--off: #666;
         --buttonyellow: #ffffcf;
+        --heart: #d20404;
+	--leaf: green;
   }
 }
 
@@ -94,7 +99,7 @@ html {
      transition: color 0.3s;
      cursor: pointer;
      &:hover {
-       color: var(--alert--text);
+       color: var(--anti-alert-text);
      }
     }
   }
