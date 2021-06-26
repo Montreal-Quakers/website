@@ -6,7 +6,7 @@ og-title: Voyager de façon quaker
 ---
 ## Voyager
 
-Si vous partez en voyage n'hésitez pas à demander une [minute de voyage](#voyage) au secrétaire. Faites suivre cette minute lorsque vous communiquez avec des quakers locaux et ils seront encore plus susceptibles de vous donner des conseils tels que de bons restaurants, les sites à ne pas manquer et peut-être même les endroits où vous héberger. Une telle minute de voyage n'est pas nécessaire mais elle ne nuit pas non plus. Quoi qu'il en soit, [contactez les assembées locales](#contact) : c'est un excellent moyen de connaître un endroit et des gens merveilleux. Parfois, une maison Quaker locale, telle que [Toronto Meeting](https://www.torontoquakers.org/){: rel="noopener" target="_blank"}, peut même avoir des chambres modiques à louer. Peut-être mieux de [nous contacter](/contact) pour en savoir plus.
+Si vous partez en voyage n'hésitez pas à demander une [note de voyage](#voyage) au secrétaire. Faites suivre cette note lorsque vous communiquez avec des quakers locaux et ils seront encore plus susceptibles de vous donner des conseils tels que de bons restaurants, les sites à ne pas manquer et peut-être même les endroits où vous héberger. Une telle note de voyage n'est pas nécessaire mais elle ne nuit pas non plus. Quoi qu'il en soit, [contactez les assembées locales](#contact) : c'est un excellent moyen de connaître un endroit et des gens merveilleux. Parfois, une maison Quaker locale, telle que [Toronto Meeting](https://www.torontoquakers.org/){: rel="noopener" target="_blank"}, peut même avoir des chambres modiques à louer. Peut-être mieux de [nous contacter](/contact) pour en savoir plus.
 
 ## Déménager
 
@@ -14,7 +14,7 @@ Si vous déménagez n'hésitez pas à demander au secrétaire une [lettre d'intr
 
 ## Apporter des salutations
 
-Lorsque les Quakers voyagent, souvent nous apportons les salutations de notre assemblée à l'assemblée locale. À moins que cela ne soit une minute d'un procès verbal consigné par le secrétaire, cela est souvent appelé « salutations officieuses », mais souvent les quakers « apportent des salutations » (en anglais « bring greetings »), même si elles ne sont pas officielles, lorsqu'ils ou elles se présentent à une autre assemblée Quaker.
+Lorsque les Quakers voyagent, souvent nous apportons les salutations de notre assemblée à l'assemblée locale. À moins que cela ne soit une note d'un procès verbal consigné par le secrétaire, cela est souvent appelé « salutations officieuses », mais souvent les quakers « apportent des salutations » (en anglais « bring greetings »), même si elles ne sont pas officielles, lorsqu'ils ou elles se présentent à une autre assemblée Quaker.
 
 ## Comment trouver d'autres assemblées quaker <span class="stanchor"><a name="contact"> </a></span>
 
@@ -34,6 +34,6 @@ Lorsque les Quakers voyagent, souvent nous apportons les salutations de notre as
 
 Une « lettre d'introduction » est une communication signée par le secrétaire d'une assemblée qui identifie la personne qui voyage comme un membre ou un participant régulier de confiance.
 
-### Minutes de voyage <span class="stanchor"><a name="voyage"> </a></span>
+### Note de voyage <span class="stanchor"><a name="voyage"> </a></span>
 
-Une « minute de voyage » est un document formel d'une assemblée Quaker qui présente la personne et la raison du voyage. Une minute de voyage est redigé par le secrétaire avec approbation de l'assemblée. Si vous voyagez souvent en dehors du Canada, il convient également que la lettre soit approuvée par l'assemblée annuelle et signée par son secrétaire.
+Une « note de voyage » est un document formel d'une assemblée Quaker qui présente la personne et la raison du voyage. Une note de voyage est redigé par le secrétaire avec approbation de l'assemblée. Si vous voyagez souvent en dehors du Canada, il convient également que la lettre soit approuvée par l'assemblée annuelle et signée par son secrétaire.
