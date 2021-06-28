@@ -7,7 +7,11 @@ trans: farnham-histoire-2021
 ---
 {% include picture.html basename="/assets/images/posts/2021-06-farnham" type="jpg" alt="Arc-en-ciel à Farnham, QC" class="img_center75" %}
 
-La première famille quaker à s’établir au Québec, mise à part celle de Nicholas Austin, est celle de Gideon Bull en 1800. Ainsi commence la mise sur pied d’une véritable assemblée quaker au Bas-Canada, celle de East-Farnham. Communauté très unie, ces quakers ont contribué à faire connaitre leurs valeurs d’égalité et de justice et étaient respectés pour leur caractère pacifique. C’était la plus importante communauté quaker du Canada au XIXe siècle et elle comptait plus de trente familles. Les rencontres formelles de cette assemblée semblent s’être tenues à partir d’environ 1814. Elles perdureront pendant presque cent ans jusqu’en 1902. D’après les archives, son déclin semble être dû à l’attrait des jeunes pour la ville où il était alors plus facile d’obtenir des emplois mieux rémunérés. Contrairement à ce qu’on pourrait penser, l’actuelle Assemblée Quaker de Montréal n’est aucunement liée aux descendants de celle de East-Farnham. Il semble que sa création en soit totalement indépendante, relevant plus d’initiatives personnelles, dont celle de Alfred Stanfield de l’Université McGill vers 1907.
+La première famille quaker à s’établir au Québec, mise à part celle de Nicholas Austin, est celle de Gideon Bull en 1800. Ainsi commence la mise sur pied d’une véritable assemblée quaker au Bas-Canada, celle de East-Farnham. Communauté très unie, ces quakers ont contribué à faire connaitre leurs valeurs d’égalité et de justice et étaient respectés pour leur caractère pacifique. C’était la plus importante communauté quaker du Canada au XIXe siècle et elle comptait plus de trente familles. 
+
+{% include picture.html basename="/assets/images/posts/2021-06-farnham_quaker_house" type="png" alt="Quaker House à Farnham, QC" class="img_center75" %}
+
+Les rencontres formelles de cette assemblée semblent s’être tenues à partir d’environ 1814. Elles perdureront pendant presque cent ans jusqu’en 1902. D’après les archives, son déclin semble être dû à l’attrait des jeunes pour la ville où il était alors plus facile d’obtenir des emplois mieux rémunérés. Contrairement à ce qu’on pourrait penser, l’actuelle Assemblée Quaker de Montréal n’est aucunement liée aux descendants de celle de East-Farnham. Il semble que sa création en soit totalement indépendante, relevant plus d’initiatives personnelles, dont celle de Alfred Stanfield de l’Université McGill vers 1907.
 
 Si l’histoire de ces ancêtres excitent votre curiosité, je vous suggère une excursion sur les pas de leur héritage. Commencez par la visite du musée du comté du Lac Brome à Knowlton. Une petite section est consacrée à cette communauté dont la collection de livres de leur bibliothèque. 
 
@@ -18,6 +22,8 @@ Par la suite, il est possible de se rendre à l’abbaye de Saint-Benoit-du-Lac 
 {% include picture.html basename="/assets/images/posts/2021-06-farnham_stone" type="png" alt="Pierre commémorative à l’entrée du cimetière quaker de East-Farnham." figcaption="Pierre commémorative à l’entrée du cimetière quaker de East-Farnham" class="img_center75" %}
 
 C’est un lieu magnifique, rempli de paix. Il est aussi possible de visiter le Friends Cemetery situé au [1105 Chemin Nord à Brigham](https://goo.gl/maps/F6DG8HW8wR37N3NZA){: rel="noopener" target="_blank"}. Ils sont situés à 2,5 km l’un de l’autre. 
+
+{% include picture.html basename="/assets/images/posts/2021-06_friends_meetinghouse_cemetery_iron_gate" type="png" alt="Friends Meetinghouse Cemetery à Farnham, QC" class="img_center75" %}
 
 Il y a un vignoble juste à côté… si l’idée vous venait de lever un verre à leur santé! L’été et l’automne s’y prêtent bien.
 

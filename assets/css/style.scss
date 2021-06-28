@@ -361,7 +361,7 @@ input {
 	}
 }
 
-.w3-input{padding:8px;display:block;border:none;border-bottom:1px solid #ccc;width:100%}
+.w3-input{padding:8px;display:block;border:none;border-bottom:1px solid #ccc;width:100%;background:var(--body-bg);color:var(--body-text)}
 .w3-border{border:1px solid #ccc}
 .w3-animate-input{width:50%;transition:width 0.4s ease-in-out}
 .w3-animate-input:focus{width:100%}
