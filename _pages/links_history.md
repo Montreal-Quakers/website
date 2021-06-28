@@ -32,5 +32,6 @@ trans: links_history
 * [Petit à petit, l’oiseau fait son nid, par Chantal Fournier](/assets/PDF/MMM-History-CF.V100.05.15.pdf){: rel="noopener" target="_blank"} (PDF)
 * [Women's Speaking](http://www.qhpress.org/texts/fell.html){: rel="noopener" target="_blank"} has some texts by notable Quaker women, for instance, one of the founders of Quakerism, Margaret Fell.
 * [History of Montreal Meeting (1929-1964) Lloyd Williams](/assets/PDF/MMM_history-Lloyd-Williams.pdf){: rel="noopener" target="_blank"} (PDF)
+* See also this blog entry: [Suggestion pour une belle excursion sur l’histoire des Quakers au Québec](/2021/06/26/farnham-trip)
 
 {% include picture.html basename="/assets/images/1974_MaisW_1" type="jpg" alt="Our previous meetinghouse on de Maisonneuve" class="img_center75" figcaption="Our previous meetinghouse on de Maisonneuve." %}

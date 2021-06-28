@@ -32,7 +32,8 @@ So sad, Woodbrooke seems to have deleted this course -- post this again if they 
 
 ## Histoire des Quakers à Montréal
 
-[Petit à petit, l’oiseau fait son nid Par Chantal Fournier](/assets/PDF/MMM-History-CF.V100.05.15.pdf){: rel="noopener" target="_blank"} (PDF)
+* [Petit à petit, l’oiseau fait son nid Par Chantal Fournier](/assets/PDF/MMM-History-CF.V100.05.15.pdf){: rel="noopener" target="_blank"} (PDF)
+* Voir aussi cette publication dans notre blogue: [Suggestion pour une belle excursion sur l’histoire des Quakers au Québec](/2021/06/26/farnham-excursion)
 
 
 {% include picture.html basename="/assets/images/1974_MaisW_1" type="jpg" alt="Notre lieu de culte auparavant" class="img_center75" figcaption="Auparavant, notre Centre Quaker à Montréal sur boulevard de Maisonneuve ouest." %}
