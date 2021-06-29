@@ -51,8 +51,8 @@ media_pages:
     # Anything else, like '"alerton = "off"' and alerts will be off.
     # Change alert colour in the _sass/_colors.scss, $alert-color
 
-covid-close-date-en: July 2nd, 2021
-covid-close-date-fr: 2 juillet 2021
+covid-close-date-en: July 8th, 2021
+covid-close-date-fr: 8 juillet 2021
 
 redalerts: some
 redalert_all_text-en: alert/en-covid.md
