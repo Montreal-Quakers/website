@@ -2,8 +2,8 @@
 ---
 const observerOptions = {
   root: null,
-  rootMargin: "0px",
-  threshold: 0.2
+  rootMargin: "-35px",
+  threshold: 0
 };
 
 function observerCallback(entries, observer) {
