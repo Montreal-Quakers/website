@@ -2,11 +2,10 @@
 
 ## {{ site.title-fr }} 
 
-Le dimanche à 11h au [Centre Greene](/coordonnées.html) <br>
+Le dimanche à 11h au [Centre Greene](/coordonnées) <br>
 {{ site.phone_link }}
 
-
-[{{ site.adresse }}](/coordonnées.html)
+[{{ site.adresse }}](https://www.google.com/maps/search/1090%20Greene,%20Westmount,%20QC,%20H3Z%201Z9){: rel="noopener" target="_blank"}
 
 {% for each in site.data.navigation.footer-fr %}[{{ each.title }}]({{ each.link }}){% unless forloop.last == true %} &ensp;{% endunless %}{% endfor %}
 

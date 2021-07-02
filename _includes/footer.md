@@ -2,10 +2,10 @@
 
 ## {{ site.title }}
 
-Sundays, 11 AM, [Greene Centre](/directions.html) <br>
+Sundays, 11 AM, [Greene Centre](/directions) <br>
 {{ site.phone_link }}
 
-[{{ site.address }}](/directions.html)
+[{{ site.address }}](https://www.google.com/maps/search/1090%20Greene,%20Westmount,%20QC,%20H3Z%201Z9){: rel="noopener" target="_blank"}   
 
 {% for each in site.data.navigation.footer-en %}[{{ each.title }}]({{ each.link }}){% unless forloop.last == true %} &ensp;{% endunless %}{% endfor %}
 
