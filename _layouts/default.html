@@ -121,5 +121,6 @@ layout: compress
 	   {% if page.lang =="fr" %}{% capture bas-de-page %} {% include bas-de-page.md %}{% endcapture %}{{ bas-de-page | markdownify }}{% else %}{% capture footer %} {% include footer.md %}{% endcapture %}{{ footer | markdownify }}{% endif %}
 	      </footer>
 <script src="/assets/js/navigation.js" crossorigin></script>   
+{% if page.type == "system_grid" %}<script src="/assets/js/grid.js" crossorigin></script>{% endif %}
 </body>
 </html>

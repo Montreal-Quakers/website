@@ -2,6 +2,7 @@
 {% if fr %} {% assign posty=site.posts | where:"lang","fr" %}
 {% else %} {% assign posty=site.posts | where_exp:"page","page.lang != 'fr'" %}
 {% endif %}
+{% assign leftright = 1 %}
 
 <section class="posts">
 <ul>
@@ -24,7 +25,7 @@
 {% comment %}{% if counter == 7 %}<button id=more class="w3-button color-1-dark" onclick="ShowMoreCards()" id="MoreBtn">{% if fr %}Voir plus{% else %}See more{% endif %}</button>
 <div id=more>
 	{% endif %}{% endcomment %}
-<li onclick='location.href="{{ post.url | escape }}";'>
+<li onclick='location.href="{{ post.url | escape }}";' class="fade fadeOut{% if leftright == 1 %}Left{% elsif leftright == 2 %}Right{% endif %}">
     <div class="post-card">
        <h3>{{ post.title }}</h3>
     </div>
@@ -35,7 +36,7 @@
     <div>&nbsp;</div>    
     </div>
   </li>
+      {% if leftright == 1 %}{% assign leftright = 2 %}{% elsif leftright == 2 %}{% assign leftright = 1 %}{% endif %}
  {% endfor %}
-</div>
  </ul>
 </section>

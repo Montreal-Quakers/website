@@ -1,10 +1,12 @@
 <section class="cards" id="cards">
     <ul>
 	    {% if page.lang == "fr" %}{% assign cards = site.data.newcomer_cards.fr %}{% else %}{% assign cards = site.data.newcomer_cards.en %}{% endif %}
+	    {% assign leftright = 1 %}
             {% for each in cards %}
-      <li><a href="{{ each.link }}" title="{{ each.hovertitle }}">
-		{{ each.title }}&nbsp; {{ each.icon }}
+	    <li><a href="{{ each.link }}" title="{{ each.hovertitle }}" class="fade fadeOut{% if leftright == 1 %}Left{% elsif leftright == 2 %}Right{% endif %}">
+			    {{ each.title }}&nbsp; {{ each.icon }}
       </a></li>
+      {% if leftright == 1 %}{% assign leftright = 2 %}{% elsif leftright == 2 %}{% assign leftright = 1 %}{% endif %}
       {% endfor %}
     </ul>
   </section>
