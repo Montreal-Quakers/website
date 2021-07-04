@@ -5,7 +5,7 @@ $mob-pixels: {{ site.breakpoint }};
 $verynarrow: {{ site.verynarrow }};
 
 // Remove underline under links
-#linkoff,#narrowheader,a#wideheader,#nolink,.navbar a {
+.linkoff,#narrowheader,a#wideheader,.navbar a {
 	&,&:link,&:visited,&:hover {
     text-decoration: none;
     }

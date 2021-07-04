@@ -21,7 +21,7 @@
 	<div id="special2">&nbsp; </div>
 	<!-- Narrowheader refers what the header looks like on a narrow screen -->
   <div id="narrowheader" class="">
-	  <a href="{% if fr %}/accueil{% else %}/home{% endif %}" id="nolink" class="{% for each in site.mobile_header_animation %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %}">{% if fr %} {{ site.short_title-fr }} {% else %} {{ site.short_title }} {% endif %}</a>
+	  <a href="{% if fr %}/accueil{% else %}/home{% endif %}" id="linkoff" class="{% for each in site.mobile_header_animation %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %}">{% if fr %} {{ site.short_title-fr }} {% else %} {{ site.short_title }} {% endif %}</a>
   </div>
 </div>
 
