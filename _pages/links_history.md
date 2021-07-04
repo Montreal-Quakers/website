@@ -17,7 +17,6 @@ trans: links_history
 
 ## Join the discussion
 * [Canadian Quaker Facebook discussion group](https://www.facebook.com/groups/532516183429702/){: rel="noopener" target="_blank"}. Also worth checking out are other Quaker groups on Facebook; some are [more informative](https://www.facebook.com/groups/2207263944/) and some are [strictly silly](https://www.facebook.com/groups/assbadfriends/){: rel="noopener" target="_blank"}
-* [About business meeting](https://quakerscotland.org/quaker-business-meetings){: rel="noopener" target="_blank"}
 
 ## Quaker organizations & Quaker work
 * [Canadian Friends Service Committee](https://quakerservice.ca){: rel="noopener" target="_blank"}: Quakers in Canada actively working on peace, indigenous issues, and the criminal justice system.
@@ -28,10 +27,10 @@ trans: links_history
 * [Quaker Earthcare Witness](https://www.quakerearthcare.org/){: rel="noopener" target="_blank"} ([video](https://www.youtube.com/watch?v=5GBZUEeX1M0){: rel="noopener" target="_blank"})
 
 ## History of the meeting
-* [A Look Backwards at Montreal Monthly Meeting, by Molly Walsh](/assets/PDF/MMM-History-CF.V100.05.13-14.pdf){: rel="noopener" target="_blank"} (PDF)
-* [Petit à petit, l’oiseau fait son nid, par Chantal Fournier](/assets/PDF/MMM-History-CF.V100.05.15.pdf){: rel="noopener" target="_blank"} (PDF)
+* [A Look Backwards at Montreal Monthly Meeting, by Molly Walsh](/assets/PDF/MMM-History-CF.V100.05.13-14.pdf){: rel="noopener" target="_blank"}
+* [Petit à petit, l’oiseau fait son nid, par Chantal Fournier](/assets/PDF/MMM-History-CF.V100.05.15.pdf){: rel="noopener" target="_blank"}
 * [Women's Speaking](http://www.qhpress.org/texts/fell.html){: rel="noopener" target="_blank"} has some texts by notable Quaker women, for instance, one of the founders of Quakerism, Margaret Fell.
-* [History of Montreal Meeting (1929-1964) Lloyd Williams](/assets/PDF/MMM_history-Lloyd-Williams.pdf){: rel="noopener" target="_blank"} (PDF)
+* [History of Montreal Meeting (1929-1964) Lloyd Williams](/assets/PDF/MMM_history-Lloyd-Williams.pdf){: rel="noopener" target="_blank"}
 * See also this blog entry: [Suggestion pour une belle excursion sur l’histoire des Quakers au Québec](/2021/06/26/farnham-trip)
 
 {% include picture.html basename="/assets/images/1974_MaisW_1" type="jpg" alt="Our previous meetinghouse on de Maisonneuve" class="img_center75" figcaption="Our previous meetinghouse on de Maisonneuve." %}

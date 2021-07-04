@@ -98,8 +98,11 @@ function flipIcon () {
   var i2 = document.getElementById("flippy2");
   // Clear automatic routing of the homepage to a language
   var choice = null;
+	// default timeout is 145 ms
+  var timeout = 145
   localStorage.setItem('lang',choice)
   if (i2.classList.contains("searchy")) {
+	  // This class list includes search terms in the new URL when switching from French to English from the search page
     i.classList.add("rotate-hor-center");
     const parsedUrl = new URL(window.location.href);
     var newstring = parsedUrl.pathname + "?q=";
@@ -107,11 +110,11 @@ function flipIcon () {
     var param = parsedUrl.searchParams.get("q");
     newurl.searchParams.set('q',param);
     i2 = newurl;
-    console.log(newurl); // "hi"
-    setTimeout(function clicky() {window.location.href = i2;}, 145);
+    console.log(newurl);
+    setTimeout(function clicky() {window.location.href = i2;}, timeout);
   } else {
     i.classList.add("rotate-hor-center");
-    setTimeout(function clicky() {window.location.href = i2;}, 145);
+    setTimeout(function clicky() {window.location.href = i2;}, timeout);
   }
 }
 

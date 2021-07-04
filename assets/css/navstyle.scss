@@ -717,10 +717,12 @@ ul.breadcrumb li a:hover {
 // rotate translate button
 @keyframes rotate-hor-center {
   0% {
-    @include transform(rotateX(0));
+    //transform: rotateX(0);
+    @include transform(rotateX(0deg));
   }
   100% {
-    @include transform(rotateX(-360deg));
+    // transform: rotateX(-360deg);
+    @include transform(rotateX(360deg));
   }
 }
 // wobbles for the contact page
