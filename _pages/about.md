@@ -6,7 +6,7 @@ trans: about
 1. &nbsp;[![](/assets/images/no-tie_color.png){: img_left height="35px" class="down_a_bit_more"} &nbsp;You're welcome as you are. Dress comfortably (ties are fine too).](#notie){: class="linkoff"} <span class="stanchor"><a name="notie-home"></a></span>
  <br>
 
-2. [<i class="fas fa-chair fa-fw fa-2x down_a_bit_more" style="color: #4d1a00;"></i> Sit anywhere you like.](#chair){: class="linkoff" }<span class="stanchor"><a name="chair-home"></a></span>
+2. [<i class="fas fa-chair fa-fw fa-2x down_a_bit_more chair"></i> Sit anywhere you like.](#chair){: class="linkoff" }<span class="stanchor"><a name="chair-home"></a></span>
   
 1. [<i class="fas fa-search fa-fw fa-2x color-1-text down_a_bit_more"></i> In the quiet of Quaker meeting, look inside.](#look){: class="linkoff"}<span class="stanchor"><a name="look-home"> </a> </span>
   
@@ -23,11 +23,11 @@ A Quaker Meeting is based on silence, marking a pause from the distractions of e
 
 [![](/assets/images/no-tie_color.png){: img_left height="16"}](#notie-home){: class=linkoff}<span class="stanchor"><a name="notie"> </a></span> &nbsp;There is no dress code so come as you are and feel free to wear whatever makes you feel your best.
 
-[<i class="fas fa-chair" style="color: #4d1a00;"></i>](#chair-home){: class=linkoff}<span class="stanchor"><a name="chair"></a></span> &nbsp;Go in as soon as you are ready; sit anywhere you like. Meeting for Worship starts as soon as the first person sits down; it ends after about an hour when the appointed person marks the conclusion of worship, for instance by shaking hands. It is preferable to arrive a few minutes early, but punctuality is much less important than your company.
+[<i class="fas fa-chair chair"></i>](#chair-home){: class=linkoff}<span class="stanchor"><a name="chair"></a></span> &nbsp;Go in as soon as you are ready; sit anywhere you like. Meeting for Worship starts as soon as the first person sits down; it ends after about an hour when the appointed person marks the conclusion of worship, for instance by shaking hands. It is preferable to arrive a few minutes early, but punctuality is much less important than your company.
 
 [<i class="fas fa-search color-1-text"></i>](#look-home){: class=linkoff}<span class="stanchor"><a name="look"> </a></span> &nbsp;We take the quiet time of Quaker meeting to listen. Some listen to God, others to nature or their conscience. Bring whatever is pressing on your mind to the Meeting. It can be a time of insight, healing, and calm.
 
-[<i class="fas fa-hand-holding-heart" style="color: crimson"></i>](#heart-home){: class=linkoff}<span class="stanchor"><a name="heart"> </a></span> &nbsp;Someone present may feel inspired by this experience to say something which will deepen and enrich the worship. This brief "vocal ministry" may involve song, prayer, a reading, or a vocal message of concern, hope, or thanksgiving.
+[<i class="fas fa-hand-holding-heart heart"></i>](#heart-home){: class=linkoff}<span class="stanchor"><a name="heart"> </a></span> &nbsp;Someone present may feel inspired by this experience to say something which will deepen and enrich the worship. This brief "vocal ministry" may involve song, prayer, a reading, or a vocal message of concern, hope, or thanksgiving.
 
 [<i class="far fa-pause-circle color-1-light-text"></i>](#wait-home){: class=linkoff}<span class="stanchor"><a name="wait"> </a></span> &nbsp;Listen to what is said in an open-minded, charitable spirit. If something does not speak to you, try nevertheless to reach the spirit behind the words. The speaker wants to help the Meeting; take care not to reject the offering with criticism or debate. We generally only speak once to allow everyone to participate.
 

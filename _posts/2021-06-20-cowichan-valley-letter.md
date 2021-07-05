@@ -1,7 +1,7 @@
 ---
 title: Statement on marriage
 ---
-## Context
+#### Context
 
 [Faith and Practice](https://quaker.ca/cympublications/faith-and-practice/){: rel="noopener" target="_blank"}, a guiding document of Canadian Quakers, is a collection of statements made by Quakers both historical and recent, which are chosen for their value in helping us reflect on and deepen our Quaker lives. This volume undergoes periodic review, in keeping with Quaker views on “ongoing revelation” — the belief that spirit moves continually in our lives and leads us towards ever greater enlightenment, insight, and love.
 
@@ -11,7 +11,7 @@ In the context of review of Faith and Practice, [Cowichan Valley Monthly Meeting
 
 The letter in its entirety is posted below and constitutes the best thinking and loving we can presently express in our support for all loving relationships. This is an age when the diversity of human sexual relationships and identities are increasingly expressed. Too often, rejection and despair are inflicted on the courageous individuals making this expression. Our Meeting believes that our role must be to support and celebrate everyone in their desire for loving connection to each other, in whatever form that might take.
 
-## Our letter
+#### Our letter
 
 Dear Cowichan Valley Monthly Meeting,
 

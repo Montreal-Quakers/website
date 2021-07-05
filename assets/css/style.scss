@@ -444,7 +444,7 @@ a[href^="http" i]::after {
 // @include media(">800px") {
 @media screen and (min-width: $media-pixels + 1) {
   .embed-container2 {
-	  display: initial
+	  display: block;
   }
   .embed-container1 {
 	  display: none;

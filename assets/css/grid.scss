@@ -1,7 +1,7 @@
 ---
 ---
 @import 'colors';
-$height: 7rem;
+$height: 8rem;
 $mob-pixels: {{ site.breakpoint }};
 
 .container-content {
@@ -22,80 +22,142 @@ $mob-pixels: {{ site.breakpoint }};
   margin: auto;
   padding: 0;
 }
-
-.cards > ul > li > a:first-child {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: $font-serif;
-  font-size: 1.5rem;
-  text-decoration: none;
-  text-align: center;
-  border-radius: .5rem;
-  cursor: pointer;
-  height: $height;
-  overflow: hidden;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  margin: auto;
-  padding: 10px;
-  background: var(--color-1-dark);
-  color: var(--alert-text);
-  transition: all .3s;
-  &:hover {
-       background: var(--color-1);
-  }
+// Index and newcomer cards
+.cards > ul > li {
+    border-radius: .5rem;
+    position: relative;
+    //z-index: -10;
+    &::before {
+      content: '';
+      position: absolute;
+      border-radius: .5rem;
+      inset: 0;
+      background: var(--card-color);
+      z-index: -2;
+      }
+    &> a:first-child {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: $font-serif;
+    font-size: 1.5rem;
+    text-decoration: none;
+    text-align: center;
+    border-radius: .5rem;
+    cursor: pointer;
+    height: $height;
+    overflow: hidden;
+    box-shadow: 2px 4px 6px 0 rgba(0,0,0,var(--card-shadow));
+    margin: auto;
+    padding: 10px;
+    background: transparent;
+    transition: box-shadow 0.3s;
+    &::before {
+      content: '';
+      position: absolute;
+      background: var(--card-hover);
+      inset: 0;
+      // top: 0;
+      // bottom: 0;
+      // left: 0;
+      // right: 0;
+      z-index: -1;
+      transform: translateX(-100%);
+      transition: transform 0.7s ease;
+      }
+    &:hover {
+      box-shadow: 4px 4px 8px 0 rgba(0,0,0,var(--card-hover-shadow));
+      &::before {
+        transform: translateX(0);
+        }
+    }
+   }
 }
 
 .cards_index > ul > li > a:first-child {
 //  display: inline-block;
-  transition: all 0.5s;
+  //transition: background 0.5s;
   font-style: italic;
   font-size: 2.0em;
-    &:hover {
-	   background: var(--color-1)
-    }
-    &:hover span {padding-right: 15px;}
-    &:hover span:after {
-       opacity: 1;
-       right: 0;
-    }
-  span {transition: 0.5s;}
-  span:after {
-    content: '\00bb';
-    opacity: 0;
-    top: 0;
-    right: -20px;
-    transition: 0.5s;
-  }
+   //  &:hover {
+   //         background: var(--card-hover)
+   //  }
+//     &:hover span {padding-right: 15px;}
+//     &:hover span:after {
+//        opacity: 1;
+//        right: 0;
+//     }
+//   span {transition: 0.5s;}
+//   span:after {
+//     content: '\00bb';
+//     opacity: 0;
+//     top: 0;
+//     right: -20px;
+//     transition: 0.5s;
+//   }
 }
 
 .posts > ul > li {
+  position: relative;
   border-radius: .5rem;
   cursor: pointer;
   overflow: hidden;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 2px 4px 6px rgba(0,0,0,var(--card-shadow));
   // margin: auto;
-  color: var(--alert-text);
-  background: var(--color-1);
-  transition: all .3s ease-in;
-  > a:first-child {
-    //display: inline;
-    padding: 0;
-    text-decoration: none;
+  color: var(--body-text);
+  // background: var(--card-color);
+  transition: box-shadow .3s ease-in;
+  // > a:first-child {
+  //   //display: inline;
+  //   padding: 110px;
+  //   text-decoration: none;
+  //   color: blue;
+  // }
+  // &:hover h3 {
+  //   background: var(--card-hover);
+  // }
+  &:hover {
+	  box-shadow: 6px 4px 8px rgba(0,0,0,var(--card-hover-shadow));
   }
-  &:hover h3,&:hover {
-    background: var(--active);
+  &::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      z-index: -3;
+      background: var(--card-color);
   }
+   &:hover .post-card h3::before {
+     transform: translateX(0);
+   }
 }
 
 .post-card {
+  position: relative;
+  &::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    background: var(--card-header);
+    }
   h3 {
+    position: relative;
     font-family: $font-serif;
-    background: var(--color-1-dark);
+    // background: var(--card-header);
+    background: transparent;
     text-align: center;
     margin: 0;
     padding: 15px;
-    transition: background .3s;
+    &::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      z-index: -1;
+      background: var(--card-hover);
+      transform: translateX(-100%);
+      transition: transform 0.8s ease;
+    }
   }
 }
 
@@ -114,7 +176,7 @@ $mob-pixels: {{ site.breakpoint }};
   text-decoration: none;
   }
   .decorate_link {
-    text-decoration: underline;
+    text-decoration: underline var(--color-1);
   }
 }
 

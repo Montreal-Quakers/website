@@ -13,19 +13,23 @@ $verynarrow: {{ site.verynarrow }};
 
 html {
 	--body-text: black;
-	--color-1: #3949ab;
-	--color-1-dark: #00227b;
-	--color-1-light: #6f74dd;
+	--color-1: #3f51b5;
+	--color-1-dark: #002984;
+	--color-1-light: #757de8;
 	--body-bg: white;
-	--redalert: #ab3948;
-	--bluealert: #9c39ab;
+	--redalert: #b53f51;
+	--bluealert: #a33fb5;
 	--alert-text: white;
 	--anti-alert-text: black;
 	--active: #283593;
-	--off: #333;
-        --buttonyellow: #ffff72;
-        --heart: #d20404;
+        --heart: #ea2311;
 	--leaf: green;
+	--chair: #4E342E;
+	--card-color: rgb(248,248,248);
+	--card-header: hsl(0,0%,90%);
+	--card-hover: #d1d9ff;
+	--card-hover-shadow: 0.3;
+	--card-shadow: 0.1;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -34,18 +38,27 @@ html {
 	--color-1: #9fa8da;
 	--color-1-dark: #6f79a8;
 	--color-1-light: #d1d9ff;
-	--body-bg: black;
+	--body-bg: #121212;
 	--redalert: #da9fa8;
 	--bluealert: #d19fda;
-	--alert-text: black;
+	--alert-text: #121212;
 	--anti-alert-text: white;
 	--active: #7986cb;
-	--off: #666;
         --buttonyellow: #ffffcf;
-        --heart: #d20404;
-	--leaf: green;
+        --heart: #f82d17;
+	--leaf: #199111;
+	--chair: #795548;
+	--card-color: hsl(0,0%,13%);
+	--card-header: #1a1a1a;
+	--card-hover: #000030;
+	--card-hover-shadow: 0.9;
+	--card-shadow: .8;
   }
 }
+
+.chair {color: var(--chair)}
+.heart {color: var(--heart)}
+.leaf {color: var(--leaf)}
 
 // These lines style both wide and narrow versions of the site
 .navbar {
@@ -321,6 +334,8 @@ html {
      background-color: transparent;
      color: var(--alert-text);
      white-space: nowrap;
+     text-decoration: none;
+     font-size: 1.3em;
    }
    #nolink {
      color: var(--alert-text);
@@ -425,7 +440,7 @@ html {
 ul.breadcrumb {
   padding: 10px 16px;
   list-style: none;
-  background-color: var(--active);
+  background-color: var(--card-hover);
   margin: 0;
 }
 ul.breadcrumb li {
@@ -434,18 +449,11 @@ ul.breadcrumb li {
   font-family: $font-sans;
   font-size: $nav-font-size;
   font-weight: bold;
-  color: var(--alert-text);
+  // color: var(--alert-text);
 }
 ul.breadcrumb li+li:before {
   padding: 8px;
   content: "/\00a0";
-}
-ul.breadcrumb li a {
-  color: var(--alert-text);
-  text-decoration: underline;
-}
-ul.breadcrumb li a:hover {
-  text-decoration: none;
 }
 
 // animations
