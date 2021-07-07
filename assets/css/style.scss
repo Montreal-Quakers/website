@@ -332,6 +332,11 @@ a.container-content, a.container-content:link, a.container, .container a, .conta
    margin-bottom: 0;
    text-decoration-color: var(--color-1);
 }
+::selection {
+	background: var(--color-1);
+	color: var(--alert-text);
+}
+
 @media screen and (min-width: $mob-pixels) {
   .content {
     flex: 0 1 $text-width;
