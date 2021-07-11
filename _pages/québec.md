@@ -2,7 +2,7 @@
 lang: fr
 trans: quebec
 ---
-{% include picture.html basename="/assets/images/qc3" type="png" alt="La chappelle" class="img_center75" %}
+{% include picture.html basename="/assets/images/qc3" type="png" alt="La chappelle" class="img_center100" %}
 
 ## Quand
 Le Groupe des Quakers à Québec se rencontre **chaque premier dimanche du mois à 11h00**.

@@ -2,6 +2,7 @@
 lang: en
 trans: what_i_do
 title: What I do in meeting
+exclude_from_search: true
 ---
 ## Janette
 

@@ -3,7 +3,7 @@ title: Quebec City Worship Group
 lang: en
 trans: quebec
 ---
-{% include picture.html basename="/assets/images/qc3" type="png" alt="The chapel" class="img_center75" %}
+{% include picture.html basename="/assets/images/qc3" type="png" alt="The chapel" class="img_center100" %}
 
 ## When
 Every first Sunday of the month, at 11 a.m.
