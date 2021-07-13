@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: en
-trans: home
+translationID: home
 permalink: /home
 og-title: Home
 ---

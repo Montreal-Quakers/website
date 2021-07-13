@@ -1,7 +1,7 @@
 ---
 title: Programmation
 lang: fr
-trans: calendar
+translationID: calendar
 ---
 <br>
 {% include calendar.html %}

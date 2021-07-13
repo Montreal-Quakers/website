@@ -1,7 +1,7 @@
 ---
 title: Reprise des rencontres à Québec en juin
 lang: fr
-trans: 2021-06-qc-reprise
+translationID: 2021-06-qc-reprise
 ---
 Les règles sanitaires s'étant assouplies, notre culte silencieux prévu le 6 juin à 13h00 aura lieu tel que prévu à la chapelle All Saints, 31 rue des Jardins dans le Vieux-Québec, ce bâtiment est situé dans la cour de la cathédrale anglicane Holy Trinity. Un stationnement est disponible. Cette rencontre sera suivie d'échanges informels.
 

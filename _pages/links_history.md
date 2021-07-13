@@ -1,7 +1,7 @@
 ---
 title: Links & History
 lang: en
-trans: links_history
+translationID: links_history
 ---
 {% include picture.html basename="/assets/images/benches" type="jpg" alt="Benches with light" class="img_center" %}
 

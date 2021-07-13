@@ -1,7 +1,7 @@
 ---
 title: <i class="fas fa-user-friends fa-fw color-1-text"></i> Mieux nous connaître
 lang: fr
-trans: know_us
+translationID: know_us
 og-title: Mieux nous connaître
 ---
 Si vous souhaitez participer davantage dans la vie de notre communauté mais ne savez pas comment, voici quelques suggestions:

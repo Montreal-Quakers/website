@@ -1,7 +1,7 @@
 ---
 title: <i class="fas fa-plane"></i> Travelling Quaker-style
 lang: en
-trans: travel
+translationID: travel
 og-title: Travelling Quaker-style
 ---
 If you're travelling somewhere, don't hesitate to ask the clerk for a [travel minute](#travel). Forward this minute in your communication to local Quakers and they will be even more likely to give you tips on places to eat, siteseeing, and perhaps even places to stay. This minute isn't required but it can't hurt. Either way, [contact local meetings](#contact): it's a great way to know a place and wonderful people. Sometimes, a local meetinghouse, such as [Toronto Meeting](https://www.torontoquakers.org/){: rel="noopener" target="_blank"}, may even have accommodations available. In some cases, it may be best to [contact us](/contact) to learn more before reaching out.

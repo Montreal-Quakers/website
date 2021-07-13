@@ -1,7 +1,7 @@
 ---
 title: Activities after Zoom meeting
 lang: en
-trans: 2021-activities
+translationID: 2021-activities
 ---
 A couple of changes for our Sunday meeting.
 

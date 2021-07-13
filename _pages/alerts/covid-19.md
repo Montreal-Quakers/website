@@ -1,7 +1,7 @@
 ---
 title: <i class="fas fa-head-side-mask color-1-light-text fa-flip-horizontal"></i> COVID-19 Updates
 lang: en
-trans: covid
+translationID: covid
 og-title: COVID-19 Updates
 ---
 ## Schedule

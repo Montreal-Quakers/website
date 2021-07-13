@@ -1,7 +1,7 @@
 ---
 title: Meditation <i class="fas fa-spa color-1-dark-text"></i>
 lang: en
-trans: meditate
+translationID: meditate
 og-title: Meditation
 ---
 Everyone needs a break from the stresses of everyday life, a time for calm and to remember what matters most.

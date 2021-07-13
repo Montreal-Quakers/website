@@ -2,7 +2,7 @@
 title: More information for new attenders
 tags: [website]
 lang: en
-trans: new_attenders202007
+translationID: new_attenders202007
 author: Clerk
 ---
 As promised [here](/2020/06/11/new-website), some new website features have just rolled out today:

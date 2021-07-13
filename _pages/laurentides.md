@@ -1,7 +1,7 @@
 ---
 title: Le Groupe Quaker des Laurentides
 lang: fr
-trans: laurentians
+translationID: laurentians
 ---
 ## Quand
 Le dimanche à 10h30. 

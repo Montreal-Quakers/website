@@ -1,0 +1,44 @@
+<svg
+   width="59.362mm"
+   height="59.362mm"
+   viewBox="0 0 59.362 59.362"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="up-arrow.svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path853" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Circle"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill-rule:evenodd;stroke-width:0.264583"
+<!--- fill:#ff0000; --->
+       id="path31"
+       cx="29.7397"
+       cy="29.775936"
+       r="29.680872" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.52638125;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-start:"
+       d="M 7.4503985,35.385689 29.66465,13.171444 51.8789,35.385689 v 0 0 0"
+       id="path189" />
+  </g>
+</svg>

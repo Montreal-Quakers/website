@@ -13,7 +13,7 @@ What the script on this page does is print out all of the pages and posts on the
 * title: {{ each.title }} 
   * url: {{ ouch }}
   * lang: {{ each.lang }} 
-  * trans: {{ each.trans }} {{ each.glos.trans }}
+  * translationID: {{ each.translationID }}
 {% endunless %}{% endfor %}
 
 # Now let's look at the posts
@@ -23,5 +23,5 @@ What the script on this page does is print out all of the pages and posts on the
 * title: {{ each.title }} 
   * url: {{ each.url }} 
   * lang: {{ each.lang }} 
-  * trans: {{ each.trans }}
+  * translationID: {{ each.translationID }}
 {% endfor %}

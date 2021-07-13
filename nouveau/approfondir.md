@@ -1,7 +1,7 @@
 ---
 title: Approfondir vos connaissances sur le Quakerisme <i class="fas fa-arrow-circle-right fa-fw color-1-dark-text"></i>
 lang: fr
-trans: deepen
+translationID: deepen
 og-title: Approfondir vos connaissances sur le Quakerisme
 ---
 * Nous tenons un événement une fois par mois afin de présenter la voie Quaker.

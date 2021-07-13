@@ -1,7 +1,7 @@
 ---
 title: Quaker Testimonies (the SPICES)
 lang: en
-trans: testimonies
+translationID: testimonies
 ---
 Over countless generations, our encounter with Spirit has led us over and over to these six core values:
 

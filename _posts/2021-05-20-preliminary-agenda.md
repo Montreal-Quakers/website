@@ -1,6 +1,6 @@
 ---
 lang: en
-trans: preliminary-agenda-2021
+translationID: preliminary-agenda-2021
 title: "Regional gathering agenda: June 18-19, 2021"
 tags: [program,2021,draft,zoom]
 ---

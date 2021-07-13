@@ -1,7 +1,7 @@
 ---
 title: Les témoignages Quaker (les ÉPICES)
 lang: fr
-trans: testimonies
+translationID: testimonies
 ---
 Depuis d'innombrables générations, notre contact avec l'Esprit nous rappelle ces six valeurs:
 

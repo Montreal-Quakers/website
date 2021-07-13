@@ -1,7 +1,7 @@
 ---
 title: Resumption of meetings in Quebec City in June
 lang: en
-trans: 2021-06-qc-reprise
+translationID: 2021-06-qc-reprise
 ---
 The sanitary rules having been relaxed, our silent worship scheduled for June 6 at 1:00 p.m. will take place as planned at the [All Saints Chapel, 31 rue des Jardins in Old Quebec](/quebec), this building is located in the courtyard of the Anglican Holy Cathedral. Trinity. Parking is available. This meeting will be followed by informal exchanges.
 

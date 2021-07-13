@@ -1,85 +1,435 @@
-{% if page.lang == "fr" %}{% assign fr = true %}{% endif %}
+{% comment %}
+  Table of Contents
+
+  First, a set of variables set according to the language, for instance in French home is set as "accueil"
+  The navigation is setup in the following order
+    * "Wideheader" (the top of the screen on widescreens (wider than the breakpoint set in _config.yml)
+      * The home icon on wide screens, called widehome
+      * Left bird
+        * Its animations
+      * Header text
+        * Its animations
+      * Right bird
+        * Its animations
+    * A div that serves as an Intersectional Observer for the top button and sticky menu
+    * For narrow screens, a three bar menu on the left
+    * A for loop creating every navigation entry (_data/navigation)
+      * One set of code for items with submenus
+      * One set of code for items without submenus
+    * A for loop creating every navigation entry (_data/navigation)
+    * A set of code which links every page to its translated equivalent, using lang and translationID codes
+    * A search bar that pops out on widescreens and is available in the menu on narrow screens
+    * "Narrowheader" for mobile devices and tablets
+      * Header text
+      * Mobile bird on the right
+        * Its animations
+
+{% endcomment %}
+
+{% comment %} A few variables to make the code easier to read {% endcomment %}
+
+{% if page.lang == "fr" %}
+  {% assign fr = true %}
+  {% assign otherLanguageName = "English" %}
+  {% assign otherlang = "en" %}
+  {% assign homename = "Accueil" %}
+  {% assign homelink = "/accueil" %}
+  {% assign doclist = site.data.navigation.fr %}
+{% else %}
+  {% assign otherLanguageName = "Français" %}
+  {% assign otherlang = "fr" %}
+  {% assign homename = "Home" %}
+  {% assign homelink = "/home" %}
+  {% assign doclist = site.data.navigation.en %}
+{% endif %}
+
   <!-- this header vanishes on small screens. I use liquid code to change the language of the header depending on the page language -->
     <div id="wideheader">
-  <!-- I put a few animations in for specific pages, just to make the site a bit more playful -->
      <div style="overflow: hidden;">
-       <a href={% if page.lang =="fr" %}"/accueil"{% else %}"/home"{% endif %}>
-  <!-- top left bird -->
-       <img alt="top left bird logo" class="{% for each in site.bird_left %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/quaker_icon_95x95.png" width="95px" height="95px">
+	<a href={{ homelink }}>
+      <!-- I put a few animations in for specific pages, just to make the site a bit more playful -->
+      <!-- top left bird on widescreen -->
+        <img alt="top left bird logo" 
+	  class="
+	    {% for each in site.bird_left %}
+	      {% if page.translationID == each.translationID %} {{ each.animation }} {% endif %}
+	    {% endfor %}
+	    " 
+	  src="/assets/images/quaker_icon_95x95.png" 
+	  width="95px" 
+	  height="95px"
+	>
 		     
-     <!-- top header -->
-     <span class="noback {% for each in site.header_animation %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %} " >{% if fr %}{{ site.title-fr }}{% else %}{{ site.title }}{% endif %}</span>
-     <!-- top right bird -->
-     <img alt="top right bird logo" class="noback {% for each in site.bird_right %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/quaker_icon_95x95.png" width="95px" height="95px">
+     <!-- top header title on widescreen -->
+     <span 
+       class="noback 
+         {% for each in site.header_animation %}
+	   {% if page.translationID == each.translationID %} {{ each.animation }} {% endif %}
+	 {% endfor %} 
+	 "
+     >
+       {% if fr %} 
+         {{ site.title-fr }}
+       {% else %}
+         {{ site.title }}
+       {% endif %}
+
+     </span>
+
+     <!-- top right bird animation on widescreen -->
+     <img 
+       alt="top right bird logo" 
+       class="noback 
+         {% for each in site.bird_right %}
+	   {% if page.translationID == each.translationID %} {{ each.animation }} {% endif %}
+	 {% endfor %}
+	 " 
+       src="/assets/images/quaker_icon_95x95.png" 
+       width="95px" 
+       height="95px">
      </a>
 
-        </div>
      </div>
+   </div>
+
 <div style="position:relative;">
 	<!-- A microscopic special div to mark where the stickyscroll begins. The second special div serves to create a buffer so that when the navbar becomes sticky, special2 adds padding so that the screen doesn't jump -->
-	<div id="special1">&nbsp; </div>
-	<div id="special2">&nbsp; </div>
+  <div id="StickyScrollBegin">&nbsp; </div>
+  <div id="StickyScrollBeginPadding">&nbsp; </div>
+
 	<!-- Narrowheader refers what the header looks like on a narrow screen -->
+
   <div id="narrowheader" class="">
-	  <a href="{% if fr %}/accueil{% else %}/home{% endif %}" class="linkoff" class="{% for each in site.mobile_header_animation %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %}">{% if fr %} {{ site.short_title-fr }} {% else %} {{ site.short_title }} {% endif %}</a>
+    <a 
+      href="{{ homelink }}"
+      class="
+        linkoff
+	{% for each in site.mobile_header_animation %}
+	  {% if page.translationID == each.translationID %} {{ each.animation }} {% endif %}
+	{% endfor %}"
+    >
+
+    {% if fr %} 
+      {{ site.short_title-fr }} 
+    {% else %} 
+      {{ site.short_title }} 
+    {% endif %}
+
+    </a>
   </div>
 </div>
 
-<div class="navbar" id="myNavbar">
-  <a title="Dropdown menu" class="icon" onkeypress="respondBar()" onclick="respondBar()"><i class="fas fa-bars"></i></a>
-	<a id="widehome" aria-label="Home" alt="Home" title="Home" class="{% case page.url %}{% when '/' or '/accueil' or '/home' %}active{% endcase %}"  href={% if page.lang =="fr" %}"/accueil"{% else %}"/home"{% endif %}  title="{% if fr %}Accueil{% else %}Home{% endif %}">{% if fr %}{% else %}{% endif %} <i class="fas fa-home fa-lg" alt="Home button" style="padding=0;"></i></a>
-	<a id="narrowhome" title="Home" class="{% case page.url %}{% when '/' or '/accueil' or '/home' %}active{% endcase %}"  href={% if page.lang =="fr" %}"/accueil"{% else %}"/home"{% endif %}  title="{% if fr %}Accueil{% else %}Home{% endif %}">{% if fr %}Accueil{% else %}Home{% endif %} &nbsp;<i class="fas fa-home" style="padding=0;"></i></a>
-         {% assign counter = 0 %}
-	  {% if fr %} {% assign doclist = site.data.navigation.fr %}{% else %} {% assign doclist = site.data.navigation.en %}{% endif %}
-	  {% for item in doclist %} 
-		{% if item.submenu != nil %}
-		{% assign counter = counter | plus: 1 %}
-  <div class="dropdown">
-	  <button {% if item.hovertitle %}title="{{ item.hovertitle }}" {% endif %}onclick="responsiveClick('dropdown{{ counter }}')" onkeypress="responsiveClick('dropdown{{ counter }}')" class="dropbtn" {% if item.hovertitle %}title="{{ item.hovertitle }}"{% endif %} ><i class="fa fa-caret-right"></i> &nbsp;{{ item.title }}{% if item.icon %} &nbsp;{{ item.icon }}{% endif %}
+  <!--- Here we've moved from creating header title text to create the navigation menu for both narrow and widescreens --->
+<div class="navbar" id="myNavbar"> 
+
+  <!--- Three bars for the narrow menu, hidden in the wide menu --->
+  <a   
+    title="Dropdown menu" 
+    class="icon" 
+    onkeypress="respondBar()" 
+    onclick="respondBar()"
+    >
+
+    <i class="fas fa-bars"></i>
+
+  </a>
+
+  <!--- Home icon for the wide menu -->
+  <a 
+    id="widehome" 
+    aria-label="Home" 
+    alt="Home" 
+    title="Home" 
+    class="
+      {% case page.url %}
+        {% when '/' or homelink %}
+	  active
+	{% endcase %}
+      " 
+    href="{{ homelink }}"
+    title="{{ homename }}"
+    >
+
+    <i class="fas fa-home fa-lg" alt="Home button" style="padding=0;"></i>
+
+  </a>
+	
+  <a 
+    id="narrowhome" 
+    title="Home" 
+    class="
+      {% case page.url %}
+        {% when '/' or homelink %}
+	  active
+	{% endcase %}
+	"
+    href="{{ homelink }}"
+    title="{{ homename }}"
+    >
+
+    {{ homename }} &nbsp;
+    <i class="fas fa-home" style="padding=0;"></i>
+  </a>
+
+{% assign counter = 0 %}
+
+{% for item in doclist %} 
+  {% if item.submenu != nil %} {% comment %} In other words if there's a dropdown menu {% endcomment %}
+
+    {% assign counter = counter | plus: 1 %}
+    <div class="dropdown">
+      <button 
+	 {% if item.hovertitle %}
+	   title="{{ item.hovertitle }}" 
+	 {% endif %}
+	 onclick="responsiveClick('dropdown{{ counter }}')" 
+	 onkeypress="responsiveClick('dropdown{{ counter }}')" 
+	 class="dropbtn" 
+	 {% if item.hovertitle %}
+	   title="{{ item.hovertitle }}"
+	 {% endif %} 
+	 >
+
+	 <i class="fa fa-caret-right"></i> &nbsp;
+	 {{ item.title }}
+	 {% if item.icon %} &nbsp;
+	   {{ item.icon }}
+	 {% endif %}
+
     </button>
+
     <div class="dropdown-content" id="dropdown{{ counter }}">
-	    {% for subitem in item.submenu %}{% assign realurl = page.url | url_decode %}
-	    <a href="{{ subitem.sublink }}" {% if subitem.subhovertitle %}title="{{ subitem.subhovertitle }}"{% endif %}{% if subitem.sublink == realurl %}class="active"{% endif %}>{% if subitem.subicon %}{{ subitem.subicon }}{% endif %} {{ subitem.subtitle }}</a>
-         {% endfor %}
+      {% for subitem in item.submenu %}
+        {% assign realurl = page.url | url_decode %}
+        <a 
+	  href="{{ subitem.sublink }}" 
+	  {% if subitem.subhovertitle %}
+	    title="{{ subitem.subhovertitle }}"
+	  {% endif %}
+	  {% if subitem.sublink == realurl %}
+	    class="active"
+	  {% endif %}
+	>
+
+	{% if subitem.subicon %}
+	  {{ subitem.subicon }}
+	{% endif %} 
+
+	{{ subitem.subtitle }}
+
+	</a>
+
+      {% endfor %}
     </div>
   </div>
   {% endif %}
-		{% if item.submenu == null %}
 
-		<a href="{{ item.link }}" {% if item.hovertitle %}title="{{ item.hovertitle }}"{% endif %} {% if item.link == page.url %}class="active"{% endif %}>{{ item.title }} &nbsp;{{ item.icon }}</a>
-		{% endif %}
-  {% endfor %}
-  <!-- Language changer button -->
-  {% if page.trans or page.glos.trans %}
-  {% if fr %}{% assign otherlang = "en" %}{% else %}{% assign otherlang = "fr" %}{% endif %}
-  {% assign otherurl = nil %}
-	{% for each in site.pages %}
-	{% if each.trans == page.trans and each.lang == otherlang %}{% assign otherurl = each.url %}{% break %}{% endif %}
-        {% endfor %}
-  {% unless otherurl %}
-	{% for each in site.posts %}
-	{% if each.trans == page.trans and each.lang == otherlang %}{% assign otherurl = each.url %}{% break %}{% endif %}
-	{% endfor %}
-  {% endunless %}
-  {% if otherurl %}
-			     <!-- language changer button, which flip animation -->
-  <a class="icon" id="response" title="{% if fr %}View this page in English{% elsif page.lang == "en" %}Voir cette page en français{% endif %}"onclick="flipIcon()">{% if fr %}English{% elsif page.lang == "en" %}Français{% endif %} &nbsp;<i id="flippy" class="fas fa-random"></i></a>
-  <a href="{{ otherurl }}" id="flippy2" {% if page.trans == "search" %}class="searchy" {% endif %}style="display: none;"></a>
+  {% if item.submenu == null %} {% comment %} In other words, if there's no dropdown menu {% endcomment %}
+
+  <a 
+    href="{{ item.link }}" 
+    {% if item.hovertitle %}
+      title="{{ item.hovertitle }}"
+    {% endif %}
+    {% if item.link == page.url %}
+      class="active"
+    {% endif %}
+    >
+
+    {{ item.title }} &nbsp;{{ item.icon }}
+
+  </a>
+
   {% endif %}
+
+  {% endfor %}
+
+  <!-- Language changer button -->
+  {% if page.translationID %}
+
+    {% assign otherurl = nil %}
+
+    {% for each in site.pages %}
+
+      {% if 
+        each.translationID == page.translationID 
+        and 
+        each.lang == otherlang 
+      %}
+        {% assign otherurl = each.url %}
+        {% break %}
+      {% endif %}
+
+    {% endfor %}
+
+    {% unless otherurl %}
+
+      {% for each in site.posts %}
+
+        {% if each.translationID == page.translationID and each.lang == otherlang %}{% assign otherurl = each.url %}{% break %}{% endif %}
+
+      {% endfor %}
+
+    {% endunless %}
+
+    {% if otherurl %}
+          <!-- language changer button, which flips the two arrow animation -->
+
+    <a 
+      class="icon" 
+      id="response" 
+      title=
+         "
+         {% if fr %}
+           View this page in English
+         {% elsif page.lang == "en" %}
+           Voir cette page en français
+         {% endif %}
+         "
+      onclick="flipIcon()"
+      >
+      {{ otherLanguageName }} &nbsp;
+      <i id="twoArrowIcon" class="fas fa-random"></i>
+    </a>
+
+    <a 
+      href="{{ otherurl }}" 
+      id="translationURL"
+      {% if page.translationID == "search" %}
+        class="searchy"
+      {% endif %}
+      style="display: none;"
+      >
+    </a>
+    {% endif %}
   {% endif %}
   <div class="search-container">
-	  <form id="formy" title="{% if fr %}Formulaire de recherche{% else %}Search form{% endif %}" aria-label="{% if fr %}Formulaire de recherche{% else %}Search form{% endif %}class="" action="/search-{% if fr %}fr{% else %}en{% endif %}">
-	    <input title="{% if fr %}Texte de recherche{% else %}search text{% endif %}" id="inputsearch" aria-label="{% if fr %}Texte de recherche{% else %}Search text{% endif %}" type="search" class="input_hide" onfocusout="foldSearch()" placeholder="{% if fr %}Recherchez...{% else %}Search...{% endif %}" autocomplete="off" name="q">
-	    <button title="{% if fr %}Bouton de recherche{% else %}Search button{% endif %}" aria-label="{% if fr %}Soumettre la recherche{% else %}Search submit button{% endif %}" id="searchsubmit" class="hide" type="submit"><i class="fas fa-search"></i></button>
+    <form 
+      id="searchForm" 
+      title=
+        {% if fr %}
+        "Formulaire de recherche"
+        {% else %}
+          "Search form"
+        {% endif %}
+
+      aria-label=
+        {% if fr %}
+          "Formulaire de recherche"
+        {% else %}
+          "Search form"
+        {% endif %}
+      class="" 
+      action="/search-{% if fr %}fr{% else %}en{% endif %}"
+      >
+
+    <input 
+      title=
+        {% if fr %}
+          "Texte de recherche"
+        {% else %}
+          "Search text"
+        {% endif %}
+       
+      id="inputsearch" 
+
+      aria-label=
+        {% if fr %}
+          "Texte de recherche"
+        {% else %}
+          "Search text"
+        {% endif %}
+       
+      type="search" 
+      class="input_hide" 
+      onfocusout="foldSearch()" 
+      placeholder=
+        {% if fr %}
+          "Recherchez..."
+        {% else %}
+          "Search..."
+        {% endif %}
+       
+      autocomplete="off" 
+      name="q"
+      >
+      
+      <button 
+        title=
+	  {% if fr %}
+	    "Bouton de recherche"
+	  {% else %}
+	    "Search button"
+	  {% endif %} 
+
+	aria-label=
+	  {% if fr %}
+	    "Soumettre la recherche"
+	  {% else %}
+	    "Search submit button"
+	  {% endif %} 
+
+        id="searchsubmit" 
+        class="hide" 
+        type="submit"
+      >
+
+      <i class="fas fa-search"></i></button>
+
     </form>
-	    <button title="{% if fr %}Ouvrir le champ de recherche{% else %}Search open{% endif %}" aria-label="{% if fr %}Ouvrir le champ de recherche {% else %}Search tray open{% endif %}" id="unfold" class="show" onkeypress="unfoldSearch()" onclick="unfoldSearch()"><i class="fas fa-search"></i></button>
+
+    <button 
+      title=
+        {% if fr %}
+          "Ouvrir le champ de recherche"
+        {% else %}
+          "Search open"
+        {% endif %} 
+
+      aria-label=
+        {% if fr %}
+        "Ouvrir le champ de recherche "
+        {% else %}
+          "Search tray open"
+        {% endif %}" 
+
+      id="unfold" 
+      class="show" 
+      onkeypress="unfoldSearch()" 
+      onclick="unfoldSearch()"
+    >
+
+    <i class="fas fa-search"></i>
+
+  </button>
+</div>
+
+     <!-- Mobile bird icon -->
+
+<div class="icon_right">
+  <a 
+    title="Home" 
+    href="{{ homelink }}"
+  >
+
+  <img 
+    alt="top right bird logo" 
+    class="
+    {% for each in site.mobile_bird %}
+      {% if page.translationID == each.translationID %}
+        {{ each.animation }} 
+      {% endif %}
+    {% endfor %}" 
+
+    src="/assets/images/quaker_icon_35x35.png" 
+    width="35px" 
+    height="35px"
+    >
+  </a>
+
   </div>
-			     <!-- Mobile bird icon -->
-	  <div class="icon_right">
-		  <a title="Home" href={% if page.lang =="fr" %}"/accueil"{% else %}"/home"{% endif %}><img alt="top right bird logo" class="{% for each in site.mobile_bird %}{% if page.trans == each.trans %}{{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/quaker_icon_35x35.png" width="35px" height="35px"></a>
-	  </div>
 </div>
 
 <!-- Special div for intersectionObserver-->
 <div id="intersectionObserver1">&nbsp; </div>
-  {% assign otherurl = nil %}
+{% assign otherurl = nil %}

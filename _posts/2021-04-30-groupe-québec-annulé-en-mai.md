@@ -1,7 +1,7 @@
 ---
 title: 2 mai rencontre annulée!
 lang: fr
-trans: 2021-qc-pas-reprise
+translationID: 2021-qc-pas-reprise
 ---
 Bonjour à toutes et à tous.
 

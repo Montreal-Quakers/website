@@ -2,7 +2,7 @@
 title: Come play the Boundaries Game
 tags: [introduction, learning]
 lang: en
-trans: jeu_limites2
+translationID: jeu_limites2
 author: clerk
 ---
 Every month we strive to hold an event after Sunday meeting (12:30 pm) whose goal is to hold a brief presentation and discussion about one aspect of Quaker life.

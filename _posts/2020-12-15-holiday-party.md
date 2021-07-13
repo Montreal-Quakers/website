@@ -1,6 +1,6 @@
 ---
 lang: en
-trans: holiday-partay-2020
+translationID: holiday-partay-2020
 title: Holiday Party 2020 Invite
 ---
 At 7 PM on Thursday, December 17, you are invited to a Virtual Holiday Party hosted and created by Montreal Quaker Meeting. If you wish, arrive with your version of Christmas drink, nibbles, and holiday attire.

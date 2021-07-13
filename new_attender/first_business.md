@@ -1,6 +1,6 @@
 ---
 title: First time at business meeting <i class="fas fa-pencil-alt fa-fw color-1-dark-text"></i>
-trans: first_business
+translationID: first_business
 lang: en
 og-title: First time at business meeting
 ---

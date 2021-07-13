@@ -1,7 +1,7 @@
 ---
 title: Introduction to Quakers
 lang: en
-trans: intro
+translationID: intro
 ---
 ### <i class="fab fa-fly fa-fw fa-2x color-1-light-text down_a_bit"></i> &nbsp;Meaningful life: Quakers seek clear purpose
   * We aim to be in touch with what is truthful, important, joyous.

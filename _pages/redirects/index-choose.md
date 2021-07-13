@@ -2,5 +2,5 @@
 redirect:   /accueil
 layout:     redirect
 lang: fr
-trans: index-choose
+translationID: index-choose
 ---

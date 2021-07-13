@@ -1,7 +1,7 @@
 ---
 title: <i class="fas fa-hand-holding-heart fa-fw color-1-dark-text"></i> Request help
 lang: en
-trans: request_help
+translationID: request_help
 og-title: Request help
 ---
 As an attender, you more than are welcome to request help from the meeting, which can take several forms:

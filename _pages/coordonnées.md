@@ -1,7 +1,7 @@
 ---
 title: L'assemblée de dimanche
 lang: fr
-trans: directions
+translationID: directions
 ---
 {% include picture.html basename="/assets/images/mtl_homepage3" type="jpg" alt="Bannière Quakers pour la Paix" class="img_center100" %}
 

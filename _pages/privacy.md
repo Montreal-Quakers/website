@@ -1,7 +1,7 @@
 --- 
 title: Privacy Policy
 lang: en
-trans: privacy
+translationID: privacy
 ---
 ## Who we are
 Montreal Quaker Meeting, the Religious Society of Friends. Our website address is: [https://montreal.quaker.ca](https://montreal.quaker.ca).

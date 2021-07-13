@@ -3,7 +3,7 @@ layout: default
 permalink: /_pages/where-we-meet.html
 title: Where We Meet
 lang: en
-trans: system_where-we-meet
+translationID: system_where-we-meet
 type: system_grid
 exclude_from_search: true
 ---

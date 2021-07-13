@@ -1,7 +1,7 @@
 ---
 title: <i class="fas fa-screwdriver fa-fw color-1-dark-text"></i> Committees & Roles <i class="fas fa-theater-masks fa-fw color-1-text"></i>
 lang: en
-trans: committees
+translationID: committees
 og-title: Committees & Roles
 ---
 Quakers recognize and celebrate leadership, but minimize hierarchy. The purpose of these roles is not so much to make decisions, and certainly not to impose decisions on others, but rather to facilitate the collective listening to Spirit in decision-making, a listening that is at the heart of Quaker life.

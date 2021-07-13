@@ -8,10 +8,11 @@ $verynarrow: {{ site.verynarrow }};
 .linkoff,#narrowheader,a#wideheader,.navbar a {
 	&,&:link,&:visited,&:hover {
     text-decoration: none;
+    background: inherit;
     }
 }
 
-html {
+html,:root {
 	--body-text: black;
 	--color-1: #3f51b5;
 	--color-1-dark: #002984;
@@ -21,6 +22,7 @@ html {
 	--bluealert: #a33fb5;
 	--alert-text: white;
 	--anti-alert-text: black;
+	--offText: #ccc;
 	--active: #283593;
         --heart: #ea2311;
 	--leaf: green;
@@ -33,7 +35,7 @@ html {
 }
 
 @media (prefers-color-scheme: dark) {
-  html {
+  html,:root {
 	--body-text: white;
 	--color-1: #9fa8da;
 	--color-1-dark: #6f79a8;
@@ -43,6 +45,7 @@ html {
 	--bluealert: #d19fda;
 	--alert-text: #121212;
 	--anti-alert-text: white;
+	--offText: #ccc;
 	--active: #7986cb;
         --buttonyellow: #ffffcf;
         --heart: #f82d17;
@@ -232,7 +235,7 @@ html {
     }
   }
 
-  #special1,#special2 {
+  #StickyScrollBegin,#StickyScrollBeginPadding {
     font-size: .00000001em;
     margin: 0;
     border: 0;
@@ -319,7 +322,7 @@ html {
      display: none;
       }
      }
-  #wideheader,#widehome,#narrowhome,#special1,#special2,#searchsubmit,#unfold,.dropdown .dropbtn  {
+  #wideheader,#widehome,#narrowhome,#StickyScrollBegin,#StickyScrollBeginPadding,#searchsubmit,#unfold,.dropdown .dropbtn  {
      display: none;
   }
 
@@ -426,7 +429,7 @@ html {
   }
   // the goal of this code is to require a click to open a submenu in responsive mode
   .show_block {display:block;}
-   #formy {flex: 1 0 210px;}
+   #searchForm {flex: 1 0 210px;}
 }
 // @media screen and (max-width: $verynarrow) {
 // 	#narrowheader {

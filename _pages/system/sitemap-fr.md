@@ -3,7 +3,7 @@ layout: default
 permalink: /_pages/sitemap-fr.html
 title: Site Map en français
 lang: fr
-trans: system_sitemap
+translationID: system_sitemap
 type: system_grid
 exclude_from_search: true
 ---

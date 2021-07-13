@@ -3,7 +3,7 @@ layout: default
 permalink: /_pages/a_propos.html
 title: À propos
 lang: fr
-trans: system_about-us
+translationID: system_about-us
 type: system_grid
 exclude_from_search: true
 ---

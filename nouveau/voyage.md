@@ -1,7 +1,7 @@
 ---
 title: <i class="fas fa-plane"></i> Voyager de façon quaker
 lang: fr
-trans: travel
+translationID: travel
 og-title: Voyager de façon quaker
 ---
 Si vous partez en voyage n'hésitez pas à demander une [note de voyage](#voyage) au secrétaire. Faites suivre cette note lorsque vous communiquez avec des quakers locaux et ils seront encore plus susceptibles de vous donner des conseils tels que de bons restaurants, les sites à ne pas manquer et peut-être même les endroits où vous héberger. Une telle note de voyage n'est pas nécessaire mais elle ne nuit pas non plus. Quoi qu'il en soit, [contactez les assembées locales](#contact) : c'est un excellent moyen de connaître un endroit et des gens merveilleux. Parfois, une maison Quaker locale, telle que [Toronto Meeting](https://www.torontoquakers.org/){: rel="noopener" target="_blank"}, peut même avoir des chambres modiques à louer. Peut-être mieux de [nous contacter](/contact) pour en savoir plus.

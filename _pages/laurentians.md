@@ -1,7 +1,7 @@
 ---
 title: Laurentian Worship Group
 lang: en
-trans: laurentians
+translationID: laurentians
 ---
 ## When
 Sundays at 10:30 am.

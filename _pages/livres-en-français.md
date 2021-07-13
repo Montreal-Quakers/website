@@ -1,7 +1,7 @@
 ---
 title: Sélection de livres en français sur le quakerisme
 lang: fr
-trans: livres-français
+translationID: livres-français
 ---
 Les livres en français sur les Quakers ne sont pas nombreux. Il est toutefois possible d’en trouver en bibliothèque ou en usagés. 
 

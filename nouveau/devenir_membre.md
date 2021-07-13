@@ -1,7 +1,7 @@
 ---
 title: <i class="fas fa-hand-holding-medical fa-fw color-1-light-text"></i> Devenir membre
 lang: fr
-trans: membership
+translationID: membership
 og-title: Devenir membre
 ---
 ## Le rôle des membres au sein des Quakers de Montréal

@@ -2,7 +2,7 @@
 title: Quaker history role-play
 tags: [introduction, learning]
 lang: en
-trans: history_game
+translationID: history_game
 author: clerk
 ---
 Every month we strive to hold an event after Sunday meeting (12:30 pm) whose goal is to hold a brief presentation and discussion about one aspect of Quaker life. 

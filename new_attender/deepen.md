@@ -1,7 +1,7 @@
 ---
 title: Deepen your knowledge of Quakerism <i class="fas fa-arrow-circle-right fa-fw color-1-dark-text"></i>
 lang: en
-trans: deepen
+translationID: deepen
 og-title: Deepen your knowledge of Quakerism
 ---
 There are several ways to learn more about the Quaker tradition.

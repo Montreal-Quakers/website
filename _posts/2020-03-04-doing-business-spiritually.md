@@ -2,7 +2,7 @@
 title: The how-to of Quaker business meeting
 tags: [introduction, learning]
 lang: en
-trans: business_workshop1
+translationID: business_workshop1
 author: clerk
 ---
 Every month we strive to hold an event after Sunday meeting (12:30 pm) whose goal is to hold a brief presentation and discussion about one aspect of Quaker life.

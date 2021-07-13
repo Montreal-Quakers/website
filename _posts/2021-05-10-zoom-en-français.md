@@ -1,7 +1,7 @@
 ---
 lang: fr
 title: "Rencontre Zoom en français le 13 mai"
-trans: 20210513-rencontre
+translationID: 20210513-rencontre
 ---
 Une rencontre sur Zoom en français se tiendra jeudi le 13 mai à 19h00. Cette rencontre a pour but de faire connaissance mais aussi de répondre aux questions que vous pourriez avoir. Nous prévoyons qu'elle dure environ une heure (on verra). Utilisez [le formulaire de contact](/contact-fr) pour le lien Zoom. Ce n'est pas grave si vous vous branchez en retard. Que ce ne soit pas un empêchement. On accorde plus d'importance à votre présence qu'à votre ponctualité. Généralement nous commençons les rencontres par une courte période de silence alors ne soyez pas surpris.e si vous vous joignez à la rencontre et que vous tombez sur un groupe de gens qui ne parlent pas. C'est normal! Restez en ligne et la rencontre reprendra de façon plus animée dans une ou deux minutes. 
 

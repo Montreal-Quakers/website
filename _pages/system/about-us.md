@@ -3,7 +3,7 @@ layout: default
 permalink: /_pages/about-us.html
 title: About Us
 lang: en
-trans: system_about-us
+translationID: system_about-us
 type: system_grid
 exclude_from_search: true
 ---

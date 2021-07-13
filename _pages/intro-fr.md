@@ -1,7 +1,7 @@
 ---
 title: Introduction aux Quakers
 lang: fr
-trans: intro
+translationID: intro
 ---
 ### <i class="fab fa-fly fa-fw fa-2x color-1-light-text down_a_bit"></i> Une vie remplie de sens: les Quakers recherchent la clarté
   * Nous entrons en contact avec ce qui est vrai, important, et joyeux.

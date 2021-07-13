@@ -1,7 +1,7 @@
 ---
 title: <i class="fas fa-hand-holding-medical fa-fw color-1-light-text"></i> Membership
 lang: en
-trans: membership
+translationID: membership
 og-title: Membership
 ---
 ## The role of membership for Montreal Quakers

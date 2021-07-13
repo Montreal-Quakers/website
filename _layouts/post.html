@@ -1,41 +1,67 @@
 ---
 layout: default
 ---
-{% if page.lang == "fr" %}{% assign fr = true %}{% endif %}
+{% if page.lang == "fr" %}
+  {% assign fr = true %}
+{% endif %}
 
-{% comment %}All this code is just to assign the date properly in French{% endcomment %}
+{% comment %} All this code is just to assign the date properly in French {% endcomment %}
   {% if fr %}
       {% capture date_cap %} {{ page.date | date: "%-d" }} {% assign m = page.date | date: "%-m" %}
       {% case m %}
-        {% when '1' %}janvier {% when '2' %}février {% when '3' %}mars {% when '4' %}avril {% when '5' %}mai {% when '6' %}juin {% when '7' %}juillet {% when '8' %}août {% when '9' %}septembre  {% when '10' %}octobre {% when '11' %}novembre  {% when '12' %}decembre
+        {% when '1' %}janvier 
+	{% when '2' %}février 
+	{% when '3' %}mars 
+	{% when '4' %}avril 
+	{% when '5' %}mai 
+	{% when '6' %}juin 
+	{% when '7' %}juillet 
+	{% when '8' %}août 
+	{% when '9' %}septembre  
+	{% when '10' %}octobre 
+	{% when '11' %}novembre  
+	{% when '12' %}decembre
       {% endcase %}
       {{ page.date | date: "%Y" }}
-      {% endcapture %}{% assign datey = date_cap %}
-    {% else %} {% comment %}Date in English {% endcomment %}
-  {% assign datey = page.date | date: "%B %-d, %Y" %}
+      {% endcapture %}
+    {% assign finalPostDate = date_cap %}
+    {% else %} 
+
+    {% comment %}Date in English {% endcomment %}
+
+  {% assign finalPostDate = page.date | date: "%B %-d, %Y" %}
+
   {% endif %}
+
 {% comment %}Below is the actual code creating the posts{% endcomment %}
 
-<strong>{{ page.author }} — {{ datey }}</strong>
+<strong>{{ page.author }} — {{ finalPostDate }}</strong>
 
 {{ content }}
 
 <hr>
+
 {% comment %}
   Previous / Next functions
   Assign variables from the entire portfolio collection
 {% endcomment %}
+
 {% if fr %}
-  {% assign items_raw = site.posts | where: 'lang', page.lang %}
+    {% assign items_raw = site.posts | where: 'lang', page.lang %}
   {% else %} 
-  {% assign items_raw = site.posts | where_exp: "page","page.lang != 'fr'" %}
+    {% assign items_raw = site.posts | where_exp: "page","page.lang != 'fr'" %}
 {% endif %}
-{% if items_raw %}{% assign items = items_raw | sort: 'year' | reverse %}{% endif %}
+
+{% if items_raw %}
+  {% assign items = items_raw | sort: 'year' | reverse %}
+{% endif %}
 
 {% if items.size > 1 %}
+
   {% comment %}
     Store the index position of the matching items
   {% endcomment %}
+
   {% for item in items %}
     {% if item.title == page.title %}
       {% assign item_index = forloop.index %}
@@ -56,17 +82,58 @@ layout: default
 
   <p class=center>
     {% if prev %}
-    <a href="{{ prev.url }}" class="w3-button color-1-dark linkoff" title="{{ prev.title }}"><i class="fas fa-angle-left"></i>&nbsp; {% if fr %}Précédant{% else %}Older{% endif %}</a>
+    <a 
+      href="{{ prev.url }}" 
+      class="w3-button color-1-dark linkoff" 
+      title="{{ prev.title }}"
+    >
+
+    <i class="fas fa-angle-left"></i>&nbsp; 
+    {% if fr %}
+      Précédant
+    {% else %}
+      Older
     {% endif %}
-    {% if prev and next %}
+
+  </a>
+  {% endif %}
+
+  {% if prev and next %}
       <span>&nbsp; | &nbsp;</span>
-    {% endif %}
-    {% if next %}
-      <a href="{{ next.url }}" class="w3-button color-1-dark linkoff" title="{{ next.title }}">{% if fr %}Suivant{% else %}Newer{% endif%}&nbsp; <i class="fas fa-angle-right"></i></a>
-    {% endif %}
+  {% endif %}
+
+  {% if next %}
+    <a 
+      href="{{ next.url }}" 
+      class="w3-button color-1-dark linkoff" 
+      title="{{ next.title }}"
+    >
+
+    {% if fr %}
+      Suivant
+    {% else %}
+      Newer
+    {% endif%}
+
+    &nbsp; <i class="fas fa-angle-right"></i>
+  </a>
+  {% endif %}
   </p>
 {% endif %}
 
 <p class=center>
-<a class="w3-button color-1-dark linkoff" aria-label="Retour aux nouvelles" href="/{% if fr %}nouvelles{% else %}posts{% endif %}"><i class="fas fa-angle-up"></i> &nbsp; {% if fr %}Retour aux nouvelles{% else %}Back to Updates{% endif %}</a>
+  <a 
+    class="w3-button color-1-dark linkoff" 
+    aria-label="Retour aux nouvelles" 
+    href="/{% if fr %}nouvelles{% else %}posts{% endif %}"
+  >
+
+  <i class="fas fa-angle-up"></i>
+  &nbsp; 
+  {% if fr %}
+    Retour aux nouvelles
+  {% else %}
+    Back to Updates
+  {% endif %}
+  </a>
 </p>

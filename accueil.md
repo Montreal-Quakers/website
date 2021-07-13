@@ -1,6 +1,6 @@
 ---
 layout: default
-trans: home
+translationID: home
 lang: fr
 permalink: /accueil
 og-title: Accueil

@@ -1,7 +1,7 @@
 ---
 tags: [bible study, book club]
 lang: en
-trans: bible_study_thursdays
+translationID: bible_study_thursdays
 author: Clerk
 ---
 Two announcements: 

@@ -1,7 +1,7 @@
 ---
 title: Worship Group on the South Shore
 lang: en
-trans: south_shore
+translationID: south_shore
 ---
 A monthly worship group will begin meeting in April 2020 at [St. Barnabas Church in St. Lambert](https://goo.gl/maps/BSGXnGXRBBchZZrz7){: rel="noopener" target="_blank"}. 
 

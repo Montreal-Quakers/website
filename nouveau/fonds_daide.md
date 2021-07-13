@@ -1,7 +1,7 @@
 ---
 title: Fonds d'aide
 lang: fr
-trans: discretionary_fund
+translationID: discretionary_fund
 ---
 Le fonds discrétionnaire du Comité des veilleurs (Ministry & Counsel (M&C)) est destiné à être une source de soutien financier temporaire en cas de crise personnelle. Le comité administrera le budget de ce fonds à sa discrétion, compte tenu des directives suivantes:
 

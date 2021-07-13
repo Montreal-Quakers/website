@@ -1,7 +1,7 @@
 ---
 title: Your First Quaker Meeting in Six Steps
 lang: en
-trans: about
+translationID: about
 ---
 1. &nbsp;[![](/assets/images/no-tie_color.png){: img_left height="35px" class="down_a_bit_more"} &nbsp;You're welcome as you are. Dress comfortably (ties are fine too).](#notie){: class="linkoff"} <span class="stanchor"><a name="notie-home"></a></span>
  <br>

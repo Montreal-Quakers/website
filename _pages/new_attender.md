@@ -1,7 +1,7 @@
 ---
 title: For new attenders
 lang: en
-trans: new_attender
+translationID: new_attender
 permalink: /new_attender/
 type: system_grid
 ---

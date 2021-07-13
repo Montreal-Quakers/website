@@ -2,7 +2,7 @@
 title: L'assemblée Quaker pour les affaires
 tags: [introduction, learning]
 lang: fr
-trans: business_workshop1
+translationID: business_workshop1
 author: animateur
 ---
 Chaque mois nous avons un évémenent après l'assemblée de dimanche, donc à 12h30 environ, qui inclut une brève présentation d'un aspect de la voie Quaker.

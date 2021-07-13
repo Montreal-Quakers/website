@@ -9,6 +9,17 @@ Tipue Search is released under the MIT License
 http://www.tipue.com/search
 */
 
+html,:root {
+        --offText: #3e3e3e;
+	--searchResultBlue: var(--color-1);
+}
+
+@media (prefers-color-scheme: dark) {
+  html,:root {
+        --offText: #ccc;
+	--searchResultBlue: var(--color-1);
+  }
+}
 
 /* fonts */
 
@@ -23,7 +34,7 @@ http://www.tipue.com/search
 }
 .tipue_search_content_title
 {
-     font: 400 1.75em/1.7$font-sans;
+     font: 400 1.75em/1.7 $font-sans;
 }
 .tipue_search_content_text, .tipue_search_related_title
 {
@@ -80,11 +91,11 @@ http://www.tipue.com/search
 }
 #tipue_search_results_count
 {
-     color: var(--off);
+     color: var(--offText);
 }
 #tipue_search_warning
 {
-     color: var(--off);
+     color: var(--offText);
 	margin: 7px 0;
 }
 #tipue_search_warning a
@@ -98,17 +109,17 @@ http://www.tipue.com/search
 }
 .tipue_search_content_title
 {
-     color: #666;    
+     color: var(--offText);    
 	margin-top: 21px;
 }
 .tipue_search_content_title a
 {
-     color: #666;
+     color: var(--offText);
      text-decoration: none;
 }
 .tipue_search_content_title a:hover
 {
-     color: #666;
+     color: var(--color-1-dark);
 }
 .tipue_search_content_url
 {
@@ -117,32 +128,32 @@ http://www.tipue.com/search
 }
 .tipue_search_content_url a, .tipue_search_related_text a
 {
-     color: #0000EE;
+     color: var(--searchResultBlue);  // used to be #0000EE
      text-decoration: none;
 }
 .tipue_search_content_url a:hover, .tipue_search_related_text a:hover, .tipue_search_related_before, .tipue_search_related_after
 {
-     color: #555;   
+     color: var(--offText);   
 }
 .tipue_search_content_text
 {
-     color: var(--off);
+     color: var(--offText);
      word-wrap: break-word;
      hyphens: auto;
      margin-top: 5px;
 }
 .tipue_search_content_bold
 {
-     color: var(--off);
+     color: var(--offText);
 }
 .tipue_search_content_debug
 {
-     color: var(--off);
+     color: var(--offText);
      margin: 5px 0;
 }
 .tipue_search_related_title
 {
-     color: var(--off);
+     color: var(--offText);
      margin: 26px 0 7px 0;
 }
 .tipue_search_related_cols

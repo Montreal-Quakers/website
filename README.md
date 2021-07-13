@@ -43,7 +43,7 @@ title: Introduction to Quakers Event
 description: Monthly Events Introducing Quakers
 tags: [introduction, learning]
 lang: en
-trans: intro2us
+translationID: intro2us
 author: clerk
 ---
 Write your post here!
@@ -55,7 +55,7 @@ Write your post here!
      * Tags (for instance to ```tags: [announcements, testing]```)
      * The ```lang``` -- this tells the system which language to display a page in, either in English (```lang: en```) or in French (```lang: fr```). Default is English so you can leave this blank)
      * Author (to your name, for instance ```author: Shelly```)
-     * If you do not have a translated version of the post, you don't need to worry about the ```trans``` line. You can 1) delete it, 2) leave it blank, or 3) put in a random value. If you do have a translated version of the post, choose a unique code for ```trans``` (for instance, ```trans: helloworld```), and the website will automatically link between English and French pages that have the same ```trans``` code.  
+     * If you do not have a translated version of the post, you don't need to worry about the ```trans``` line. You can 1) delete it, 2) leave it blank, or 3) put in a random value. If you do have a translated version of the post, choose a unique code for ```trans``` (for instance, ```translationID: helloworld```), and the website will automatically link between English and French pages that have the same ```trans``` code.  
         * If you're not 100% sure if your translation code (```trans```) is unique, you can search for it on this [page](https://montreal.quaker.ca/_pages/health).
 6. Write your blog post after the second three dashes (```---```) the way you would write an email. GitHub will translate this into HTML.
 
@@ -66,7 +66,7 @@ title: Hello World!
 description: My first post
 tags: [announcements, testing]
 lang: en
-trans: hello-world
+translationID: hello-world
 author: Shelly
 ---
 Hello world!
@@ -89,7 +89,7 @@ title: Hello World!
 description: My first post
 tags: [announcements, testing]
 lang: en
-trans: hello-world
+translationID: hello-world
 author: Shelly
 ---
 # Hello world!
@@ -139,7 +139,7 @@ Create a new ```.md``` file in the [```_pages```](https://github.com/Montreal-Qu
 ---
 title: COVID-19 Updates
 lang: en
-trans: covid
+translationID: covid
 ---
 As a COVID-19 prevention measure, the Sunday Quaker meeting, the Quebec City group, and the Wednesday midweek meeting will meet online until at least June 1st, 2020.
 ```
@@ -148,7 +148,7 @@ For the French translation ([```covid-19-fr.md```](https://github.com/Montreal-Q
 ---
 title: Mises à jour COVID-19
 lang: fr
-trans: covid
+translationID: covid
 ---
 Comme mesure préventive contre la COVID-19, les assemblées Quaker de dimanche, de Québec, et de mi-semaine seront en ligne au moins jusqu’au 1er juin 2020.
 ```
@@ -158,11 +158,11 @@ Here's what all this means:
 title: COVID-19 Updates (<--- This is a title that will appear at the top and isn't required)
 description: (<--- this would be a subtitle at the top of the page and is not required either)
 lang: en   (<--- This tells the system which language you're writing in, ```en``` for English and ```fr``` for French, so the correct headers and footers appear on the page)
-trans: covid   (<--- This a codeword that helps the system find a translation for this page, if one exists. If you didn't translate the page, don't bother with this.)
+translationID: covid   (<--- This a codeword that helps the system find a translation for this page, if one exists. If you didn't translate the page, don't bother with this.)
 ---  (<--- This is required and just means that the front matter is ending)
 ```
 
-For the automatic translation linking system (the link in the navigation between English and French content) to work properly, you just need to properly indicate in the "front matter" the ```lang:``` (```en``` or ```fr```) and make up a unique translation code (for instance, ```veryuniquecode```) and put it after ```trans: ``` like this: ```trans: veryuniquecode```. You can see above that I set one COVID page ```lang``` to ```fr``` and the other one to ```en``` and then I set both ```trans:``` to ```covid```. If you look on the website, a link will be created that will connect the two pages. If you have any doubts whether that code has already been used, then use something more unique or else look at the [site health page](https://montreal.quaker.ca/health), which lists all the current ```lang``` and ```trans``` codes in use for every single page and post.
+For the automatic translation linking system (the link in the navigation between English and French content) to work properly, you just need to properly indicate in the "front matter" the ```lang:``` (```en``` or ```fr```) and make up a unique translation code (for instance, ```veryuniquecode```) and put it after ```translationID: ``` like this: ```translationID: veryuniquecode```. You can see above that I set one COVID page ```lang``` to ```fr``` and the other one to ```en``` and then I set both ```translationID:``` to ```covid```. If you look on the website, a link will be created that will connect the two pages. If you have any doubts whether that code has already been used, then use something more unique or else look at the [site health page](https://montreal.quaker.ca/health), which lists all the current ```lang``` and ```trans``` codes in use for every single page and post.
 
 # Changing colours, finding old drafts, and site alerts
 
@@ -177,8 +177,8 @@ alerts: some
 redalert_en-text: alert/en-covid.md
 redalert_fr-text: alert/fr-covid.md
 alert_pages:
-  - page_trans: home
-  - page_trans: directions
+  - translationID: home
+  - translationID: directions
 ```
 
 (The ```page_trans``` code for every page can be found at the [site health page](https:/montreal.quaker.ca/_pages/health)).
@@ -198,7 +198,7 @@ This gives:
 # More advanced changes
 
 ### Automated translation link
-This site uses an automatic search algorithm that checks the "front matter" (everything between the three dashes, you can see some examples above) in order to match up posts to their translation. So if you're having trouble with translations, make sure that each page and post has a unique "trans:" (translation) code.  If anything is going wrong, see the [site health page](https://montreal.quaker.ca/_pages/health) to see all the ```trans``` codes and ```lang``` codes for every page and post in the website.
+This site uses an automatic search algorithm that checks the "front matter" (everything between the three dashes, you can see some examples above) in order to match up posts to their translation. So if you're having trouble with translations, make sure that each page and post has a unique "translationID:" (translation) code.  If anything is going wrong, see the [site health page](https://montreal.quaker.ca/_pages/health) to see all the ```trans``` codes and ```lang``` codes for every page and post in the website.
 
 ### Contact form
 This site uses formspree for the contact form. The code should be in ```_includes/contact.html```. There is some liquid code to get the right language text in the form.
@@ -218,14 +218,14 @@ The layout for these files is in the ```_includes``` folder, for instance: ```_i
 It should be easy to add more media in files in the ```_includes``` folder. To call them up, or to choose which pages they appear on, look in ```_config.yml``` under ```media_pages```. For instance, the first lines say:
 ```
 media_pages:
-  - page_trans: home
+  - translationID: home
     media: yt_embed.html
 ```
 This means that on the homepage ([/home](https://montreal.quaker.ca/home)), yt_embed.html will appear full-width next to it. 
 
 Note too that there is an image carousel in the sandbox page. That can be inserted in any page the same way as the YouTube videos. For instance, if we want it on the ```about``` page, just add these lines to [```config.yml```](https://github.com/Montreal-Quakers/website/blob/master/_config.yml) under ```media_pages:```:
 ```
-  - page_trans: about
+  - translationID: about
    media: slideshow.html
 ```
 
@@ -307,7 +307,7 @@ Seven animations have been defined in the CSS files: for the birds, a right land
 ```
 bird_left:
   - animation: land_left_flip
-    trans: midweek
+    translationID: midweek
 ```
 
 That means that the left bird in the wide-screen header (as opposed to the mobile header) will land from the left and then do a flip on the midweek meeting page in both French and English. 

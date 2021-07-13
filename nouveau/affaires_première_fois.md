@@ -1,6 +1,6 @@
 ---
 title: Première fois à une réunion d'affaires <i class = "fas fa-pencil-alt fa-fw color-1-dark-text"> </i>
-trans: first_business
+translationID: first_business
 lang: fr
 og-title: Première fois à une réunion d'affaires
 ---

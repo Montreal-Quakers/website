@@ -62,7 +62,11 @@ hr {
 }
 
 a {background-color:transparent;color:inherit}
-a:hover {/*outline-width:0;*/text-decoration: none !important}
+a:hover {
+  /*outline-width:0;*/
+  text-decoration: none !important;
+  // background: initial !important;
+}
 
 button {
 	text-transform: none;
@@ -318,10 +322,20 @@ input {
    height: 100%;
    display: flex;
    justify-content: space-around;
-   // text-decoration-color: linear-gradient(to right, var(--color-1-dark), var(--color-1-light)) //var(--color-1)
 }
+
 a.container-content, a.container-content:link, a.container, .container a, .container-content a {
+	// This code below makes a gradient underline link
+   // text-decoration: none;
+   // background: linear-gradient(to right, var(--color-1-light), var(--color-1-dark)); //var(--color-1)
+   // background-position: 0 100%;
+   // background-size: 100% 1px;
+   // background-repeat: repeat-x;
    text-decoration: underline var(--color-1);
+   &:hover {
+     background: initial;
+     text-decoration: none;
+   }
 }
 
 .content {  // always on the left if there's media
@@ -384,6 +398,7 @@ a[href$="\.pdf" i]::after {
     // font-size: .6em;
     margin-left: .3em;
     text-decoration: none;
+    background: inherit;
     color: var(--color-1-dark);
     display: inline-block;
 }
@@ -396,6 +411,7 @@ a[href^="http" i]::after {
     margin: 0 0 .05em .4em;
     color: var(--color-1);
     text-decoration: none;
+    background-color: transparent;
     display: inline-block;
 }
 

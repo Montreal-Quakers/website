@@ -1,7 +1,7 @@
 ---
 title: <i class="far fa-circle fa-fw color-1-text"></i> Quaker gatherings
 lang: en
-trans: gatherings
+translationID: gatherings
 og-title: Quaker gatherings
 ---
 You are more than welcome to join us at:

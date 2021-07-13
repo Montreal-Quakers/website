@@ -1,7 +1,7 @@
 ---
 title: Activités après notre assemblée sur Zoom
 lang: fr
-trans: 2021-activities
+translationID: 2021-activities
 ---
 Deux changements par rapport à notre assemblée de dimanche.
 

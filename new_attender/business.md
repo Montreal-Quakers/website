@@ -1,6 +1,6 @@
 ---
 title: How Meeting for Business works <i class="fas fa-coins color-1-text"></i>
-trans: business_meeting
+translationID: business_meeting
 lang: en
 og-title: How Meeting for Business works
 ---

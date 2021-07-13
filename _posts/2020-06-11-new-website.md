@@ -2,7 +2,7 @@
 title: New website is live!
 tags: [website]
 lang: en
-trans: website202006
+translationID: website202006
 author: Clerk
 ---
 Our shiny new website is now live! Thanks to everyone who helped test and improve it.

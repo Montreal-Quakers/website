@@ -1,7 +1,7 @@
 ---
 title: Midweek Meeting
 lang: en
-trans: midweek
+translationID: midweek
 ---
 {% include picture.html basename="/assets/images/Ryan-library_books" type="jpg" class="img_center100" alt="Library books" %}
 

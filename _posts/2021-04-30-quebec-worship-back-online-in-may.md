@@ -1,7 +1,7 @@
 ---
 title: May 2 meeting canceled!
 lang: en
-trans: 2021-qc-pas-reprise
+translationID: 2021-qc-pas-reprise
 ---
 Hello everyone.
 

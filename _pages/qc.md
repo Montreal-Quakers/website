@@ -1,7 +1,7 @@
 ---
 title: Quebec City Worship Group
 lang: en
-trans: quebec
+translationID: quebec
 ---
 {% include picture.html basename="/assets/images/qc3" type="png" alt="The chapel" class="img_center100" %}
 

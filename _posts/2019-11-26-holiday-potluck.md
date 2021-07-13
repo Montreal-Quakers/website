@@ -2,7 +2,7 @@
 title: Holiday potluck
 tags: [party]
 lang: en
-trans: holiday2019
+translationID: holiday2019
 author: clerk
 ---
 The singing potluck organizers would like to invite you to a holiday, singing-optional potluck on December 13th starting at 6pm at a member's home. Please RSVP by contacting us for the address, near Villa-Maria metro.

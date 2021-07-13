@@ -1,7 +1,7 @@
 ---
 title: <i class="fas fa-book-reader color-1-text"></i> Book club & Bible study <i class="fas fa-bible color-1-dark-text"></i>
 lang: en
-trans: book_bible
+translationID: book_bible
 og-title: Book club & Bible study
 ---
 ## Practical details

@@ -1,7 +1,7 @@
 ---
 title: United Society Of Friends Women Northeast Gathering
 lang: en
-trans: usfw-2020-09
+translationID: usfw-2020-09
 tags: FWCC, invitation
 author: Newsletter
 ---

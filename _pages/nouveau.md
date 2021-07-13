@@ -1,7 +1,7 @@
 ---
 title: Pour les personnes qui participent déjà
 lang: fr
-trans: new_attender
+translationID: new_attender
 permalink: /nouveau/
 type: system_grid
 ---

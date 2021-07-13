@@ -2,7 +2,7 @@
 title: Plus d'informations pour des participants
 tags: [website]
 lang: fr
-trans: new_attenders202007
+translationID: new_attenders202007
 author: Modérateur
 ---
 Tel que promis [ici](/2020/06/12/nouveau-site-web), de nouvelles fonctionalités viennent juste de sortir sur le site web:

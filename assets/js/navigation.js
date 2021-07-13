@@ -1,28 +1,27 @@
 ---
 ---
-const mq = window.matchMedia( "(min-width: {{ site.breakpoint }})" );
-var obs1 = document.getElementById("intersectionObserver1");
-var target1 = document.getElementById("special1");
-var target2 = document.getElementById("special2");
-var mybutton = document.getElementById("topBtn");
-var y = document.getElementById("myNavbar");
-var btn = document.getElementById("searchbutton");
-var media = document.getElementById("media");
+const MediaQuery = window.matchMedia( "(min-width: {{ site.breakpoint }})" );
+var IntersectionObserver1 = document.getElementById("intersectionObserver1");
+var target1 = document.getElementById("StickyScrollBegin");
+var target2 = document.getElementById("StickyScrollBeginPadding");
+var ScrollToTopBtn = document.getElementById("topBtn");
+var NavBar = document.getElementById("myNavbar");
+  // var btn = document.getElementById("searchbutton");
 
 // Instead of using a calculation on scroll, this new backend (2021) uses intersectionObserver
-let observer1 = new IntersectionObserver(callback1);
+let IntersectionObserverResult = new IntersectionObserver(callback1);
 // start observing the target element
-observer1.observe(obs1);
+IntersectionObserverResult.observe(IntersectionObserver1);
 
 // Scroll to top button
-function callback1(entries, observer1) {
+function callback1(entries, IntersectionObserverResult) {
 	entries.forEach(entry => {
     if (entry.isIntersecting) {
       // Show button
-      mybutton.style.display = "none";
+      ScrollToTopBtn.style.display = "none";
     } else {
       // Hide button
-      mybutton.style.display = "block";
+      ScrollToTopBtn.style.display = "block";
     }
   });
 }
@@ -33,21 +32,21 @@ function topFunction() {
 }
 
 // Sticky navbar on widescreens
-if (mq.matches) {
+if (MediaQuery.matches) {
   let observer2 = new IntersectionObserver(callback2);
   observer2.observe(target1);
 
   function callback2(entries, observer2) {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
-        if (y.classList.contains("sticky")) {
-  	y.classList.add("return_color");
-          y.classList.remove("sticky");
+        if (NavBar.classList.contains("sticky")) {
+  	NavBar.classList.add("return_color");
+          NavBar.classList.remove("sticky");
   	target2.classList.remove("stickyOffset");
         }
       } else {
-          y.classList.remove("return_color");
-  	y.classList.add("sticky");
+          NavBar.classList.remove("return_color");
+  	NavBar.classList.add("sticky");
   	target2.classList.add("stickyOffset");
       }
     });
@@ -56,14 +55,17 @@ if (mq.matches) {
 else {
   // When the user clicks on the button, toggle between hiding and showing the dropdown content
   function responsiveClick(id) {
-   var x = document.getElementById(id);
-   x.classList.toggle("show_block");
-   var truth = x.previousElementSibling.firstChild.classList.contains('fa-caret-right')
-   if (truth) {
-      x.previousElementSibling.firstChild.className = "fa fa-caret-down";
+   var clickedID = document.getElementById(id);
+
+   clickedID.classList.toggle("show_block");
+// Tests whether the caret is already right
+   var caretRight = clickedID.previousElementSibling.firstChild.classList.contains('fa-caret-right')
+
+   if (caretRight) {
+      clickedID.previousElementSibling.firstChild.className = "fa fa-caret-down";
    }
-   if (!truth) {
-      x.previousElementSibling.firstChild.className = "fa fa-caret-right";
+   if (!caretRight) {
+      clickedID.previousElementSibling.firstChild.className = "fa fa-caret-right";
    }
   }
   // Close the dropdown if the user clicks outside of it
@@ -76,7 +78,7 @@ else {
      if (openDropdown.classList.contains('show_block')) {
       openDropdown.classList.remove('show_block');
       openDropdown.previousElementSibling.firstChild.className = "fa fa-caret-right";
-      y = openDropdown.previousElementSibling.firstChild.className;
+      NavBar = openDropdown.previousElementSibling.firstChild.className;
     }
    }
   }
@@ -85,68 +87,67 @@ else {
 
 
 function respondBar() {
-  var x = document.getElementById("myNavbar");
-  if (x.className === "navbar") {
-    x.className += " responsive";
+  if (NavBar.className === "navbar") {
+    NavBar.className += " responsive";
   } else {
-    x.className = "navbar";
+    NavBar.className = "navbar";
   }
 }
 
 function flipIcon () {
-  var i = document.getElementById("flippy");
-  var i2 = document.getElementById("flippy2");
+  var twoArrowIcon = document.getElementById("twoArrowIcon");
+  var translationAnchor = document.getElementById("translationURL");
   // Clear automatic routing of the homepage to a language
   var choice = null;
 	// default timeout is 145 ms
   var timeout = 145
   localStorage.setItem('lang',choice)
-  if (i2.classList.contains("searchy")) {
+  if (translationAnchor.classList.contains("searchy")) {
 	  // This class list includes search terms in the new URL when switching from French to English from the search page
-    i.classList.add("rotate-hor-center");
+    twoArrowIcon.classList.add("rotate-hor-center"); // This makes the two arrow icon start to spin until the page moves away
     const parsedUrl = new URL(window.location.href);
     var newstring = parsedUrl.pathname + "?q=";
-    var newurl = new URL(i2.href);
-    var param = parsedUrl.searchParams.get("q");
-    newurl.searchParams.set('q',param);
-    i2 = newurl;
+    var newurl = new URL(translationAnchor.href);
+    var searchParameter = parsedUrl.searchParams.get("q");
+    newurl.searchParams.set('q',searchParameter);
+    translationAnchor = newurl;
     console.log(newurl);
-    setTimeout(function clicky() {window.location.href = i2;}, timeout);
+    setTimeout(function clicky() {window.location.href = translationAnchor;}, timeout);
   } else {
-    i.classList.add("rotate-hor-center");
-    setTimeout(function clicky() {window.location.href = i2;}, timeout);
+    twoArrowIcon.classList.add("rotate-hor-center");
+    setTimeout(function clicky() {window.location.href = translationAnchor;}, timeout);
   }
 }
 
-var unf = document.getElementById("unfold");
-var sub = document.getElementById("searchsubmit");
-var inp = document.getElementById("inputsearch");
-var form = document.getElementById("formy");
-function unfoldSearch () {
-  unf.classList.add("hide");
-   if (sub.classList.contains("hide")) {
-  unf.classList.remove("show");
-  sub.classList.remove("hide");
-  inp.classList.remove("input_narrow");
-  inp.classList.remove("input_hide");
+var unfoldField = document.getElementById("unfold");
+var searchSubmit = document.getElementById("searchsubmit");
+var searchInput = document.getElementById("inputsearch");
+var form = document.getElementById("searchForm");
+function unfoldSearch () {  // unhide search fields and input form upon click
+  unfoldField.classList.add("hide");
+   if (searchSubmit.classList.contains("hide")) {
+  unfoldField.classList.remove("show");
+  searchSubmit.classList.remove("hide");
+  searchInput.classList.remove("input_narrow");
+  searchInput.classList.remove("input_hide");
    }
-  sub.classList.add("show");
-  inp.classList.add("input_show");
-  inp.focus();
+  searchSubmit.classList.add("show");
+  searchInput.classList.add("input_show");
+  searchInput.focus();
 }
 
-function foldSearch () {
+function foldSearch () { // rehide search fields and input form when clicking outside of the search
   setTimeout(function foldy() {
-    if (sub.classList.contains("show")) {
-      sub.classList.remove("show");
-      inp.classList.remove("input_show");
-      unf.classList.remove("hide");
+    if (searchSubmit.classList.contains("show")) {
+      searchSubmit.classList.remove("show");
+      searchInput.classList.remove("input_show");
+      unfoldField.classList.remove("hide");
     }
-    unf.classList.add("show");
-    sub.classList.add("hide");
-    inp.classList.add("input_narrow");
+    unfoldField.classList.add("show");
+    searchSubmit.classList.add("hide");
+    searchInput.classList.add("input_narrow");
     setTimeout(function () {
-      inp.classList.add("input_hide");
+      searchInput.classList.add("input_hide");
     }, 350);
   }, 100);
 }

@@ -1,7 +1,7 @@
 ---
 title: This sandbox page is for testing
 lang: en
-trans: sandbox
+translationID: sandbox
 exclude_from_search: true
 ---
 Add any text you want here, play around with formatting and inserting images.

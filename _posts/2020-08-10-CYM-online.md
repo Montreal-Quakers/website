@@ -1,5 +1,5 @@
 ---
-trans: cym2020
+translationID: cym2020
 lang: en
 title: CYM 2020 online
 ---

@@ -2,7 +2,7 @@
 title: Plan d'étude biblique
 tags: [bible study, book club]
 lang: fr
-trans: bible_study_thursdays
+translationID: bible_study_thursdays
 author: Modérateur
 ---
 Deux annonces:

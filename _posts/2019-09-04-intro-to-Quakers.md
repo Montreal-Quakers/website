@@ -3,7 +3,7 @@ title: Introduction to Quakers Event
 description: Monthly Events Introducing Quakers
 tags: [introduction, learning]
 lang: en
-trans: intro2us
+translationID: intro2us
 author: clerk
 ---
 Every month we strive to hold an event after Sunday meeting (12:30 pm) whose goal is to hold a brief presentation and discussion about one aspect of Quaker life. Here are the scheduled topics

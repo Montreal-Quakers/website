@@ -1,6 +1,6 @@
 ---
 lang: fr
-trans: quebec
+translationID: quebec
 ---
 {% include picture.html basename="/assets/images/qc3" type="png" alt="La chappelle" class="img_center100" %}
 

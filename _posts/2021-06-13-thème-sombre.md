@@ -1,6 +1,6 @@
 ---
 lang: fr
-trans: going-dark
+translationID: going-dark
 author: Animateur
 ---
 Les sites web avec un thème sombre fatiguent moins les yeux et utilisent moins de batteries des téléphones mobiles. Pour cette raison, de nombreux sites Web permettent à leurs utilisateurs de choisir un mode clair ou un mode sombre.

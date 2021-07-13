@@ -1,7 +1,7 @@
 ---
 title: Groupe de mi-semaine
 lang: fr
-trans: midweek
+translationID: midweek
 ---
 {% include picture.html basename="/assets/images/Ryan-library_books" type="jpg" class="img_center100" alt="Livres" %}
 

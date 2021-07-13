@@ -1,7 +1,7 @@
 ---
 title: Reprise des rencontres à Québec
 lang: fr
-trans: 2021-qc-reprise
+translationID: 2021-qc-reprise
 ---
 C'est avec un plaisir prudent qu'on vous annonce que nous reprendrons les rencontres en présence [à Québec](/québec) dès le dimanche 2 mai prochain à 13h00 à la chapelle All Saints, [31 rue des Jardins dans le Vieux-Québec](/québec), ce bâtiment étant situé dans la cour de la cathédrale anglicane Holy Trinity. Un stationnement est disponible. Vous remarquerez que nous avons du changer notre horaire afin d'accomoder la communauté anglicane francophone. Nous pourrons ultérieurement discuter d'un moment qui serait avantageux pour tout le monde.
 

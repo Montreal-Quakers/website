@@ -1,7 +1,7 @@
 ---
 lang: en
 title: "Meeting in French on the 13th of May"
-trans: 20210513-rencontre
+translationID: 20210513-rencontre
 ---
 A meeting on Zoom in French will be held on Thursday May 13 at 7:00 p.m. The purpose of this meeting is to get to know each other but also to answer any questions you may have. We expect it to last about an hour (we'll see). Use [the contact form](/contact) for the Zoom link. It's okay if you tune in late. Let this not be a hindrance. We give more importance to your presence than your punctuality. Usually we start meetings with a short period of silence so don't be surprised if you join in and come across a group of people who are not speaking. It's normal! Stay on the line and the meeting will resume in a more lively fashion in a minute or two.
 

@@ -1,7 +1,7 @@
 ---
 title: Liens & histoire
 lang: fr
-trans: links_history
+translationID: links_history
 ---
 {% include picture.html basename="/assets/images/benches" type="jpg" alt="Des bancs dans la lumière" class="img_center" %}
 
