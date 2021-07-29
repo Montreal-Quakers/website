@@ -1,40 +1,90 @@
 ---
 ---
+// This variable, set in _config.yml, determines at what width the screen will shift from widescreen layout to mobile (narrow) screen layout.
+$mob-pixels: {{ site.breakpoint }};
 @import "font";
 @import "colors";
 @import "animations";
 
-// This variable, set in _config.yml, determines at what width the screen will shift from widescreen layout to mobile (narrow) screen layout.
-$mob-pixels: {{ site.breakpoint }};
 
-{% comment %}
-  Table of contents:
+//   Table of contents:
+// 
+//   First, this CSS codes the narrow navigation (mobile)
+//   It turns off widescreen headers and other elements
+//   Then it styles:
+// 
+//   1) The hamburger menu (nav-toggle)
+//   2) Mobile bird logo
+//   3) The navigation and its links in mobile
+//     i) Its ul, li, and then a and buttons
+//   4) Styles the search bar in mobile
+//   5) Dropdown menu styling
+//   6) Intersectional observer that triggers the return to top button and the change of style in widescreen when scrolling.
+// 
+//   Wide header:
+//   1) Starting with a media query
+//   2) Turns off some narrow elements
+//   3) Styles the wideheader
+//   4) The navigation and its links in widescreen
+//     i) Its ul, li, and then a and buttons
+//   5) Styles the search bar in wide mode
+//   6) Dropdown menu styling
+//   7) Scroll anchors are fixed in widemode where the sticky header blocks anchored page elements (e.g. /about#chair)
+// 
+//   Breadcrumb menu
 
-  First, this CSS codes the narrow navigation (mobile)
-  It turns off widescreen headers and other elements
-  Then it styles:
+// html,:root {
+// 	--body-text: black;
+// 	--color-1: #3f51b5;
+// 	--color-1-dark: #002984;
+// 	--color-1-light: #757de8;
+// 	--nav-text: black;
+// 	--body-bg: white;
+// 	--redalert: #b53f51;
+// 	--bluealert: #a33fb5;
+// 	--alert-text: white;
+// 	--anti-alert-text: black;
+// 	--offText: #ccc;
+// 	--active: #283593;
+//         --heart: #ea2311;
+// 	--leaf: green;
+// 	--chair: #4E342E;
+// 	--card-color: hsl(0,0%,90%);
+// 	--card-header: rgb(246,246,246);
+// 	--card-hover: #d1d9ff;
+// 	--card-hover-shadow: 0.3;
+// 	--card-shadow: 0.1;
+// }
+// 
+// @media (prefers-color-scheme: dark) {
+//   html,:root {
+// 	--body-text: white;
+// 	--color-1: #9fa8da;
+// 	--color-1-dark: #6f79a8;
+// 	--color-1-light: #d1d9ff;
+// 	--nav-text: white;
+// 	--body-bg: #121212;
+// 	--redalert: #da9fa8;
+// 	--bluealert: #d19fda;
+// 	--alert-text: #121212;
+// 	--anti-alert-text: white;
+// 	--offText: #ccc;
+// 	--active: #7986cb;
+//         --buttonyellow: #ffffcf;
+//         --heart: #f82d17;
+// 	--leaf: #199111;
+// 	--chair: #795548;
+// 	--card-color: hsl(0,0%,13%);
+// 	--card-header: #1a1a1a;
+// 	--card-hover: #000030;
+// 	--card-hover-shadow: 0.9;
+// 	--card-shadow: .8;
+//   }
+// }
 
-  1) The hamburger menu (nav-toggle)
-  2) Mobile bird logo
-  3) The navigation and its links in mobile
-    i) Its ul, li, and then a and buttons
-  4) Styles the search bar in mobile
-  5) Dropdown menu styling
-  6) Intersectional observer that triggers the return to top button and the change of style in widescreen when scrolling.
-
-  Wide header:
-  1) Starting with a media query
-  2) Turns off some narrow elements
-  3) Styles the wideheader
-  4) The navigation and its links in widescreen
-    i) Its ul, li, and then a and buttons
-  5) Styles the search bar in wide mode
-  6) Dropdown menu styling
-  7) Scroll anchors are fixed in widemode where the sticky header blocks anchored page elements (e.g. /about#chair)
-
-  Breadcrumb menu
-
-{% endcomment %}
+.chair {color: var(--chair)}
+.heart {color: var(--heart)}
+.leaf {color: var(--leaf)}
 
 // These elements are for the wideheader only and so will be turned on with a media query
 .wideheader,#widehome,#StickyScrollBegin,#StickyScrollBeginPadding,/*#searchsubmit,*/#unfold  {
@@ -391,7 +441,7 @@ nav {
           z-index: 1;
           opacity: 1;
 	  left: -210px;
-	  width: calc(100% - var(--search-size);
+	  width: calc(100% - var(--search-size));
 	  width: 210px;
 	  &:focus {
             outline: none;
@@ -440,7 +490,9 @@ nav {
 
   }
   // Keeping page anchors in the right place
-  .scroll_anchor{scroll-margin: 60px 0 0 0;}
+  .scroll_anchor {
+    scroll-margin: 60px 0 0 0;
+  }
   .stanchor {
     position: relative;
     a {

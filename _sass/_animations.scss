@@ -21,14 +21,23 @@
     animation-fill-mode: forwards;
   }
 @keyframes return {
-  from {background-color: var(--color-1-dark);color:var(--alert-text)}
-  to {background-color: var(--color-1);color:var(--alert-text)}
+  from {
+    background-color: var(--color-1-dark);
+    color:var(--alert-text);
   }
+  to {
+    background-color: var(--color-1);
+    color:var(--alert-text);
+  }
+}
 
 @keyframes change {
   from {}
-  to {background-color: var(--color-1-dark);color:var(--alert-text)}
- }
+  to {
+    background-color: var(--color-1-dark);
+    color:var(--alert-text);
+  }
+}
 
  // This animation calls for the keyframe that causes the header text to come into focus
 .focustext {
