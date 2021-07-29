@@ -1,43 +1,52 @@
-@import "font";
-@import "variables";
-// Used these colours for a LONG while there
-// $color-1:  #205592;
-// $color-1-light: #4287D6;
-// $color-1-dark: #0D2541;
-// $color-active: lighten(#163b64,0%);
-// $color-1-light: #5881c3; // Real google suggested colours
-// $color-1-dark: #002d64;
+:root {
+	--body-text: black;
+	--color-1: #3f51b5;
+	--color-1-dark: #002984;
+	--color-1-light: #757de8;
+	--nav-text: black;
+	--body-bg: white;
+	--redalert: #b53f51;
+	--bluealert: #a33fb5;
+	--alert-text: white;
+	--anti-alert-text: black;
+	--offText: #ccc;
+	--active: #283593;
+        --heart: #ea2311;
+	--leaf: green;
+	--chair: #4E342E;
+	--card-color: hsl(0,0%,90%);
+	--card-header: rgb(246,246,246);
+	--card-hover: #d1d9ff;
+	--card-hover-shadow: 0.3;
+	--card-shadow: 0.1;
+}
 
-$color-1:  #3949ab; // Real material.io colours (light blue 900)
-$color-1-light: #6f74dd;
-$color-1-dark: #00227b;
-$color-active: darken($color-1,6%);
-$body-font-size: 17px;
-$body-color: white;
-$body-color-text: black;
-$header-color-text: white;
-$nav-color-text: white;
-$header-font-size: 138%;
-$redalert-color: #ab3948; // used to be #bf5608, tried #ce570d;
-$redalert-text-color: white;
-$redalert-link-color: white;
-$bluealert-color: #9c39ab;
-$bluealert-text-color: white;
-$bluealert-link-color: white;
-$heart: #d20404;
-$dark-color-1:  #9fa8da; // Real material.io colours (light blue 900)
-$dark-color-1-light: #d1d9ff;
-$dark-color-1-dark: #6f79a8;
-$dark-color-active: darken($dark-color-1,6%);
-$dark-redalert-color: #da9fa8; // tried #ce570d;
-$dark-redalert-text-color: white;
-$dark-redalert-link-color: white;
-$dark-bluealert-color: #d19fda;
-$dark-bluealert-text-color: white;
-$dark-bluealert-link-color: white;
-$nav-font-size: 1em;
-$font-mono: "Courier New", Courier, monospace; 
-$font-sans: "Source Sans Pro", Helvetica, Arial, sans-serif; // "Source Sans Pro",
-$font-serif: Bitter, Georgia, serif; // "IM Fell English", "Oswald", "Playfair Display",
-$serif-spacing: 1.5px;
-$text-width: 50em; //Sets the width of the text on the page
+@media (prefers-color-scheme: dark) {
+  html,:root {
+	--body-text: white;
+	--color-1: #9fa8da;
+	--color-1-dark: #6f79a8;
+	--color-1-light: #d1d9ff;
+	--nav-text: white;
+	--body-bg: #121212;
+	--redalert: #da9fa8;
+	--bluealert: #d19fda;
+	--alert-text: #121212;
+	--anti-alert-text: white;
+	--offText: #ccc;
+	--active: #7986cb;
+        --buttonyellow: #ffffcf;
+        --heart: #f82d17;
+	--leaf: #199111;
+	--chair: #795548;
+	--card-color: hsl(0,0%,13%);
+	--card-header: #1a1a1a;
+	--card-hover: #000030;
+	--card-hover-shadow: 0.9;
+	--card-shadow: .8;
+  }
+}
+
+.chair {color: var(--chair)}
+.heart {color: var(--heart)}
+.leaf {color: var(--leaf)}

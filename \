@@ -2,41 +2,9 @@
 ---
 @import "font";
 @import "colors";
-@import "animations";
-
-// This variable, set in _config.yml, determines at what width the screen will shift from widescreen layout to mobile (narrow) screen layout.
 $mob-pixels: {{ site.breakpoint }};
 
-{% comment %}
-  Table of contents:
-
-  First, this CSS codes the narrow navigation (mobile)
-  It turns off widescreen headers and other elements
-  Then it styles:
-
-  1) The hamburger menu (nav-toggle)
-  2) Mobile bird logo
-  3) The navigation and its links in mobile
-    i) Its ul, li, and then a and buttons
-  4) Styles the search bar in mobile
-  5) Dropdown menu styling
-  6) Intersectional observer that triggers the return to top button and the change of style in widescreen when scrolling.
-
-  Wide header:
-  1) Starting with a media query
-  2) Turns off some narrow elements
-  3) Styles the wideheader
-  4) The navigation and its links in widescreen
-    i) Its ul, li, and then a and buttons
-  5) Styles the search bar in wide mode
-  6) Dropdown menu styling
-  7) Scroll anchors are fixed in widemode where the sticky header blocks anchored page elements (e.g. /about#chair)
-
-  Breadcrumb menu
-
-{% endcomment %}
-
-// These elements are for the wideheader only and so will be turned on with a media query
+// // These elements are for the wideheader only and so will be turned on with a media query
 .wideheader,#widehome,#StickyScrollBegin,#StickyScrollBeginPadding,/*#searchsubmit,*/#unfold  {
    display: none;
 }
@@ -53,6 +21,19 @@ $mob-pixels: {{ site.breakpoint }};
   &:hover ~ .nav-toggle-label {
     color: grey;
     // transition: color .3s;
+  }
+}
+
+.logo__mobile {
+  // padding: 10px;
+  display: flex;
+  align-items: center;
+  height: 100%;
+  &:hover {
+    background: var(--active);
+  }
+  img {
+    vertical-align: text-bottom;
   }
 }
 
@@ -123,20 +104,6 @@ $mob-pixels: {{ site.breakpoint }};
   // transition: all 300ms ease-in;
 }
 
-// Mobile bird logo
-.logo__mobile {
-  // padding: 10px;
-  display: flex;
-  align-items: center;
-  height: 55px;
-  &:hover {
-    background: var(--active);
-  }
-  img {
-    vertical-align: text-bottom;
-  }
-}
-
 nav,nav input {
   font: {
     size: $nav-font-size;
@@ -181,6 +148,7 @@ nav {
   a,button {
     display: inline-block;
     opacity: 0;
+    // background: transparent;
     color: var(--alert-text);
     text-decoration: none;
     font-weight: bold;
@@ -190,8 +158,10 @@ nav {
     width: 100%;
     text-align: left;
     white-space: nowrap;
+    // &:hover {
+    //   background: var(--active);
+    // }
   }
-
   button.dropbtn {background: inherit}
   a:hover,.active,ul .dropdown .active {
     background-color: var(--active);
@@ -203,18 +173,13 @@ nav {
     position: relative;
   }
   #searchInput {
-    //padding: 16px 10px;
+    padding: 16px 10px;
     flex: 1 1 100%;
-    height: 54px;
+    height: 100%;
     border: none;
-    text-indent: 0.8rem;
-    background: var(--body-bg);
-    color: var(--body-text);
   }
   #searchSubmit {
-    flex: 0 1 2.5rem;
-    height: 54px;
-    // width: 100%;
+    flex: 0 1 50px;
     background: var(--color-1-light);
     cursor: pointer;
     // padding: 0;
@@ -265,6 +230,7 @@ nav {
       transition: max-height .2s ease-out;
       &:focus {
 	outline: none;
+	// background: transparent;
       }
     }
     {% endif %}
@@ -294,7 +260,7 @@ nav {
   color: var(--alert-text);
   text-decoration: none;
   text-align: center;
-  // height: 55px;
+  height: 55px;
   font: {
      size: $mobile-header-font-size;
      family: $font-serif;
@@ -364,63 +330,19 @@ nav {
        align-items: center;
        margin: 0;
      }
-
-     // widescreen search
-     #searchInput {
-       position: absolute;
-         top: 0;
-         bottom: 0;
-         left: 0;
-       width: 100%;
-       opacity: 0;
-       cursor: pointer;
+     // Search on wide screens
+     #searchForm {
+       flex: 1 0 210px;
        height: 55px;
-       z-index: 2;
-       transition: left 450ms ease, width 450ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
-      }
-      #searchSubmit {
-        transition: color .3s ease, background .3s ease;
-      }
-     .search-container {
-       position: relative;
-     }
-     #searchForm {
-      &:focus-within {
-        outline: none;
-        #searchInput {
-          z-index: 1;
-          opacity: 1;
-	  left: -210px;
-	  width: calc(100% - var(--search-size);
-	  width: 210px;
-	  &:focus {
-            outline: none;
-          }
-        }
-      } 
-      &:not(:focus-within) {
-        #searchInput {
-          transition: left 200ms ease, width 200ms ease, opacity 0ms linear .2s, z-index 0ms linear .2s;
-        }
-      }
-       &:hover #searchSubmit {
-         color: var(--anti-alert-text);
-       }
-    }
-     #searchForm {
-       --search-size: 51px;
-       // height: 55px;
      }
      #searchSubmit {
        height: 55px;
-       z-index: 1;
      }
      #search-container {
        margin-left: auto;
        height: 55px;
      }
 
-     // Dropdown styling
      .dropdown > ul {
        display: block;
        position: absolute;
@@ -437,20 +359,134 @@ nav {
          text-indent: 0px;
        }
      }
-
-  }
-  // Keeping page anchors in the right place
-  .scroll_anchor{scroll-margin: 60px 0 0 0;}
-  .stanchor {
-    position: relative;
-    a {
-      position: absolute;
-      left: 0px;
-      top: -60px;
-    } 
+     // widescreen search
+     input[type=search] {
+         &.input_narrow {width: 1px}
+         &.input_hide {visibility: hidden}
+         &.input_show {
+           width: 210px; 
+           visibility: visible;
+         }
+     width: 1px; 
+     font: {
+       family: $font-sans;
+       size: 1em;
+       weight: normal;}
+     flex: 1 1 auto;
+     padding: 15.25px 10px;
+     border: none;
+     margin: 0;
+     outline: none;
+     transition: width 0.3s ease-in-out;
+     background: var(--body-bg);
+     color: var(--body-text);
+     }
+     .search-container {
+        flex: 1 0 auto;
+        display: flex;
+        justify-content: flex-end;
+        // max-width: 100%;
+        align-items: center;
+        margin: 0px 0 0;
+        padding: 0;
+ 
+        button {
+           flex: 0 0 auto;
+           padding: 14px;
+           //  margin-right: 4px;
+           background-color: var(--color-1-light);
+           // font-size: 1em;
+           border: none;
+           transition: color 0.3s;
+           cursor: pointer;
+           &:hover {
+            color: var(--anti-alert-text);
+           }
+        }
+     }
   }
 }
  
+//   #response {cursor:pointer}
+//   a,#response,button,.search-container {
+//     display: block;
+//     padding: 14px 11px;
+//     color: var(--alert-text);
+//     text-align: center;
+//     font-family: $font-sans;
+//     font-size: $nav-font-size;
+//     font-weight: bold;
+//     white-space: nowrap;
+//   }
+// }
+// 
+// // NARROW screen
+// // @media screen and (max-width: $mob-pixels - 1) {
+// 
+// 
+//     .dropdown {
+//        // float: none;
+//         .dropbtn {
+//           display: block; 
+//           width: 100%;
+//           text-align: left;
+//           cursor: pointer;
+//         }
+//      &-content {
+//        position: relative;
+//        background:var(--active); 
+//        //padding: 0 0 0 15px;
+//        text-indent: 0.8em;
+//        &:before {
+// //           content: &emsp;
+//        }
+//      }
+//     }
+//   // This is all still under .navbar.responsive
+//   input[type=search], .search-container, #response, #narrowhome {
+//     // float: none;
+//     display: block;
+//     text-align: left;
+//     flex: 1 0 auto;
+//     width: 100%;
+//     border-radius: 0;
+//     margin: 0;
+//     padding-top: 14px;
+//     padding-bottom: 14px;
+//   }
+//   input[type=search] {
+//     border: 1px solid #ccc;
+//     -webkit-appearance: none;
+//     -moz-appearance:none;
+// //      width: 98%;
+//   }
+//  }
+// }
+// // the goal of this code is to require a click to open a submenu in responsive mode
+// .show_block {display:block;transform: scale(1)}
+//  #searchForm {flex: 1 0 210px;}
+// 
+// 
+//  .dropdown {
+//     &:hover .dropdown-content {
+//         transform: scale(1);
+// 	transform-origin: top;
+//     }
+// 
+//  .show {display: inline !important;}
+//  .hide {display: none !important;}
+// 
+//   
+// Keeping page anchors in the right place
+.scroll_anchor{scroll-margin: 60px 0 0 0;}
+.stanchor {
+  position: relative;
+     a {
+        position: absolute;
+        left: 0px;
+        top: -60px;
+      } 
+ }
 
 // Breadcrumb menu
 
@@ -472,3 +508,5 @@ ul.breadcrumb li+li:before {
   padding: 8px;
   content: "/\00a0";
 }
+
+@import "animations";

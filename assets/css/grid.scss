@@ -1,6 +1,7 @@
 ---
 ---
-@import 'colors';
+@import 'font';
+// @import 'variables';
 $height: 8rem;
 $mob-pixels: {{ site.breakpoint }};
 
@@ -53,7 +54,7 @@ $mob-pixels: {{ site.breakpoint }};
     padding: 10px;
     // background: transparent;
     background: var(--card-color);
-    // transition: box-shadow 0.3s, background 0.3s;
+    transition: box-shadow 0.3s, background 0.3s;
     // &::before {
     //   content: '';
     //   position: absolute;

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="49.5"
+   height="49.5"
+   viewBox="0 0 13.096875 13.096875"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="up-arrow-raw.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Top-Button"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle class=svg-circle
+       style="stroke-width:0.446203"
+       id="path846"
+       cx="6.5659275"
+       cy="6.5444632"
+       r="6.5258393"
+       inkscape:label="Circle" />
+    <path
+       class=svg-arrow
+       style="stroke-width:0.515958;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:auto"
+       d="m 2.0769731,7.9967645 4.405976,-4.405978 4.4059799,4.405978 v 0"
+       id="path1163"
+       inkscape:label="Arrow" />
+  </g>
+</svg>

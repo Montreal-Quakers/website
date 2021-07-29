@@ -1,19 +1,48 @@
 ---
 ---
 // Already imported
-@import "colors";
+@import "font";
 $mob-pixels: {{ site.breakpoint }};
 $media-pixels: {{ site.mediabreak }};
-$verynarrow: {{ site.verynarrow }};
-// @import "include-media";
 
-*,*:before,*:after{box-sizing:inherit}
+{% comment %}
+
+  Table of contents
+
+  1) General styling
+    a) html body
+    b) Components: img, a, button
+  2) Headers
+  3) Content and footer styling
+  4) Alert styling
+  5) Special classes
+  6) Align icons
+    a) Special classes stolen from w3schools
+  7) Styling scroll to top button topBtn svg
+
+{% endcomment %}
+
+// 1) General styling
+
+*,*:before,*:after{box-sizing:border-box; margin-top: 0}
+
+html {
+	height: 100%;
+}
+
+@media screen and (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
 
 html,body {
     line-height: 1.5;
     scroll-behavior: smooth;
 }
 
+// The body is flex to allow media columsn on the right in widescreen that move down in mobile.
+// Flex also makes it easy to keep the footer on the bottom.
 body {
     display: flex;
     flex-direction: column;
@@ -24,15 +53,96 @@ body {
     font-size: $body-font-size;
     color: var(--body-text);
     background-color: var(--body-bg);
-    height: 100%;
+//    height: 100%;
     min-height: 100vh;
     max-width: 100%;
 }
 
+main {
+   flex: 1 0 auto; // If the spacing is weird, try turning this off.
+   min-height: auto;
+   height: 100%;
+}
+// Styling general components
 img {
-	max-width: 100%;
+  max-width: 100%;
+  vertical-align: middle;
 }
 
+hr {
+  border: 0;
+  border-top: 1px solid #e2e2e2;
+  margin: 20px 0;
+}
+
+a {
+  background-color:transparent;
+  color:inherit;
+  &:hover {
+    /*outline-width:0;*/
+    text-decoration: none !important;
+    // background: initial !important;
+  }
+}
+
+// Remove underline under links
+.linkoff,a.wideheader,.navbar a {
+	&,&:link,&:visited,&:hover {
+    text-decoration: none;
+    // background: inherit;
+    }
+}
+
+// Styling PDF links and external links
+a[href$="\.pdf" i]::after {
+    font-family: "Font Awesome 5 Free";
+    content: '\f1c1';
+    font-weight: 900;
+    // font-size: .6em;
+    margin-left: .3em;
+    text-decoration: none;
+    background: inherit;
+    color: var(--color-1-dark);
+    display: inline-block;
+}
+
+a[href^="http" i]::after {
+    font-family: "Font Awesome 5 Free";
+    content: '\f35d';
+    font-weight: 900;
+    font-size: .6em;
+    margin: 0 0 .05em .4em;
+    color: var(--color-1);
+    text-decoration: none;
+    background-color: transparent;
+    display: inline-block;
+}
+
+button {
+	text-transform: none;
+	-webkit-appearance: button;
+  &,input {
+	overflow: visible;
+	font:inherit;
+	margin: 0;
+  }
+}
+
+button:not(.dropbtn):focus {
+  background: var(--active);
+}
+
+:focus {
+  outline: 2px solid var(--color-1-dark);
+  outline-offset: 5px;
+}
+
+::selection {
+	background: var(--color-1);
+	color: var(--alert-text);
+}
+
+// 2) Headers
 h1,h2,h3,h4,h5,h6 {
 	font-weight: 400;
 	margin: 10px 0;
@@ -55,28 +165,46 @@ h1,h2,h3,h4 {
   }
 }
 
-hr {
-  border: 0;
-  border-top: 1px solid #e2e2e2;
-  margin: 20px 0;
+// 3) Content and footer styling
+.container-content {
+   width: 100%;
+   margin: 0 auto 0;
+   height: 100%;
+   display: flex;
+   justify-content: space-around;
+   //word-spacing: 0.05ch;
 }
 
-a {background-color:transparent;color:inherit}
-a:hover {
-  /*outline-width:0;*/
-  text-decoration: none !important;
-  // background: initial !important;
+a.container-content, a.container-content:link, a.container, .container a, .container-content a {
+	// This code below makes a gradient underline link
+   // text-decoration: none;
+   // background: linear-gradient(to right, var(--color-1-light), var(--color-1-dark)); //var(--color-1)
+   // background-position: 0 100%;
+   // background-size: 100% 1px;
+   // background-repeat: repeat-x;
+   text-decoration: underline var(--color-1);
+   -webkit-text-decoration-line: underline;
+   -webkit-text-decoration-color: var(--color-1);
+   // -webkit-text-decoration-style: solid !important;
+   // -webkit-text-decoration-thickness: 2px !important;
+   &:hover {
+	// Needed only with the gradient underline link
+     //background: initial;
+     text-decoration: none;
+   }
 }
 
-button {
-	text-transform: none;
-	-webkit-appearance: button;
-  &,input {
-	overflow: visible;
-	font:inherit;
-	margin: 0;
+.content {  // always on the left if there's media
+   padding: 0 66px;
+   font-family: $font-sans; 
+   font-size:1em;
+   text-align:left;
+   margin-bottom: 0;
+}
+.media {
+   flex: 1 0 400px;
+   padding: 0 3px;
   }
-}
 
 .content {
   &.mono {
@@ -109,6 +237,62 @@ button {
      }
 }
 
+@media screen and (min-width: $mob-pixels) {
+  .content {
+    flex: 0 1 $text-width;
+  }
+}
+
+@media screen and (max-width: $mob-pixels - 1) {
+  .content {
+     flex: 0 1 auto;
+  }
+}
+
+// Media & Container responsiveness
+// These are mostly for Google Maps and Calendar iframes
+@media screen and (max-width: $media-pixels) {
+  .container-content {   
+    flex-direction: column;
+  }
+
+  .embed-container2 {
+	  display: none
+  }
+  .embed-container1 {
+	  display: initial;
+  }
+  .media {
+	  padding: 3px;
+  }
+  .content {
+	  padding: 20px;
+  }
+  .widespace {
+	  display: none;
+  }
+}
+
+// @include media(">800px") {
+@media screen and (min-width: $media-pixels + 1) {
+  .embed-container2 {
+	  display: block;
+  }
+  .embed-container1 {
+	  display: none;
+  }
+ .media {
+	 position: sticky;
+         align-self: flex-start;
+         right: 0;
+         top: 100px;
+         max-width: 100%;
+ }
+}
+
+// 4) Alert styling
+
+// Sets the whole alert area as flex
 .stickystart { // Ends at alert.html
   display: flex;
   justify-content: space-between;
@@ -167,12 +351,13 @@ button {
   cursor: pointer;
   transition: 0.3s;
   display: block;
-  z-index: 100;
     &:hover {
      color: var(--anti-alert-text);
     }
 }
 
+// 5) Special classes
+.heart {color: var(--heart)}
 .center {
 	text-align: center;
 }
@@ -237,70 +422,7 @@ button {
 	color: var(--alert-text);
 }
 
-main {
-   flex: 1 0 auto; // If the spacing is weird, try turning this off.
-   min-height: auto;
-   height: 100%;
-}
-
-// Toggle switch
-.switch {
-  position: relative;
-  display: inline-block;
-  width: 25px;
-  height: 16px;
-  top: 5px;
-   input {
-     opacity: 0;
-     width: 0;
-     height: 0;
-   }
-}
-
-.slider {
-  position: absolute;
-  cursor: pointer;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: #ccc;
-  -webkit-transition: .4s;
-  transition: .4s;
-  padding: 2px;
-  &:before {
-     position: absolute;
-     content: "";
-     height: 8px;
-     width: 8px;
-     left: 4px;
-     bottom: 4px;
-     background-color: var(--body-bg);
-     -webkit-transition: .4s;
-     transition: .4s;
-   }
-}
-
-input {
-  &:checked + .slider {
-   background-color: var(--color-1-light);
-      &:before {
-        @include transform(translateX(9px));
-      }
-    }
-  &:focus + .slider {
-    box-shadow: 0 0 1px #2196F3;
-  }
-}
-
-// Rounded sliders
-.slider.round {
-  border-radius: 34px;
-  &:before {
-    border-radius: 50%;
-  }
-}
-// Align icons
+// 6) Align icons
 
 .down_a {
   &_bit {
@@ -316,65 +438,16 @@ input {
 
 .bit_left {margin: 0 0 0 -3px}
 
-.container-content {
-   width: 100%;
-   margin: 0 auto 0;
-   height: 100%;
-   display: flex;
-   justify-content: space-around;
-}
-
-a.container-content, a.container-content:link, a.container, .container a, .container-content a {
-	// This code below makes a gradient underline link
-   // text-decoration: none;
-   // background: linear-gradient(to right, var(--color-1-light), var(--color-1-dark)); //var(--color-1)
-   // background-position: 0 100%;
-   // background-size: 100% 1px;
-   // background-repeat: repeat-x;
-   text-decoration: underline var(--color-1);
-   &:hover {
-     background: initial;
-     text-decoration: none;
-   }
-}
-
-.content {  // always on the left if there's media
-   padding: 0 66px;
-   font-family: $font-sans; 
-   font-size:1em;
-   text-align:left;
-   margin-bottom: 0;
-}
-::selection {
-	background: var(--color-1);
-	color: var(--alert-text);
-}
-
-@media screen and (min-width: $mob-pixels) {
-  .content {
-    flex: 0 1 $text-width;
-  }
-}
-
-@media screen and (max-width: $mob-pixels - 1) {
-  .content {
-     flex: 0 1 auto;
-  }
-}
-.media {
-   flex: 1 0 400px;
-   padding: 0 3px;
-  }
-
-.embed-container2,.embed-container-map {
+.embed-container, .embed-container2, .embed-container-map {
   position: relative; 
+  border: 0;
   padding-bottom: 56.25%; 
   height: 0; 
   overflow: hidden; 
   max-width: 100%; 
 } 
 
-.embed-container2, .embed-container-map {
+.embed-container, .embed-container2, .embed-container-map {
 	iframe,object,embed {
            position: absolute;
            top: 0;
@@ -384,96 +457,55 @@ a.container-content, a.container-content:link, a.container, .container a, .conta
 	}
 }
 
+// 6a) Special classes stolen from w3schools
 .w3-input{padding:8px;display:block;border:none;border-bottom:1px solid #ccc;width:100%;background:var(--body-bg);color:var(--body-text)}
 .w3-border{border:1px solid #ccc}
 .w3-animate-input{width:50%;transition:width 0.4s ease-in-out}
 .w3-animate-input:focus{width:100%}
 .w3-button{border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;text-align:center;cursor:pointer;white-space:nowrap;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;transition:background-color .3s}
 .w3-button:hover{background-color:var(--color-1)}
-.heart {color: var(--heart)}
-a[href$="\.pdf" i]::after {
-    font-family: "Font Awesome 5 Free";
-    content: '\f1c1';
-    font-weight: 900;
-    // font-size: .6em;
-    margin-left: .3em;
-    text-decoration: none;
-    background: inherit;
-    color: var(--color-1-dark);
-    display: inline-block;
-}
 
-a[href^="http" i]::after {
-    font-family: "Font Awesome 5 Free";
-    content: '\f35d';
-    font-weight: 900;
-    font-size: .6em;
-    margin: 0 0 .05em .4em;
-    color: var(--color-1);
-    text-decoration: none;
-    background-color: transparent;
-    display: inline-block;
-}
 
-// #more {display: none}
+// 7) Styling scroll to top button topBtn svg
 
-// scroll up button
 #topBtn {
-  display: none;
+  font-size: 0;
+  opacity: 0;
+  pointer-events: none;
   position: fixed;
   bottom: 20px;
   right: 30px;
-  z-index: 599;
-  font-size: 18px;
+  z-index: 10;
   border: none;
   outline: none;
-  background-color: var(--color-1-dark);
-  color: var(--body-bg);
+  background-color: var(--alert-text);
   cursor: pointer;
-  padding: 11px 15px;
-  box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+  margin: 0;
+  padding: 0;
+  // box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+  transition: opacity 300ms ease-in, transform .3s ease;
   border-radius:50%;
-  transition: 0.3s;
-   &:hover {
-     background-color: var(--color-1-light);
-   }
-}
-// Media & Container responsiveness
-@media screen and (max-width: $media-pixels) {
-  .container-content {   
-    flex-direction: column;
+  & svg {
+    background-color: transparent
   }
-
-  .embed-container2 {
-	  display: none
+  & .svg-arrow {
+    fill: transparent;
+    stroke: var(--alert-text);
   }
-  .embed-container1 {
-	  display: initial;
+  & .svg-circle {
+    fill: var(--color-1-dark);
+    stroke: var(--color-1-dark);
+    transition: fill .3s ease, stroke .3s ease;
   }
-  .media {
-	  padding: 3px;
-  }
-  .content {
-	  padding: 20px;
-  }
-  .widespace {
-	  display: none;
+  &:hover {
+    opacity: 1 !important;
+    // transform: scale(1.1);
+  
+    .svg-circle {
+      fill: var(--color-1-light);
+      stroke: var(--color-1-light);
+    }
   }
 }
 
-// @include media(">800px") {
-@media screen and (min-width: $media-pixels + 1) {
-  .embed-container2 {
-	  display: block;
-  }
-  .embed-container1 {
-	  display: none;
-  }
- .media {
-	 @include sticky;
-         align-self: flex-start;
-         right: 0;
-         top: 100px;
-         max-width: 100%;
- }
-}
+

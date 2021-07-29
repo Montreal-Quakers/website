@@ -1,6 +1,9 @@
 ---
 ---
-@import "colors.scss";
+@import "font";
+// @import "variables";
+// This css file has been modified and contains some special code to format the search page
+// Such as the search sliders
 
 /*
 Tipue Search 6.1
@@ -239,11 +242,11 @@ html,:root {
 {
      0%, 40%, 100%
      {
-          -webkit-transform: scaleY(0.4)
+          transform: scaleY(0.4)
      }  
      20%
      {
-          -webkit-transform: scaleY(1.0)
+          transform: scaleY(1.0)
      }
 }
 @keyframes stretchdelay
@@ -251,17 +254,74 @@ html,:root {
      0%, 40%, 100%
      { 
           transform: scaleY(0.4);
-          -webkit-transform: scaleY(0.4);
+          transform: scaleY(0.4);
      }
      20%
      { 
           transform: scaleY(1.0);
-          -webkit-transform: scaleY(1.0);
+          transform: scaleY(1.0);
      }
 }
 
+// Custom
 
+// Toggle switch
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 25px;
+  height: 16px;
+  top: 5px;
+   input {
+     opacity: 0;
+     width: 0;
+     height: 0;
+   }
+}
 
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  transition: .4s;
+  transition: .4s;
+  padding: 2px;
+  &:before {
+     position: absolute;
+     content: "";
+     height: 8px;
+     width: 8px;
+     left: 4px;
+     bottom: 4px;
+     background-color: var(--body-bg);
+     transition: .4s;
+     transition: .4s;
+   }
+}
+
+input {
+  &:checked + .slider {
+   background-color: var(--color-1-light);
+      &:before {
+        transform: translateX(9px);
+      }
+    }
+  &:focus + .slider {
+    box-shadow: 0 0 1px #2196F3;
+  }
+}
+
+// Rounded sliders
+.slider.round {
+  border-radius: 34px;
+  &:before {
+    border-radius: 50%;
+  }
+}
 
 
 

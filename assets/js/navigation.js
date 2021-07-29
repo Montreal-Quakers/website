@@ -2,8 +2,7 @@
 ---
 const MediaQuery = window.matchMedia( "(min-width: {{ site.breakpoint }})" );
 var IntersectionObserver1 = document.getElementById("intersectionObserver1");
-var target1 = document.getElementById("StickyScrollBegin");
-var target2 = document.getElementById("StickyScrollBeginPadding");
+var target1 = document.getElementById("intersectionObserver2");
 var ScrollToTopBtn = document.getElementById("topBtn");
 var NavBar = document.getElementById("myNavbar");
   // var btn = document.getElementById("searchbutton");
@@ -17,139 +16,116 @@ IntersectionObserverResult.observe(IntersectionObserver1);
 function callback1(entries, IntersectionObserverResult) {
 	entries.forEach(entry => {
     if (entry.isIntersecting) {
-      // Show button
-      ScrollToTopBtn.style.display = "none";
-    } else {
       // Hide button
-      ScrollToTopBtn.style.display = "block";
+      ScrollToTopBtn.style.opacity = "0";
+      ScrollToTopBtn.style.pointerEvents = "none";
+    } else {
+      // Show button
+      ScrollToTopBtn.style.opacity = "0.6";
+      ScrollToTopBtn.style.pointerEvents = "all";
     }
   });
 }
 
-function topFunction() {
-  document.body.scrollTop = 0;
-  document.documentElement.scrollTop = 0;
-}
-
 // Sticky navbar on widescreens
 if (MediaQuery.matches) {
+
+  // var dropdowns = document.querySelector('.dropdownElements');
+  
+  // dropdowns.addEventListener('mouseover', responsiveClick);
+  // dropdowns.addEventListener('mouseout', responsiveClick);
+
   let observer2 = new IntersectionObserver(callback2);
   observer2.observe(target1);
+
+// IntersectionObserverResult.observe(IntersectionObserver2);
 
   function callback2(entries, observer2) {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
-        if (NavBar.classList.contains("sticky")) {
-  	NavBar.classList.add("return_color");
-          NavBar.classList.remove("sticky");
-  	target2.classList.remove("stickyOffset");
-        }
+        NavBar.classList.remove("change_color");
+        // if (NavBar.classList.contains("sticky")) {
+        //   NavBar.classList.remove("sticky");
+  // 	target2.classList.remove("stickyOffset");
+  //       }
       } else {
-          NavBar.classList.remove("return_color");
-  	NavBar.classList.add("sticky");
-  	target2.classList.add("stickyOffset");
-      }
-    });
+  	NavBar.classList.add("change_color");
+  // 	NavBar.classList.add("sticky");
+  // 	target2.classList.add("stickyOffset");
+       }
+     });
+  // }
   }
 }
-else {
-  // When the user clicks on the button, toggle between hiding and showing the dropdown content
-  function responsiveClick(id) {
-   var clickedID = document.getElementById(id);
-
-   clickedID.classList.toggle("show_block");
-// Tests whether the caret is already right
-   var caretRight = clickedID.previousElementSibling.firstChild.classList.contains('fa-caret-right')
-
-   if (caretRight) {
-      clickedID.previousElementSibling.firstChild.className = "fa fa-caret-down";
+//  else {
+   // When the user clicks on the button, toggle between hiding and showing the dropdown content
+   function responsiveClick(id, cancel, hover) {
+       if (!MediaQuery.matches && hover === "hover") {return}
+     var dropdownID = document.getElementById("dropdown_" + id);
+     var dropdownID_height = document.getElementById("dropdown_" + id).scrollHeight;
+ //     var dropdownIDChildren = dropdownID.children;
+ // 	  console.log(dropdownIDChildren);
+     var caretID = document.getElementById("caret_" + id);
+ 	  var i;
+ 
+     if (dropdownID.style.maxHeight) {
+       dropdownID.style.maxHeight = null;
+       dropdownID.previousElementSibling.classList.remove("active");
+       caretID.style.transform = null;
+     } else {
+       if (cancel === 1) {return}
+       dropdownID.style.maxHeight = dropdownID_height + "px";
+       dropdownID.previousElementSibling.classList.add("active");
+       caretID.style.transform = "rotate(90deg)";
+     }
    }
-   if (!caretRight) {
-      clickedID.previousElementSibling.firstChild.className = "fa fa-caret-right";
-   }
-  }
-  // Close the dropdown if the user clicks outside of it
-  window.onclick = function(event) {
-   if (!event.target.matches('.dropbtn')) {
-    var dropdowns = document.getElementsByClassName("dropdown-content");
-    var i;
-    for (i = 0; i < dropdowns.length; i++) {
-     var openDropdown = dropdowns[i];
-     if (openDropdown.classList.contains('show_block')) {
-      openDropdown.classList.remove('show_block');
-      openDropdown.previousElementSibling.firstChild.className = "fa fa-caret-right";
-      NavBar = openDropdown.previousElementSibling.firstChild.className;
-    }
-   }
-  }
- }
-}
 
-
-function respondBar() {
-  if (NavBar.className === "navbar") {
-    NavBar.className += " responsive";
-  } else {
-    NavBar.className = "navbar";
-  }
-}
-
-function flipIcon () {
+// This code flips the language changer icon 
+// and then returns the new URL
+function flipIcon() {
   var twoArrowIcon = document.getElementById("twoArrowIcon");
-  var translationAnchor = document.getElementById("translationURL");
-  // Clear automatic routing of the homepage to a language
+  var translationAnchor = document.getElementById("languageChanger");
+  var newBaseURL = translationAnchor.dataset.newurl;
+	// Start the icon spinning while javascript works
+  twoArrowIcon.classList.add("rotate-hor-center");
+
+  // By default, when users browse to the homepage, they are asked to choose a language once (see index.html)
+  // From then on, going to the homepage goes to the preferred language homepage (e.g. /home)
+  // Pressing this language changer button clears that preference
+  // allowing the user to choose a new default language from the root URL.
   var choice = null;
-	// default timeout is 145 ms
-  var timeout = 145
-  localStorage.setItem('lang',choice)
+    localStorage.setItem('lang',choice)
+
+  // This part only applies to the search page. 
+  // It finds the search query string and transfers over the search query too
   if (translationAnchor.classList.contains("searchy")) {
-	  // This class list includes search terms in the new URL when switching from French to English from the search page
-    twoArrowIcon.classList.add("rotate-hor-center"); // This makes the two arrow icon start to spin until the page moves away
-    const parsedUrl = new URL(window.location.href);
-    var newstring = parsedUrl.pathname + "?q=";
-    var newurl = new URL(translationAnchor.href);
-    var searchParameter = parsedUrl.searchParams.get("q");
-    newurl.searchParams.set('q',searchParameter);
-    translationAnchor = newurl;
-    console.log(newurl);
-    setTimeout(function clicky() {window.location.href = translationAnchor;}, timeout);
-  } else {
-    twoArrowIcon.classList.add("rotate-hor-center");
-    setTimeout(function clicky() {window.location.href = translationAnchor;}, timeout);
-  }
+ 
+    // This class list includes search terms in the new URL when switching from French to English from the search page
+	  // First get the current URL
+    const currentURL = new URL(window.location.href);
+	  // Extract the search query from the current URL
+    var searchParameter = currentURL.searchParams.get("q");
+	  if (searchParameter == null) 
+	    {
+	      var searchParameter = '';
+	    }
+	  // Build the new URL
+    var newurl = newBaseURL + "?q=" + searchParameter;
+	  // Run the animation and return the new URL with search terms.
+//     setTimeout(function onclicky() {window.location.href = newurl;}, timeout);
+    spinAndGiveNewURL(newurl) 
+    return;
+  } 
+
+  // Else. For every other page but search, 
+  // the animation runs and the new URL is displayed.
+    spinAndGiveNewURL(newBaseURL) 
 }
 
-var unfoldField = document.getElementById("unfold");
-var searchSubmit = document.getElementById("searchsubmit");
-var searchInput = document.getElementById("inputsearch");
-var form = document.getElementById("searchForm");
-function unfoldSearch () {  // unhide search fields and input form upon click
-  unfoldField.classList.add("hide");
-   if (searchSubmit.classList.contains("hide")) {
-  unfoldField.classList.remove("show");
-  searchSubmit.classList.remove("hide");
-  searchInput.classList.remove("input_narrow");
-  searchInput.classList.remove("input_hide");
-   }
-  searchSubmit.classList.add("show");
-  searchInput.classList.add("input_show");
-  searchInput.focus();
-}
-
-function foldSearch () { // rehide search fields and input form when clicking outside of the search
-  setTimeout(function foldy() {
-    if (searchSubmit.classList.contains("show")) {
-      searchSubmit.classList.remove("show");
-      searchInput.classList.remove("input_show");
-      unfoldField.classList.remove("hide");
-    }
-    unfoldField.classList.add("show");
-    searchSubmit.classList.add("hide");
-    searchInput.classList.add("input_narrow");
-    setTimeout(function () {
-      searchInput.classList.add("input_hide");
-    }, 350);
-  }, 100);
+function spinAndGiveNewURL(newlink) {
+  var timeout = 255
+  setTimeout(function onclicky() {window.location.href = newlink;}, timeout);
+  return;
 }
 
 // function ShowMoreCards() {

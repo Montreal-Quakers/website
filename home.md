@@ -11,7 +11,7 @@ Quakers are a community of seekers with diverse beliefs. We seek meaningful life
 
 Quakers cherish humanity, perceiving an Inner Light or “that of God” in every human being. Love is the source of [Quaker values](/testimonies) and our peace-building work.
 
-We are an active and affirming community &nbsp;[![Rainbow flag](/assets/images/Rainbow-Flag.jpg){: height="22" width="35.67" class="down_a_tad"}](/intro) &nbsp;All are welcome.
+We are an active and affirming community &nbsp;[![Rainbow flag](/assets/images/Rainbow-Flag.jpg){: height="22" width="36" class="down_a_tad"}](/intro) &nbsp;All are welcome.
 
 <br>
 ## [Quaker practice](/about)

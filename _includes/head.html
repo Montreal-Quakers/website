@@ -4,16 +4,62 @@
   <link rel="preload" href="/assets/css/navstyle.css" as="style">
   <link rel="preload" href="/assets/css/style.css" as="style">
   <link rel="preload" href="/assets/css/fa-custom.css" as="style">
-<!---  <link rel="preload" href="/assets/google_fonts/Bitter/Bitter-Regular.ttf" as="font" type="font/ttf" crossorigin>
+  <link rel="preload" href="/assets/js/navigation.js" as="script" crossorigin>
+  <link rel="preload" href="/assets/google_fonts/Source_Sans_Pro/SourceSansPro-Black.ttf" as="font" type="font/ttf" crossorigin>
+    
+    {% comment %} Removed these preloads because Chrome said they weren't really being used 
+  <link rel="preload" href="/assets/google_fonts/Bitter/Bitter-Regular.ttf" as="font" type="font/ttf" crossorigin>
   <link rel="preload" href="/assets/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/assets/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="/assets/google_fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf" as="font" type="font/ttf" crossorigin> -->
-  <link rel="preload" href="/assets/google_fonts/Source_Sans_Pro/SourceSansPro-Black.ttf" as="font" type="font/ttf" crossorigin>
+  <link rel="preload" href="/assets/google_fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf" as="font" type="font/ttf" crossorigin>
+    {% endcomment %}
+
+    <!-- Some DNS pre-fetching to speed loading as well -->
+  {% if page.translationID == "contribution" %}
+    <link rel="dns-prefetch" href="https://canadahelps.org">
+  {% endif %}
+  {% if page.translationID == "home" %}
+    <link rel="dns-prefetch" href="https://youtube.com">
+  {% endif %}
+  {% if page.translationID == "calendar" %}
+    <link rel="dns-prefetch" href="https://calendar.google.com">
+  {% endif %}
+  {% if page.translationID == "directions" 
+     or page.translationID == "midweek" 
+     or page.translationID == "quebec" 
+     or page.translationID == "south_shore" 
+     or page.translationID == "laurentians" 
+   %}
+    <link rel="dns-prefetch" href="https://maps.google.com">
+  {% endif %}
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="/assets/css/navstyle.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  {% comment %} Special stylesheets for a couple of pages {% endcomment %}
+  {% if page.translationID == "new_attender" or page.translationID == "index-choose" or page.type == "system_grid" %}<link rel="stylesheet" href="/assets/css/grid.css">{% endif %}
+  {% comment %} These headers are necessary for the search page to work {% endcomment %}
+  {% if page.tipue_search_active or layout.tipue_search_active %}
+    <link rel="stylesheet" href="/assets/tipuesearch/css/tipuesearch.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
+    {% comment %} The search terms and results all live in separate directories, tipuesearch-en and tipuesearch-fr {% endcomment %}
+    <script src="/assets/tipuesearch/tipuesearch-{% if fr %}fr{% else %}en{% endif %}/tipuesearch_content.js"></script>
+    <script src="/assets/tipuesearch/tipuesearch-{% if fr %}fr{% else %}en{% endif %}/tipuesearch_set.js"></script>
+    <script src="/assets/tipuesearch/tipuesearch-{% if fr %}fr{% else %}en{% endif %}/tipuesearch.min.js"></script>
+{% endif %}
+
+    <!-- Font awesome stylesheets -->
+  <link rel="stylesheet" href="/assets/css/fa-custom.css">
+  {% comment %}If you want to add FontAwesome 5 icons, comment out the line above by putting it between symbols <!-- --> like this "<!-- <link rel="stylesheet" href="/assets/css/fa-custom.css"> --> and uncomment the line the line below by removing those same symbols (<!-- and -->){% endcomment %}
+  <!-- <link rel="stylesheet" href="/assets/css/all.css"> -->
+  <!-- Normal meta -->
   <meta name="description" content="{% if page.type == "posts" %}{{ post.excerpt }}{% elsif page.description %}{{ page.description }}{% elsif site.title %}{{ site.title }}{% else %}{{ page.translationID }}{% endif %}">
   <meta name="keywords" content="{{ site.keywords}}">
   <meta name="author" content="{{ site.title}}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#01579B">
+
+  <!-- Facebook & Twitter's opengraph headers -->
   <meta property="og:title" content='{% if page.og-title %}{{ page.og-title }}{% else %}{{ page.title }}{% endif %}'>
   <meta property="article:publisher" content="{{ site.url }}">
   {% if page.tag %}<meta property="article:tag" content="{{ page.tags }}">{% endif %}
@@ -25,31 +71,18 @@
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:type" content="{% if page.layout == "post" %}article{% else %}website{% endif %}">
   <meta property="og:locale" content="{% if fr %}fr{% else %}en{% endif %}_CA">
-  <html lang="{{ page.lang | default: 'en' }}">
-  <link rel="stylesheet" href="/assets/css/fa-custom.css">
-  {% comment %}If you want to add FontAwesome 5 icons, comment out the line above by putting it between symbols <!-- --> like this "<!-- <link rel="stylesheet" href="/assets/css/fa-custom.css"> --> and uncomment the line the line below by removing those same symbols (<!-- and -->){% endcomment %}
-  <!-- <link rel="stylesheet" href="/assets/css/all.css"> -->
-  <link rel="stylesheet" href="/assets/css/style.css">
-  {% if page.translationID == "new_attender" or page.translationID == "index-choose" or page.type == "system_grid" %}<link rel="stylesheet" href="/assets/css/grid.css">{% endif %}
-  <link rel="stylesheet" href="/assets/css/navstyle.css">
-  <link rel="preload" href="/assets/js/navigation.js" as="script" crossorigin>
-  {% comment %}<link rel="icon" type="image/png" href="/assets/images/quaker_icon_32x32.png" sizes="32x32">{% endcomment %}
+
+  <!-- A few infosheets -->
   <link rel="icon" type="image/png" href="/favicon.ico" sizes="256x256">
   <link rel="apple-touch-icon" href="/assets/images/quaker_icon_192x192.png" sizes="192x192">
   <link rel="manifest" href="/manifest{% if fr %}-fr{% endif %}.webmanifest">
-  {% if page.translationID == "contribution" %}<link rel="dns-prefetch" href="https://canadahelps.org">{% endif %}
-  {% if page.translationID == "home" %}<link rel="dns-prefetch" href="https://youtube.com">{% endif %}
-  {% if page.translationID == "calendar" %}<link rel="dns-prefetch" href="https://calendar.google.com">{% endif %}
-  {% if page.translationID == "directions" or page.translationID == "midweek" or page.translationID == "quebec" or page.translationID == "south_shore" or page.translationID == "laurentians" %}<link rel="dns-prefetch" href="https://maps.google.com">{% endif %}
+
   {% comment %}Default title in English but in French too{% endcomment %}
-  <title>{% if fr %}{{ site.title-fr }}{% else %}{{ site.title }}{% endif %}</title>
-  <! -- search header -->
-  {% if page.tipue_search_active or layout.tipue_search_active %}
-  <!-- <link rel="stylesheet" href="/assets/tipuesearch/tipuesearch-{% if fr %}fr{% else %}en{% endif %}/css/normalize.css"> jquery3.1.1-->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
-    <script src="/assets/tipuesearch/tipuesearch-{% if fr %}fr{% else %}en{% endif %}/tipuesearch_content.js"></script>
-    <link rel="stylesheet" href="/assets/tipuesearch/css/tipuesearch.css">
-    <script src="/assets/tipuesearch/tipuesearch-{% if fr %}fr{% else %}en{% endif %}/tipuesearch_set.js"></script>
-    <script src="/assets/tipuesearch/tipuesearch-{% if fr %}fr{% else %}en{% endif %}/tipuesearch.min.js"></script>
-{% endif %}
+  <title>
+	  {% if fr %}
+	    {{ site.title-fr }}
+	  {% else %}
+	    {{ site.title }}
+	  {% endif %}
+  </title>
 </head>

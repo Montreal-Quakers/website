@@ -2,18 +2,6 @@
 
 <div class="container-alert">
 
-{% comment %} Include breadcrumb navigations on certain pages {% endcomment %}
-  {% 
-     if page.url != "/nouveau/" 
-     and page.url != "/new_attender/" 
-     and page.url contains "/nouveau/" 
-     or page.url contains "/new_attender/" 
-     or page.translationID == "privacy" 
-     or page.translationID == "livres-français" 
-   %}
-     {% include breadcrumbs.html %}
-   {% endif %}
-
    {% comment %}If redalerts are set in _config.yml{% endcomment %}
 
 {% if site.redalerts == "all" %}

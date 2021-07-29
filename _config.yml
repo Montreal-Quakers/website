@@ -16,7 +16,6 @@ fb_link: https://www.facebook.com/MontrealQuakers/
 # This sets the point at which the website will switch from "desktop view" to "mobile/tablet view"
 breakpoint: 1080px
 mediabreak: 800px
-verynarrow: 345px
 
 webrick:
   headers:
@@ -51,8 +50,8 @@ media_pages:
     # Anything else, like '"alerton = "off"' and alerts will be off.
     # Change alert colour in the _sass/_colors.scss, $alert-color
 
-covid-close-date-en: August 5th, 2021
-covid-close-date-fr: 5 août 2021
+covid-close-date-en: September 5th, 2021
+covid-close-date-fr: 5 septembre 2021
 
 redalerts: some
 redalert_all_text-en: alert/en-covid.md

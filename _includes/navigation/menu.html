@@ -1,0 +1,158 @@
+{% comment %}
+
+Table of contents: 
+
+1) Hamburger menu for narrow screen
+2) Building the navigation menu:
+  i) Home button for the wide menu
+  ii) Home button for the narrow menu
+  iii) Items with submenus
+  iii) Items without submenus
+3) Language changer button
+4) Search form
+
+{% endcomment %}
+<!--- Hamburger menu for the narrow screen, hidden in the wide menu --->
+<input 
+  type="checkbox" 
+  id="nav-toggle"
+  title="Dropdown menu" 
+  class="nav-toggle" 
+  {% comment %} onkeypress="respondBar()"
+  onclick="respondBar()" {% endcomment %}
+  >
+
+<nav class="navbar" id="myNavbar">
+<ul>
+  <!--- Home icon for the wide menu -->
+  <li>
+    <a 
+        id="widehome" 
+        aria-label="{{ homename }}"
+        class=
+          "
+          {% case page.url %}
+            {% when '/' or homelink %}
+              active
+            {% endcase %}
+          " 
+        href="{{ homelink }}"
+        title="{{ homename }}"
+        >
+
+        <i class="fas fa-home fa-lg" style="padding:0;"></i>
+
+      </a>
+    </li>      
+    <li>
+      <a 
+        id="narrowhome" 
+        class="
+          {% case page.url %}
+            {% when '/' or homelink %}
+              active
+            {% endcase %}
+            "
+        href="{{ homelink }}"
+        title="{{ homename }}"
+        aria-label="{{ homename }}"
+        >
+
+        {{ homename }} &nbsp;
+        <i class="fas fa-home" style="padding=0;"></i>
+      </a>
+
+      <!-- Now to build the menu from the data in _data/navigation.yml -->
+  {% assign counter = 0 %}
+  
+  {% for item in doclist %} 
+
+  {% comment %} If there are submenu items, we'll create a button and then add the submenu items. {% endcomment %}
+
+  {% if item.submenu != nil %} 
+
+  {% assign counter = counter | plus: 1 %}
+  <li 
+    class="dropdown dropdown-{{ thislang }}{{ counter }}-container"
+    onmouseenter="responsiveClick('{{ thislang }}{{ counter }}','','hover')" 
+    onmouseleave="responsiveClick('{{ thislang }}{{ counter }}',1,'hover')"
+  >
+      <button 
+	 {% if item.hovertitle %}
+	   title="{{ item.hovertitle }}" 
+	 {% endif %}
+	   onclick="responsiveClick('{{ thislang }}{{ counter }}')" 
+	   onkeypress="responsiveClick('{{ thislang }}{{ counter }}')" 
+	 class="dropbtn" 
+	 {% if item.hovertitle %}
+	   title="{{ item.hovertitle }}"
+	 {% endif %} 
+	 >
+
+	 <i id="caret_{{ thislang }}{{ counter }}" class="fa fa-caret-right"></i> &nbsp;
+	 {{ item.title }}
+	 {% if item.icon %} &nbsp;
+	   {{ item.icon }}
+	 {% endif %}
+
+      </button>
+
+    <ul id="dropdown_{{ thislang }}{{ counter }}">
+      {% for subitem in item.submenu %}
+        {% assign realurl = page.url | url_decode %}
+      <li class="dropdown-content dropdown-{{ thislang }}{{ counter }}-container">
+        <a 
+	  href="{{ subitem.sublink }}" 
+	  {% if subitem.subhovertitle %}
+	    title="{{ subitem.subhovertitle }}"
+	  {% endif %}
+	  {% if subitem.sublink == realurl %}
+	    class="active"
+	  {% endif %}
+	>
+
+	{% if subitem.subicon %}
+	  {{ subitem.subicon }}
+	{% endif %} 
+
+	{{ subitem.subtitle }}
+
+	</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </li>
+  {% endif %}
+
+  {% comment %} If there are no submenu items, we'll just include the menu entry as is. {% endcomment %}
+
+  {% if item.submenu == null %}
+
+  <li>
+    <a 
+      href="{{ item.link }}" 
+      {% if item.hovertitle %}
+        title="{{ item.hovertitle }}"
+      {% endif %}
+      {% if item.link == page.url %}
+        class="active"
+      {% endif %}
+      >
+
+      {{ item.title }} &nbsp;{{ item.icon }}
+
+    </a>
+  </li>
+
+  {% endif %}
+
+  {% endfor %}
+
+  <!-- Language changer button -->
+    {% include navigation/menu-buttons/language-changer-button.html %}
+
+  <!-- Search form  -->
+    {% include navigation/menu-buttons/search-form.html %}
+  </ul>
+</nav>
+

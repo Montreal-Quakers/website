@@ -43,26 +43,25 @@
   {% assign doclist = site.data.navigation.en %}
 {% endif %}
 
-  <!-- this header vanishes on small screens. I use liquid code to change the language of the header depending on the page language -->
-    <div id="wideheader">
-     <div style="overflow: hidden;">
-	<a href={{ homelink }}>
+  <!-- this header vanishes on small screens. I use liquid code to change the language of the header depending on the page language 
+  <div class="wideheader"> --->
+	<a class="linkoff wideheader" href={{ homelink }}>
       <!-- I put a few animations in for specific pages, just to make the site a bit more playful -->
       <!-- top left bird on widescreen -->
         <img alt="top left bird logo" 
-	  class="
+	  class="noback 
 	    {% for each in site.bird_left %}
 	      {% if page.translationID == each.translationID %} {{ each.animation }} {% endif %}
 	    {% endfor %}
 	    " 
 	  src="/assets/images/quaker_icon_95x95.png" 
-	  width="95px" 
-	  height="95px"
+	  width="95" 
+	  height="95"
 	>
 		     
      <!-- top header title on widescreen -->
      <span 
-       class="noback 
+       class="noback
          {% for each in site.header_animation %}
 	   {% if page.translationID == each.translationID %} {{ each.animation }} {% endif %}
 	 {% endfor %} 
@@ -85,12 +84,9 @@
 	 {% endfor %}
 	 " 
        src="/assets/images/quaker_icon_95x95.png" 
-       width="95px" 
-       height="95px">
+       width="95" 
+       height="95">
      </a>
-
-     </div>
-   </div>
 
 <div style="position:relative;">
 	<!-- A microscopic special div to mark where the stickyscroll begins. The second special div serves to create a buffer so that when the navbar becomes sticky, special2 adds padding so that the screen doesn't jump -->
@@ -137,10 +133,9 @@
   <!--- Home icon for the wide menu -->
   <a 
     id="widehome" 
-    aria-label="Home" 
-    alt="Home" 
-    title="Home" 
-    class="
+    aria-label="{{ homename }}"
+    class=
+      "
       {% case page.url %}
         {% when '/' or homelink %}
 	  active
@@ -150,13 +145,12 @@
     title="{{ homename }}"
     >
 
-    <i class="fas fa-home fa-lg" alt="Home button" style="padding=0;"></i>
+    <i class="fas fa-home fa-lg" style="padding:0;"></i>
 
   </a>
 	
   <a 
     id="narrowhome" 
-    title="Home" 
     class="
       {% case page.url %}
         {% when '/' or homelink %}
@@ -165,6 +159,7 @@
 	"
     href="{{ homelink }}"
     title="{{ homename }}"
+    aria-label="{{ homename }}"
     >
 
     {{ homename }} &nbsp;
@@ -391,7 +386,7 @@
         "Ouvrir le champ de recherche "
         {% else %}
           "Search tray open"
-        {% endif %}" 
+        {% endif %} 
 
       id="unfold" 
       class="show" 
@@ -408,7 +403,7 @@
 
 <div class="icon_right">
   <a 
-    title="Home" 
+    title="{{ homename }}"
     href="{{ homelink }}"
   >
 
@@ -422,8 +417,8 @@
     {% endfor %}" 
 
     src="/assets/images/quaker_icon_35x35.png" 
-    width="35px" 
-    height="35px"
+    width="35" 
+    height="35"
     >
   </a>
 

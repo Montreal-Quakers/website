@@ -1,0 +1,47 @@
+<div id="narrowheader" class="">
+  <!--- The hamburger menu for the narrow menu will appear here, hidden in the wide menu --->
+  <label for="nav-toggle" class="nav-toggle-label">
+  	<span></span>
+  </label>
+
+    <a 
+      href="{{ homelink }}"
+      class="
+        linkoff
+        {% for each in site.mobile_header_animation %}
+          {% if page.translationID == each.translationID %} {{ each.animation }} {% endif %}
+        {% endfor %}"
+    >
+
+  {% if fr %} 
+    {{ site.short_title-fr }} 
+  {% else %} 
+    {{ site.short_title }} 
+  {% endif %}
+
+  </a>
+   <!-- Mobile bird icon -->
+
+  <div class="logo__mobile">
+    <a 
+      title="{{ homename }}"
+      href="{{ homelink }}"
+    >
+  
+    <img 
+      alt="top right bird logo" 
+      class="
+      {% for each in site.mobile_bird %}
+        {% if page.translationID == each.translationID %}
+          {{ each.animation }} 
+        {% endif %}
+      {% endfor %}" 
+  
+      src="/assets/images/quaker_icon_35x35.png" 
+      width="35" 
+      height="35"
+      >
+    </a>
+  
+  </div>
+</div>

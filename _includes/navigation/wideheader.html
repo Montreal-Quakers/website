@@ -1,0 +1,45 @@
+<div>
+  <a class="linkoff wideheader" href={{ homelink }}>
+  <!-- I put a few animations in for specific pages, just to make the site a bit more playful -->
+  <!-- top left bird on widescreen -->
+  <img alt="top left bird logo" 
+    class="noback 
+    {% for each in site.bird_left %}
+      {% if page.translationID == each.translationID %} {{ each.animation }} {% endif %}
+    {% endfor %}
+    " 
+  src="/assets/images/quaker_icon_95x95.png" 
+  width="95" 
+  height="95"
+  >
+		     
+     <!-- top header title on widescreen -->
+     <span 
+       class="wideheader__text noback
+         {% for each in site.header_animation %}
+	   {% if page.translationID == each.translationID %} {{ each.animation }} {% endif %}
+	 {% endfor %} 
+	 "
+     >
+       {% if fr %} 
+         {{ site.title-fr }}
+       {% else %}
+         {{ site.title }}
+       {% endif %}
+
+     </span>
+
+     <!-- top right bird animation on widescreen -->
+     <img 
+       alt="top right bird logo" 
+       class="noback 
+         {% for each in site.bird_right %}
+	   {% if page.translationID == each.translationID %} {{ each.animation }} {% endif %}
+	 {% endfor %}
+	 " 
+       src="/assets/images/quaker_icon_95x95.png" 
+       width="95" 
+       height="95">
+     </a>
+
+</div>

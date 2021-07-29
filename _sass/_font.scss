@@ -1,25 +1,17 @@
-// @font-face {
-//   font-family: "IM Fell English";
-//   src: url(/assets/google_fonts/IM_Fell_English/IMFellEnglish-Regular.ttf);
-// }
-// 
-// @font-face {
-//   font-family: "IM Fell English";
-//   src: url(/assets/google_fonts/IM_Fell_English/IMFellEnglish-Regular.ttf);
-//   font-style: italic;
-// }
-// 
-// @font-face {
-//   font-family: Oswald;
-//   src: url(/assets/google_fonts/Oswald/Oswald-VariableFont_wght.ttf);
-// 
-// }
+// This file sets some font variables
+// And then imports some fonts for use in the CSS
 
-// @font-face {
-//   font-family: "Playfair Display";
-//   src: url(/assets/google_fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf);
-//   font-display: swap;
-// }
+// Font variables
+
+$body-font-size: 17px;
+$mobile-header-font-size: 1.5rem;
+$header-font-size: 2.7rem;
+$nav-font-size: 1em;
+$font-mono: "Courier New", Courier, monospace; 
+$font-sans: "Source Sans Pro", Helvetica, Arial, sans-serif; // "Source Sans Pro",
+$font-serif: Bitter, Georgia, serif; // "IM Fell English", "Oswald", "Playfair Display",
+$serif-spacing: 1.5px;
+$text-width: 50em; //Sets the width of the text on the page
 
 
 @font-face {
@@ -54,3 +46,28 @@
 //   src: url(/assets/google_fonts/Source_Sans_Pro/SourceSansPro-Light.ttf);
 //   font-weight: lighter;
 // }
+
+
+// @font-face {
+//   font-family: "IM Fell English";
+//   src: url(/assets/google_fonts/IM_Fell_English/IMFellEnglish-Regular.ttf);
+// }
+// 
+// @font-face {
+//   font-family: "IM Fell English";
+//   src: url(/assets/google_fonts/IM_Fell_English/IMFellEnglish-Regular.ttf);
+//   font-style: italic;
+// }
+// 
+// @font-face {
+//   font-family: Oswald;
+//   src: url(/assets/google_fonts/Oswald/Oswald-VariableFont_wght.ttf);
+// 
+// }
+
+// @font-face {
+//   font-family: "Playfair Display";
+//   src: url(/assets/google_fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf);
+//   font-display: swap;
+// }
+

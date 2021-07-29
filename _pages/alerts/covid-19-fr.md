@@ -6,8 +6,8 @@ og-title: Maladie COVID-19
 ---
 ## Horaire
 Comme mesure préventive contre la COVID-19, voici les modifications:
-* L'assemblée de [**dimanche**](/coordonnées): à de 11h à 11h45 avec des activités après **par téléphone ou en ligne par vidéoconférence** jusqu'au moins le {{ site.covid-close-date-fr }}.
-* Le culte du groupe de [**Québec**](/québec): le premier dimanche du mois à 11h **en présentiel**, suivant les [consignes sanitaires](#consignes) ci-dessous.
+* L'assemblée de [**dimanche**](/coordonnées): à de 11h à 11h45 avec des activités après **par téléphone ou en ligne par vidéoconférence** jusqu'au {{ site.covid-close-date-fr }}. À partir du 12 septembre nous serons de retour au Centre Greene, suivant les [consignes sanitaires](#consignes) ci-dessous.
+* Le culte du groupe de [**Québec**](/québec): le premier dimanche du mois à 13h **en présentiel**, suivant les [consignes sanitaires](#consignes) ci-dessous.
 * Le culte du groupe de [**mi-semaine**](/mi-semaine): **le mercredi à 19h** (plutôt qu'à 17h30) pendant l'été ce groupe se réunira **par téléphone ou en ligne par vidéoconférence** pendant 45 minutes.
 * Le culte du groupe aux [**Laurentides**](/laurentides): il vaut mieux [appeler avant](/laurentides#contact).
 * Groupe Quaker sur la [**Rive-Sud**](/rive-sud): nous attendons des conditions plus sécuritaires avant de commencer ce groupe.
