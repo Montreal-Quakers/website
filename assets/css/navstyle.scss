@@ -52,7 +52,7 @@ $mob-pixels: {{ site.breakpoint }};
     outline: none;
   }
   &:hover ~ .nav-toggle-label {
-    color: grey;
+    // color: grey;
     // transition: color .3s;
   }
 }
@@ -79,7 +79,7 @@ $mob-pixels: {{ site.breakpoint }};
     width: 2rem;
     border-radius: 2px;
     position: relative;
-    transition: transform,width 350ms ease-in-out;//*, width, opacity*//
+    transition: transform 150ms ease-in-out,width 350ms ease-in-out;
   }
 
   span::before, span::after {
@@ -196,8 +196,11 @@ $mob-pixels: {{ site.breakpoint }};
     white-space: nowrap;
   }
 
-  button.dropbtn {background: inherit}
-  a:hover,.active,ul .dropdown .active {
+  button.dropbtn {
+    background: inherit
+  }
+
+  a:hover,.active,ul .dropdown .active, .dropdown ul li a:hover {
     background-color: var(--active);
   }
   // Search on narrow screens
@@ -346,6 +349,7 @@ $mob-pixels: {{ site.breakpoint }};
       padding:20px 70px;
     }
   }
+
   .navbar {
      overflow: initial;
      position: -moz-sticky;

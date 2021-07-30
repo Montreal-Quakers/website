@@ -187,7 +187,7 @@ html,:root {
 {
 	padding: 10px 17px 11px 17px;
      background-color: var(--color-1);
-     border: 1px solid #e3e3e3;
+     border: none; // 1px solid #e3e3e3;
      border-radius: 1px;
 	color: var(--alert-text);
 	margin-right: 7px;
@@ -198,7 +198,7 @@ html,:root {
 {
 	padding: 10px 17px 11px 17px;
      background: var(--active);
-     border: 1px solid #e3e3e3;
+     border: none; // 1px solid #e3e3e3;
      border-radius: 1px;
 	color: var(--alert-text);
 	margin-right: 7px;
