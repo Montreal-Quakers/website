@@ -33,55 +33,6 @@ $mob-pixels: {{ site.breakpoint }};
 // 
 //   Breadcrumb menu
 
-// html,:root {
-// 	--body-text: black;
-// 	--color-1: #3f51b5;
-// 	--color-1-dark: #002984;
-// 	--color-1-light: #757de8;
-// 	--nav-text: black;
-// 	--body-bg: white;
-// 	--redalert: #b53f51;
-// 	--bluealert: #a33fb5;
-// 	--alert-text: white;
-// 	--anti-alert-text: black;
-// 	--offText: #ccc;
-// 	--active: #283593;
-//         --heart: #ea2311;
-// 	--leaf: green;
-// 	--chair: #4E342E;
-// 	--card-color: hsl(0,0%,90%);
-// 	--card-header: rgb(246,246,246);
-// 	--card-hover: #d1d9ff;
-// 	--card-hover-shadow: 0.3;
-// 	--card-shadow: 0.1;
-// }
-// 
-// @media (prefers-color-scheme: dark) {
-//   html,:root {
-// 	--body-text: white;
-// 	--color-1: #9fa8da;
-// 	--color-1-dark: #6f79a8;
-// 	--color-1-light: #d1d9ff;
-// 	--nav-text: white;
-// 	--body-bg: #121212;
-// 	--redalert: #da9fa8;
-// 	--bluealert: #d19fda;
-// 	--alert-text: #121212;
-// 	--anti-alert-text: white;
-// 	--offText: #ccc;
-// 	--active: #7986cb;
-//         --buttonyellow: #ffffcf;
-//         --heart: #f82d17;
-// 	--leaf: #199111;
-// 	--chair: #795548;
-// 	--card-color: hsl(0,0%,13%);
-// 	--card-header: #1a1a1a;
-// 	--card-hover: #000030;
-// 	--card-hover-shadow: 0.9;
-// 	--card-shadow: .8;
-//   }
-// }
-
 .chair {color: var(--chair)}
 .heart {color: var(--heart)}
 .leaf {color: var(--leaf)}
@@ -115,7 +66,7 @@ $mob-pixels: {{ site.breakpoint }};
   // top: 40px;
   // left: 0;
   //margin-left: 1em;
-  height: 100%;
+  height: 55px;
   //height: 10px;
   &:hover {
     background: var(--active);
@@ -145,7 +96,7 @@ $mob-pixels: {{ site.breakpoint }};
   }
 }
 
-.nav-toggle:checked ~ nav {
+.nav-toggle:checked ~ #myNavbar {
   transform: scale(1,1);
 
   a,button {
@@ -187,7 +138,7 @@ $mob-pixels: {{ site.breakpoint }};
   }
 }
 
-nav,nav input {
+#myNavbar,#myNavbar input {
   font: {
     size: $nav-font-size;
     family: $font-sans;
@@ -195,7 +146,7 @@ nav,nav input {
   text-align: left;
 }
 
-nav {
+#myNavbar {
   color: var(--alert-text);
   background: var(--color-1-dark);
   z-index: 5;
@@ -392,8 +343,12 @@ nav {
       padding:20px 70px;
     }
   }
-  nav {
+  #myNavbar {
      overflow: initial;
+     position: -moz-sticky;
+     position: -ms-sticky;
+     position: -o-sticky;
+     position: -webkit-sticky;
      position: sticky;
      transform: scale(1,1);
      top: 0;
