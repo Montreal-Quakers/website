@@ -96,7 +96,7 @@ $mob-pixels: {{ site.breakpoint }};
   }
 }
 
-.nav-toggle:checked ~ #myNavbar {
+.nav-toggle:checked ~ .navbar {
   transform: scale(1,1);
 
   a,button {
@@ -138,7 +138,9 @@ $mob-pixels: {{ site.breakpoint }};
   }
 }
 
-#myNavbar,#myNavbar input {
+.navbar,.navbar input {
+  -moz-appearance: none;
+  -webkit-appearance: none;
   font: {
     size: $nav-font-size;
     family: $font-sans;
@@ -146,7 +148,7 @@ $mob-pixels: {{ site.breakpoint }};
   text-align: left;
 }
 
-#myNavbar {
+.navbar {
   color: var(--alert-text);
   background: var(--color-1-dark);
   z-index: 5;
@@ -343,7 +345,7 @@ $mob-pixels: {{ site.breakpoint }};
       padding:20px 70px;
     }
   }
-  #myNavbar {
+  .navbar {
      overflow: initial;
      position: -moz-sticky;
      position: -ms-sticky;
