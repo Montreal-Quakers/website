@@ -12,19 +12,17 @@ Table of contents:
 4) Search form
 
 {% endcomment %}
-<!--- Hamburger menu for the narrow screen, hidden in the wide menu --->
+<!-- Hamburger menu for the narrow screen, hidden in the wide menu -->
 <input 
-  type="checkbox" 
-  id="nav-toggle"
-  title="Dropdown menu" 
-  class="nav-toggle" 
-  {% comment %} onkeypress="respondBar()"
-  onclick="respondBar()" {% endcomment %}
+  type  = "checkbox"
+  id    = "nav-toggle"
+  title = "Dropdown menu"
+  class = "nav-toggle"
   >
 
 <nav class="navbar" id="myNavbar">
 <ul>
-  <!--- Home icon for the wide menu -->
+  <!-- Home icon for the wide menu -->
   <li>
     <a 
         id="widehome" 
@@ -40,7 +38,7 @@ Table of contents:
         title="{{ homename }}"
         >
 
-        <i class="fas fa-home fa-lg" style="padding:0;"></i>
+        <i class="fas fa-home fa-lg"></i>
 
       </a>
     </li>      
@@ -59,7 +57,7 @@ Table of contents:
         >
 
         {{ homename }} &nbsp;
-        <i class="fas fa-home" style="padding=0;"></i>
+        <i class="fas fa-home"></i>
       </a>
 
       <!-- Now to build the menu from the data in _data/navigation.yml -->
@@ -78,11 +76,8 @@ Table of contents:
     onmouseleave="responsiveClick('{{ thislang }}{{ counter }}',1,'hover')"
   >
       <button 
-	 {% if item.hovertitle %}
-	   title="{{ item.hovertitle }}" 
-	 {% endif %}
-	   onclick="responsiveClick('{{ thislang }}{{ counter }}')" 
-	   onkeypress="responsiveClick('{{ thislang }}{{ counter }}')" 
+	 onclick="responsiveClick('{{ thislang }}{{ counter }}')" 
+	 onkeypress="responsiveClick('{{ thislang }}{{ counter }}')" 
 	 class="dropbtn" 
 	 {% if item.hovertitle %}
 	   title="{{ item.hovertitle }}"

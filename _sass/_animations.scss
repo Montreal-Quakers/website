@@ -50,7 +50,7 @@
       animation: roll-in-right 1.0s ease-out -0.4s both;
 }
 .swing-in1 {
-       animation: swing-in-top-fwd 1.0s cubic-bezier(0.175, 0.885, 0.320, 1.275) 0.40s both;
+       animation: swing-in-top-fwd 1.0s cubic-bezier(0,.22,.16,1.59) 0.40s both; //0,.22,.16,1.79 original: 0.175, 0.885, 0.320, 1.575
  } 
  .land_left_flip {
    animation: tilt-in-tl 0.45s cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.20s both, flip-vertical-left 0.3s cubic-bezier(0.455, 0.030, 0.515, 0.955) 1s reverse forwards;
@@ -65,11 +65,6 @@
 //     transform: rotateX(180deg);
     animation: rotate-hor-center 0.2s linear 1 forwards; // cubic-bezier(0.550, 0.085, 0.680, 0.530) both forwards;
  }
-
-// This is the search bar animation
-
-
-
 
 //    wobbles for the contact page
 .shake-tl {

@@ -63,11 +63,7 @@ $mob-pixels: {{ site.breakpoint }};
   padding: 10px;
   cursor: pointer;
   position: relative;
-  // top: 40px;
-  // left: 0;
-  //margin-left: 1em;
   height: 55px;
-  //height: 10px;
   &:hover {
     background: var(--active);
   }
@@ -79,7 +75,7 @@ $mob-pixels: {{ site.breakpoint }};
     width: 2rem;
     border-radius: 2px;
     position: relative;
-    transition: transform 150ms ease-in-out,width 350ms ease-in-out;
+    transition: transform 100ms ease-in-out,width 350ms ease-in-out;
   }
 
   span::before, span::after {
@@ -98,6 +94,7 @@ $mob-pixels: {{ site.breakpoint }};
 
 .nav-toggle:checked ~ .navbar {
   transform: scale(1,1);
+  transition: transform 400ms ease-in-out;
 
   a,button {
     opacity: 1;
@@ -121,7 +118,6 @@ $mob-pixels: {{ site.breakpoint }};
                 rotate(-90deg);
      width: 1rem;
    }
-  // transition: all 300ms ease-in;
 }
 
 // Mobile bird logo
@@ -162,7 +158,7 @@ $mob-pixels: {{ site.breakpoint }};
   width: 100%;
   transform: scale(1, 0);
   transform-origin: top;
-  transition: transform 400ms ease-in-out;
+  transition: transform 200ms ease-in-out;
 
   i {
     transition: transform 100ms ease-in;
@@ -338,8 +334,8 @@ $mob-pixels: {{ site.breakpoint }};
     padding: 40px 0px;
     justify-content: center;
     align-items: center;
-    background: var(--color-1-dark);
-    color: var(--alert-text);
+    background: var(--wideheader-color);
+    color: var(--wideheader-text);
 
     &__text {
       white-space: nowrap;

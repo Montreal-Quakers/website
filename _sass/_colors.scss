@@ -19,6 +19,8 @@ html,:root {
 	--card-hover: #d1d9ff;
 	--card-hover-shadow: 0.3;
 	--card-shadow: 0.1;
+	--wideheader-color: var(--color-1-dark);
+	--wideheader-text: var(--alert-text);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -44,6 +46,8 @@ html,:root {
 	--card-hover: #000030;
 	--card-hover-shadow: 0.9;
 	--card-shadow: .8;
+	--wideheader-color: var(--body-bg);
+	--wideheader-text: var(--body-text);
   }
 }
 
