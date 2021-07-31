@@ -308,12 +308,20 @@ $mob-pixels: {{ site.breakpoint }};
 }
 
 .intersectionObserver {
-  height: 0;
   background-color: transparent;
 }
+
+// for the topBtn
 #intersectionObserver1 {
   position: absolute;
-  top: 400px;
+  top: 0px;
+  height: 400px;
+  width: 0;
+} 
+
+// So that the menu changes colors
+#intersectionObserver2 {
+  height: 0px;
 }
 
 // WIDE screen
