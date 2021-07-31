@@ -43,15 +43,9 @@ if (MediaQuery.matches) {
   function callback2(entries, observer2) {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
-        NavBar.classList.remove("change_color");
-        // if (NavBar.classList.contains("sticky")) {
-        //   NavBar.classList.remove("sticky");
-  // 	target2.classList.remove("stickyOffset");
-  //       }
+        NavBar.classList.remove("change_nav_color");
       } else {
-  	NavBar.classList.add("change_color");
-  // 	NavBar.classList.add("sticky");
-  // 	target2.classList.add("stickyOffset");
+  	NavBar.classList.add("change_nav_color");
        }
      });
   // }

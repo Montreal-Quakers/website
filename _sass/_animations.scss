@@ -2,42 +2,8 @@
 // and the keyframes, which gives instructions on what the animation should do.
   
 // Table of contents:
-// Two animations and keyframes that change the widescreen navbar color
 // A number of "animation:"
 // A number of "keyframes"
-
-// These two animations and keyframes change the widescreen navbar color
-  .change_color {
-    animation-name: change;
-    animation-duration: .4s;
-    animation-fill-mode: forwards;
-    color: var(--alert-text);
-  }
-  
-  .return_color {
-    background: var(--color-1);
-    animation-name: return;
-    animation-duration: .25s;  
-    animation-fill-mode: forwards;
-  }
-@keyframes return {
-  from {
-    background-color: var(--color-1-dark);
-    color:var(--alert-text);
-  }
-  to {
-    background-color: var(--color-1);
-    color:var(--alert-text);
-  }
-}
-
-@keyframes change {
-  from {}
-  to {
-    background-color: var(--color-1-dark);
-    color:var(--alert-text);
-  }
-}
 
  // This animation calls for the keyframe that causes the header text to come into focus
 .focustext {
