@@ -51,12 +51,12 @@ if (MediaQuery.matches) {
   // }
   }
 }
-//  else {
-   // When the user clicks on the button, toggle between hiding and showing the dropdown content
-   function responsiveClick(id, cancel, hover) {
-       if (!MediaQuery.matches && hover === "hover") {return}
-     var dropdownID = document.getElementById("dropdown_" + id);
-     var dropdownID_height = document.getElementById("dropdown_" + id).scrollHeight;
+
+// When the user clicks on the button, toggle between hiding and showing the dropdown content
+function responsiveClick(id, cancel, hover) {
+  if (!MediaQuery.matches && hover === "hover") {return}
+  var dropdownID = document.getElementById("dropdown_" + id);
+  var dropdownID_height = document.getElementById("dropdown_" + id).scrollHeight;
  //     var dropdownIDChildren = dropdownID.children;
  // 	  console.log(dropdownIDChildren);
      var caretID = document.getElementById("caret_" + id);

@@ -240,37 +240,26 @@ $mob-pixels: {{ site.breakpoint }};
   }
 }
 
-{% assign counter = 0 %}
-{% for item in site.data.navigation.en %}
-  {% if item.submenu %}
-    {% assign counter = counter | plus: 1 %}
-    #dropdown_en{{ counter }} {
-	    max-height: 0;
-	    overflow: hidden;
-	    transition: max-height .2s ease-out;
-    }
-
-    .dropdown_en{{ counter }}-container {
-	    max-height: 0;
-	    overflow: hidden;
-	    transition: max-height .2s ease-out;
-    }
-    {% endif %}
-{% endfor %}
-
-{% assign counter = 0 %}
-{% for item in site.data.navigation.fr %}
-  {% if item.submenu %}
-    {% assign counter = counter | plus: 1 %}
-    #dropdown_fr{{ counter }} {
-      max-height: 0;
-      overflow: hidden;
-      transition: max-height .2s ease-out;
-      &:focus {
-	outline: none;
+// This code makes dropdown menus that are easy to open and close
+{% assign langs = "en, fr" | split: ", " %}
+{% for currentLang in langs %}
+  {% assign counter = 0 %}
+  {% if currentLang == "en" %}
+    {% assign doclist = site.data.navigation.en %}
+  {% endif %}
+  {% if currentLang == "fr" %}
+    {% assign doclist = site.data.navigation.fr %}
+  {% endif %}
+  {% for item in doclist %}
+    {% if item.submenu %}
+      {% assign counter = counter | plus: 1 %}
+        #dropdown_{{ currentLang }}{{ counter }} {
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height .2s ease-out;
       }
-    }
     {% endif %}
+  {% endfor %}
 {% endfor %}
 
 .dropdown-content {
