@@ -67,9 +67,12 @@
 @keyframes roll-in-left {
   0% {
     transform: translateX(-800px) rotate(-540deg);
+    opacity: 1;
+    overflow: hidden;
   }
   100% {
     transform: translateX(0) rotate(0deg);
+    opacity: 1;
   }
 }
 
@@ -77,9 +80,12 @@
 @keyframes roll-in-right {
   0% {
     transform: translateX(800px) rotate(540deg);
+    opacity: 1;
+    overflow: hidden;
   }
   100% {
     transform: translateX(0) rotate(0deg);
+    opacity: 1;
   }
 }
 
@@ -87,9 +93,12 @@
 @keyframes tilt-in-tl {
   0% {
     transform: rotateY(145deg) rotateX(20deg) translate(750px, -250px) skew(12deg, 15deg);
+    opacity: 1;
+    overflow: hidden;
   }
   100% {
     transform: rotateY(180deg) rotateX(0deg) translate(0, 0) skew(0deg, 0deg);
+    opacity: 1;
   }
 }
 
@@ -107,9 +116,12 @@
 @keyframes tilt-in-fwd-tr {
   0% {
     transform: rotateY(20deg) rotateX(35deg) translate(500px, -300px) skew(-35deg, 10deg);
+    opacity: 1;
+    overflow: hidden;
   }
   100% {
     transform: rotateY(0) rotateX(0deg) translate(0, 0) skew(0deg, 0deg);
+    opacity: 1;
   }
 }
 
@@ -255,11 +267,13 @@
     transform: rotateX(-100deg);
     transform-origin: top;
     opacity: 0;
+    overflow: hidden;
   }
   100% {
     transform: rotateX(0deg);
     transform-origin: top;
     opacity: 1;
+    overflow: auto;
   }
 }
 

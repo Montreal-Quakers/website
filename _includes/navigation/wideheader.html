@@ -3,7 +3,7 @@
   <!-- I put a few animations in for specific pages, just to make the site a bit more playful -->
   <!-- top left bird on widescreen -->
   <img alt="top left bird logo" 
-    class="noback 
+    class="logo noback 
     {% for each in site.bird_left %}
       {% if page.translationID == each.translationID %} {{ each.animation }} {% endif %}
     {% endfor %}
@@ -32,7 +32,7 @@
      <!-- top right bird animation on widescreen -->
      <img 
        alt="top right bird logo" 
-       class="noback 
+       class="bird noback 
          {% for each in site.bird_right %}
 	   {% if page.translationID == each.translationID %} {{ each.animation }} {% endif %}
 	 {% endfor %}
