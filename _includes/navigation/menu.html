@@ -72,12 +72,12 @@ Table of contents:
   {% assign counter = counter | plus: 1 %}
   <li 
     class="dropdown dropdown-{{ thislang }}{{ counter }}-container"
+    onclick="responsiveClick('{{ thislang }}{{ counter }}')" 
+    onkeypress="responsiveClick('{{ thislang }}{{ counter }}')" 
     onmouseenter="responsiveClick('{{ thislang }}{{ counter }}','','hover')" 
     onmouseleave="responsiveClick('{{ thislang }}{{ counter }}',1,'hover')"
   >
       <button 
-	 onclick="responsiveClick('{{ thislang }}{{ counter }}')" 
-	 onkeypress="responsiveClick('{{ thislang }}{{ counter }}')" 
 	 class="dropbtn" 
 	 {% if item.hovertitle %}
 	   title="{{ item.hovertitle }}"
