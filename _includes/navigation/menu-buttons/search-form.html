@@ -1,6 +1,7 @@
-<li id="search-container">
+<li id="search">
+  <div id=search__spacer>&nbsp;</div>
   <form 
-    id="searchForm" 
+    id="search__form" 
     title=
       {% if fr %}
       "Formulaire de recherche"
@@ -25,7 +26,7 @@
         "Search text"
       {% endif %}
      
-    id="searchInput" 
+    id="search__input" 
 
      aria-label=
        {% if fr %}
@@ -61,7 +62,7 @@
           "Search submit button"
         {% endif %} 
 
-      id="searchSubmit" 
+      id="search__submit" 
       type="submit"
     >
 

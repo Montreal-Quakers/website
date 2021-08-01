@@ -5,7 +5,6 @@ var IntersectionObserver1 = document.getElementById("intersectionObserver1");
 var target1 = document.getElementById("intersectionObserver2");
 var ScrollToTopBtn = document.getElementById("topBtn");
 var NavBar = document.getElementById("myNavbar");
-  // var btn = document.getElementById("searchbutton");
 
 // Instead of using a calculation on scroll, this new backend (2021) uses intersectionObserver
 let IntersectionObserverResult = new IntersectionObserver(callback1);
