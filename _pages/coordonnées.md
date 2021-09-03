@@ -3,13 +3,11 @@ title: L'assemblée de dimanche
 lang: fr
 translationID: directions
 ---
-{% include picture.html basename="/assets/images/mtl_homepage3" type="jpg" alt="Bannière Quakers pour la Paix" class="img_center100" %}
-
-## COVID-19
-
-Les informations ci-dessous ont été modifiées pendant la pandémie. Voir notre [page d'information COVID-19](/covid-19-fr) pour plus d'informations.
+{% include picture.html filename="mtl_homepage3.jpg" type="webp avif" alt="Bannière Quakers pour la Paix" class="img_center100" %}
 
 ## Coordonnées
+
+Le dernier dimanche du mois, nous nous rencontrons sur Zoom ([contactez-nous pour le lien](/contact-fr)). Les indications ci-dessous s'appliquent au reste du mois au Centre Greene. 
 
 [Le centre Greene, 1090 Greene, Westmount, QC, H3Z 1Z9](https://www.google.com/maps/search/1090%20Greene,%20Westmount,%20QC,%20H3Z%201Z9){: rel="noopener" target="_blank"}
 

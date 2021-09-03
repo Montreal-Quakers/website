@@ -3,7 +3,7 @@ title: Quebec City Worship Group
 lang: en
 translationID: quebec
 ---
-{% include picture.html basename="/assets/images/qc3" type="png" alt="The chapel" class="img_center100" %}
+{% include picture.html filename="qc3.png" type="webp avif" alt="The chapel" class="img_center100" %}
 
 ## When
 Every first Sunday of the month, at 11 a.m.
@@ -28,4 +28,4 @@ Please [let us know](/contact) if you require additional information or accommod
 * The Quebec City worship group is primarily in French.
   * Most participants are bilingual
 
-{% include picture.html basename="/assets/images/quebec" type="jpg" alt="Quebec worship group logo" class="img_center75" %}
+{% include picture.html filename="quebec.jpg" type="avif webp" alt="Quebec worship group logo" class="img_center75" %}

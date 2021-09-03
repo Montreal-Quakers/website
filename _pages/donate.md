@@ -3,7 +3,7 @@ title: Contribute
 lang: en
 translationID: contribution
 ---
-To those who find a spiritual home in our meeting, we encourage you to consider making a donation to help support the running of the meeting. Our members and regular attenders donate their time and skills to keep the meeting running, so most of our expenses are simply overhead.
+To those who find a spiritual home in our meeting, we encourage you to consider making a monthly donation to help support the running of the meeting. Our members and regular attenders donate their time and skills to keep the meeting running, so most of our expenses are simply overhead.
 
 Your donations make possible functions such as:
 

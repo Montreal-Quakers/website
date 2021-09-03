@@ -1,3 +1,9 @@
- <div class='embed-container'><iframe title="Video: what to expect in a Quaker meeting for worship" src='https://www.youtube.com/embed/hxjH4sa2RFI' srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href='https://www.youtube.com/embed/hxjH4sa2RFI?autoplay=1'><picture><source srcset='/assets/images/yt_lazy_load.webp' type='image/webp'><source srcset='/assets/images/yt_lazy_load.jpg' type='image/jpg'><img src='/assets/images/yt_lazy_load.webp' alt='What to Expect in Quaker Meeting for Worship'></picture><span>▶</span></a>" allowfullscreen></iframe></div>
+ <div class='embed-container'>
+   <iframe 
+     title="Video: what to expect in a Quaker meeting for worship" 
+     src='https://www.youtube.com/embed/hxjH4sa2RFI' 
+     srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href='https://www.youtube.com/embed/hxjH4sa2RFI?autoplay=1'>
+     {% include picture.html filename='yt_lazy_load.jpg' type='webp avif' alt='What to Expect in Quaker Meeting for Worship' %}
+     <span>▶</span></a>" allowfullscreen></iframe></div>
 <details><summary>Transcript</summary>{% capture transcript %}{% include youtube/yt_embed_transcript.md %}{% endcapture %}{{ transcript | markdownify }}</details>
 		 <!-- everything in the srcdoc "lazy loads" the youtube video, aka just loads the image so that it will load faster! -->

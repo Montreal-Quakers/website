@@ -466,8 +466,17 @@ a.container-content, a.container-content:link, a.container, .container a, .conta
 
 
 // 7) Styling scroll to top button topBtn svg
+.svg-arrow {
+  fill: transparent;
+  stroke: var(--alert-text);
+}
+.svg-circle {
+  fill: var(--color-1-dark);
+  stroke: var(--color-1-dark);
+  transition: fill .3s ease, stroke .3s ease;
+}
 
-#topBtn {
+.topBtn {
   font-size: 0;
   opacity: 0;
   pointer-events: none;
@@ -481,21 +490,19 @@ a.container-content, a.container-content:link, a.container, .container a, .conta
   cursor: pointer;
   margin: 0;
   padding: 0;
-  // box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
-  transition: opacity 300ms ease-in, transform .3s ease;
+  box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+  transition: opacity 100ms ease-in;
   border-radius:50%;
   & svg {
     background-color: transparent
   }
-  & .svg-arrow {
-    fill: transparent;
-    stroke: var(--alert-text);
+
+  &__show {
+    opacity: 1;
+    pointer-events: all;
+    transition: opacity 300ms ease-in;
   }
-  & .svg-circle {
-    fill: var(--color-1-dark);
-    stroke: var(--color-1-dark);
-    transition: fill .3s ease, stroke .3s ease;
-  }
+
   &:hover {
     opacity: 1 !important;
     // transform: scale(1.1);
@@ -506,5 +513,6 @@ a.container-content, a.container-content:link, a.container, .container a, .conta
     }
   }
 }
+
 
 

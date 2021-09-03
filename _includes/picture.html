@@ -1,7 +1,24 @@
 <picture>
+  {% assign basename = include.filename | split: "." | first %}
+  {% assign filetype = include.filename | split: "." | last %}
+  {% if filetype == "jpg" %} {% assign filetype = "jpeg" %}{% endif %}
   {% if include.figcaption %}<figure>{% endif %}
-    <source srcset="{{ include.basename }}.webp" type="image/webp">
-    <source srcset="{{ include.basename }}.{{ include.type }}" type="image/{{ include.type }}">
-    <img src="{{ include.basename }}.webp" class="{{ include.class }}" alt="{{ include.alt }}" {% if include.style %}style="{{ include.style }}"{% endif %}>
+    {% if include.type contains 'avif' %}<source srcset='{% if include.path %}{{ include.path }}{% else %}/assets/images/{% endif %}AVIF/{{ basename }}.avif' type='image/avif'>{% endif %}
+    {% if include.type contains 'webp' %}<source srcset='{% if include.path %}{{ include.path }}{% else %}/assets/images/{% endif %}WEBP/{{ basename }}.webp' type='image/webp'>{% endif %}
+    <source srcset='{% if include.path %}{{ include.path }}{% else %}/assets/images/{% endif %}{{ include.filename }}' type='image/{{ filetype }}'>
+    <img 
+      src='{% if include.path %}{{ include.path }}{% else %}/assets/images/{% endif %}{{ include.filename }}' 
+      class='{{ include.class }}' 
+      alt='{{ include.alt }}' 
+      {% if include.style %}
+        style='{{ include.style }}'
+      {% endif %}
+      {% if include.width %}
+        width='{{ include.width }}'
+      {% endif %}
+      {% if include.height %}
+        width='{{ include.height }}'
+      {% endif %}
+    >
   {% if include.figcaption %}<figcaption><em>{{ include.figcaption }}</em></figcaption></figure>{% endif %}
 </picture>

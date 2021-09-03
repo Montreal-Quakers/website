@@ -5,7 +5,7 @@ translationID: book_bible
 og-title: Club de lecture & d'étude biblique
 ---
 ## Détails pratiques
-* Ce groupe se réunit le **mercredi de 18h15 à 19h** (avant le culte de mi-semaine).
+* Ce groupe se réunit le **mercredi de 18h15 à 19h** (avant le culte de mi-semaine sur Zoom).
 * **Il n'est pas nécessaire de lire en avance**, car on lit à haute voix et puis on discute.
 * Notre rencontre dure 40 minutes à peu près.
 * La discussion est principalement **en anglais**.

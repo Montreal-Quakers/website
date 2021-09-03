@@ -3,7 +3,7 @@ title: Links & History
 lang: en
 translationID: links_history
 ---
-{% include picture.html basename="/assets/images/benches" type="jpg" alt="Benches with light" class="img_center" %}
+{% include picture.html filename="benches.jpg" type="webp avif" alt="Benches with light" class="img_center" %}
 
 ## For newcomers, about Quakers
 * [QuakerSpeak videos](https://quakerspeak.com/){: rel="noopener" target="_blank"}, for instance [this one](https://www.youtube.com/watch?time_continue=1&v=I63xA-VZGXw&feature=emb_title){: rel="noopener" target="_blank"}, are an excellent resource.
@@ -33,4 +33,4 @@ translationID: links_history
 * [History of Montreal Meeting (1929-1964) Lloyd Williams](/assets/PDF/MMM_history-Lloyd-Williams.pdf){: rel="noopener" target="_blank"}
 * See also this blog entry: [Suggestion pour une belle excursion sur l’histoire des Quakers au Québec](/2021/06/26/farnham-trip)
 
-{% include picture.html basename="/assets/images/1974_MaisW_1" type="jpg" alt="Our previous meetinghouse on de Maisonneuve" class="img_center75" figcaption="Our previous meetinghouse on de Maisonneuve." %}
+{% include picture.html filename="1974_MaisW_1.jpg" type="webp avif" alt="Our previous meetinghouse on de Maisonneuve" class="img_center75" figcaption="Our previous meetinghouse on de Maisonneuve." %}

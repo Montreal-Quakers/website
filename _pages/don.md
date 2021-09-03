@@ -3,7 +3,7 @@ title: Faire un don
 lang: fr
 translationID: contribution
 ---
-À ceux qui trouvent un foyer spirituel dans notre communauté, nous vous encourageons à faire un don. Nous sommes un organisme 100% bénévole; la plupart de nos dépenses sont simplement des frais généraux. 
+À ceux qui trouvent un foyer spirituel dans notre communauté, nous vous encourageons à faire un don mensuel. Nous sommes un organisme 100% bénévole; la plupart de nos dépenses sont simplement des frais généraux. 
 
 Vos dons permettent des fonctions telles que:
 

@@ -31,8 +31,8 @@ media_pages:
       # media: maps/new_directions.html
   - translationID: laurentians
     media: maps/street_atelier.html
-  - translationID: midweek
-    media: maps/street_ryan.html
+      #  - translationID: midweek
+      #    media: maps/street_ryan.html
   - translationID: quebec
     media: maps/street_vieux_qc.html
   - translationID: calendar
@@ -60,24 +60,6 @@ redalert_pages:
   - translationID: home
     redalert_text-en: alert/en-covid.md
     redalert_text-fr: alert/fr-covid.md
-  - translationID: directions
-    redalert_text-en: alert/en-covid.md
-    redalert_text-fr: alert/fr-covid.md
-  - translationID: quebec
-    redalert_text-en: alert/en-covid.md
-    redalert_text-fr: alert/fr-covid.md
-  - translationID: midweek
-    redalert_text-en: alert/en-covid.md
-    redalert_text-fr: alert/fr-covid.md
-  - translationID: laurentians
-    redalert_text-en: alert/en-covid.md
-    redalert_text-fr: alert/fr-covid.md
-  - translationID: south_shore
-    redalert_text-en: alert/en-covid.md
-    redalert_text-fr: alert/fr-covid.md
-  - translationID: book_bible
-    redalert_text-en: alert/en-covid.md
-    redalert_text-fr: alert/fr-covid.md
       #  - translationID: index-choose
       #    redalert_text-en: alert/bienvenue-welcome-covid.md
 
@@ -85,9 +67,12 @@ bluealerts: some
 bluealert_all_text-en: alert/en-midweek_over.md
 bluealert_all_text-fr: alert/fr-midweek_over.md
 bluealert_pages:
-  - translationID: midweek
-    bluealert_text-en: alert/en-midweek_timechange.md
-    bluealert_text-fr: alert/fr-midweek_timechange.md
+  - translationID: directions
+    bluealert_text-en: alert/en-zoom-sundays.md
+    bluealert_text-fr: alert/fr-zoom-dimanche.md
+      #  - translationID: home
+      #    bluealert_text-en: alert/en-zoom-sundays.md
+      #    bluealert_text-fr: alert/fr-zoom-dimanche.md
 
     #This section allows you to easily control which pages will have which bird and text animation
 bird_left: 

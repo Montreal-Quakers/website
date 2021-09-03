@@ -5,11 +5,10 @@ translationID: book_bible
 og-title: Book club & Bible study
 ---
 ## Practical details
-* This groups meets on **Wednesdays from 6:15 pm to 7:00 pm** (before midweek meeting).
+* This groups meets on **Wednesdays from 6:15 pm to 7:00 pm** (before midweek meeting on Zoom).
 * **No need to read in advance**, the text is read aloud, followed by discussion.
 * The group generally meets for the full 45 minutes.
 * Discussion is held primarily **in English**.
-* During COVID, the study group meets on **Zoom** and communicates via Montreal Meeting's **Discord channel**.
 * All are welcome, whether you are an avid Bible reader or not!
 
 [Contact us](/contact) for further details.

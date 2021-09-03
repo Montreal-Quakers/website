@@ -3,13 +3,11 @@ title: Sunday Meeting
 lang: en
 translationID: directions
 ---
-{% include picture.html basename="/assets/images/mtl_homepage3" type="jpg" alt="Holding banner Quakers for Peace" class="img_center100" %}
-
-## COVID-19
-
-The information below has been modified during the pandemic. See our [COVID-19 information page](/covid-19) for more information.
+{% include picture.html filename='mtl_homepage3.jpg' type='webp avif' alt='Holding banner Quakers for Peace' class='img_center100' %}
 
 ## Address
+
+We meet on Zoom the last Sunday of every month ([contact us for the link](/contact)). Otherwise, the rest of the time we meet at the Greene Centre, whose information is below.
 
 [The Greene Centre, 1090 Greene, Westmount, QC, H3Z 1Z9](https://www.google.com/maps/search/1090%20Greene,%20Westmount,%20QC,%20H3Z%201Z9){: rel="noopener" target="_blank"}
 

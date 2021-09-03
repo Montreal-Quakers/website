@@ -12,4 +12,4 @@ N'hésitez pas à nous poser des questions.
 
 {% include contact.html %}
 
-{% include picture.html basename="/assets/images/circle_group_cropped" type="jpg" alt="Le groupe en cercle" class="img_center100" %}
+{% include picture.html filename="circle_group_cropped.jpeg" type="webp avif" alt="Le groupe en cercle" class="img_center100" %}

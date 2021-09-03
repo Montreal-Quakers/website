@@ -16,12 +16,10 @@ function callback1(entries, IntersectionObserverResult) {
 	entries.forEach(entry => {
     if (entry.isIntersecting) {
       // Hide button
-      ScrollToTopBtn.style.opacity = "0";
-      ScrollToTopBtn.style.pointerEvents = "none";
+      ScrollToTopBtn.classList.remove("topBtn__show");
     } else {
       // Show button
-      ScrollToTopBtn.style.opacity = "0.6";
-      ScrollToTopBtn.style.pointerEvents = "all";
+      ScrollToTopBtn.classList.add("topBtn__show");
     }
   });
 }

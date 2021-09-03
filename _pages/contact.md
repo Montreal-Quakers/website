@@ -12,4 +12,4 @@ Comments or questions are welcome.
 
 {% include contact.html %}
 
-{% include picture.html basename="/assets/images/circle_group_cropped" type="jpg" alt="Group in a circle" class="img_center100" %}
+{% include picture.html filename="circle_group_cropped.jpeg" type="webp avif" alt="Group in a circle" class="img_center100" %}

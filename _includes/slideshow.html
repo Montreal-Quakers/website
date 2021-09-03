@@ -7,13 +7,14 @@
   {% assign count = 0 %} 
 {% for item in site.data.slideshow.slideshow1 %}
     {% assign count = count | plus: 1 %}
+    {% if fr %}
+      {% assign pic_alt = item.titre-fr %}
+    {% else %}
+      {% assign pic_alt = item.title %}
+    {% endif %}
 <div class="mySlides fade">
 	<div class="numbertext"> {{ count }} / {{ site.data.slideshow.slideshow1.size }}</div>
-   {% if fr %}
-	{% include picture.html basename=item.basefile type=item.type alt=item.titre-fr class="img_center100" style="width:100%" %}
-   {% else %}
-	{% include picture.html basename=item.basefile type=item.type alt=item.title class="img_center100" style="width:100%" %}
-   {% endif %}
+	{% include picture.html filename=item.filename type=item.conversions alt=pic_alt class="img_center100" style="width:100%" %}
   <div class="text">{% if page.lang == "fr" %}{{ item.titre-fr }}{% else %}{{ item.title }}{% endif %}</div>
 </div>
 {% endfor %}

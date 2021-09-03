@@ -3,7 +3,7 @@ title: Liens & histoire
 lang: fr
 translationID: links_history
 ---
-{% include picture.html basename="/assets/images/benches" type="jpg" alt="Des bancs dans la lumière" class="img_center" %}
+{% include picture.html filename="benches.jpg" type="webp avif" alt="Des bancs dans la lumière" class="img_center" %}
 
 ## Sur les Quakers
 * [Un cours en ligne sur la voie Quaker](https://quaker.ca/publication/introduction-aux-quakers-et-a-leur-culte-non-programme/){: rel="noopener" target="_blank"}
@@ -36,4 +36,4 @@ So sad, Woodbrooke seems to have deleted this course -- post this again if they 
 * Voir aussi cette publication dans notre blogue: [Suggestion pour une belle excursion sur l’histoire des Quakers au Québec](/2021/06/26/farnham-excursion)
 
 
-{% include picture.html basename="/assets/images/1974_MaisW_1" type="jpg" alt="Notre lieu de culte auparavant" class="img_center75" figcaption="Auparavant, notre Centre Quaker à Montréal sur boulevard de Maisonneuve ouest." %}
+{% include picture.html filename="1974_MaisW_1.jpg" type="webp avif" alt="Notre lieu de culte auparavant" class="img_center75" figcaption="Auparavant, notre Centre Quaker à Montréal sur boulevard de Maisonneuve ouest." %}

@@ -1,17 +1,15 @@
 verse: 
-  en: Exodus 14 
-  fr: Exode 14
-  en-date: Wednesday, August 26th, 2021 at 6:15 PM
-  fr-date: mercredi le 26 août, 2021 à 18h15
+  en: Exodus 15
+  fr: Exode 15
+  en-date: Wednesday, September 8th, 2021 at 6:15 PM
+  fr-date: mercredi le 8 septembre, 2021 à 18h15
 
 next:
-- reading: Exodus
 - reading: Ecclesiastes
 - reading: First Among Friends
 # - reading: Timothy
 
 prochain:
-- lecture: Exode
 - lecture: Ecclésiaste
 - lecture: First Among Friends
 # - lecture: Timothée

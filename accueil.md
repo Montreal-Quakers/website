@@ -23,10 +23,10 @@ Nous regroupons des Quakers de toutes tendances&nbsp;—&nbsp; des Quakers athé
 ## [<i class="fas fa-map-marker-alt fa-fw color-1-dark-text"></i> <u>Nous trouver</u>](/coordonnées){: class="linkoff" aria-label="Coordonnées"}
 
 En temps de pandémie, notre horaire a été modifié. Voir notre [page d'information sur la covid-19](/covid-19-fr). Ce qui suit est les informations en temps normal: notre plus grande assemblée a lieu le dimanche à 11h au [Centre Greene](/coordonnées). Voici toutes les occasions de vous joindre à nous:
-* [Notre assemblée le dimanche](/coordonnées) à 11h00 au Centre Greene
-* Un groupe de [mi-semaine](/mi-semaine) près de l'Université McGill
-* Un groupe aux [Laurentides](/laurentides) à St-Hippolyte
-* Un groupe à [Québec](/quebec), le premier dimanche du mois à Vieux Québec
-* Nous espérons bientôt former un groupe sur la [Rive-Sud](/rive-sud), probablement à Saint-Lambert 
+* [Notre assemblée le dimanche](/coordonnées) à 11h00 au Centre Greene sauf le dernier dimanche du mois qui est sur Zoom ([contactez-nous pour le lien](/contact-fr)).
+* Un groupe de [mi-semaine](/mi-semaine) a lieu le mercredi à 19h sur Zoom.
+* Un groupe aux [Laurentides](/laurentides) à St-Hippolyte.
+* Un groupe à [Québec](/quebec), le premier dimanche du mois à Vieux Québec.
+* Nous espérons bientôt former un groupe sur la [Rive-Sud](/rive-sud), probablement à Saint-Lambert .
 
 Une fois par mois nous chantons et nous offrons des activités pour les jeunes la plupart de l’année. [Contactez-nous](/contact-fr) pour confirmer ou venez vous joindre à nous n'importe quel [dimanche](/coordonnées).
