@@ -22,11 +22,11 @@ We are Quakers of all kinds — Christian Quakers, nontheist Quakers, Buddhist Q
 <br>
 ## [<i class="fas fa-map-marker-alt fa-fw color-1-dark-text"></i> ](/directions){: class="linkoff" aria-label="Directions"}[Where we meet](/directions)
 
-All of our meeting places have been modified during the pandemic. See our [COVID information page](/covid-19) for more details. Information on our non-pandemic meeting schedule follows: our main meeting is on Sundays at the [Greene Centre](/directions). Here are our opportunities to join us: 
-* [Sunday Meeting](/directions), every Sunday at 11 AM near Lionel-Groulx metro except the last Sunday of the month, which is on Zoom ([contact us for the link](/contact)).
+Our main meeting is on Sundays at the [Greene Centre](/directions). See our [COVID information page](/covid-19) for more details. Here are our opportunities to join us: 
+* [Sunday Meeting](/directions), starting September 12th, every Sunday at 11 AM near Lionel-Groulx metro except the last Sunday of the month, which is on Zoom ([contact us for the link](/contact)).
 * [Midweek Meeting](/midweek), Wednesdays at 7PM on Zoom.
-* [Quebec City Worship Group](/quebec), first Sunday of the month at 11 AM in old Quebec.
-* [Laurentian Worship Group](/laurentians), Sundays at 10:30 AM in Saint-Hippolyte.
-* [South Shore Worship Group](/south_shore) may soon form, likely in Saint-Lambert. [Contact us](/contact) for updates.
+* [Quebec City Worship Group](/quebec), first Sunday of the month at 11 AM in person in old Quebec.
+* [Laurentian Worship Group](/laurentians), Sundays at 10:30 AM in Saint-Hippolyte in person.
+* [South Shore Worship Group](/south_shore) may form soon after the pandemic, likely in Saint-Lambert. [Contact us](/contact) for updates.
 
 Our main meeting has a children’s program and a music group — please [contact us](/contact) to confirm the details. Please feel welcome to join us any [Sunday](/directions).
