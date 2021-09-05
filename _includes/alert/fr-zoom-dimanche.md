@@ -1,1 +1,1 @@
-Nous réunissons sur Zoom le dernier dimanche du mois, **pas** au Centre Greene.
+Nous nous réunissons au Centre Greene **sauf le dernier dimance du mois, où on se voit sur Zoom**.

@@ -22,7 +22,7 @@ Nous regroupons des Quakers de toutes tendances&nbsp;—&nbsp; des Quakers athé
 <br>
 ## [<i class="fas fa-map-marker-alt fa-fw color-1-dark-text"></i> <u>Nous trouver</u>](/coordonnées){: class="linkoff" aria-label="Coordonnées"}
 
-Notre plus grande assemblée a lieu le dimanche à 11h. Voir notre [page d'information sur la covid-19](/covid-19-fr). Voici toutes les occasions de vous joindre à nous:
+Notre plus grande assemblée a lieu le dimanche à 11h. Voir notre [page d'information sur la COVID-19](/covid-19-fr). Voici toutes les occasions de vous joindre à nous:
 * [Notre assemblée le dimanche](/coordonnées) à 11h00 au Centre Greene sauf le dernier dimanche du mois qui est sur Zoom ([contactez-nous pour le lien](/contact-fr)).
 * Un groupe de [mi-semaine](/mi-semaine) a lieu le mercredi à 19h sur Zoom.
 * Un groupe aux [Laurentides](/laurentides) à St-Hippolyte en personne.

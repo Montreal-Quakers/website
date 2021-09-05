@@ -5,7 +5,7 @@ translationID: covid
 og-title: Maladie COVID-19
 ---
 ## Horaire
-* L'assemblée de [**dimanche**](/coordonnées): Se réunit toujours à 11h. À partir du 12 septembre, **sauf le dernier dimanche du mois qui sera toujours sur Zoom**, nous serons de retour au Centre Greene, suivant les [consignes sanitaires](#consignes) ci-dessous.
+* L'assemblée de [**dimanche**](/coordonnées): Se réunit toujours à 11h. Nous sommes de retour au Centre Greene, suivant les [consignes sanitaires](#consignes) ci-dessous, **sauf le dernier dimanche du mois où on se voit sur Zoom**.
 * Le culte du groupe de [**mi-semaine**](/mi-semaine): **sur Zoom le mercredi à 19h** (plutôt qu'à 17h30) au moins jusqu'en octobre.
 * Le culte du groupe aux [**Laurentides**](/laurentides): **le dimanche à 10h30 en présentiel** mais il vaut mieux [appeler avant](/laurentides#contact) pour confirmer les détails.
 * Groupe Quaker sur la [**Rive-Sud**](/rive-sud): nous attendons des conditions plus sécuritaires avant de commencer ce groupe.
