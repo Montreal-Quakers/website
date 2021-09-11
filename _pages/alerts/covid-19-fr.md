@@ -5,7 +5,7 @@ translationID: covid
 og-title: Maladie COVID-19
 ---
 ## Horaire
-* L'assemblée de [**dimanche**](/coordonnées): Se réunit toujours à 11h. Nous sommes de retour au Centre Greene, suivant les [consignes sanitaires](#consignes) ci-dessous, **sauf le dernier dimanche du mois où on se voit sur Zoom**.
+* L'assemblée de [**dimanche**](/coordonnées): Se réunit toujours à 11h. Pour le mois de septembre, nous invitons les personnes qui ont la vaccination complète au Centre Greene, suivant les [consignes sanitaires](#consignes) ci-dessous, **sauf le dernier dimanche du mois où on se voit sur Zoom**.
 * Le culte du groupe de [**mi-semaine**](/mi-semaine): **sur Zoom le mercredi à 19h** (plutôt qu'à 17h30) au moins jusqu'en octobre.
 * Le culte du groupe aux [**Laurentides**](/laurentides): **le dimanche à 10h30 en présentiel** mais il vaut mieux [appeler avant](/laurentides#contact) pour confirmer les détails.
 * Groupe Quaker sur la [**Rive-Sud**](/rive-sud): nous attendons des conditions plus sécuritaires avant de commencer ce groupe.
@@ -24,4 +24,4 @@ Notre communauté offre du soutien, y compris du **soutien financier**, pour les
 * Les chaises seront amplements distancées (nous sommes peu nombreux).
 * Aucun breuvage et aucune nouriture ne seront servis.
 * Il faut désinfecter les surfaces avant et après notre usage (Le Centre Greene fera cela pour nous).
-* Au Centre Greene: nous exigeons la vaccination complète.
+* Au Centre Greene: nous exigeons la vaccination complète, qui veut dire que nous demandons aux jeunes en bas de 12 ans d'attendre.

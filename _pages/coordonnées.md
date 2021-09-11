@@ -5,6 +5,10 @@ translationID: directions
 ---
 {% include picture.html filename="mtl_homepage3.jpg" type="webp avif" alt="Bannière Quakers pour la Paix" class="img_center100" %}
 
+## COVID
+
+Pour le mois de septembre 2021 nous expérimentons avec des réunions en présentiel. Pour les deux réunions ce mois-ci, le 12 et le 19 septembre, pour protéger quelques membres plus vulnérables, nous demandons que seulement les personnes entièrement vaccinées viennent. Nous demandons que les personnes non vaccinées, y compris les jeunes en bas de 12 ans, viennent après la réunion au parc en face, vers midi. Nous allons réévaluer sur Zoom à la fin de septembre.
+
 ## Coordonnées
 
 Le dernier dimanche du mois, nous nous rencontrons sur Zoom ([contactez-nous pour le lien](/contact-fr)). Les indications ci-dessous s'appliquent au reste du mois au Centre Greene. 

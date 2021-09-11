@@ -5,6 +5,10 @@ translationID: directions
 ---
 {% include picture.html filename='mtl_homepage3.jpg' type='webp avif' alt='Holding banner Quakers for Peace' class='img_center100' %}
 
+## COVID
+
+For the month of September, 2021 we are testing out having meeting for worship in person. For the two in person meetings this month (September 12th and 19th), we ask that only fully vaccinated youth and adults attend (thus we are asking unvaccinated youth under 12 to wait). That said, everyone is welcome to join us in the park across the street around noon. We will be reevaluating at the end of that two weeks for the following months.
+
 ## Address
 
 We meet on Zoom the last Sunday of every month ([contact us for the link](/contact)). Otherwise, the rest of the time we meet at the Greene Centre, whose information is below.
