@@ -20,6 +20,7 @@ The meeting is offering support, including **financial support**, for members an
 [Contact us](/contact.html) for details.
 
 ## Mandatory Health Precautions for Any In-Person Meeting <span class="stanchor"><a name="precautions"></a></span>
+* If you're experiencing COVID symptoms, please stay home.
 * Disinfect hands at the entrance.
 * Wearing a mask, covering nose and mouth, is mandatory at all times.
 * The chairs will be amply distanced (we are a small group).

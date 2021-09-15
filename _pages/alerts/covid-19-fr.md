@@ -19,6 +19,7 @@ Notre communauté offre du soutien, y compris du **soutien financier**, pour les
 [Contactez-nous](/contact-fr.html) pour en connaître les modalités.
 
 ## Consignes sanitaires pour toute réunion en présentiel <span class="stanchor"><a name="consignes"></a></span>
+* Si vous expérimentez des symptômes de COVID-19, restez à la maison.
 * Désinfection des mains à l'entrée.
 * Port du masque couvrant le nez et la bouche obligatoire en tout temps.
 * Les chaises seront amplements distancées (nous sommes peu nombreux).
