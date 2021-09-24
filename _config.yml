@@ -62,14 +62,17 @@ redalert_pages:
     redalert_text-fr: alert/fr-covid.md
       #  - translationID: index-choose
       #    redalert_text-en: alert/bienvenue-welcome-covid.md
+  - translationID: directions
+    redalert_text-en: alert/en-on-zoom-this-week.md
+    redalert_text-fr: alert/fr-on-zoom-this-week.md
 
 bluealerts: some
 bluealert_all_text-en: alert/en-midweek_over.md
 bluealert_all_text-fr: alert/fr-midweek_over.md
 bluealert_pages:
-  - translationID: directions
-    bluealert_text-en: alert/en-zoom-sundays.md
-    bluealert_text-fr: alert/fr-zoom-dimanche.md
+  #   - translationID: directions
+  #     bluealert_text-en: alert/en-zoom-sundays.md
+  #     bluealert_text-fr: alert/fr-zoom-dimanche.md
       #  - translationID: home
       #    bluealert_text-en: alert/en-zoom-sundays.md
       #    bluealert_text-fr: alert/fr-zoom-dimanche.md
