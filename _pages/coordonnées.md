@@ -7,7 +7,7 @@ translationID: directions
 
 ## COVID
 
-Pour le mois de septembre 2021 nous expérimentons avec des réunions en présentiel. Pour les deux réunions ce mois-ci, le 12 et le 19 septembre, pour protéger quelques membres plus vulnérables, nous demandons que seulement les personnes entièrement vaccinées viennent. Nous demandons que les personnes non vaccinées, y compris les jeunes en bas de 12 ans, viennent après la réunion au parc en face, vers midi. Nous allons réévaluer sur Zoom à la fin de septembre.
+Nous expérimentons avec des réunions en présentiel. Jusqu'à la fin d'octobre, pour protéger quelques membres plus vulnérables, nous demandons que seulement les personnes avec passeport vaccinal. Nous demandons que les personnes non vaccinées, y compris les jeunes en bas de 12 ans, viennent après la réunion au parc en face, vers midi. Nous allons réévaluer sur Zoom à la fin d'octobre.
 
 ## Coordonnées
 

@@ -5,8 +5,8 @@ translationID: covid
 og-title: COVID-19 Updates
 ---
 ## Schedule
-* [**Sunday**](/directions) meeting: Always meets at 11am. For September we've inviting fully vaccinated people to worship in person at the Greene Centre, following the [mandatory health precautions](#precautions) below, **except for the last Sunday of the month which is on Zoom**.
-* [**Midweek**](/midweek) meeting: **on Zoom on Wednesdays at 7 PM** (rather than 5:30 PM) at least until October.
+* [**Sunday**](/directions) meeting: Always meets at 11am. For October we've inviting only fully vaccinated people to worship in person at the Greene Centre, following the [mandatory health precautions](#precautions) below, **except for the last Sunday of the month which is on Zoom**.
+* [**Midweek**](/midweek) meeting: **on Zoom on Wednesdays at 7 PM** (rather than 5:30 PM) at least until November.
 * [**Quebec City**](/qc) worship group: at 1pm first Sundays of the month **in person** (a small group). See the [mandatory health precautions](#precautions) below.
 * [**Laurentian**](/laurentians) worship group: **Sundays at 10:30 am in person** but it is best to [call first](/laurentians#contact).
 * [**South Shore**](/south_shore) Worship Group: we're awaiting safer conditions before beginning this worship group.
@@ -21,9 +21,10 @@ The meeting is offering support, including **financial support**, for members an
 
 ## Mandatory Health Precautions for Any In-Person Meeting <span class="stanchor"><a name="precautions"></a></span>
 * If you're experiencing COVID symptoms, please stay home.
+* For the month of October, we'll be requiring vaccine passports for all (meaning children under 12 will be unable to attend for now).
 * Disinfect hands at the entrance.
 * Wearing a mask, covering nose and mouth, is mandatory at all times.
+* Details for contact tracing will be collected by the greeter.
 * The chairs will be amply distanced (we are a small group).
 * Neither drink nor food will be served.
 * We must disinfect surfaces before and after meeting (The Greene Centre will do this for us).
-* Those attending meetings at the Greene Centre must be fully vaccinated -- this means that we're asking children under 12 who aren't vaccinated to wait.
