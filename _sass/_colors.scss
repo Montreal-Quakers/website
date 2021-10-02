@@ -21,6 +21,8 @@ html,:root {
 	--card-shadow: 0.1;
 	--wideheader-color: var(--color-1-dark);
 	--wideheader-text: var(--alert-text);
+        --scrollbar-back: white;
+        --scrollbar-thumb: var(--color-1-dark);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -48,6 +50,8 @@ html,:root {
 	--card-shadow: .8;
 	--wideheader-color: var(--body-bg);
 	--wideheader-text: var(--body-text);
+        --scrollbar-back: #121212;
+        --scrollbar-thumb: var(--color-1-dark);
   }
 }
 
