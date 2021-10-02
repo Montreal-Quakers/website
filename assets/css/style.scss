@@ -149,18 +149,21 @@ body::-webkit-scrollbar {
 body::-webkit-scrollbar-track {
   background: var(--scrollbar-back);
   border-radius: 100vw;
-  // margin-block: .25em;
+  margin-block: .05em;
 }
 
 body::-webkit-scrollbar-thumb {
   //background: linear-gradient(var(--color-1), var(--color-1-dark));
-  background: var(--color-1);
+  background: var(--color-1-light);
   border: .05em solid var(--scrollbar-back);
   opacity: 70%;
   border-radius: 100vw;
   transition: background .3s;
   &:hover {
-      background: var(--color-1-dark);
+    background: var(--color-1);
+  }
+  &:active {
+    background: var(--color-1-dark);
   }
 }
 
