@@ -65,14 +65,20 @@ redalert_pages:
       #- translationID: directions
       #  redalert_text-en: alert/en-on-zoom-this-week.md
       #  redalert_text-fr: alert/fr-on-zoom-this-week.md
+  - translationID: directions
+    redalert_text-en: alert/en-exceptional-zoom.md
+    redalert_text-fr: alert/fr-exceptional-zoom.md
 
 bluealerts: some
 bluealert_all_text-en: alert/en-covid.md
 bluealert_all_text-fr: alert/fr-covid.md
 bluealert_pages:
-     - translationID: directions
-       bluealert_text-en: alert/en-zoom-sundays.md
-       bluealert_text-fr: alert/fr-zoom-dimanche.md
+  #  - translationID: home
+  #    bluealert_text-en: alert/en-exceptional-zoom.md
+  #    bluealert_text-fr: alert/fr-exceptional-zoom.md
+  - translationID: directions
+    bluealert_text-en: alert/en-zoom-sundays.md
+    bluealert_text-fr: alert/fr-zoom-dimanche.md
       #  - translationID: home
       #    bluealert_text-en: alert/en-zoom-sundays.md
       #    bluealert_text-fr: alert/fr-zoom-dimanche.md
