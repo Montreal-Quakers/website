@@ -5,7 +5,7 @@ translationID: covid
 og-title: COVID-19 Updates
 ---
 ## Schedule
-* [**Sunday**](/directions) meeting: Always meets at 11am. For November we've inviting only fully vaccinated people to worship in person at the Greene Centre, following the [mandatory health precautions](#precautions) below, **except for the last Sunday of the month which is on Zoom**.
+* [**Sunday**](/directions) meeting: Meets both on Zoom and in person, always meets at 11am. For November we've inviting only fully vaccinated people to worship in person at the Greene Centre, following the [mandatory health precautions](#precautions) below, **except for the last Sunday of the month which is on Zoom**.
 * [**Midweek**](/midweek) meeting: **on Zoom on Wednesdays at 7 PM** (rather than 5:30 PM) at least until November.
 * [**Quebec City**](/qc) worship group: at 1pm first Sundays of the month **in person** (a small group). See the [mandatory health precautions](#precautions) below.
 * [**Laurentian**](/laurentians) worship group: Closed for the winter.{% comment %}**Sundays at 10:30 am in person** but it is best to [call first](/laurentians#contact).{% endcomment %}

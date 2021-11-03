@@ -5,7 +5,7 @@ translationID: covid
 og-title: Maladie COVID-19
 ---
 ## Horaire
-* L'assemblée de [**dimanche**](/coordonnées): Se réunit toujours à 11h. Pour le mois de novembre, nous invitons les personnes ayant le passeport vaccinal au Centre Greene, suivant les [consignes sanitaires](#consignes) ci-dessous, **sauf le dernier dimanche du mois où on se voit sur Zoom**.
+* L'assemblée de [**dimanche**](/coordonnées): Se réunit sur Zoom **et** en présentiel, toujours à 11h, sauf le dernier dimanche du mois où tout le monde est sur Zoom. Pour le mois de novembre, nous invitons les personnes ayant le passeport vaccinal au Centre Greene, suivant les [consignes sanitaires](#consignes) ci-dessous.
 * Le culte du groupe de [**Québec**](/québec): Se réunit en présentiel à 13h, le premier dimanche du mois, en suivant les [consignes sanitaires](#consignes) ci-dessous.
 * Le culte du groupe de [**mi-semaine**](/mi-semaine): **sur Zoom le mercredi à 19h** (plutôt qu'à 17h30) au moins jusqu'en novembre.
 * Le culte du groupe aux [**Laurentides**](/laurentides): Fermé pour l'hiver.{% comment %}**le dimanche à 10h30 en présentiel** mais il vaut mieux [appeler avant](/laurentides#contact) pour confirmer les détails.{% endcomment %}
