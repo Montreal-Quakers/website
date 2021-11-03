@@ -26,7 +26,7 @@ Notre plus grande assemblée a lieu le dimanche à 11h. Voir notre [page d'infor
 * [Notre assemblée le dimanche](/coordonnées) le 12 et 19 septembre à 11h00 nous invitons les personnes entièrement vaccinées au Centre Greene. Le 26 tout le monde est sur Zoom ([contactez-nous pour le lien](/contact-fr)). Réunions sur Zoom tous les dimanches aussi.
 * Un groupe de [mi-semaine](/mi-semaine) a lieu le mercredi à 19h sur Zoom.
 * Un groupe aux [Laurentides](/laurentides) à St-Hippolyte en personne.
-* Un groupe à [Québec](/quebec), le premier dimanche du mois à Vieux Québec en personne.
+* Un groupe à [Québec](/quebec), le premier dimanche du mois à 13h à Vieux Québec en présentiel.
 * Lorsque les conditions sanitaires le permet, nous espérons former un groupe sur la [Rive-Sud](/rive-sud), probablement à Saint-Lambert.
 
 Une fois par mois nous chantons et nous offrons des activités pour les jeunes la plupart de l’année. [Contactez-nous](/contact-fr) pour confirmer ou venez vous joindre à nous n'importe quel [dimanche](/coordonnées).

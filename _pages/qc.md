@@ -6,7 +6,7 @@ translationID: quebec
 {% include picture.html filename="qc3.png" type="webp avif" alt="The chapel" class="img_center100" %}
 
 ## When
-Every first Sunday of the month, at 11 a.m.
+Every first Sunday of the month, at 1 p.m.
 
 ## How to find us
 [All Saints chapel, 31 rue des Jardins, Québec](https://www.google.com/maps/search/31%20rue%20des%20Jardins,%20Qu%C3%A9bec){: rel="noopener" target="_blank"} (the [building](https://goo.gl/maps/Z9wtKLtwAHEGSB7V6){: rel="noopener" target="_blank"} in the courtyard of the Holy Trinity Anglican Cathedral in Old Québec).

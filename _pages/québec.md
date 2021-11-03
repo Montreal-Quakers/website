@@ -5,7 +5,7 @@ translationID: quebec
 {% include picture.html filename="qc3.png" type="webp avif" alt="La chappelle" class="img_center100" %}
 
 ## Quand
-Le Groupe des Quakers à Québec se rencontre **chaque premier dimanche du mois à 11h00**.
+Le Groupe des Quakers à Québec se rencontre **chaque premier dimanche du mois à 13h00**.
 
 ## Où
 [À la chapelle All Saints, 31 rue des Jardins dans le Vieux-Québec](https://www.google.com/maps/search/31%20rue%20des%20Jardins,%20Qu%C3%A9bec){: target="_blank" rel="noopener"}, [ce bâtiment](https://goo.gl/maps/Z9wtKLtwAHEGSB7V6){: target="_blank" rel="noopener"} étant situé dans la cour de la cathédrale anglicane Holy Trinity à Vieux-Québec.

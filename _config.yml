@@ -68,6 +68,9 @@ redalert_pages:
   - translationID: directions
     redalert_text-en: alert/en-exceptional-zoom.md
     redalert_text-fr: alert/fr-exceptional-zoom.md
+  - translationID: laurentians
+    redalert_text-en: alert/en-laurentians_closing.md
+    redalert_text-fr: alert/fr-laurentians_closing.md
 
 bluealerts: some
 bluealert_all_text-en: alert/en-covid.md
