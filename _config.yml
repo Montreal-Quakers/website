@@ -193,6 +193,9 @@ defaults:
     values:
       layout: "post"
  
+kramdown:
+  parse_block_html: true
+
 plugins:
   #  - jekyll-coffeescript
   - jemoji

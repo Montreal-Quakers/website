@@ -36,12 +36,14 @@ html {
   }
 }
 
+// 1a) 
 html,body {
     line-height: 1.5;
     scroll-behavior: smooth;
 }
 
-// The body is flex to allow media columsn on the right in widescreen that move down in mobile.
+// The body is flex to allow media columns on the right in widescreen
+// that move down in mobile.
 // Flex also makes it easy to keep the footer on the bottom.
 body {
     display: flex;
@@ -106,6 +108,7 @@ a[href$="\.pdf" i]::after {
     display: inline-block;
 }
 
+// Styling external links
 a[href^="http" i]::after {
     font-family: "Font Awesome 5 Free";
     content: '\f35d';
@@ -128,6 +131,7 @@ button {
   }
 }
 
+// Putting outline on focus: good for accessibility e.g. keyboard use
 button:not(.dropbtn):focus {
   background: var(--active);
 }
@@ -137,11 +141,13 @@ button:not(.dropbtn):focus {
   outline-offset: 5px;
 }
 
+// When text is selected, it matches theme
 ::selection {
 	background: var(--color-1);
 	color: var(--alert-text);
 }
 
+// Creating a custom scroll bar, matching Quaker theme
 body::-webkit-scrollbar {
   width: .5em;
 }
@@ -452,6 +458,10 @@ a.container-content, a.container-content:link, a.container, .container a, .conta
 	background-color: var(--active);
 	color: var(--alert-text);
 }
+
+.chair {color: var(--chair)}
+.heart {color: var(--heart)}
+.leaf {color: var(--leaf)}
 
 // 6) Align icons
 

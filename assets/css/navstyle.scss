@@ -9,8 +9,8 @@ $mob-pixels: {{ site.breakpoint }};
 
 //   Table of contents:
 // 
-//   First, this CSS codes the narrow navigation (mobile)
-//   It turns off widescreen headers and other elements
+//   I) This CSS codes the narrow navigation (mobile)
+//     i) It turns off widescreen headers and other elements
 //   Then it styles:
 // 
 //   1) The hamburger menu (nav-toggle)
@@ -21,27 +21,24 @@ $mob-pixels: {{ site.breakpoint }};
 //   5) Dropdown menu styling
 //   6) Intersectional observer that triggers the return to top button and the change of style in widescreen when scrolling.
 // 
-//   Wide header:
-//   1) Starting with a media query
-//   2) Turns off some narrow elements
-//   3) Styles the wideheader
-//   4) The navigation and its links in widescreen
+//   II) Wide header:
+//   7) Starting with a media query
+//   8) Turns off some narrow elements
+//   9) Styles the wideheader
+//   10) The navigation and its links in widescreen
 //     i) Its ul, li, and then a and buttons
-//   5) Styles the search bar in wide mode
-//   6) Dropdown menu styling
-//   7) Scroll anchors are fixed in widemode where the sticky header blocks anchored page elements (e.g. /about#chair)
+//   11) Styles the search bar in wide mode
+//   12) Dropdown menu styling
+//   13) Scroll anchors are fixed in widemode where the sticky header blocks anchored page elements (e.g. /about#chair)
 // 
-//   Breadcrumb menu
-
-.chair {color: var(--chair)}
-.heart {color: var(--heart)}
-.leaf {color: var(--leaf)}
+//   III) Breadcrumb menu
 
 // These elements are for the wideheader only and so will be turned on with a media query
 .wideheader,#widehome,#search__spacer  {
    display: none;
 }
 
+// 1) The hamburger menu
 .nav-toggle {
   position: absolute !important;
   top: -9999px !important;
@@ -120,8 +117,8 @@ $mob-pixels: {{ site.breakpoint }};
    }
 }
 
+  // 2) Mobile bird logo
 .logo {
-  // Mobile bird logo
   &__mobile {
     // padding: 10px;
     display: flex;
@@ -136,6 +133,7 @@ $mob-pixels: {{ site.breakpoint }};
   }
 }
 
+// 3) The navigation and its links in mobile
 .navbar,.navbar input {
   -moz-appearance: none;
   -webkit-appearance: none;
@@ -166,6 +164,7 @@ $mob-pixels: {{ site.breakpoint }};
     vertical-align: middle;
   }
 
+  // 3i) Its ul, li, and then a and buttons
   ul {
     padding-left: 0;
     background: inherit;
@@ -200,7 +199,8 @@ $mob-pixels: {{ site.breakpoint }};
   a:hover,.active,ul .dropdown .active, .dropdown ul li a:hover {
     background-color: var(--active);
   }
-  // Search on narrow screens
+
+  // 4) Styles the search bar in mobile
   #search {
     &__form {
       display: flex;
@@ -236,6 +236,7 @@ $mob-pixels: {{ site.breakpoint }};
   }
 }
 
+// 5) Dropdown menu styling
 .dropbtn {
   * {pointer-events: none;}
   &:focus {
@@ -299,6 +300,7 @@ $mob-pixels: {{ site.breakpoint }};
   // white-space: nowrap;
 }
 
+// 6) Intersectional observer that triggers the return to top button and the change of style in widescreen when scrolling.
 .intersectionObserver {
   background-color: transparent;
 }
@@ -317,10 +319,11 @@ $mob-pixels: {{ site.breakpoint }};
   height: 0px;
 }
 
-// WIDE screen
+// II) WIDE header (for wide screens)
+// II 7) Starting with a media query
 @media screen and (min-width: $mob-pixels) {
 
-  // These elements are for the wideheader only and so will be turned on with a media query
+  // 8) Turns off some narrow elements (These elements are for the wideheader only and so will be turned on with a media query)
   .wideheader,#widehome,#search__spacer {
      display: block;
      opacity: 1;
@@ -330,6 +333,7 @@ $mob-pixels: {{ site.breakpoint }};
       display: none;
   }
 
+  //   9) Styles the wideheader
   .wideheader {
     display: flex;
     padding: 40px 0px;
@@ -352,6 +356,7 @@ $mob-pixels: {{ site.breakpoint }};
   }
 
 
+  //   10) The navigation and its links in widescreen
   .navbar {
     position: -moz-sticky;
     position: -ms-sticky;
@@ -367,15 +372,7 @@ $mob-pixels: {{ site.breakpoint }};
       transition: background 400ms linear;
       background-color: var(--color-1-dark);
     }
-    a,button {
-      opacity: 1;
-      width: initial;
-      height: 55px;
-    }
-    ul li {
-      width: initial;
-      display: inline-block;
-    }
+    // II 10 i) Its ul, li, and then a and buttons
     ul {
       display: flex;
       flex-direction: row;
@@ -383,8 +380,17 @@ $mob-pixels: {{ site.breakpoint }};
       align-items: center;
       margin: 0;
     }
+    ul li {
+      width: initial;
+      display: inline-block;
+    }
+    a,button {
+      opacity: 1;
+      width: initial;
+      height: 55px;
+    }
 
-    // widescreen search
+    //   5) Styles the search bar in wide mode
     #search {
       display: flex;
       width: 100%;
@@ -438,7 +444,7 @@ $mob-pixels: {{ site.breakpoint }};
       }
     }
       
-    // Dropdown styling
+    // 6) Dropdown menu styling
     .dropdown > ul {
       display: block;
       position: absolute;
@@ -457,7 +463,7 @@ $mob-pixels: {{ site.breakpoint }};
     }
 
   }
-  // Keeping page anchors in the right place
+  // 7) Scroll anchors are fixed in widemode where the sticky header blocks anchored page elements (e.g. /about#chair)
   .scroll_anchor {
     scroll-margin: 60px 0 0 0;
   }
@@ -472,7 +478,7 @@ $mob-pixels: {{ site.breakpoint }};
 }
  
 
-// Breadcrumb menu
+// III) Breadcrumb menu
 
 ul.breadcrumb {
   padding: 10px 16px;
