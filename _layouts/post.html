@@ -35,7 +35,9 @@ layout: default
 
 {% comment %}Below is the actual code creating the posts{% endcomment %}
 
-<strong>{{ page.author }} — {{ finalPostDate }}</strong>
+{% unless page.usage == "newsletter" %}
+  <strong>{{ page.author }} — {{ finalPostDate }}</strong>
+{% endunless %}
 
 {{ content }}
 

@@ -34,7 +34,7 @@ layout: compress
   {% endcomment %}
 
   <section class="page-title-header">
-    {% unless page.translationID == "home" %}
+    {% unless page.translationID == "home" or page.usage == "newsletter" %}
       {% if page.title %}
         <br>
         <h1 class="header">
