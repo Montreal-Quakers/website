@@ -65,9 +65,6 @@ redalert_pages:
       #- translationID: directions
       #  redalert_text-en: alert/en-on-zoom-this-week.md
       #  redalert_text-fr: alert/fr-on-zoom-this-week.md
-  - translationID: directions
-    redalert_text-en: alert/en-exceptional-zoom.md
-    redalert_text-fr: alert/fr-exceptional-zoom.md
   - translationID: laurentians
     redalert_text-en: alert/en-laurentians_closing.md
     redalert_text-fr: alert/fr-laurentians_closing.md
@@ -76,9 +73,6 @@ bluealerts: some
 bluealert_all_text-en: alert/en-covid.md
 bluealert_all_text-fr: alert/fr-covid.md
 bluealert_pages:
-  #  - translationID: home
-  #    bluealert_text-en: alert/en-exceptional-zoom.md
-  #    bluealert_text-fr: alert/fr-exceptional-zoom.md
   - translationID: directions
     bluealert_text-en: alert/en-zoom-sundays.md
     bluealert_text-fr: alert/fr-zoom-dimanche.md
@@ -192,10 +186,27 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: "publications/en"
+    values:
+      layout: "blog_page"
+      lang: "en"
+      type: system_grid
+      og-title: News and Updates
+  - scope:
+      path: "publications/fr"
+    values:
+      layout: "blog_page"
+      lang: "fr"
+      type: system_grid
+      og-title: News and Updates
 
 plugins:
-  #  - jekyll-coffeescript
+  # - jekyll-coffeescript
+  # - jekyll-paginate
   - jemoji
+
+custom_paginate: 6
 
 emoji:
   src: "https://github.githubassets.com/images/icons/"

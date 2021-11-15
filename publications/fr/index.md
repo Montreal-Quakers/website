@@ -4,6 +4,8 @@ lang: fr
 translationID: news
 type: system_grid
 og-title: Nouvelles
+layout: blog_page
+index: 1
 ---
 Cette page annonce des mises à jour et des événements majeurs de notre communauté.
 * Notre [page Facebook](https://fb.com/MontrealQuakers/){: rel="noopener" target="_blank"} (majoritairement en anglais) publie elle aussi nos mises à jour et nos événements majeurs
@@ -11,5 +13,3 @@ Cette page annonce des mises à jour et des événements majeurs de notre commun
 * Les nouvelles réguières plus mineures sont envoyées à une liste d'envoi. Pour vous y inscrire, il suffit de [nous contacter](/contact-fr).
 
 ## Articles récents
-
-{% include posts.html %}

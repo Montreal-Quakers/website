@@ -33,7 +33,7 @@ en:
 #      subicon: <i class="fas fa-universal-access fa-fw"></i>
 - title: Updates
   hovertitle: The Latest Events & News
-  link: /posts
+  link: /publications/en/
   icon: <i class='fas fa-rss'></i>
 - title: Next steps
   hovertitle: Information to better integrate into the meeting community
@@ -78,7 +78,7 @@ fr:
       sublink: /laurentides
 - title: Nouvelles
   hovertitle: Nos mises à jour
-  link: /nouvelles
+  link: /publications/fr/
   icon: <i class='fas fa-rss'></i>
   # - title: Programmation
   #   link: /calendrier

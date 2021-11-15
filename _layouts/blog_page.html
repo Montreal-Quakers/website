@@ -1,0 +1,180 @@
+---
+layout: default
+---
+{{ content }}
+
+{% assign leftright = 1 %}
+
+{% if page.lang == "fr" %}
+  {% assign fr = true %}
+  {% assign filtered_posts = site.posts | where: 'lang',"fr" %}
+  {% assign publication_link = "/publications/fr" %}
+{% else %}
+  {% assign filtered_posts = site.posts | where_exp:"page","page.lang != 'fr'" %}
+  {% assign publication_link = "/publications/en" %}
+{% endif %}
+
+{% comment %}
+  This code figures out which posts to display on this page.
+{% endcomment %}
+
+{% assign post_count = site.posts | where: "lang",page.lang | size %}
+{% assign mod_page = post_count | modulo:site.custom_paginate %}
+
+{% assign page_count = post_count | divided_by:site.custom_paginate %}
+{% if mod_page > 0 %}
+  {% assign page_count = post_count | divided_by:site.custom_paginate | plus:1 %}
+{% endif %}
+{% assign indexminusone = page.index | minus: 1 %}
+{% assign OFFSET = site.custom_paginate | times: indexminusone %}
+
+{% assign previous_page = page.index | minus:1 %}
+{% assign next_page = page.index | plus:1 %}
+    
+<section class="posts">
+{% if page.index > page_count %}
+  <h3>
+    {% if fr %}
+      Rien à vous montrer sur cette page. Retournez à la liste des publications <a href=/publications/fr>ici</a>
+    {% else %}
+      Nothing to display on this page. Return to publication list <a href=/publications/en>here</a>
+    {% endif %}
+  </h3>
+{% else %}
+  <ul>
+    {% for post in filtered_posts limit:site.custom_paginate offset:OFFSET %}
+
+      {% comment %}
+        All this code is just to assign
+        the date properly in French
+        All text is captured, then it prints the day, month name
+        and then the year.
+      {% endcomment %}
+
+      {% if fr %}
+        {% capture date_capture %}
+
+          {{ post.date | date: "%-d" }} 
+
+          {% assign m = post.date | date: "%-m" %}
+          {% case m %}
+            {% when '1' %}janvier 
+            {% when '2' %}février 
+            {% when '3' %}mars 
+            {% when '4' %}avril 
+            {% when '5' %}mai 
+            {% when '6' %}juin 
+            {% when '7' %}juillet 
+            {% when '8' %}août 
+            {% when '9' %}septembre  
+            {% when '10' %}octobre 
+            {% when '11' %}novembre  
+            {% when '12' %}decembre
+          {% endcase %}
+
+          {{ post.date | date: "%Y" }}
+
+        {% endcapture %}
+
+        {% assign final_date = date_capture %}
+        
+      {% else %} 
+        {% comment %} "Else" means in English {% endcomment %}
+        {% assign final_date = post.date | date: "%B %-d, %Y" %}
+      {% endif %}
+
+      {% comment %}
+        This starts creating the cards
+      {% endcomment %}
+      <li 
+        onclick='location.href="{{ post.url | escape }}";' 
+        class="fade 
+          fadeOut{% if leftright == 1 %}Left{% elsif leftright == 2 %}Right{% endif %}
+        "
+      >
+
+        <div class="post-card">
+           <h3>
+             {{ post.title }}
+           </h3>
+        </div>
+        <div class="post-container">
+          <p>
+            <strong>
+              {{ final_date }}
+            </strong>
+          </p>
+
+          {% unless post.usage == "newsletter" %}
+            {{ post.excerpt }}
+          {% endunless %}
+
+          <a 
+            href="{{ post.url }}" 
+            class="decorate_link"
+            >
+            {% if fr %}
+              lire la suite
+            {% else %}
+              continue reading
+            {% endif %}
+
+          </a>
+
+          <div>&nbsp;</div>    
+
+        </div>
+      </li>
+
+      {% if leftright == 1 %}
+        {% assign leftright = 2 %}
+      {% elsif leftright == 2 %}
+        {% assign leftright = 1 %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+  
+{% endif %}
+  {% comment %}
+    The if statement was if page_count < index
+    Now adding pagination
+  {% endcomment %}
+
+  <p class=center>
+    <br>
+    <br>
+    <br>
+    <!-- Previous link -->
+    {% unless previous_page == 0 or previous_page > page_count or page_count == 1 %}
+    <a href="{{ publication_link }}/{% unless page.index == 2 %}page{{ previous_page }}{% endunless %}" 
+        class="w3-button color-1-dark linkoff" 
+        title="Page {{ previous_page }}"
+      >
+        <i class="fas fa-angle-left"></i>
+      </a>
+    {% endunless %}
+
+    {% if page_count > 1 %}
+
+      {% for num in (1..page_count) %}
+      <a 
+           href="{{ publication_link }}{% unless num == 1 %}/page{{ num }}{% endunless %}" 
+           class="{% if num == page.index %}color-1 {% else %}color-1-dark {% endif %}w3-button linkoff" 
+           title="Page {{ num }}"
+         >
+           {{ num }}
+      </a>
+      {% endfor %}
+    {% endif %}
+
+    {% if page_count > page.index and page_count != 1 %}
+    <!-- Next link -->
+    <a href="{{ publication_link }}/page{{ next_page }}" 
+       class="w3-button color-1-dark linkoff" 
+        title="Page {{ next_page }}"
+      >
+        <i class="fas fa-angle-right"></i>
+      </a>
+    {% endif %}
+  </p>
+</section>
