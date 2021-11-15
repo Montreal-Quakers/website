@@ -30,6 +30,8 @@ layout: default
 
 {% assign previous_page = page.index | minus:1 %}
 {% assign next_page = page.index | plus:1 %}
+{% assign latest_page = page.index | plus:3 %}
+{% assign earliest_page = page.index | minus:3 %}
     
 <section class="posts">
 {% if page.index > page_count %}
@@ -155,15 +157,38 @@ layout: default
     {% endunless %}
 
     {% if page_count > 1 %}
-
       {% for num in (1..page_count) %}
-      <a 
-           href="{{ publication_link }}{% unless num == 1 %}/page{{ num }}{% endunless %}" 
-           class="{% if num == page.index %}color-1 {% else %}color-1-dark {% endif %}w3-button linkoff" 
-           title="Page {{ num }}"
-         >
-           {{ num }}
-      </a>
+        {% if page_count >= 7 %}
+          {% comment %}
+            I want to create three dots (...) instead of page numbers
+            when the page is too far, but neither the last nor the first page.
+            If num != 1 or num != page_count
+            Display three dots only one time (assign before dots = 1,
+            do the same with afterdots)
+          {% endcomment %}
+        {% endif %}
+
+        {% if num != 1 and num <= earliest_page %}
+           {% if beforedots != 1 %}
+             <span>...</span>
+             {% assign beforedots = 1 %}
+           {% endif %}
+           {% continue %}
+         {% endif %}
+        {% if num != page_count and num >= latest_page %}
+           {% if afterdots != 1 %}
+             <span>...</span>
+             {% assign afterdots = 1 %}
+           {% endif %}
+           {% continue %}
+        {% endif %}
+          <a 
+               href="{{ publication_link }}{% unless num == 1 %}/page{{ num }}{% endunless %}" 
+               class="{% if num == page.index %}color-1 {% else %}color-1-dark {% endif %}w3-button linkoff" 
+               title="Page {{ num }}"
+             >
+               {{ num }}
+          </a>
       {% endfor %}
     {% endif %}
 

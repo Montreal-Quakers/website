@@ -3,7 +3,7 @@
 cd /home/david/jekyll/website/publications/fr
 
 # echo ---\nindex: 1\n--- >> page1/index.html
-for ((i=2;i<=15;i++));
+for ((i=2;i<=40;i++));
 do
   # your-unix-command-here
   filename="page$i/index.html"
