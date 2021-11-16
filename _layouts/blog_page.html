@@ -158,29 +158,28 @@ layout: default
 
     {% if page_count > 1 %}
       {% for num in (1..page_count) %}
-        {% if page_count >= 7 %}
+        {% if page_count > 7 %}
           {% comment %}
             I want to create three dots (...) instead of page numbers
-            when the page is too far, but neither the last nor the first page.
-            If num != 1 or num != page_count
-            Display three dots only one time (assign before dots = 1,
-            do the same with afterdots)
+            when the page is too far, 
+            but neither the last nor the first page.
           {% endcomment %}
-        {% endif %}
 
-        {% if num != 1 and num <= earliest_page %}
-           {% if beforedots != 1 %}
-             <span>...</span>
-             {% assign beforedots = 1 %}
+          {% if num != 1 and num <= earliest_page %}
+             {% if beforedots != 1 %}
+               <span>...</span>
+               {% assign beforedots = 1 %}
+             {% endif %}
+             {% continue %}
            {% endif %}
-           {% continue %}
-         {% endif %}
-        {% if num != page_count and num >= latest_page %}
-           {% if afterdots != 1 %}
-             <span>...</span>
-             {% assign afterdots = 1 %}
-           {% endif %}
-           {% continue %}
+          {% if num != page_count and num >= latest_page %}
+             {% if afterdots != 1 %}
+               <span>...</span>
+               {% assign afterdots = 1 %}
+             {% endif %}
+
+             {% continue %}
+          {% endif %}
         {% endif %}
           <a 
                href="{{ publication_link }}{% unless num == 1 %}/page{{ num }}{% endunless %}" 
