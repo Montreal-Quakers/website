@@ -23,7 +23,7 @@ We are Quakers of all kinds — Christian Quakers, nontheist Quakers, Buddhist Q
 ## [<i class="fas fa-map-marker-alt fa-fw color-1-dark-text"></i> ](/directions){: class="linkoff" aria-label="Directions"}[Where we meet](/directions)
 
 Our main meeting is on Sundays at the [Greene Centre](/directions). See our [COVID information page](/covid-19) for more details. Here are our opportunities to join us: 
-* [Sunday Meeting](/directions), worship on Zoom every Sunday **and** every Sunday except the last Sunday of the month, we invite fully vaccinated people near Lionel-Groulx metro. Exceptionally, November 7th we meet on Zoom ([contact us for the link](/contact)).
+* [Sunday Meeting](/directions) every Sunday except the last Sunday of the month, we invite fully vaccinated people to worship with us near Lionel-Groulx metro. In addition, we worship on Zoom every Sunday ([contact us for the link](/contact)).
 * [Midweek Meeting](/midweek), Wednesdays at 7PM on Zoom.
 * [Quebec City Worship Group](/quebec), first Sunday of the month at 1 PM in person in old Quebec.
 * [Laurentian Worship Group](/laurentians), Sundays at 10:30 AM in Saint-Hippolyte in person.

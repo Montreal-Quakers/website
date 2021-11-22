@@ -7,7 +7,7 @@ translationID: directions
 
 ## COVID
 
-We are testing out having meeting for worship in person. Until at least the end of October, we ask that only fully vaccinated youth and adults attend (thus we are asking unvaccinated youth under 12 to wait). That said, everyone is welcome to join us in the park across the street around noon. We will be reevaluating at the end of October for the following months.
+We are testing out having meeting for worship in person. Until at least the end of the year, we ask that only fully vaccinated youth and adults attend (thus we are asking unvaccinated youth under 12 to wait). That said, everyone is welcome to join us in the park across the street around noon. We will be reevaluating at subsequent business meetings. Also, we meet on Zoom very Sunday.
 
 ## Address
 

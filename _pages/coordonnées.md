@@ -7,7 +7,7 @@ translationID: directions
 
 ## COVID
 
-Nous expérimentons avec des réunions en présentiel. Jusqu'à la fin d'octobre, pour protéger quelques membres plus vulnérables, nous demandons que seulement les personnes avec passeport vaccinal. Nous demandons que les personnes non vaccinées, y compris les jeunes en bas de 12 ans, viennent après la réunion au parc en face, vers midi. Nous allons réévaluer sur Zoom à la fin d'octobre.
+Nous expérimentons avec des réunions en présentiel. Jusqu'à la fin de l'année, pour protéger quelques membres plus vulnérables, nous demandons que seulement les personnes avec passeport vaccinal. Nous demandons que les personnes non vaccinées, y compris les jeunes en bas de 12 ans, viennent après la réunion au parc en face, vers midi. Nous allons continuer de réévaluer. En plus, nous avons une réunion sur Zoom le dimanche.
 
 ## Coordonnées
 
