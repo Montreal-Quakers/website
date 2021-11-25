@@ -5,9 +5,9 @@ translationID: covid
 og-title: Maladie COVID-19
 ---
 ## Horaire
-* L'assemblée de [**dimanche**](/coordonnées): Se réunit sur Zoom **et** en présentiel, toujours à 11h, sauf le dernier dimanche du mois où tout le monde est sur Zoom. Pour le mois de novembre, nous invitons les personnes ayant le passeport vaccinal au Centre Greene, suivant les [consignes sanitaires](#consignes) ci-dessous.
+* L'assemblée de [**dimanche**](/coordonnées): Se réunit sur Zoom **et** en présentiel, toujours à 11h, sauf le dernier dimanche du mois où tout le monde est sur Zoom. Pour l'instant, nous invitons les personnes ayant le passeport vaccinal au Centre Greene, suivant les [consignes sanitaires](#consignes) ci-dessous.
 * Le culte du groupe de [**Québec**](/québec): Se réunit en présentiel à 13h, le premier dimanche du mois, en suivant les [consignes sanitaires](#consignes) ci-dessous.
-* Le culte du groupe de [**mi-semaine**](/mi-semaine): **sur Zoom le mercredi à 19h** (plutôt qu'à 17h30) au moins jusqu'en novembre.
+* Le culte du groupe de [**mi-semaine**](/mi-semaine): **sur Zoom le mercredi à 19h** (plutôt qu'à 17h30) au moins jusqu'en 2022.
 * Le culte du groupe aux [**Laurentides**](/laurentides): Fermé pour l'hiver.{% comment %}**le dimanche à 10h30 en présentiel** mais il vaut mieux [appeler avant](/laurentides#contact) pour confirmer les détails.{% endcomment %}
 * Groupe Quaker sur la [**Rive-Sud**](/rive-sud): nous attendons des conditions plus sécuritaires avant de commencer ce groupe.
 * [**Club de lecture et d'étude biblique**](/nouveau/lecture_bible.html) se réunit **sur Zoom** le mercredi à 18h15 au même lien que le groupe de mi-semaine.

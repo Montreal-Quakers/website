@@ -68,6 +68,9 @@ redalert_pages:
   - translationID: laurentians
     redalert_text-en: alert/en-laurentians_closing.md
     redalert_text-fr: alert/fr-laurentians_closing.md
+  - translationID: book_bible
+    redalert_text-en: alert/en-bookbible-update.md
+    redalert_text-fr: alert/fr-bookbible-update.md
 
 bluealerts: some
 bluealert_all_text-en: alert/en-covid.md
