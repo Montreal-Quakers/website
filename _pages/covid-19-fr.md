@@ -5,8 +5,8 @@ translationID: covid
 og-title: Maladie COVID-19
 ---
 ## Horaire
-* L'assemblée de [**dimanche**](/coordonnées): Se réunit sur Zoom **et** en présentiel, toujours à 11h, sauf le dernier dimanche du mois où tout le monde est sur Zoom. Pour l'instant, nous invitons les personnes ayant le passeport vaccinal au Centre Greene, suivant les [consignes sanitaires](#consignes) ci-dessous.
-* Le culte du groupe de [**Québec**](/québec): Se réunit en présentiel à 13h, le premier dimanche du mois, en suivant les [consignes sanitaires](#consignes) ci-dessous.
+* L'assemblée de [**dimanche**](/coordonnées): Se réunit sur Zoom **et** en présentiel, toujours à 11h, sauf le dernier dimanche du mois où tout le monde est sur Zoom. Pour l'instant, nous invitons les personnes ayant le passeport vaccinal au Centre Greene, suivant les [consignes sanitaires](#consignes) ci-dessous. Les enfants non vaccinés sont les bienvenus le premier dimanche du mois.
+* Le culte du groupe de [**Québec**](/québec): Se réunit en présentiel à 11h, le premier dimanche du mois, en suivant les [consignes sanitaires](#consignes) ci-dessous.
 * Le culte du groupe de [**mi-semaine**](/mi-semaine): **sur Zoom le mercredi à 19h** (plutôt qu'à 17h30) au moins jusqu'en 2022.
 * Le culte du groupe aux [**Laurentides**](/laurentides): Fermé pour l'hiver.{% comment %}**le dimanche à 10h30 en présentiel** mais il vaut mieux [appeler avant](/laurentides#contact) pour confirmer les détails.{% endcomment %}
 * Groupe Quaker sur la [**Rive-Sud**](/rive-sud): nous attendons des conditions plus sécuritaires avant de commencer ce groupe.
@@ -28,4 +28,4 @@ Notre communauté offre du soutien, y compris du **soutien financier**, pour les
 * Aucun breuvage et aucune nouriture ne seront servis.
 * Quelques informations seront retenues pour la recherche des contacts.
 * Il faut désinfecter les surfaces avant et après notre usage (Le Centre Greene fera cela pour nous).
-* Au Centre Greene: nous exigeons la vaccination complète, qui veut dire que nous demandons aux jeunes en bas de 12 ans de ne pas venir pour l'instant.
+* Au Centre Greene: nous exigeons le passport vaccinal. Les jeunes non vaccinés en bas de 12 ans sont le bienvenus le premier dimanche du mois.

@@ -5,16 +5,10 @@ translationID: quebec
 {% include picture.html filename="qc3.png" type="webp avif" alt="La chappelle" class="img_center100" %}
 
 ## Quand
-Le Groupe des Quakers à Québec se rencontre chaque premier dimanche du mois **de 11h00 à midi**.
+Le Groupe des Quakers à Québec se rencontre **chaque premier dimanche du mois de 11h00 à midi**.
 
 ## Où
-[Café la Mosaïque, 5727, rue Saint-Louis, Lévis, QC](https://goo.gl/maps/HYYEYV92bwR3Wujp6){: target="_blank" rel="noopener"}, salle de réunion. Le café est sur rue Saint-Louis au coin de Dorimène-Desjardins, à quelques mètres seulement de la Côte-du-Passage.
-
-## COVID
-Passeport vaccinal et carte d'identité requis.
-
-## Stationnement
-Stationnement gratuit le dimanche sur la rue Saint-Louis, en face du café, et accès aux personnes à mobilité réduite. 
+[À la chapelle All Saints, 31 rue des Jardins dans le Vieux-Québec](https://www.google.com/maps/search/31%20rue%20des%20Jardins,%20Qu%C3%A9bec){: target="_blank" rel="noopener"}, [ce bâtiment](https://goo.gl/maps/Z9wtKLtwAHEGSB7V6){: target="_blank" rel="noopener"} étant situé dans la cour de la cathédrale anglicane Holy Trinity à Vieux-Québec.
 
 ## [Contact](/contact-fr)
 
@@ -30,9 +24,9 @@ Pour plus d’information sur le Quakerisme, voir la page [Introduction](/intro-
 ## [Accessibilité](/accessibilité) <span class="stanchor"><a name="accessibilité"></a></span>
 Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.
 ### Mobilité
-* Un parking accessible est disponible (le trottoir est au niveau de la rue).
-* Le groupe se réunit au rez-de-chaussée. Il n'y a aucune marche ni dans l'entrée ni pour la salle de bain.
-* Les portes ne sont pas automatiques.
+* Un parking accessible est disponible.
+* Le groupe se réunit au rez-de-chaussée, mais en montant quatre marches.
+  * L'espace n'est donc pas accessible aux personnes en fauteuil roulant.
 
 ### Langue
 * Le culte du groupe de Québec se déroule principalement en français.

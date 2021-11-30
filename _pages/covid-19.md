@@ -5,9 +5,9 @@ translationID: covid
 og-title: COVID-19 Updates
 ---
 ## Schedule
-* [**Sunday**](/directions) meeting: Meets both on Zoom and in person, always meets at 11am. For the moment, we've inviting only fully vaccinated people to worship in person at the Greene Centre, following the [mandatory health precautions](#precautions) below, **except for the last Sunday of the month which is on Zoom**.
+* [**Sunday**](/directions) meeting: Meets both on Zoom and in person, always meets at 11am. For the moment, we've inviting only fully vaccinated people to worship in person at the Greene Centre, following the [mandatory health precautions](#precautions) below, **except for the last Sunday of the month which is on Zoom**. Unvaccinated children are welcome the first Sunday of the month.
 * [**Midweek**](/midweek) meeting: **on Zoom on Wednesdays at 7 PM** (rather than 5:30 PM) at least until 2022.
-* [**Quebec City**](/qc) worship group: at 1pm first Sundays of the month **in person** (a small group). See the [mandatory health precautions](#precautions) below.
+* [**Quebec City**](/qc) worship group: at 11am, first Sundays of the month **in person** (a small group). See the [mandatory health precautions](#precautions) below.
 * [**Laurentian**](/laurentians) worship group: Closed for the winter.{% comment %}**Sundays at 10:30 am in person** but it is best to [call first](/laurentians#contact).{% endcomment %}
 * [**South Shore**](/south_shore) Worship Group: we're awaiting safer conditions before beginning this worship group.
 * [**Book and Bible study**](/new_attender/book_bible) we'll be meeting Wednesdays on Zoom (same link as midweek meeting) at 6:15 PM until further notice.
@@ -21,7 +21,7 @@ The meeting is offering support, including **financial support**, for members an
 
 ## Mandatory Health Precautions for Any In-Person Meeting <span class="stanchor"><a name="precautions"></a></span>
 * If you're experiencing COVID symptoms, please stay home.
-* For the month of October, we'll be requiring vaccine passports for all (meaning children under 12 will be unable to attend for now).
+* For now, we require vaccine passports for all. Unvaccinated children under 12 are welcome on the first Sunday of the month.
 * Disinfect hands at the entrance.
 * Wearing a mask, covering nose and mouth, is mandatory at all times.
 * Details for contact tracing will be collected by the greeter.

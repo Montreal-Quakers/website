@@ -23,7 +23,7 @@ Nous regroupons des Quakers de toutes tendances&nbsp;—&nbsp; des Quakers athé
 ## [<i class="fas fa-map-marker-alt fa-fw color-1-dark-text"></i> <u>Nous trouver</u>](/coordonnées){: class="linkoff" aria-label="Coordonnées"}
 
 Notre plus grande assemblée a lieu le dimanche à 11h. Voir notre [page d'information sur la COVID-19](/covid-19-fr). Voici toutes les occasions de vous joindre à nous:
-* [Notre assemblée le dimanche](/coordonnées) sur Zoom chaque semaine ([contactez-nous pour le lien](/contact-fr)) **et** le dimanche, sauf le dernier dimanche du mois, nous invitons les personnes entièrement vaccinées au Centre Greene.
+* [Notre assemblée le dimanche](/coordonnées) sur Zoom chaque semaine ([contactez-nous pour le lien](/contact-fr)) **et** le dimanche, sauf le dernier dimanche du mois, nous invitons les personnes entièrement vaccinées au Centre Greene (les enfants non vaccinés en bas de 12 ans sont le bienvenu le premier dimanche du mois).
 * Un groupe de [mi-semaine](/mi-semaine) a lieu le mercredi à 19h sur Zoom.
 * Un groupe aux [Laurentides](/laurentides) à St-Hippolyte en personne.
 * Un groupe à [Québec](/quebec), le premier dimanche du mois à 13h à Vieux Québec en présentiel.
