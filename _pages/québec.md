@@ -2,13 +2,15 @@
 lang: fr
 translationID: quebec
 ---
-{% include picture.html filename="qc3.png" type="webp avif" alt="La chappelle" class="img_center100" %}
+{% comment %{% include picture.html filename="qc3.png" type="webp avif" alt="La chappelle" class="img_center100" %}
+{% endcomment %}
+{% include picture.html filename="quebec.jpg" type="avif webp" alt="Groupe Quaker de Québec image avec arbres" class="img_center75" %}
 
 ## Quand
 Le Groupe des Quakers à Québec se rencontre chaque premier dimanche du mois **de 11h00 à midi**.
 
 ## Où
-[Café la Mosaïque, 5727, rue Saint-Louis, Lévis, QC](https://goo.gl/maps/HYYEYV92bwR3Wujp6){: target="_blank" rel="noopener"}, salle de réunion. Le café est sur rue Saint-Louis au coin de Dorimène-Desjardins, à quelques mètres seulement de la Côte-du-Passage.
+[Café la Mosaïque, 5727, rue Saint-Louis, Lévis, QC](https://goo.gl/maps/HYYEYV92bwR3Wujp6){: target="_blank" rel="noopener"}, salle de réunion. [Café la Mosaïque](http://cafelamosaique.org/){: rel="noopener" target="_blank"} est sur rue Saint-Louis au coin de Dorimène-Desjardins, à quelques mètres seulement de la Côte-du-Passage.
 
 ## COVID
 Passeport vaccinal et carte d'identité requis.
@@ -36,5 +38,3 @@ Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations suppl�
 
 ### Langue
 * Le culte du groupe de Québec se déroule principalement en français.
-
-{% include picture.html filename="quebec.jpg" type="avif webp" alt="Groupe Quaker de Québec image avec arbres" class="img_center75" %}
