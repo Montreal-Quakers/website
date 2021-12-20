@@ -1,1 +1,1 @@
-We meet at the Greene Centre **except the last Sunday of every month we meet on Zoom**.
+We meet both on Zoom and at the Greene Centre every week **except we meet only on Zoom the last Sunday of every month**.

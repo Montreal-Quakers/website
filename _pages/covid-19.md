@@ -20,11 +20,11 @@ The meeting is offering support, including **financial support**, for members an
 [Contact us](/contact.html) for details.
 
 ## Mandatory Health Precautions for Any In-Person Meeting <span class="stanchor"><a name="precautions"></a></span>
-* If you're experiencing COVID symptoms, please stay home.
-* For now, we require vaccine passports for all. Unvaccinated children under 12 are welcome on the first Sunday of the month.
-* Disinfect hands at the entrance.
 * Wearing a mask, covering nose and mouth, is mandatory at all times.
 * Details for contact tracing will be collected by the greeter.
+* For now, we require vaccine passports for all. Unvaccinated children under 12 are welcome on the first Sunday of the month.
+* Disinfect hands at the entrance.
 * The chairs will be amply distanced (we are a small group).
 * Neither drink nor food will be served.
+* If you're experiencing COVID symptoms, please stay home.
 * We must disinfect surfaces before and after meeting (The Greene Centre will do this for us).

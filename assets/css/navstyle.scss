@@ -421,7 +421,11 @@ $mob-pixels: {{ site.breakpoint }};
       }
       &__form {
         padding: initial;
-      } // let's try this
+        &:hover #search__submit {
+          color: var(--anti-alert-text);
+          background: var(--active);
+        }
+      }
 
       &:focus-within {
         outline: none;
@@ -438,9 +442,6 @@ $mob-pixels: {{ site.breakpoint }};
         #search__input {
           transition: width 200ms ease, opacity 0ms linear .2s, z-index 0ms linear .2s;
         }
-      }
-      &:hover #search__submit {
-        color: var(--anti-alert-text);
       }
     }
       

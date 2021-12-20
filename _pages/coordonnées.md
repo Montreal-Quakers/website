@@ -5,10 +5,6 @@ translationID: directions
 ---
 {% include picture.html filename="mtl_homepage3.jpg" type="webp avif" alt="Bannière Quakers pour la Paix" class="img_center100" %}
 
-## COVID
-
-Nous expérimentons avec des réunions en présentiel. Jusqu'à la fin de l'année, pour protéger quelques membres plus vulnérables, nous demandons que seulement les personnes avec passeport vaccinal. Nous demandons que les personnes non vaccinées, y compris les jeunes en bas de 12 ans, viennent après la réunion au parc en face, vers midi. Nous allons continuer de réévaluer. En plus, nous avons une réunion sur Zoom le dimanche.
-
 ## Coordonnées
 
 Le dernier dimanche du mois, nous nous rencontrons sur Zoom ([contactez-nous pour le lien](/contact-fr)). Les indications ci-dessous s'appliquent au reste du mois au Centre Greene. 
@@ -29,6 +25,21 @@ Les assemblées Quaker ont lieu le dimanche de **11h à midi**.
 Bien qu’il soit préférable d’arriver avant 11h, votre présence nous est plus importante que la ponctualité! La garde d’enfant est disponible mais il vaut mieux nous [prévenir](/contact-fr) d’avance, surtout l’été.
 
 Si c’est votre première assemblée Quaker, [ce lien](/a_propos) donne une idée de ce à quoi vous attendre.
+
+## Précautions COVID <span class="stanchor"><a name="consignes"></a></span>
+
+Consignes pour nos visiteurs:
+* Le passeport vaccinal est requis pour l'instant.
+  * Les jeunes non vaccinés en bas de 12 ans sont le bienvenus le premier dimanche du mois.
+* Port du masque couvrant le nez et la bouche obligatoire en tout temps.
+* Si vous expérimentez des symptômes de COVID-19, restez à la maison.
+* Quelques informations seront retenues pour la recherche des contacts.
+* Désinfection des mains à l'entrée.
+
+Nos mesures:
+* Les chaises seront amplements distancées (nous sommes peu nombreux).
+* Aucun breuvage et aucune nouriture ne seront servis.
+* Le Centre Greene va désinfecter les surfaces avant et après notre usage.
 
 ## [Accessibilité](/accessibilité) <span class="stanchor"><a name="accessibilité"></a></span>
 Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.

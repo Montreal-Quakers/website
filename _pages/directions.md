@@ -5,13 +5,12 @@ translationID: directions
 ---
 {% include picture.html filename='mtl_homepage3.jpg' type='webp avif' alt='Holding banner Quakers for Peace' class='img_center100' %}
 
-## COVID
+## Zoom
+In addition to our in-person meetings, we meet on Zoom every Sunday at 11 am. ([Contact us for the link](/contact))
 
-We are testing out having meeting for worship in person. Until at least the end of the year, we ask that only fully vaccinated youth and adults attend (thus we are asking unvaccinated youth under 12 to wait). That said, everyone is welcome to join us in the park across the street around noon. We will be reevaluating at subsequent business meetings. Also, we meet on Zoom very Sunday.
+## In person
 
-## Address
-
-We meet on Zoom the last Sunday of every month ([contact us for the link](/contact)). Otherwise, the rest of the time we meet at the Greene Centre, whose information is below.
+### Address
 
 [The Greene Centre, 1090 Greene, Westmount, QC, H3Z 1Z9](https://www.google.com/maps/search/1090%20Greene,%20Westmount,%20QC,%20H3Z%201Z9){: rel="noopener" target="_blank"}
 
@@ -19,13 +18,28 @@ We meet on Zoom the last Sunday of every month ([contact us for the link](/conta
 * **Parking** available behind the Greene Centre.
 * Please note that the Greene Centre is a **nut-free environment**. We are working toward becoming a **scent-reduced meeting**.
 
-We meet in the sunroom on the Greene Centre's main floor. All are welcome.
+We meet in the sunroom on the Greene Centre's main floor. All are welcome.  During warm weather we socialize after meeting in the park across the street around noon.
 
-## Time
+### Time
 
 Quaker silent Meeting for Worship is every Sunday from **11:00 a.m. to noon**. We suggest arriving a few minutes beforehand but we much prefer your company to your absence! Childcare is available but if possible please do give us a few days [notice](/contact).
 
 If this will be your first time at a Quaker Meeting, you may want to read [this information about what to expect](/about).
+
+### COVID precautions <span class="stanchor"><a name="precautions"></a></span>
+
+Requirements for visitors:
+* For now, we require vaccine passports for all. 
+  * Unvaccinated children under 12 are welcome on the first Sunday of the month.
+* Wearing a mask, covering nose and mouth, is mandatory at all times.
+* If you're experiencing COVID symptoms, please stay home.
+* Details for contact tracing will be collected by the greeter.
+* Disinfect hands at the entrance.
+
+Other precautions: 
+* The chairs will be amply distanced (we are a small group).
+* Neither drink nor food will be served.
+* Before and after meeting, the Greene Centre will disinfect surfaces.
 
 ## [Accessibility](/accessibility) <span class="stanchor"><a name="accessibility"></a></span>
 

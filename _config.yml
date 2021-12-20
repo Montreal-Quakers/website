@@ -54,14 +54,14 @@ redalerts: some
 redalert_all_text-en: alert/en-covid.md
 redalert_all_text-fr: alert/fr-covid.md
 redalert_pages:
-  - translationID: home
-    redalert_text-en: alert/en-covid.md
-    redalert_text-fr: alert/fr-covid.md
+      #   - translationID: home
+      #     redalert_text-en: alert/en-covid.md
+      #     redalert_text-fr: alert/fr-covid.md
       #  - translationID: index-choose
       #    redalert_text-en: alert/bienvenue-welcome-covid.md
-      #- translationID: directions
-      #  redalert_text-en: alert/en-on-zoom-this-week.md
-      #  redalert_text-fr: alert/fr-on-zoom-this-week.md
+  - translationID: directions
+    redalert_text-en: alert/en-xmas-closing.md
+    redalert_text-fr: alert/fr-xmas-closing.md
   - translationID: laurentians
     redalert_text-en: alert/en-laurentians_closing.md
     redalert_text-fr: alert/fr-laurentians_closing.md
@@ -73,9 +73,9 @@ bluealerts: some
 bluealert_all_text-en: alert/en-covid.md
 bluealert_all_text-fr: alert/fr-covid.md
 bluealert_pages:
-  - translationID: directions
-    bluealert_text-en: alert/en-zoom-sundays.md
-    bluealert_text-fr: alert/fr-zoom-dimanche.md
+  #  - translationID: directions
+  #    bluealert_text-en: alert/en-zoom-sundays.md
+  #    bluealert_text-fr: alert/fr-zoom-sundays.md
       #  - translationID: home
       #    bluealert_text-en: alert/en-zoom-sundays.md
       #    bluealert_text-fr: alert/fr-zoom-dimanche.md

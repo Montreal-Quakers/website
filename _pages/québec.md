@@ -12,14 +12,21 @@ Le Groupe des Quakers à Québec se rencontre chaque premier dimanche du mois **
 ## Où
 [Café la Mosaïque, 5727, rue Saint-Louis, Lévis, QC](https://goo.gl/maps/HYYEYV92bwR3Wujp6){: target="_blank" rel="noopener"}, salle de réunion. [Café la Mosaïque](http://cafelamosaique.org/){: rel="noopener" target="_blank"} est sur rue Saint-Louis au coin de Dorimène-Desjardins, à quelques mètres seulement de la Côte-du-Passage.
 
-## COVID
-Passeport vaccinal et carte d'identité requis.
-
 ## Stationnement
 Stationnement gratuit le dimanche sur la rue Saint-Louis, en face du café, et accès aux personnes à mobilité réduite. 
 
-## [Contact](/contact-fr)
+## Précautions COVID <span class="stanchor"><a name="consignes"></a></span>
 
+Consignes pour nos visiteurs:
+* Le passeport vaccinal (avec carte d'identité) est requis pour l'instant pour les personnes de plus de 12 ans.  {% comment %}* Port du masque couvrant le nez et la bouche obligatoire en tout temps.{% endcomment %}
+* Si vous expérimentez des symptômes de COVID-19, restez à la maison.
+* Désinfection des mains à l'entrée.
+* Désinfection des surfaces avant et après l'usage.
+
+Nos mesures:
+* Les chaises seront amplements distancées (nous sommes peu nombreux).
+
+## [Contact](/contact-fr)
 [quebec@montreal.quaker.ca](mailto:quebec@montreal.quaker.ca){: rel="noopener" target="_blank"}
 
 [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}
