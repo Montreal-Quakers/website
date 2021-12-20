@@ -18,7 +18,7 @@ Stationnement gratuit le dimanche sur la rue Saint-Louis, en face du café, et a
 ## Précautions COVID <span class="stanchor"><a name="consignes"></a></span>
 
 Consignes pour nos visiteurs:
-* Le passeport vaccinal (avec carte d'identité) est requis pour l'instant pour les personnes de plus de 12 ans.  {% comment %}* Port du masque couvrant le nez et la bouche obligatoire en tout temps.{% endcomment %}
+* Le passeport vaccinal (avec carte d'identité) est requis pour les personnes de plus de 12 ans.  {% comment %}* Port du masque couvrant le nez et la bouche obligatoire en tout temps.{% endcomment %}
 * Si vous expérimentez des symptômes de COVID-19, restez à la maison.
 * Désinfection des mains à l'entrée.
 * Désinfection des surfaces avant et après l'usage.
