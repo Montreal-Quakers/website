@@ -26,7 +26,7 @@ Notre plus grande assemblée a lieu le dimanche à 11h. Voici toutes les occasio
 * [Notre assemblée le dimanche](/coordonnées) sur Zoom chaque semaine ([contactez-nous pour le lien](/contact-fr)) **et** le dimanche, sauf le dernier dimanche du mois (qui est sur Zoom seulement), nous invitons les personnes entièrement vaccinées au Centre Greene, près du métro Lionel-Groulx. Les enfants non vaccinés en bas de 12 ans sont le bienvenu le premier dimanche du mois.
 * Un groupe de [mi-semaine](/mi-semaine) a lieu le mercredi à 19h sur Zoom.
 * Un groupe aux [Laurentides](/laurentides) à St-Hippolyte en personne.
-* Un groupe à [Québec](/quebec), en présentiel le premier dimanche du mois à 13h à Lévis.
+* Un groupe à [Québec](/quebec), en présentiel le premier dimanche du mois à 11h à Lévis.
 * Lorsque les conditions sanitaires le permet, nous espérons former un groupe sur la [Rive-Sud](/rive-sud), probablement à Saint-Lambert.
 
 Une fois par mois nous chantons et nous offrons des activités pour les jeunes la plupart de l’année. [Contactez-nous](/contact-fr) pour confirmer ou venez vous joindre à nous n'importe quel [dimanche](/coordonnées).
