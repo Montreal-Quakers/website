@@ -185,7 +185,7 @@ defaults:
       path: "_posts" # an empty string here means all files in the project
       type: "posts"
     values:
-      layout: "post"
+      layout: "blog_page"
   - scope:
       path: "publications/en"
     values:
