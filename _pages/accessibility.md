@@ -18,8 +18,8 @@ For more accessibility information on our physical locations, select a place of 
 
 * Sunday Meeting at the [Greene Centre](/directions#accessibility)
 * Midweek Meetings at the [Newman Centre](/midweek#accessibility)
-* Quebec City worship group at the [Anglican rectory](/qc#accessibility)
-* Laurentian worship group in the [Annex](/laurentians#accessibility)
+* Quebec City worship group in Lévis at [Café la Mosaïque](/qc#accessibility)
+* Laurentian worship group in St-Hyppolyte in the [Annex](/laurentians#accessibility)
 
 ## Acknowledgements
 Our thanks to the team at [Agence SAT](https://agencesat.com/){: rel="noopener" target="_blank"}, whose accessibility audit greatly improved this website.
