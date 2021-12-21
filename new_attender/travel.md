@@ -19,8 +19,8 @@ When Quakers travel, we often bring greetings from our home meeting to other mee
 * [Québec](/home#-where-we-meet)
 * [Canada](https://quaker.ca/who-we-are/find-a-meeting/){: rel="noopener" target="_blank"}
 * [North America](https://www.fgcquaker.org/connect/quaker-finder){: rel="noopener" target="_blank"}
-* [Latin America](http://fwccamericas.org/find_friends/index.shtml){: rel="noopener" target="_blank"}
-* [The UK and Ireland](http://www.quaker.org.uk/organisation-details){: rel="noopener" target="_blank"}
+* [Latin America](https://fwccamericas.org/visitation/find-friends.aspx){: rel="noopener" target="_blank"}
+* [The UK and Ireland](https://www.quaker.org.uk/meetings){: rel="noopener" target="_blank"}
 * [France](https://www.quakersenfrance.org/){: rel="noopener" target="_blank"}
 * [Belgium and Luxembourg](https://quakers-belux.org/meetings-for-worship-where-and-when/){: rel="noopener" target="_blank"}
 * [Africa](http://fwccafrica.org/){: rel="noopener" target="_blank"}

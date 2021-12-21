@@ -9,7 +9,7 @@ Notre nouveau site web est arrivé, et en style. Merci à tout le monde qui nous
 
 Profitez des nouvelles fonctionalités:
 * Plus de contenu
-* Meilleure qualité de site en français
+* Meilleure internationalisation
 * Animations
 * Nouvelle esthétique
 * 75% plus rapide
@@ -23,4 +23,4 @@ Profitez des nouvelles fonctionalités:
   * Apprendre plus
   * Des ressources pour mieux connaître la communauté
 
-[Le site précédant est toujours visible à Archive.org](https://web.archive.org/web/20190216082942/https://montreal.quaker.ca/en/index/){: rel="noopener" target="_blank"}.
+[Le site précédant est toujours visible à Archive.org](https://web.archive.org/web/20190301022329/https://montreal.quaker.ca/fr/accueil/){: rel="noopener" target="_blank"}.

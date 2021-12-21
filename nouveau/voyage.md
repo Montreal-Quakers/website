@@ -19,8 +19,8 @@ Lorsque les Quakers voyagent, souvent nous apportons les salutations de notre as
 * [Québec](/accueil#-nous-trouver)
 * [Canada](https://quaker.ca/who-we-are/find-a-meeting/){: rel="noopener" target="_blank"}
 * [Amérique du Nord](https://www.fgcquaker.org/connect/quaker-finder){: rel="noopener" target="_blank"}
-* [Amérique Latine](http://fwccamericas.org/find_friends/index.shtml){: rel="noopener" target="_blank"}
-* [Le Royaume-Uni et l'Ireland](http://www.quaker.org.uk/organisation-details){: rel="noopener" target="_blank"}
+* [Amérique Latine](https://fwccamericas.org/visitation/find-friends.aspx){: rel="noopener" target="_blank"}
+* [Le Royaume-Uni et l'Ireland](https://www.quaker.org.uk/meetings){: rel="noopener" target="_blank"}
 * [France](https://www.quakersenfrance.org/){: rel="noopener" target="_blank"}
 * [Belgique et Luxembourg](https://quakers-belux.org/meetings-for-worship-where-and-when/){: rel="noopener" target="_blank"}
 * [Afrique](http://fwccafrica.org/){: rel="noopener" target="_blank"}
