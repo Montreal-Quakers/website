@@ -1,7 +1,10 @@
 ---
 lang: fr
-title: Sélections de Foi et pratique et Organization and procedure
+title: Sélections des documents quakers
 ---
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
+
 ## Foi et pratique
 
 De l’introduction au livre de Faith & Practice (Foi et Pratique) de l’Assemblée annuelle canadienne, la citation suivante se réfère à la « Lettre des Aînés recueillie en assemblée à Balby, 1656 » (pour le texte intégral, voir l’annexe A de Faith & Practice (Foi et Pratique) de l’Assemblée annuelle canadienne).
