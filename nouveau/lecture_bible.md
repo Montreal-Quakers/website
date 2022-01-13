@@ -13,8 +13,11 @@ og-title: Club de lecture & d'étude biblique
 
 [Contactez-nous](/contact-fr) pour plus de détails.
 
-## Notre prochaine réunion
+{% comment %}## Notre prochaine réunion
 À notre prochaine réunion, **{{ site.data.bookbible.verse.fr-date }}**, nous allons lire **{{ site.data.bookbible.verse.fr }}**.
+{% endcomment %}
+## Notre prochaine réunion
+Notre club est en pause jusqu'en tôt janvier. Revenez à cette page!
 
 ## Lectures à venir
 Au cours des prochains mois nous allons lire les extraits suivants:

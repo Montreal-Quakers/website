@@ -13,8 +13,11 @@ og-title: Book club & Bible study
 
 [Contact us](/contact) for further details.
 
-## Our next meeting
+{% comment %}## Our next meeting
 At our next meeting, on **{{ site.data.bookbible.verse.en-date }}** we will be studying **{{ site.data.bookbible.verse.en }}**.
+{% endcomment %}
+## Next meeting
+Bible study is on temporary hiatus until early 2022. Watch this space.
 
 ## Future readings
 We will be reading from these books:
