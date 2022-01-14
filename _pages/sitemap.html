@@ -1,0 +1,73 @@
+---
+title: Site Map
+lang: en
+translationID: system_sitemap
+type: system_grid
+exclude_from_search: true
+---
+<ul>
+  {% for item in site.data.navigation.en %}
+    {% unless item.submenu[0] %}
+      <li>
+        <a href="{{ item.link }}">
+          {{ item.title }}
+        </a>
+        {% if item.title == "Contact Us" %}
+        <ul>
+          <li>
+            <a href="/privacy">
+              Privacy Policy
+            </a>
+          </li>
+        </ul>
+        {% endif %}
+      </li>
+    {% endunless %}
+
+    {% if item.submenu[0] %}
+      <li>
+        {{ item.title }}
+      </li>
+
+      <ul>
+        {% for subitem in item.submenu %}
+          <li>
+            <a href="{{ subitem.sublink }}">
+              {{ subitem.subtitle }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+    {% if item.title == "Next steps" %}
+    <ul>
+      {% for item in site.data.newcomer_cards.en %}
+        <li>
+          <a href="{{ item.link }}">
+            {{ item.title }}
+          </a>
+        </li>
+
+        {% if item.submenu[0] %}
+          <ul>
+            {% for subitem in item.submenu %}
+              <li>
+                <a href="{{ subitem.sublink }}">
+                  {{ subitem.subtitle }}
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      {% endfor %}
+    </ul>
+    {% endif %}
+  {% endfor %}
+
+  <li>
+    <a href="/accessibility">
+      Accessibility Information
+    </a>
+  </li>
+</ul>

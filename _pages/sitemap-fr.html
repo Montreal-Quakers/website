@@ -1,0 +1,81 @@
+---
+title: La carte du site
+lang: fr
+translationID: system_sitemap
+type: system_grid
+exclude_from_search: true
+---
+<ul>
+  {% for item in site.data.navigation.fr %}
+    {% unless item.submenu[0] %}
+      <li>
+        <a href="{{ item.link }}">
+          {{ item.title }}
+        </a>
+        {% if item.title == "Contact" %}
+        <ul>
+          <li>
+            <a href="/confidentialité">
+              Politique de confidentialité
+            </a>
+          </li>
+        </ul>
+        {% endif %}
+      </li>
+    {% endunless %}
+
+    {% if item.submenu[0] %}
+      <li>
+        {{ item.title }}
+      </li>
+
+      <ul>
+        {% for subitem in item.submenu %}
+          <li>
+            <a href="{{ subitem.sublink }}">
+              {{ subitem.subtitle }}
+            </a>
+            {% if subitem.subtitle == "Liens et histoire" %}
+            <ul>
+              <li>
+                <a href="/livres-en-français">
+                  Sélection de livres en français
+                </a>
+              </li>
+            </ul>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+    {% if item.title == "Étape suivante" %}
+    <ul>
+      {% for item in site.data.newcomer_cards.fr %}
+        <li>
+          <a href="{{ item.link }}">
+            {{ item.title }}
+          </a>
+        </li>
+
+        {% if item.submenu[0] %}
+          <ul>
+            {% for subitem in item.submenu %}
+              <li>
+                <a href="{{ subitem.sublink }}">
+                  {{ subitem.subtitle }}
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      {% endfor %}
+    </ul>
+    {% endif %}
+  {% endfor %}
+  <li>
+    <a href="/accessibilité">
+      Informations sur l'accessibilité
+    </a>
+  </li>
+</ul>

@@ -27,10 +27,6 @@ en:
     - subtitle: Laurentians
       subhovertitle: Laurentian Worship Group
       sublink: /laurentians
-#    - subtitle: Accessibility
-#      subhovertitle: Accessibility information for our places of worship
-#      sublink: /accessibility
-#      subicon: <i class="fas fa-universal-access fa-fw"></i>
 - title: Updates
   hovertitle: The Latest Events & News
   link: /publications/en/
@@ -39,9 +35,6 @@ en:
   hovertitle: Information to better integrate into the meeting community
   link: /new_attender/
   icon: <i class="fas fa-arrow-circle-right fa-fw"></i>
-# - title: Calendar
-#   link: /calendar
-#   icon: <i class='far fa-calendar-alt'></i>
 - title: Donate
   link: /donate
   icon: <i class='fas fa-coins'></i>
@@ -53,7 +46,6 @@ fr:
 - title: Première fois
   icon: <i class="far fa-hand-paper"></i>
   link: /intro-fr
-#  {% comment %}<i class='far fa-address-card'></i>{% endcomment %}
   submenu:
     - subtitle: Déroulement
       sublink: /à_propos
@@ -80,14 +72,10 @@ fr:
   hovertitle: Nos mises à jour
   link: /publications/fr/
   icon: <i class='fas fa-rss'></i>
-  # - title: Programmation
-  #   link: /calendrier
-  #   icon: <i class='far fa-calendar-alt'></i>
 - title: Étape suivante
   hovertitle: Des informations pour mieux s'intégrer dans notre communauté
   link: /nouveau/
   icon: <i class="fas fa-arrow-circle-right fa-fw"></i>
-# - title: Calendar
 - title: Donner
   link: /don
   icon: <i class='fas fa-coins'></i>

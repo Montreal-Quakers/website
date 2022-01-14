@@ -12,6 +12,7 @@ Veuillez [nous contacter](/contact-fr) si vous avez besoin d'informations suppl�
 * Si vous avez des difficultés à lire une ou des portion(s) de notre site web (par exemple votre lecteur d'écran fonctionne mal), [contactez-nous](/contact-fr) avec les détails et il nous fera plaisir de vous envoyer les sections concernées de notre site web en format Word, PDF ou autre format à votre convenance.
 * Si votre navigateur web ne parvient pas à modifier correctement les couleurs ou la taille de la police sur notre site web, [contactez-nous](/contact-fr).
 * Ce site web vise à respecter ou à dépasser les [normes d'accessibilité WAI du W3C](https://www.w3.org/WAI/standards-guidelines/fr){: rel="noopener" target="_blank"}.
+* Vous pouvez utiliser [cette carte du site](/sitemap-fr) pour naviguer le site.
 
 ## Nos lieux de culte
 Pour plus d'informations sur l'accessibilité de chacun de nos sites physiques, consultez une des pages ci-dessous.
