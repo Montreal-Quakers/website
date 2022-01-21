@@ -6,9 +6,11 @@ translationID: directions
 {% include picture.html filename='mtl_homepage3.jpg' type='webp avif' alt='Holding banner Quakers for Peace' class='img_center100' %}
 
 ## Zoom
-In addition to our in-person meetings, we meet on Zoom every Sunday at 11 am. ([Contact us for the link](/contact))
+{% comment %}In addition to our in-person meetings, w{% endcomment %}We meet on Zoom every Sunday at 11 am. ([Contact us for the link](/contact))
 
 ## In person
+
+We are meeting on Zoom only for the moment (11 am on Sundays), but the information below is for reference for when we resume in person meetings.
 
 ### Address
 

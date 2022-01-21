@@ -5,9 +5,16 @@ translationID: directions
 ---
 {% include picture.html filename="mtl_homepage3.jpg" type="webp avif" alt="Bannière Quakers pour la Paix" class="img_center100" %}
 
-## Coordonnées
+## Sur Zoom
 
-Le dernier dimanche du mois, nous nous rencontrons sur Zoom ([contactez-nous pour le lien](/contact-fr)). Les indications ci-dessous s'appliquent au reste du mois au Centre Greene. 
+{% comment %}En plus de nos rencontres en personne, o{% endcomment %}On se voit sur Zoom le dimanche à 11h. ([Contactez-nous pour le lien](/contact-fr).
+
+## En personne
+On se réunit sur Zoom seulement pour le moment (dimanche à 11h). Les informations ci-dessous sont pour référence lorsqu'on résume des réunions en personne.
+
+### Coordonnées
+
+Le dernier dimanche du mois, nous nous rencontrons sur Zoom ). Les indications ci-dessous s'appliquent au reste du mois au Centre Greene. 
 
 [Le centre Greene, 1090 Greene, Westmount, QC, H3Z 1Z9](https://www.google.com/maps/search/1090%20Greene,%20Westmount,%20QC,%20H3Z%201Z9){: rel="noopener" target="_blank"}
 
@@ -18,7 +25,7 @@ Le dernier dimanche du mois, nous nous rencontrons sur Zoom ([contactez-nous pou
 
 Notre assemblée a lieu au rez-de-chaussée (dans la « Sunroom »). Tout le monde est bienvenu.
 
-## Quand
+### Quand
 
 Les assemblées Quaker ont lieu le dimanche de **11h à midi**.
 
@@ -26,7 +33,7 @@ Bien qu’il soit préférable d’arriver avant 11h, votre présence nous est p
 
 Si c’est votre première assemblée Quaker, [ce lien](/a_propos) donne une idée de ce à quoi vous attendre.
 
-## Précautions COVID <span class="stanchor"><a name="consignes"></a></span>
+### Précautions COVID <span class="stanchor"><a name="consignes"></a></span>
 
 Consignes pour nos visiteurs:
 * Le passeport vaccinal est requis pour l'instant.

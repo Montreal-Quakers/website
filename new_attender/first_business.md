@@ -21,19 +21,19 @@ At a minimum, even if you don't understand everything and even if the business i
 ## Questions
 
 Quakers love questions. At moments, the business meeting may move a bit quickly. Questions are welcome and also the full answer (if we even know it) may be too complex to explain within the business meeting itself, usually due to the time and energy constraints that we face as a volunteer organization. 
-* Write down your questions. We would love to answer any of them that we can later.
-  * Another great time to ask questions is at various introduction to Quaker events, or during informal chat.
-  * Feel free to contact the clerk with questions as well.
+* Write down your questions. We would love to answer any of them that we can (perhaps later).
+* Another great time to ask questions is at various introduction to Quaker events, or during informal chat.
+* Feel free to contact the clerk with questions as well.
   * Having questions is a great way to get to know someone in the community while also learning more about Quakers, too.
 
 ## In short
 * Be prepared to both ask questions if you like and also to not understand everything;
-  * We know it can be discouraging to not understand.
-  * Most of us discovered Quakers as adults; we remember our first time at a Quaker business meeting.
-  * There can be a surprising amount of complexity for such a small organization.
-  * None of us understand everything about Quakerism; it's a lifelong process for which we need each other
+* We know it can be discouraging to not understand.
+* Most of us discovered Quakers as adults; we remember our first time at a Quaker business meeting.
+* There can be a surprising amount of complexity for such a small organization.
+* None of us understand everything about Quakerism; it's a lifelong process for which we need each other.
 * Use business meeting as an opportunity to get to know not only the workings of our community, but also an opportunity to get to know someone in it
-  * In other words, we suggest planning who you'd like to address questions to after going to your first business meeting.
+* In other words, we suggest planning who you'd like to address questions to after going to your first business meeting.
   * Who is someone you'd like to know better?
 
 ## Learn more
