@@ -3,9 +3,9 @@ title: Sélection de livres en français sur le quakerisme
 lang: fr
 translationID: livres-français
 ---
-Les livres en français sur les Quakers ne sont pas nombreux. Il est toutefois possible d’en trouver en bibliothèque ou en usagés. 
+Les livres en français sur les quakers ne sont pas nombreux. Il est toutefois possible d’en trouver en bibliothèque ou en usagés. 
 
-* ![Barclay, Robert. La Lumière Intérieure](/assets/images/Barclay.png){: style="float:right;padding:5px"} Barclay, Robert. **La Lumière Intérieure, Source de Vie: Apologie de la vraie théologie chrétienne telle qu'elle est professée et prêchée par ce peuple appelé par mépris les Quakers**, 1675. Paris: Éditions Dervy, 1993.
+* ![Barclay, Robert. La Lumière Intérieure](/assets/images/Barclay.png){: style="float:right;padding:5px"} Barclay, Robert. **La Lumière Intérieure, Source de Vie: Apologie de la vraie théologie chrétienne telle qu'elle est professée et prêchée par ce peuple appelé par mépris les quakers**, 1675. Paris: Éditions Dervy, 1993.
   * Un grand classique! Ce sont les fondements théologiques défendus par Barclay.
   * Disponible en usagé
 
@@ -16,7 +16,7 @@ Les livres en français sur les Quakers ne sont pas nombreux. Il est toutefois p
 
 <br>
 * ![La Présence ineffable](/assets/images/Kelly.png){: style="float:right;padding:5px"} Kelly, Thomas R. **La Présence ineffable**, Genève, Labor et Fides, 2012.
-  * Kelly est considéré comme un mystique quaker, un des fondateurs de la tradition libérale du quakerisme. Son texte est très connu chez les Quakers.
+  * Kelly est considéré comme un mystique quaker, un des fondateurs de la tradition libérale du quakerisme. Son texte est très connu chez les quakers.
   * Disponible en librairie
 
 <br>

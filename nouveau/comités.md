@@ -4,7 +4,7 @@ lang: fr
 translationID: committees
 og-title: Comités & rôles
 ---
-Les Quakers célèbrent les leaders dans leur communauté, mais accordent moins d'importance à la hiérarchie. Nous ne sommes tous que des bénévoles. La fonction de ces rôles n'est pas de prendre des décisions pour le groupe, et surtout pas de les imposer aux autres, mais plutôt de faciliter l'écoute de l'esprit d'amour dans nos décisions collectives, une écoute qui est le noyau de la vie Quaker.
+Les quakers célèbrent les leaders dans leur communauté, mais accordent moins d'importance à la hiérarchie. Nous ne sommes tous que des bénévoles. La fonction de ces rôles n'est pas de prendre des décisions pour le groupe, et surtout pas de les imposer aux autres, mais plutôt de faciliter l'écoute de l'esprit d'amour dans nos décisions collectives, une écoute qui est le noyau de la vie quaker.
 
 Si vous voyez un rôle au sujet duquel vous aimeriez en savoir plus, n'hésitez pas à nous [contacter](/contact-fr)
 

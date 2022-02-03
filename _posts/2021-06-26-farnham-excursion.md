@@ -1,5 +1,5 @@
 ---
-title: "Suggestion pour une belle excursion sur l’histoire des Quakers au Québec"
+title: "Suggestion pour une belle excursion sur l’histoire des quakers au Québec"
 author: Jean-Louis Demers
 tags: 
 lang: fr
@@ -15,7 +15,7 @@ Les rencontres formelles de cette assemblée semblent s’être tenues à partir
 
 Si l’histoire de ces ancêtres excitent votre curiosité, je vous suggère une excursion sur les pas de leur héritage. Commencez par la visite du musée du comté du Lac Brome à Knowlton. Une petite section est consacrée à cette communauté dont la collection de livres de leur bibliothèque. 
 
-{% include picture.html path="/assets/images/posts/" filename="2021-06-farnham_bookshelf.png" type="webp avif" alt="Bibliothèque Quaker, Farnham, QC" figcaption="Bibliothèque Quaker contenant les livres de la réunion East-Farnham, 1814 à 1902, située au Brome County Historical Society Museum, Knowlton QC" class="img_center75" %}
+{% include picture.html path="/assets/images/posts/" filename="2021-06-farnham_bookshelf.png" type="webp avif" alt="Bibliothèque quaker, Farnham, QC" figcaption="Bibliothèque quaker contenant les livres de la réunion East-Farnham, 1814 à 1902, située au Brome County Historical Society Museum, Knowlton QC" class="img_center75" %}
 
 Par la suite, il est possible de se rendre à l’abbaye de Saint-Benoit-du-Lac et de prendre le petit sentier qui mène à la pierre commémorative de Nicholas Austin. Ou encore, ce qui est l’option la plus touchante du parcours, c’est de se rendre à l’ancien cimetière quaker de [East-Farnham au 620 chemin Hallé Est](https://goo.gl/maps/fuKcRMtdhPhjcW5g9){: rel="noopener" target="_blank"} (un tombeau est visible [de Google Street view](https://www.google.com/maps/@45.2409416,-72.7530473,3a,15y,176.46h,92.86t/data=!3m7!1e1!3m5!1s_wekPry01q05fAddf8P1kA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D_wekPry01q05fAddf8P1kA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D331.0656%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656){: rel="noopener" target="_blank"}). 
 

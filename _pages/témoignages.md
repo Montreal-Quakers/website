@@ -1,5 +1,5 @@
 ---
-title: Les témoignages Quaker (les ÉPICES)
+title: Les témoignages quakers (les ÉPICES)
 lang: fr
 translationID: testimonies
 ---
@@ -7,7 +7,7 @@ Depuis d'innombrables générations, notre contact avec l'Esprit nous rappelle c
 
 <i class="fab fa-creative-commons-nd fa-fw fa-2x color-1-dark-text down_a_bit_more"></i> &nbsp;<b>É</b>galité. Nous sommes toutes et tous également créé.e.s.
 
-<i class="fas fa-dove fa-fw fa-2x color-1-light-text down_a_bit_more"></i> &nbsp;<b>P</b>aix. Les Quakers ont une longue histoire d'implication en faveur de la paix. 
+<i class="fas fa-dove fa-fw fa-2x color-1-light-text down_a_bit_more"></i> &nbsp;<b>P</b>aix. Les quakers ont une longue histoire d'implication en faveur de la paix. 
 
 <i class="fas fa-handshake fa-fw fa-2x color-1-dark-text down_a_bit_more"></i> &nbsp;<b>I</b>ntegrité. Dire et vivre la vérité, au meilleur de nos possibilités.
 
@@ -26,6 +26,6 @@ Ces valeurs ne sont pas des règles à imposer; elles doivent émerger de notre 
   
 ![](/assets/images/Rainbow-Flag.jpg){: img_left height="25"} &nbsp;Notre communauté est ouverte à toutes et à tous.
 
-En lire plus sur [comment fonctionne une assemblée Quaker](/a_propos).
+En lire plus sur [comment fonctionne une assemblée quaker](/a_propos).
 
-Ou bien [en apprendre plus](/liens_histoire) sur plusieurs autres sujets, dont le travail des Quakers au Canada.
+Ou bien [en apprendre plus](/liens_histoire) sur plusieurs autres sujets, dont le travail des quakers au Canada.

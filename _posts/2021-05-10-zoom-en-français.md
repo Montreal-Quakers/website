@@ -9,7 +9,7 @@ Les quakers accordent beaucoup d'importance au silence mais aussi à l'écoute. 
 
 * Courte période de silence.
 * Faire connaissance (échanges libres et informels)
-* Répondre aux questions de tout genre concernant le mouvement Quaker. Nous répondrons à toutes les questions au meilleur de notre connaissance. (culte, historique, croyances (ou pas), inclusivité, questions environnementales et en lien avec la justice sociale, administration, activités, etc.)
+* Répondre aux questions de tout genre concernant le mouvement quaker. Nous répondrons à toutes les questions au meilleur de notre connaissance. (culte, historique, croyances (ou pas), inclusivité, questions environnementales et en lien avec la justice sociale, administration, activités, etc.)
 * Discussion (s'il y a lieu)
 * Informations sur la poursuite des activités du groupe de Québec (très bientôt on l'espère, nous sommes confiants pour juin)
 * Conclusion

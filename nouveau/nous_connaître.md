@@ -17,8 +17,8 @@ Si vous souhaitez participer davantage dans la vie de notre communauté mais ne 
   * Organismes à but non lucratif tel que le Conseil des Canadiens
 * Faites partie d'un [comité](/nouveau/comités): voilà une des meilleures façons de mieux nous connaître tout en contribuant à notre communauté.
   * Si un [comité](/nouveau/comités) peut vous intéresser, n'hésitez pas à nous poser des [questions](/contact-fr).
-  * Si vous ne voyez aucun rôle qui peut vous intéresser, demandez quand même: il existe plusieurs façons intéressantes de participer à la vie des Quakers au Canada, aux Nations-Unies, aux États-Unis ou au niveau international, notamment en relation avec d’autres religions. Cette liste n’est qu’un début.
-* Connaissez-vous les plus grands [rassemblements](/nouveau/rassemblements) des Quakers?
+  * Si vous ne voyez aucun rôle qui peut vous intéresser, demandez quand même: il existe plusieurs façons intéressantes de participer à la vie des quakers au Canada, aux Nations-Unies, aux États-Unis ou au niveau international, notamment en relation avec d’autres religions. Cette liste n’est qu’un début.
+* Connaissez-vous les plus grands [rassemblements](/nouveau/rassemblements) des quakers?
 
 ## Demander, ou attendre qu’on vous demande
 Si vous êtes avec nous depuis un certain temps, on espère que quelqu'un aura déjà discuté de bon nombre de ces possibilités avec vous. Sinon, c'est peut-être parce que:

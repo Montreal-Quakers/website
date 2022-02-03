@@ -7,7 +7,7 @@ translationID: quebec
 {% include picture.html filename="quebec.jpg" type="avif webp" alt="Groupe Quaker de Québec image avec arbres" class="img_center75" %}
 
 ## Quand
-Le Groupe des Quakers à Québec se rencontre chaque premier dimanche du mois **de 11h00 à midi**.
+Le Groupe Quaker de Québec se rencontre chaque premier dimanche du mois **de 11h00 à midi**.
 
 ## Où
 [Café la Mosaïque, 5727, rue Saint-Louis, Lévis, QC](https://goo.gl/maps/HYYEYV92bwR3Wujp6){: target="_blank" rel="noopener"}, salle de réunion. [Café la Mosaïque](http://cafelamosaique.org/){: rel="noopener" target="_blank"} est sur rue Saint-Louis au coin de Dorimène-Desjardins, à quelques mètres seulement de la Côte-du-Passage.
@@ -32,9 +32,9 @@ Nos mesures:
 [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}
 
 ## Déroulement
-Si c’est votre première assemblée Quaker, [cette page](/à_propos) donne une idée de ce à quoi vous attendre.
+Si c’est votre première assemblée quaker, [cette page](/à_propos) donne une idée de ce à quoi vous attendre.
 
-Pour plus d’information sur le Quakerisme, voir la page [Introduction](/intro-fr).
+Pour plus d’information sur le quakerisme, voir la page [Introduction](/intro-fr).
 
 ## [Accessibilité](/accessibilité) <span class="stanchor"><a name="accessibilité"></a></span>
 Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.

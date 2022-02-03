@@ -17,7 +17,7 @@ Profitez des nouvelles fonctionalités:
 * Plus d'information sur les quakers pour les nouveaux et nouvelles venu.e.s
 
 À venir:
-* Un glossaire anglais-français de termes Quaker!
+* Un glossaire anglais-français de termes quaker!
 * Plus d'information sur:
   * L'assemblée d'affaires
   * Apprendre plus

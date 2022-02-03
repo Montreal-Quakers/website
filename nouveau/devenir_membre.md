@@ -4,13 +4,13 @@ lang: fr
 translationID: membership
 og-title: Devenir membre
 ---
-## Le rôle des membres au sein des Quakers de Montréal
-Certaines personnes assistent aux assemblées et siègent même à des comités des Quakers pendant de nombreuses années sans en être membres. Toute personne est la bienvenue à nos assemblées, peut partager le ministère et même avoir voix aux réunions d'affaires.
+## Le rôle des membres au sein des quakers de Montréal
+Certaines personnes assistent aux assemblées et siègent même à des comités des quakers pendant de nombreuses années sans en être membres. Toute personne est la bienvenue à nos assemblées, peut partager le ministère et même avoir voix aux réunions d'affaires.
 
 Ceci dit, l'adhésion est importante, même s'il y a peu de distinctions ou de privilèges particuliers qui l'accompagnent. 
 
 ## Le but de l'adhésion
-* Nous sommes tous façonnés par nos expériences. À un moment donné, devenir membre — « être » un Quaker — est tout simplement une expression du rôle que la communauté Quaker a joué dans notre formation.
+* Nous sommes tous façonnés par nos expériences. À un moment donné, devenir membre — « être » un quaker — est tout simplement une expression du rôle que la communauté quaker a joué dans notre formation.
 * L'adhésion doit être une direction de l'Esprit, autrement dit, une expression de l'amour que nous avons ressenti au sein de cette communauté, comme une sorte d’appartenance à une famille spirituelle.
 * Le but du processus d'adhésion est de discerner si cet amour est présent, et si oui, de le reconnaître et de le célébrer.
 * L'adhésion peut également servir à confirmer un désir d'inclusion et de contribution.

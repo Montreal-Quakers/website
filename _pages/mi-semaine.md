@@ -33,7 +33,7 @@ Pour nous trouver à la **Bibliothèque Ryan**, entrez au Centre Newman par l’
 
 Bienvenue à toutes et à tous !
 
-Si c’est votre première assemblée Quaker, [ce lien](/a_propos) donne une idée de ce à quoi vous attendre.
+Si c’est votre première assemblée quaker, [ce lien](/a_propos) donne une idée de ce à quoi vous attendre.
 
 ## [Accessibilité](/accessibilité) <span class="stanchor"><a name="accessibilité"></a></span>
 Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.

@@ -4,7 +4,7 @@ lang: fr
 translationID: request_help
 og-title: "Demandez de l'aide"
 ---
-Comme participant.e ou comme membre, vous pouvez demander de l'aide de la communauté Quaker de Montréal. Cette aide peut être sous plusieurs formes:
+Comme participant.e ou comme membre, vous pouvez demander de l'aide de la communauté quaker de Montréal. Cette aide peut être sous plusieurs formes:
 * [Aide financière d'urgence](/nouveau/fonds_daide).
   * Vous pouvez demander de l'aide jusqu'à $250 jusqu'à deux fois par année.
 * Nous pouvons former un comité de clarification afin de vous aider à prendre une décision difficile.

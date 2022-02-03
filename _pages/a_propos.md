@@ -1,5 +1,5 @@
 ---
-title: Votre première assemblée Quaker en six étapes
+title: Votre première assemblée quaker en six étapes
 lang: fr
 translationID: about
 permalink: /à_propos
@@ -18,9 +18,9 @@ permalink: /à_propos
     
 ************
 
-Les Quakers prennent un moment de recul face aux distractions de la vie quotidienne.
+Les quakers prennent un moment de recul face aux distractions de la vie quotidienne.
 
-[![](/assets/images/no-tie_color.png){: img_left height="20px" style="vertical-align:middle"}](#cravate-base){: class=linkoff}<span class="stanchor"><a id="cravate"> </a></span> &nbsp;Lors d'une assemblée Quaker aucune tenue vestimentaire particulière n'est prescrite.
+[![](/assets/images/no-tie_color.png){: img_left height="20px" style="vertical-align:middle"}](#cravate-base){: class=linkoff}<span class="stanchor"><a id="cravate"> </a></span> &nbsp;Lors d'une assemblée quaker aucune tenue vestimentaire particulière n'est prescrite.
 
 [<i class="fas fa-chair chair"></i>](#chaise-base){: class=linkoff}<span class="stanchor"><a id="chaise"> </a></span> &nbsp;Prenez n'importe quel siège. L’assemblée débute au moment où nous nous assoyons en silence; elle dure jusqu’au moment où les responsables font un signe de conclusion, comme se donner la main. Bien qu’il soit préférable d’arriver quelques minutes à l'avance, votre présence nous est plus importante que votre ponctualité.
 
@@ -32,7 +32,7 @@ Les Quakers prennent un moment de recul face aux distractions de la vie quotidie
 
 [<i class="fas fa-mug-hot color-1-dark-text"></i>](#thé-base){: class=linkoff}<span class="stanchor"><a id="thé"> </a></span> &nbsp;Après l’assemblée, il y a une période d'annonces suivie de rafraîchissements, parfois avec un sujet de discussion. Si vous le pouvez, prenez un thé avec nous pour mieux nous connaître et, si vous avez des questions, n'hésitez pas à les poser.
 
-<i class="fas fa-book-reader color-1-text"></i> &nbsp;Lire nos brochures ou emprunter un livre si vous voulez [à propos](/intro-fr) des Quakers ou de notre [histoire](/liens_histoire).
+<i class="fas fa-book-reader color-1-text"></i> &nbsp;Lire nos brochures ou emprunter un livre si vous voulez [à propos](/intro-fr) des quakers ou de notre [histoire](/liens_histoire).
 
 Nous vous souhaitons la bienvenue!
 

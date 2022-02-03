@@ -15,13 +15,14 @@ So sad, Woodbrooke seems to have deleted this course -- post this again if they 
 * Pour une excellente ressource sur la terminologie Quaker en français, voir [ce glossaire anglais-français](https://glossary.summerhays.net){: rel="noopener" target="_blank"}.
 * Une ressource pour expliquer le quakerisme aux enfants en bas de 10 ans [Le culte Quaker et moi](/assets/PDF/LeCulteQuakerEtMoi-small.pdf), par Quaker suisse Ed Dommen.
 * Ce [PDF](/assets/PDF/CongeniesE.pdf) (en anglais) conte l'histoire quand même particulière des Quakers dans le sud de la France.
+* [Quelques documents clés de l'Assemblée annuelle canadienne](/fp) (Foi et pratique et Organisation et procédure)
 * Voir aussi [cette liste de livres en français sur le quakerisme](/livres-en-français)
 
 ## Pour participer à la discussion
 * Majoritairement **en anglais**: [Le groupe de discussion Facebook des Quakers au Canada](https://www.facebook.com/groups/532516183429702/){: rel="noopener" target="_blank"} sans oublier quelques autres groupes sur Facebook, de l'[informatif](https://www.facebook.com/groups/2207263944/){: rel="noopener" target="_blank"} au [loufoque](https://www.facebook.com/groups/assbadfriends/).
 * Majoritairement **en français**: [Amis isolés de France et d'ailleurs sur Facebook](https://www.facebook.com/groups/1693742737383648/){: rel="noopener" target="_blank"} (plusieurs Québécois dans le groupe).
 
-## Groupes Quakers francophones non-programmés en dehors du Québec
+## Groupes quakers francophones non-programmés en dehors du Québec
 * [Quakers en France](http://www.quakersenfrance.org/faq), par exemple, [la Centre Quaker de Congénies](https://www.maison-quaker-congenies.org/){: rel="noopener" target="_blank"} ou [à Paris](https://www.facebook.com/CentreQuakerParis/){: rel="noopener" target="_blank"}
 * [Quakers en suisse](https://swiss-quakers.ch/fr/accueil/){: rel="noopener" target="_blank"}
 

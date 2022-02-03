@@ -10,7 +10,7 @@ Le dimanche à 10h30.
 ## Contact <span class="stanchor"><a name="contact"></a></span>
 Pour confirmer votre présence ou pour plus de détails, appelez Pauline Bernier au (450) 224-2274 (essayez (450) 224-7738 aussi). Vous pouvez envoyer un courriel à [laurentian@montreal.quaker.ca](mailto:laurentian@montreal.quaker.ca) mais c'est moins fiable.
 
-Si c’est votre première assemblée Quaker, [ce lien](/a_propos) donne une idée de ce à quoi vous attendre.
+Si c’est votre première assemblée quaker, [ce lien](/a_propos) donne une idée de ce à quoi vous attendre.
 
 ## [Accessibilité](/accessibilité) <span class="stanchor"><a name="accessibilité"></a></span>
 Veuillez contacter le [groupe de culte des Laurentides](/laurentides) directement si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.

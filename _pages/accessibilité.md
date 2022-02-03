@@ -4,7 +4,7 @@ lang: fr
 translationID: accessibility
 og-title: Informations sur l'accessibilité
 ---
-Le Quakerisme se base sur le respect de chaque être humain. Si nous pouvons améliorer votre accès à notre site web ou à nos sites physiques, nous espérons que [vous nous le ferez savoir](/contact-fr).
+Le quakerisme se base sur le respect de chaque être humain. Si nous pouvons améliorer votre accès à notre site web ou à nos sites physiques, nous espérons que [vous nous le ferez savoir](/contact-fr).
 
 Veuillez [nous contacter](/contact-fr) si vous avez besoin d'informations supplémentaires.
 
