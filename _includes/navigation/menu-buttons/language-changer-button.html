@@ -1,5 +1,4 @@
 {% if page.translationID %}
-
   {% assign otherurl = nil %}
 
   {% for each in site.pages %}
@@ -13,13 +12,26 @@
       {% break %}
     {% endif %}
 
+    {% if page.url contains "/publications/en/page" %}
+      {% assign otherurl = "/publications/fr/" %}
+      {% assign otherLanguageName = "Français" %}
+      {% break %}
+    {% endif %}
+    {% if page.url contains "/publications/fr/page" %}
+      {% assign otherurl = "/publications/en/" %}
+      {% assign otherLanguageName = "English" %}
+      {% break %}
+    {% endif %}
+
   {% endfor %}
 
   {% unless otherurl %}
 
     {% for each in site.posts %}
-
-      {% if each.translationID == page.translationID and each.lang == otherlang %}{% assign otherurl = each.url %}{% break %}{% endif %}
+      {% if each.translationID == page.translationID and each.lang == otherlang %}
+        {% assign otherurl = each.url %}
+        {% break %}
+      {% endif %}
 
     {% endfor %}
 

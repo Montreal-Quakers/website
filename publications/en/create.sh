@@ -1,6 +1,6 @@
 #!/bin/bash
 # mkdir publications/{en,fr}/page(seq 1 15)
-cd /home/david/jekyll/website/publications/fr
+cd /home/david/jekyll/website/publications/en
 
 # echo ---\nindex: 1\n--- >> page1/index.html
 for ((i=2;i<=40;i++));
