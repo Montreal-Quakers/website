@@ -7,10 +7,10 @@ translationID: directions
 
 ## Sur Zoom
 
-{% comment %}En plus de nos rencontres en personne, o{% endcomment %}On se voit sur Zoom le dimanche à 11h. ([Contactez-nous pour le lien](/contact-fr).
+En plus de nos rencontres en personne, on se voit sur Zoom le dimanche à 11h. ([Contactez-nous pour le lien](/contact-fr).
 
 ## En personne
-On se réunit sur Zoom seulement pour le moment (dimanche à 11h). Les informations ci-dessous sont pour référence lorsqu'on résume des réunions en personne.
+On se réunit sur Zoom seulement jusqu'au 3 avril (dimanche à 11h).
 
 ### Coordonnées
 
