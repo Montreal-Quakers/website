@@ -1,1 +1,1 @@
-Sunday meeting meets on Zoom only for the next few weeks. [Contact us for the link](/contact)
+On April 17th, Sunday meeting meets on Zoom only. [Contact us for the link](/contact). Back in person on May 1st.
