@@ -3,7 +3,7 @@ lang: fr
 title: Documents fondamentaux des quakers au Canada
 description: Traduction de quelques extraits
 ---
-Cette page contient une traduction de quelques extraits de deux documents clés de l'Assemblée annuelle canadienne ([un organisme qui regroupe les quakers au Canada](https://quaker.ca/){: rel="noopener" target="_blank"}): le premier est Foi et pratique ([Faith & Practice](https://quaker.ca/cympublications/faith-and-practice/){: rel="noopener" target="_blank"}) et le deuxième est Organisation et procédure ([Organization and Procedure](https://quaker.ca/cympublications/organization-and-procedure/){: rel="noopener" target="_blank"}).
+Cette page contient une traduction de quelques extraits de deux documents clés de l'Assemblée annuelle canadienne ([un organisme qui regroupe les quakers au Canada](https://quaker.ca/){: rel="noopener" target="_blank"}): Foi et pratique ([Faith & Practice](https://quaker.ca/cympublications/faith-and-practice/){: rel="noopener" target="_blank"}) et Organisation et procédure ([Organization and Procedure](https://quaker.ca/cympublications/organization-and-procedure/){: rel="noopener" target="_blank"}).
 
 * This markdown unordered list (```* ```) will be replaced with an automatically generated Table of Contents, excluding any headers above. The line below ```{% raw %}{:toc}{% endraw %}``` indicates that this unordered list will be replace by the ToC
 {:toc}

@@ -10,7 +10,7 @@ In addition to our in-person meetings, we meet on Zoom every Sunday at 11 am. ([
 
 ## In person
 
-We are meeting on Zoom only until April 1st (11 am on Sundays).
+We meet at 11 a.m. every Sunday except the last Sunday of the month, which is on Zoom only.
 
 ### Address
 
@@ -31,8 +31,8 @@ If this will be your first time at a Quaker Meeting, you may want to read [this 
 ### COVID precautions <span class="stanchor"><a name="precautions"></a></span>
 
 Requirements for visitors:
-* For now, we require vaccine passports for all. 
-  * Unvaccinated children under 12 are welcome on the first Sunday of the month.
+{% comment %}* For now, we require vaccine passports for all. 
+  * Unvaccinated children under 12 are welcome on the first Sunday of the month.{% endcomment %}
 * Wearing a mask, covering nose and mouth, is mandatory at all times.
 * If you're experiencing COVID symptoms, please stay home.
 * Details for contact tracing will be collected by the greeter.

@@ -10,7 +10,7 @@ translationID: directions
 En plus de nos rencontres en personne, on se voit sur Zoom le dimanche à 11h. ([Contactez-nous pour le lien](/contact-fr).
 
 ## En personne
-On se réunit sur Zoom seulement jusqu'au 3 avril (dimanche à 11h).
+On se réunit le dimanche à 11h00 sauf le dernier dimanche du mois, qui est sur Zoom seulement.
 
 ### Coordonnées
 
@@ -36,11 +36,11 @@ Si c’est votre première assemblée quaker, [ce lien](/a_propos) donne une id�
 ### Précautions COVID <span class="stanchor"><a name="consignes"></a></span>
 
 Consignes pour nos visiteurs:
-* Le passeport vaccinal est requis pour l'instant.
-  * Les jeunes non vaccinés en bas de 12 ans sont le bienvenus le premier dimanche du mois.
+{% comment %}* Le passeport vaccinal est requis pour l'instant.
+  * Les jeunes non vaccinés en bas de 12 ans sont le bienvenus le premier dimanche du mois.{% endcomment %}
 * Port du masque couvrant le nez et la bouche obligatoire en tout temps.
 * Si vous expérimentez des symptômes de COVID-19, restez à la maison.
-* Quelques informations seront retenues pour la recherche des contacts.
+* Quelques informations pourraient être retenues pour la recherche des contacts.
 * Désinfection des mains à l'entrée.
 
 Nos mesures:
