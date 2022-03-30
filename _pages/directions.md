@@ -24,7 +24,7 @@ We meet in the sunroom on the Greene Centre's main floor. All are welcome.  Duri
 
 ### Time
 
-Quaker silent Meeting for Worship is every Sunday from **11:00 a.m. to noon**. We suggest arriving a few minutes beforehand but we much prefer your company to your absence! Childcare is available but if possible please do give us a few days [notice](/contact).
+Quaker silent Meeting for Worship is every Sunday from **11:00 a.m. to noon**. We suggest arriving a few minutes beforehand but we much prefer your company to your absence! We joyfully welcome children — if possible please [do give us a few days notice](/contact).
 
 If this will be your first time at a Quaker Meeting, you may want to read [this information about what to expect](/about).
 

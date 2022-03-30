@@ -29,4 +29,4 @@ Here are our opportunities to join us:
 * [Laurentian Worship Group](/laurentians), restarting in spring 2022: Sundays at 10:30 AM in Saint-Hippolyte in person.
 * [South Shore Worship Group](/south_shore) may form soon after the pandemic, likely in Saint-Lambert. [Contact us](/contact) for updates.
 
-Our main meeting has a children’s program and a music group — please [contact us](/contact) to confirm the details. Please feel welcome to join us any [Sunday](/directions).
+Our meeting joyfully welcomes children — please [contact us](/contact) to confirm the details. Please feel welcome to join us any [Sunday](/directions).
