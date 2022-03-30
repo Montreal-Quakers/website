@@ -34,7 +34,7 @@ Pour nous trouver à la **Bibliothèque Ryan**, entrez au Centre Newman par l’
 Bienvenue à toutes et à tous !
 
 Si c’est votre première assemblée quaker, [ce lien](/a_propos) donne une idée de ce à quoi vous attendre.
-
+{% comment %}
 ## [Accessibilité](/accessibilité) <span class="stanchor"><a name="accessibilité"></a></span>
 Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.
 ### Mobilité
@@ -48,5 +48,5 @@ Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations suppl�
 * Vu sa proximité de McGill, ce groupe parle principalement anglais
 * La traduction chuchotée est disponible
 * Plusieurs membres sont bilingues et francophones
-
+{% endcomment %}
 {% include picture.html filename="ClaudeRyanLibrary.jpg" type="webp avif" class="img_center" alt="Bibliothèque Ryan" %}

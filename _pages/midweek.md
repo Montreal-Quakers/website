@@ -36,18 +36,18 @@ All are welcome!
 
 If this will be your first time at a Quaker Meeting, you may want to read [this information](/about) about what to expect.
 
+{% comment %}
 ## [Accessibility](/accessibility) <span class="stanchor"><a name="accessibility"></a></span>
 Please [let us know](/contact) if you require additional information or accommodations for accessibility.
-
 ### Mobility
 We meet on the second floor.
 * This space is unfortunately **not** wheelchair accessible
 * Must go down six steps and then up two flights of stairs
 * No automated doors
-
 ### Language
 * Given the proximity to McGill, this group speaks primarily English
 * Whisper translation into French is available
 * Several members are bilingual and francophone
+{% endcomment %}
 
 {% include picture.html filename="ClaudeRyanLibrary.jpg" type="webp avif" class="img_center" alt="Ryan Library" %}
