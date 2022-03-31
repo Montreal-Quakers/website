@@ -8,7 +8,7 @@ Sundays at 10:30 am.
 ## How to find us
 [Atelier des Arts, 1056 des Hauteurs, St-Hippolyte, QC](https://goo.gl/maps/9LgPP2XZ7VcxjvDQ9){: rel="noopener" target="_blank"}, near Lac-Cornu.
 ## Contact <span class="stanchor"><a name="contact"></a></span>
-To confirm your presence or for further details, call Pauline Bernier at (450) 224-2274 (try (450) 224-7738 as well). Email at [laurentian@montreal.quaker.ca](mailto:laurentian@montreal.quaker.ca) is not very reliable.
+To confirm your presence or for further details, call Pauline Bernier at (450) 224-2274 (try (450) 224-7738 as well).
 
 If this will be your first time at a Quaker Meeting, you may want to read [this information](about) about what to expect.
 

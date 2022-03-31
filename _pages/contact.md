@@ -8,7 +8,7 @@ You’re welcome to use the contact form below or call Janette, our clerk, at <i
 
 Our largest group meets on [Sundays](/directions) at 11 AM at the Greene Centre, [1090 Greene Ave](/directions), Westmount, H3Z 1Z9.
 
-Comments or questions are welcome.
+Comments or questions are welcome. <i class="fas fa-pencil-alt shake-tl color-1-text"></i>
 
 {% include contact.html %}
 

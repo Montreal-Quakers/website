@@ -8,7 +8,7 @@ Pour nous joindre, vous pouvez remplir le formulaire ci-dessous ou bien appeler 
 
 Entre autres, vous pouvez nous rendre visite le [dimanche](/coordonnées) à 11h au Greene Centre, [1090 ave. Greene, Westmount](/coordonnées), H3Z 1Z9.
 
-N'hésitez pas à nous poser des questions.
+N'hésitez pas à nous poser des questions. <i class="fas fa-pencil-alt shake-tl color-1-text"></i>
 
 {% include contact.html %}
 
