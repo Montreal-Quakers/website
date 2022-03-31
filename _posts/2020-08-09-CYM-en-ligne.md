@@ -1,4 +1,4 @@
-e---
+---
 translationID: cym2020
 lang: fr
 title: CYM 2020 en ligne
