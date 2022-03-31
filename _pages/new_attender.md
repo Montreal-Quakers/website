@@ -1,5 +1,5 @@
 ---
-title: For new attenders
+title: For attenders & members
 lang: en
 translationID: new_attender
 permalink: /new_attender/
