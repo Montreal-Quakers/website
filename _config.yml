@@ -59,12 +59,12 @@ redalert_pages:
       #     redalert_text-fr: alert/fr-covid.md
       #  - translationID: index-choose
       #    redalert_text-en: alert/bienvenue-welcome-covid.md
-      #   - translationID: directions
-      #     redalert_text-en: alert/en-exceptional-zoom.md
-      #     redalert_text-fr: alert/fr-exceptional-zoom.md
-      #   - translationID: home
-      #     redalert_text-en: alert/en-exceptional-zoom.md
-      #     redalert_text-fr: alert/fr-exceptional-zoom.md
+  - translationID: directions
+    redalert_text-en: alert/en-exceptional-zoom.md
+    redalert_text-fr: alert/fr-exceptional-zoom.md
+  - translationID: home
+    redalert_text-en: alert/en-exceptional-zoom.md
+    redalert_text-fr: alert/fr-exceptional-zoom.md
   - translationID: laurentians
     redalert_text-en: alert/en-laurentians_closing.md
     redalert_text-fr: alert/fr-laurentians_closing.md
