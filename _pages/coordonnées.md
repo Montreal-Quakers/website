@@ -13,9 +13,6 @@ En plus de nos rencontres en personne, on se voit sur Zoom le dimanche à 11h. (
 On se réunit le dimanche à 11h00 sauf le dernier dimanche du mois, qui est sur Zoom seulement.
 
 ### Coordonnées
-
-Le dernier dimanche du mois, nous nous rencontrons sur Zoom ). Les indications ci-dessous s'appliquent au reste du mois au Centre Greene. 
-
 [Le centre Greene, 1090 Greene, Westmount, QC, H3Z 1Z9](https://www.google.com/maps/search/1090%20Greene,%20Westmount,%20QC,%20H3Z%201Z9){: rel="noopener" target="_blank"}
 
 * Près de la **station Lionel-Groulx et Atwater** (Lionel-Groulx est un peu plus proche)

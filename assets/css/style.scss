@@ -83,7 +83,7 @@ a {
   &:hover {
     /*outline-width:0;*/
     text-decoration: none !important;
-    // background: initial !important;
+    // background-color: initial !important;
   }
 }
 
@@ -91,7 +91,7 @@ a {
 .linkoff,a.wideheader,.navbar a {
 	&,&:link,&:visited,&:hover {
     text-decoration: none;
-    // background: inherit;
+    // background-color: inherit;
     }
 }
 
@@ -103,7 +103,7 @@ a[href$="\.pdf" i]::after {
     // font-size: .6em;
     margin-left: .3em;
     text-decoration: none;
-    background: inherit;
+    background-color: inherit;
     color: var(--color-1-dark);
     display: inline-block;
 }
@@ -133,7 +133,7 @@ button {
 
 // Putting outline on focus: good for accessibility e.g. keyboard use
 button:not(.dropbtn):focus {
-  background: var(--active);
+  background-color: var(--active);
 }
 
 :focus {
@@ -143,7 +143,7 @@ button:not(.dropbtn):focus {
 
 // When text is selected, it matches theme
 ::selection {
-	background: var(--color-1);
+	background-color: var(--color-1);
 	color: var(--alert-text);
 }
 
@@ -153,23 +153,23 @@ body::-webkit-scrollbar {
 }
 
 body::-webkit-scrollbar-track {
-  background: var(--scrollbar-back);
+  background-color: var(--scrollbar-back);
   border-radius: 100vw;
   margin-block: .05em;
 }
 
 body::-webkit-scrollbar-thumb {
-  //background: linear-gradient(var(--color-1), var(--color-1-dark));
-  background: var(--color-1-light);
+  //background-color: linear-gradient(var(--color-1), var(--color-1-dark));
+  background-color: var(--color-1-light);
   border: .05em solid var(--scrollbar-back);
   opacity: 70%;
   border-radius: 100vw;
   transition: background .3s;
   &:hover {
-    background: var(--color-1);
+    background-color: var(--color-1);
   }
   &:active {
-    background: var(--color-1-dark);
+    background-color: var(--color-1-dark);
   }
 }
 
@@ -216,7 +216,7 @@ h1,h2,h3,h4 {
 a.container-content, a.container-content:link, a.container, .container a, .container-content a {
 	// This code below makes a gradient underline link
    // text-decoration: none;
-   // background: linear-gradient(to right, var(--color-1-light), var(--color-1-dark)); //var(--color-1)
+   // background-color: linear-gradient(to right, var(--color-1-light), var(--color-1-dark)); //var(--color-1)
    // background-position: 0 100%;
    // background-size: 100% 1px;
    // background-repeat: repeat-x;
@@ -227,7 +227,7 @@ a.container-content, a.container-content:link, a.container, .container a, .conta
    // -webkit-text-decoration-thickness: 2px !important;
    &:hover {
 	// Needed only with the gradient underline link
-     //background: initial;
+     //background-color: initial;
      text-decoration: none;
    }
 }
@@ -499,7 +499,7 @@ a.container-content, a.container-content:link, a.container, .container a, .conta
 }
 
 // 6a) Special classes stolen from w3schools
-.w3-input{padding:8px;display:block;border:none;border-bottom:1px solid #ccc;width:100%;background:var(--body-bg);color:var(--body-text)}
+.w3-input{padding:8px;display:block;border:none;border-bottom:1px solid #ccc;width:100%;background-color:var(--body-bg);color:var(--body-text)}
 .w3-border{border:1px solid #ccc}
 .w3-animate-input{width:50%;transition:width 0.4s ease-in-out}
 .w3-animate-input:focus{width:100%}

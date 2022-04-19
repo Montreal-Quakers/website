@@ -62,12 +62,12 @@ $mob-pixels: {{ site.breakpoint }};
   position: relative;
   height: 55px;
   &:hover {
-    background: var(--active);
+    background-color: var(--active);
   }
 
   span, span::before, span::after {
     display: block;
-    background: var(--card-hover);
+    background-color: var(--card-hover);
     height: 2px;
     width: 2rem;
     border-radius: 2px;
@@ -125,7 +125,7 @@ $mob-pixels: {{ site.breakpoint }};
     align-items: center;
     height: 55px;
     &:hover {
-      background: var(--active);
+      background-color: var(--active);
     }
     img {
       vertical-align: text-bottom;
@@ -147,7 +147,7 @@ $mob-pixels: {{ site.breakpoint }};
 
 .navbar {
   color: var(--alert-text);
-  background: var(--color-1-dark);
+  background-color: var(--color-1-dark);
   z-index: 1;
   position: absolute;
   font-weight: bold; 
@@ -167,7 +167,7 @@ $mob-pixels: {{ site.breakpoint }};
   // 3i) Its ul, li, and then a and buttons
   ul {
     padding-left: 0;
-    background: inherit;
+    background-color: inherit;
     // text-indent: 5px;
     li {
       display: inline;
@@ -175,7 +175,7 @@ $mob-pixels: {{ site.breakpoint }};
       width: 100%;
       padding-left: 0;
       vertical-align: middle;
-      background: inherit;
+      background-color: inherit;
     }
   }
   a,button {
@@ -193,7 +193,7 @@ $mob-pixels: {{ site.breakpoint }};
   }
 
   button.dropbtn {
-    background: inherit
+    background-color: inherit
   }
 
   a:hover,.active,ul .dropdown .active, .dropdown ul li a:hover {
@@ -214,17 +214,17 @@ $mob-pixels: {{ site.breakpoint }};
       height: 54px;
       border: none;
       text-indent: 0.6rem;
-      background: var(--body-bg);
+      background-color: var(--body-bg);
       color: var(--body-text);
     }
     &__submit {
       flex: 0 1 2.5rem;
       height: 54px;
-      background: var(--color-1-light);
+      background-color: var(--color-1-light);
       cursor: pointer;
       // padding: 0;
       &:hover {
-        background: var(--active);
+        background-color: var(--active);
       }
       i {
         vertical-align: initial;
@@ -276,7 +276,7 @@ $mob-pixels: {{ site.breakpoint }};
     text-indent: 35px;
     background-color: var(--color-1);
     &:hover {
-      background: var(--active); 
+      background-color: var(--active); 
     }
   }
 }
@@ -286,7 +286,7 @@ $mob-pixels: {{ site.breakpoint }};
   grid-auto-flow: column;
   grid-template-columns: clamp(5px, 15%, 55px) 1fr clamp(15px, 15%, 55px);
   place-items: center;
-  background: var(--color-1-dark);
+  background-color: var(--color-1-dark);
   color: var(--alert-text);
   text-decoration: none;
   text-align: center;
@@ -339,7 +339,7 @@ $mob-pixels: {{ site.breakpoint }};
     padding: 40px 0px;
     justify-content: center;
     align-items: center;
-    background: var(--wideheader-color);
+    background-color: var(--wideheader-color);
     color: var(--wideheader-text);
     // overflow-y: hidden;
     animation: hide-scroll 1.2s backwards;
@@ -365,7 +365,7 @@ $mob-pixels: {{ site.breakpoint }};
     position: sticky;
     transform: scale(1,1);
     top: 0;
-    background: var(--color-1);
+    background-color: var(--color-1);
     transition: background 150ms linear;
     // This changes the widescreen navbar color on scroll
     &.change_nav_color {
@@ -423,7 +423,7 @@ $mob-pixels: {{ site.breakpoint }};
         padding: initial;
         &:hover #search__submit {
           color: var(--anti-alert-text);
-          background: var(--active);
+          background-color: var(--active);
         }
       }
 
@@ -450,9 +450,9 @@ $mob-pixels: {{ site.breakpoint }};
       display: block;
       position: absolute;
       top: 55px;
-      background: inherit;
+      background-color: inherit;
       li a {
-        background: inherit;
+        background-color: inherit;
       }
     }
     .dropdown-content {

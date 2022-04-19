@@ -34,7 +34,7 @@ $mob-pixels: {{ site.breakpoint }};
     //   position: absolute;
     //   border-radius: .5rem;
     //   inset: 0;
-    //   background: var(--card-color);
+    //   background-color: var(--card-color);
     //   z-index: -2;
     //   }
     &> a:first-child {
@@ -52,13 +52,13 @@ $mob-pixels: {{ site.breakpoint }};
     box-shadow: 0px 2px 3px 0 rgba(0,0,0,var(--card-shadow));
     margin: auto;
     padding: 10px;
-    // background: transparent;
-    background: var(--card-color);
+    // background-color: transparent;
+    background-color: var(--card-color);
     transition: box-shadow 0.3s, background 0.3s;
     // &::before {
     //   content: '';
     //   position: absolute;
-    //   background: var(--card-hover);
+    //   background-color: var(--card-hover);
     //   inset: 0;
     //   // top: 0;
     //   // bottom: 0;
@@ -70,7 +70,7 @@ $mob-pixels: {{ site.breakpoint }};
     //   }
     &:hover {
       box-shadow: 1px 3px 8px 0 rgba(0,0,0,var(--card-hover-shadow));
-      background: var(--card-hover);
+      background-color: var(--card-hover);
     //   &::before {
     //     transform: translateX(0);
     //     }
@@ -84,7 +84,7 @@ $mob-pixels: {{ site.breakpoint }};
   font-style: italic;
   font-size: 2.0em;
    //  &:hover {
-   //         background: var(--card-hover)
+   //         background-color: var(--card-hover)
    //  }
      &:hover span {padding-right: 15px;}
      &:hover span:after {
@@ -109,7 +109,7 @@ $mob-pixels: {{ site.breakpoint }};
   box-shadow: 0px 2px 2px rgba(0,0,0,var(--card-shadow));
   // margin: auto;
   color: var(--body-text);
-  // background: var(--card-color);
+  // background-color: var(--card-color);
   // transition: box-shadow .3s ease-in;
   // > a:first-child {
   //   //display: inline;
@@ -118,7 +118,7 @@ $mob-pixels: {{ site.breakpoint }};
   //   color: blue;
   // }
   // &:hover h3 {
-  //   background: var(--card-hover);
+  //   background-color: var(--card-hover);
   // }
   &:hover {
 	  box-shadow: 1px 3px 7px rgba(0,0,0,var(--card-shadow));
@@ -128,7 +128,7 @@ $mob-pixels: {{ site.breakpoint }};
       position: absolute;
       inset: 0;
       z-index: -3;
-      background: var(--card-color);
+      background-color: var(--card-color);
   }
    &:hover .post-card h3::before {
      transform: translateX(0);
@@ -142,13 +142,13 @@ $mob-pixels: {{ site.breakpoint }};
     position: absolute;
     inset: 0;
     z-index: -1;
-    background: var(--card-header);
+    background-color: var(--card-header);
     }
   h3 {
     position: relative;
     font-family: $font-serif;
-    // background: var(--card-header);
-    background: transparent;
+    // background-color: var(--card-header);
+    background-color: transparent;
     text-align: center;
     margin: 0;
     padding: 15px;
@@ -157,7 +157,7 @@ $mob-pixels: {{ site.breakpoint }};
       position: absolute;
       inset: 0;
       z-index: -1;
-      background: var(--card-hover);
+      background-color: var(--card-hover);
       transform: translateX(-100%);
       transition: transform 0.45s ease;
     }
