@@ -1,6 +1,6 @@
 ---
 ---
-// Already imported
+// Already imported but needs to be imported for every file
 @import "font";
 $mob-pixels: {{ site.breakpoint }};
 $media-pixels: {{ site.mediabreak }};

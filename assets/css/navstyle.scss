@@ -61,6 +61,7 @@ $mob-pixels: {{ site.breakpoint }};
   cursor: pointer;
   position: relative;
   height: 55px;
+  // width: 52px;
   &:hover {
     background-color: var(--active);
   }
@@ -69,10 +70,10 @@ $mob-pixels: {{ site.breakpoint }};
     display: block;
     background-color: var(--card-hover);
     height: 2px;
-    width: 2rem;
+    width: 30px;
     border-radius: 2px;
     position: relative;
-    transition: transform 100ms ease-in-out,width 350ms ease-in-out;
+    transition: transform 100ms ease-in-out;
   }
 
   span::before, span::after {
@@ -100,21 +101,27 @@ $mob-pixels: {{ site.breakpoint }};
 }
 
 // Hamburger to X animation
-.nav-toggle:checked ~ div .nav-toggle-label span {
-   transform: rotate(45deg);
-     height: 3px;
-     width: 1rem;
+.nav-toggle:checked ~ div .nav-toggle-label {
+  padding: 10px 17.5px;
+  span {
+    transform: rotate(45deg);
+    // height: 3px;
+      width: 15px;
+      background-color: var(--alert-text);
 
-   &::before {
-     transform: translateY(6px)
-                rotate(-90deg);
-     width: 1rem;
-   }
-   &::after {
-     transform: translateY(-6px)
-                rotate(-90deg);
-     width: 1rem;
-   }
+    &::before {
+      transform: translateY(6px)
+                 rotate(-90deg);
+      width: 15px;
+      background-color: var(--alert-text);
+    }
+    &::after {
+      transform: translateY(-6px)
+                 rotate(-90deg);
+      width: 15px;
+      background-color: var(--alert-text);
+    }
+  }
 }
 
   // 2) Mobile bird logo
@@ -124,6 +131,7 @@ $mob-pixels: {{ site.breakpoint }};
     display: flex;
     align-items: center;
     height: 55px;
+    padding: 0 10px;
     &:hover {
       background-color: var(--active);
     }
@@ -284,7 +292,8 @@ $mob-pixels: {{ site.breakpoint }};
 #narrowheader {
   display: grid;
   grid-auto-flow: column;
-  grid-template-columns: clamp(5px, 15%, 55px) 1fr clamp(15px, 15%, 55px);
+  //grid-template-columns: clamp(5px, 15%, 53px) 1fr clamp(15px, 15%, 55px);
+  grid-template-columns: auto 1fr auto;
   place-items: center;
   background-color: var(--color-1-dark);
   color: var(--alert-text);
@@ -313,6 +322,22 @@ $mob-pixels: {{ site.breakpoint }};
   max-height: 400px;
   width: 0;
 } 
+
+.dark-mode-toggle {
+  //position: absolute;
+  //z-index: 100;
+  //top: 1em;
+  //right: 1em;
+  //color: var(--color-1);
+  color: black;
+  border: 2px solid currentColor;
+  padding: 4px;
+  background: transparent;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 30px;
+  height: 30px;
+}
 
 // So that the menu changes colors
 #intersectionObserver2 {

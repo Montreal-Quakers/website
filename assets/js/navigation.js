@@ -1,17 +1,31 @@
 ---
 ---
+{% comment %}
+  Table of contents
+
+  1) Variables setting up breakpoint and intersectional observer
+  2) Intersection Observer (for scroll effects)
+   2a) Scroll to top button
+   2b) Sticky navbar on widescreens
+  3) Dropdown behaviour
+  4) Language changer flip icon
+  5) Toggle light and dark mode
+{% endcomment %}
+
+
+// 1) Variables setting up breakpoint and intersectional observer
 const MediaQuery = window.matchMedia( "(min-width: {{ site.breakpoint }})" );
 var IntersectionObserver1 = document.getElementById("intersectionObserver1");
 var target1 = document.getElementById("intersectionObserver2");
 var ScrollToTopBtn = document.getElementById("topBtn");
 var NavBar = document.getElementById("myNavbar");
 
-// Instead of using a calculation on scroll, this new backend (2021) uses intersectionObserver
+// 2) Intersection Observer (for scroll effects)
 let IntersectionObserverResult = new IntersectionObserver(callback1);
 // start observing the target element
 IntersectionObserverResult.observe(IntersectionObserver1);
 
-// Scroll to top button
+//    2a) Scroll to top button
 function callback1(entries, IntersectionObserverResult) {
 	entries.forEach(entry => {
     if (entry.isIntersecting) {
@@ -24,18 +38,11 @@ function callback1(entries, IntersectionObserverResult) {
   });
 }
 
-// Sticky navbar on widescreens
+//    2b) Sticky navbar on widescreens
 if (MediaQuery.matches) {
-
-  // var dropdowns = document.querySelector('.dropdownElements');
-  
-  // dropdowns.addEventListener('mouseover', responsiveClick);
-  // dropdowns.addEventListener('mouseout', responsiveClick);
 
   let observer2 = new IntersectionObserver(callback2);
   observer2.observe(target1);
-
-// IntersectionObserverResult.observe(IntersectionObserver2);
 
   function callback2(entries, observer2) {
     entries.forEach(entry => {
@@ -49,6 +56,7 @@ if (MediaQuery.matches) {
   }
 }
 
+//  3) Dropdown behaviour
 // When the user clicks on the button, toggle between hiding and showing the dropdown content
 function responsiveClick(id, cancel, hover) {
   if (!MediaQuery.matches && hover === "hover") {return}
@@ -71,6 +79,7 @@ function responsiveClick(id, cancel, hover) {
      }
    }
 
+//  4) Language changer flip icon
 // This code flips the language changer icon 
 // and then returns the new URL
 function flipIcon() {
@@ -119,10 +128,63 @@ function spinAndGiveNewURL(newlink) {
   return;
 }
 
-// function ShowMoreCards() {
-//   var moreText = document.getElementById("more");
-//   var btnText = document.getElementById("MoreBtn");
-// 
-//     btnText.style.display = "none";
-//     moreText.style.display = "inline";
-// }
+// 5) Toggle light and dark mode
+
+let darkMode = localStorage.getItem('darkMode');
+const darkModeToggle = document.querySelector('#dark-mode-toggle');
+const systemPreference = window.matchMedia("(prefers-color-scheme: dark)");
+// Initial setting
+// document.documentElement.classList.toggle("darkmode", systemPreference.matches);
+
+// Listener to changes
+// systemPreference.addListener((event) =>
+// document.documentElement.classList.toggle("darkmode", event.matches));
+
+const enableDarkMode = () => {
+  // 1. Add the class to the body
+  document.body.classList.add('darkmode');
+  document.body.classList.remove('lightmode');
+  // 2. Update darkMode in localStorage
+  localStorage.setItem('darkMode', 'enabled');
+}
+
+const disableDarkMode = () => {
+  // 1. Remove the class from the body
+  document.body.classList.remove('darkmode');
+  document.body.classList.add('lightmode');
+  // 2. Update darkMode in localStorage
+  localStorage.setItem('darkMode', 'lightmode');
+}
+
+// If the user already visited and enabled darkMode
+// start things off with it on
+if (darkMode === 'enabled') {
+  enableDarkMode();
+}
+if (darkMode === 'lightmode') {
+  disableDarkMode();
+}
+
+// When someone clicks the button
+darkModeToggle.addEventListener('click', () => {
+  // get their darkMode setting
+  darkMode = localStorage.getItem('darkMode');
+
+  // if it not current enabled, enable it
+  if (darkMode === 'enabled') {
+    disableDarkMode();
+  }
+  // if it has been enabled, turn it off
+  if (darkMode === 'lightmode') {
+    enableDarkMode();
+  }
+  // if it hasn't been touched, let's see
+  if (darkMode == null) {
+    if (systemPreference.matches) {
+      disableDarkMode();
+    } else {
+      enableDarkMode();
+    }
+  }
+});
+

@@ -1,4 +1,5 @@
 html,:root {
+        color-scheme: light dark;
 	--body-text: black;
 	--color-1: #3f51b5;
 	--color-1-dark: #002984;
@@ -23,10 +24,67 @@ html,:root {
 	--wideheader-text: var(--alert-text);
         --scrollbar-back: white;
         --scrollbar-thumb: var(--color-1-dark);
+  .lightmode {
+        color-scheme: light dark;
+	--body-text: black;
+	--color-1: #3f51b5;
+	--color-1-dark: #002984;
+	--color-1-light: #757de8;
+	--nav-text: black;
+	--body-bg: white;
+	--redalert: #b53f51;
+	--bluealert: #a33fb5;
+	--alert-text: white;
+	--anti-alert-text: black;
+	--offText: #ccc;
+	--active: #283593;
+        --heart: #ea2311;
+	--leaf: green;
+	--chair: #4E342E;
+	--card-color: hsl(0,0%,90%);
+	--card-header: rgb(246,246,246);
+	--card-hover: #bfc8ea; // Used to be #d1d9ff;
+	--card-hover-shadow: 0.3;
+	--card-shadow: 0.1;
+	--wideheader-color: var(--color-1-dark);
+	--wideheader-text: var(--alert-text);
+        --scrollbar-back: white;
+        --scrollbar-thumb: var(--color-1-dark);
+  }
+
+  .darkmode {
+        color-scheme: dark light;
+	--body-text: white;
+	--color-1: #9fa8da;
+	--color-1-dark: #6f79a8;
+	--color-1-light: #d1d9ff;
+	--nav-text: white;
+	--body-bg: #121212;
+	--redalert: #da9fa8;
+	--bluealert: #d19fda;
+	--alert-text: #121212;
+	--anti-alert-text: white;
+	--offText: #ccc;
+	--active: #7986cb;
+        --buttonyellow: #ffffcf;
+        --heart: #f82d17;
+	--leaf: #199111;
+	--chair: #795548;
+	--card-color: hsl(0,0%,13%);
+	--card-header: #1a1a1a;
+	--card-hover: #000030;
+	--card-hover-shadow: 0.9;
+	--card-shadow: .8;
+	--wideheader-color: var(--body-bg);
+	--wideheader-text: var(--body-text);
+        --scrollbar-back: #121212;
+        --scrollbar-thumb: var(--color-1-dark);
+  }
 }
 
 @media (prefers-color-scheme: dark) {
   html,:root {
+        color-scheme: dark light;
 	--body-text: white;
 	--color-1: #9fa8da;
 	--color-1-dark: #6f79a8;

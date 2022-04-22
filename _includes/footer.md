@@ -7,5 +7,5 @@ Sundays, 11 AM, [Greene Centre](/directions) <br>
 
 [{{ site.address }}](/directions)
 
-{% for each in site.data.navigation.footer-en %}[{{ each.title }}]({{ each.link }}){% unless forloop.last == true %} &ensp;{% endunless %}{% endfor %}
+{% for each in site.data.navigation.footer-en %}[{{ each.title }}]({{ each.link }}){% unless forloop.last == true %} &ensp;{% endunless %}{% endfor %}&nbsp;&nbsp; {% include toggle-dark-mode.html %}
 <br><br>
