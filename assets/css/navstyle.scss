@@ -329,14 +329,14 @@ $mob-pixels: {{ site.breakpoint }};
   //top: 1em;
   //right: 1em;
   //color: var(--color-1);
-  color: black;
+  color: var(--alert-text);
   border: 2px solid currentColor;
-  padding: 4px;
+  // padding: 4px;
   background: transparent;
   cursor: pointer;
   border-radius: 5px;
-  width: 30px;
-  height: 30px;
+  width: 25px;
+  height: 25px;
 }
 
 // So that the menu changes colors

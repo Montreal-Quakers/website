@@ -255,6 +255,10 @@ a.container-content, a.container-content:link, a.container, .container a, .conta
 }
 .footer {
     // flex: 1 0 auto;
+    ::selection {
+      background-color: var(--active);
+      color: var(--alert-text);
+    }
     color: var(--alert-text);
     font-family: $font-sans;
     font-size: 0.8em;
