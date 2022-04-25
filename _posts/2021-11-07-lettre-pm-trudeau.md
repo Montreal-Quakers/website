@@ -2,6 +2,7 @@
 title: "Lettre adressée au premier ministre au sujet des pensionnats"
 lang: fr
 translationID: pm-letter-2021
+usage: statement
 author: Animatrice
 ---
 Nous vous écrivons en tant qu’Assemblée mensuelle de Montréal de la Société religieuse des Amis. Nous nous réunissons sur les territoires traditionnels non cédés du peuple Kanien'kehá:ka, sur l'île Tioh'tiá:ke, qui a longtemps servi de lieu de rencontre à de nombreux peuples autochtones de l'Ile de la Tortue. 

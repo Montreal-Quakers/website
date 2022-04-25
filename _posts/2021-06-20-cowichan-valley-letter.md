@@ -1,5 +1,7 @@
 ---
 title: Statement on marriage
+usage: statement
+lang: en
 ---
 #### Context
 

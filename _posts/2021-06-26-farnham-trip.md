@@ -3,6 +3,7 @@ title: "Suggestion for a Beautiful Day Trip into the History of Quakers in Quebe
 author: Jean-Louis Demers
 tags: 
 lang: en
+usage: statement
 translationID: farnham-histoire-2021
 ---
 {% include picture.html path="/assets/images/posts/" filename="2021-06-farnham.jpg" type="webp avif" alt="Rainbow in Farnham, QC" class="img_center75" %}

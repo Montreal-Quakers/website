@@ -3,6 +3,7 @@ title: "Suggestion pour une belle excursion sur l’histoire des quakers au Qué
 author: Jean-Louis Demers
 tags: 
 lang: fr
+usage: statement
 translationID: farnham-histoire-2021
 ---
 {% include picture.html path="/assets/images/posts/" filename="2021-06-farnham.jpg" type="webp avif" alt="Arc-en-ciel à Farnham, QC" class="img_center75" %}

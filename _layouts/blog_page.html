@@ -3,7 +3,12 @@ layout: default
 ---
 {{ content }}
 
+{% comment %}To make the left-right columns{% endcomment %}
 {% assign leftright = 1 %}
+
+{% comment %}To cut off posts that are older than a year old    | where_exp: "page.date", "page.date > date_limit" {% endcomment %}
+{% assign today = site.time | date: '%s' %}
+{% assign date_limit = today | minus: 31622400 %}
 
 {% if page.lang == "fr" %}
   {% assign fr = true %}
@@ -16,6 +21,7 @@ layout: default
 
 {% comment %}
   This code figures out which posts to display on this page.
+  Note: 31622400 seconds in a 366 day year
 {% endcomment %}
 
 {% assign post_count = site.posts | where: "lang",page.lang | size %}

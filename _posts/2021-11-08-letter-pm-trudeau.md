@@ -2,6 +2,7 @@
 title: Letter to the Prime Minister about unmarked graves at residential schools
 lang: en
 translationID: pm-letter-2021
+usage: statement
 author: Clerk
 ---
 We write to you as the Montreal Monthly Meeting of the Religious Society of Friends. We meet on the unceded traditional territories of the Kanien'kehá:ka people, on the island Tioh'tiá:ke, which has long served as a meeting place for many Indigenous peoples across Turtle Island.
