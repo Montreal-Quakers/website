@@ -2,7 +2,7 @@
 ---
 // This variable, set in _config.yml, determines at what width the screen will shift from widescreen layout to mobile (narrow) screen layout.
 $mob-pixels: {{ site.breakpoint }};
-@import "font";
+@import 'font';
 @import "colors";
 @import "animations";
 
