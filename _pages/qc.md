@@ -6,15 +6,36 @@ translationID: quebec
 {% comment %}}{% include picture.html filename="qc3.png" type="webp avif" alt="The chapel" class="img_center100" %}
 {% endcomment %}
 
-## When
-Every first Sunday of the month, **from 11 a.m. to noon**.
+## Contact
+[Contact us](/contact) for details, or contact the worship group directly via email at [quebec@montreal.quaker.ca](mailto:quebec@montreal.quaker.ca){: rel="noopener" target="_blank"} or via [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}.
 
-## How to find us
+## On Zoom
+The second Sunday of every month is in French at the [Montreal Meeting Zoom](/directions).
+
+Meetings on Tuesdays at 6:30 p.m. in French on Zoom in 2022. [Request the link](mailto:quebec@montreal.quaker.ca) if you're not already on the Quebec City Worship Group's mailing list:
+
+22 February  
+22 March   
+19 April  
+17 May  
+21 June  
+19 July  
+23 August  
+20 September  
+18 October  
+22 November  
+20 December  
+
+## In person
+### When
+In person every first Sunday of the month, **from 11 a.m. to noon**.
+
+### How to find us
 [Café la Mosaïque, 5727, rue Saint-Louis, Lévis, QC](https://goo.gl/maps/HYYEYV92bwR3Wujp6){: rel="noopener" target="_blank"}, in the meeting room. [Café la Mosaïque](http://cafelamosaique.org/){: rel="noopener" target="_blank"} is on Saint-Louis street, at the corner of Dorimène-Desjardins, only a few meters from Côte-du-Passage.
 
 If this will be your first time at a Quaker Meeting, you may want to read [this information](/about) about what to expect.
 
-## Parking
+### Parking
 Free parking on Sunday on Saint-Louis street, in front of the café.
 
 ### COVID precautions <span class="stanchor"><a name="precautions"></a></span>
@@ -27,9 +48,6 @@ Requirements for visitors:
 
 Other precautions: 
 * The chairs will be amply distanced (we are a small group).
-
-## Contact
-[Contact us](/contact) for details, or contact the worship group directly via email at [quebec@montreal.quaker.ca](mailto:quebec@montreal.quaker.ca){: rel="noopener" target="_blank"} or via [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}.
 
 ## [Accessibility](/accessibility) <span class="stanchor"><a name="accessibility"></a></span>
 Please [let us know](/contact) if you require additional information or accommodations for accessibility.
