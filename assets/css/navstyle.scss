@@ -45,12 +45,7 @@ $mob-pixels: {{ site.breakpoint }};
   left: -9999px !important;
 
   &:focus ~ .nav-toggle-label {
-    // outline: 3px solid rgba(lightblue, .75);
     outline: none;
-  }
-  &:hover ~ .nav-toggle-label {
-    // color: grey;
-    // transition: color .3s;
   }
 }
 
@@ -61,7 +56,6 @@ $mob-pixels: {{ site.breakpoint }};
   cursor: pointer;
   position: relative;
   height: 55px;
-  // width: 52px;
   &:hover {
     background-color: var(--active);
   }
@@ -154,8 +148,9 @@ $mob-pixels: {{ site.breakpoint }};
 }
 
 .navbar {
-  color: var(--alert-text);
-  background-color: var(--color-1-dark);
+  @include color-scheme($narrowheader-scheme...);
+  // color: var(--alert-text);
+  // background-color: var(--color-1-dark);
   z-index: 1;
   position: absolute;
   font-weight: bold; 
@@ -295,8 +290,9 @@ $mob-pixels: {{ site.breakpoint }};
   //grid-template-columns: clamp(5px, 15%, 53px) 1fr clamp(15px, 15%, 55px);
   grid-template-columns: auto 1fr auto;
   place-items: center;
-  background-color: var(--color-1-dark);
-  color: var(--alert-text);
+  @include color-scheme($narrowheader-scheme...);
+  // background-color: var(--color-1-dark);
+  // color: var(--alert-text);
   text-decoration: none;
   text-align: center;
   // height: 55px;
@@ -328,7 +324,6 @@ $mob-pixels: {{ site.breakpoint }};
   //z-index: 100;
   //top: 1em;
   //right: 1em;
-  //color: var(--color-1);
   color: var(--alert-text);
   border: 2px solid currentColor;
   // padding: 4px;
@@ -364,8 +359,7 @@ $mob-pixels: {{ site.breakpoint }};
     padding: 40px 0px;
     justify-content: center;
     align-items: center;
-    background-color: var(--wideheader-color);
-    color: var(--wideheader-text);
+    @include color-scheme($wideheader-scheme...);
     // overflow-y: hidden;
     animation: hide-scroll 1.2s backwards;
     @keyframes hide-scroll {
@@ -511,15 +505,15 @@ ul.breadcrumb {
   list-style: none;
   background-color: var(--card-hover);
   margin: 0;
-}
-ul.breadcrumb li {
-  display: inline;
-  //font-size: $body-font-size;
-  font-family: $font-sans;
-  font-size: $nav-font-size;
-  font-weight: bold;
-}
-ul.breadcrumb li+li:before {
-  padding: 8px;
-  content: "/\00a0";
+  li {
+    display: inline;
+    //font-size: $body-font-size;
+    font-family: $font-sans;
+    font-size: $nav-font-size;
+    font-weight: bold;
+    &+li::before {
+      padding: 8px;
+      content: "/\00a0";
+    }
+  }
 }

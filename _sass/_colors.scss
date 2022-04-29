@@ -10,7 +10,7 @@ html,:root {
 	--bluealert: #a33fb5;
 	--alert-text: white;
 	--anti-alert-text: black;
-	--offText: #ccc;
+	--offText: #121212;
 	--active: #283593;
         --heart: #ea2311;
 	--leaf: green;
@@ -34,9 +34,9 @@ html,:root {
 	--body-bg: white;
 	--redalert: #b53f51;
 	--bluealert: #a33fb5;
-	--alert-text: white;
+	--alert-text: var(--body-bg);
 	--anti-alert-text: black;
-	--offText: #ccc;
+	--offText: #121212;
 	--active: #283593;
         --heart: #ea2311;
 	--leaf: green;
@@ -62,7 +62,7 @@ html,:root {
 	--body-bg: #121212;
 	--redalert: #da9fa8;
 	--bluealert: #d19fda;
-	--alert-text: #121212;
+	--alert-text: var(--body-bg);
 	--anti-alert-text: white;
 	--offText: #ccc;
 	--active: #7986cb;
@@ -93,7 +93,7 @@ html,:root {
 	--body-bg: #121212;
 	--redalert: #da9fa8;
 	--bluealert: #d19fda;
-	--alert-text: #121212;
+	--alert-text: var(--body-bg);
 	--anti-alert-text: white;
 	--offText: #ccc;
 	--active: #7986cb;
@@ -116,3 +116,47 @@ html,:root {
 .chair {color: var(--chair)}
 .heart {color: var(--heart)}
 .leaf {color: var(--leaf)}
+
+$narrowheader-scheme: var(--color-1-dark), var(--alert-text);
+$wideheader-scheme: var(--wideheader-color), var(--wideheader-text);
+$body-scheme: var(--body-bg), var(--body-text);
+$footer-scheme: var(--color-1), var(--alert-text);
+$footer-selection-scheme: var(--active), var(--alert-text);
+
+@mixin color-scheme($bg, $text) {
+  background-color: $bg;
+  color: $text;
+}
+
+@mixin color-text-scheme($text) {
+  background-color: var(--alert-text);
+  color: $text;
+}
+
+@mixin color-bg-with-text-scheme($bg) {
+  background-color: $bg;
+  color: var(--alert-text);
+}
+
+.color-1 {
+    @include color-bg-with-text-scheme(var(--color-1));
+  &-text {
+    @include color-text-scheme(var(--color-1));
+  }
+  &-dark {
+    @include color-bg-with-text-scheme(var(--color-1-dark));
+  }
+  &-dark-text {
+    @include color-text-scheme(var(--color-1-dark));
+  }
+  &-light {
+    @include color-bg-with-text-scheme(var(--color-1-light));
+  }
+  &-light-text {
+    @include color-text-scheme(var(--color-1-light));
+  }
+}
+
+.color-active {
+  @include color-bg-with-text-scheme(var(--active));
+}

@@ -2,6 +2,7 @@
 ---
 // Already imported but needs to be imported for every file
 @import "font";
+@import "colors";
 $mob-pixels: {{ site.breakpoint }};
 $media-pixels: {{ site.mediabreak }};
 
@@ -53,9 +54,7 @@ body {
     border: 0px; 
     padding: 0px; 
     font-size: $body-font-size;
-    color: var(--body-text);
-    background-color: var(--body-bg);
-//    height: 100%;
+    @include color-scheme($body-scheme...);
     min-height: 100vh;
     max-width: 100%;
 }
@@ -143,8 +142,8 @@ button:not(.dropbtn):focus {
 
 // When text is selected, it matches theme
 ::selection {
-	background-color: var(--color-1);
-	color: var(--alert-text);
+  background-color: var(--color-1);
+  color: var(--alert-text);
 }
 
 // Creating a custom scroll bar, matching Quaker theme
@@ -196,10 +195,10 @@ h6 {font-size: .9rem;}
 
 h1,h2,h3,h4 {
   &.header {
-	font-family: $font-serif;
-	text-align: center;
-        padding: 10px;
-	margin: 0 auto 0;
+    font-family: $font-serif;
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto 0;
   }
 }
 
@@ -233,37 +232,37 @@ a.container-content, a.container-content:link, a.container, .container a, .conta
 }
 
 .content {  // always on the left if there's media
-   padding: 0 66px;
-   font-family: $font-sans; 
-   font-size:1em;
-   text-align:left;
-   margin-bottom: 0;
+  padding: 0 66px;
+  font-family: $font-sans; 
+  font-size:1em;
+  text-align:left;
+  margin-bottom: 0;
 }
 .media {
-   flex: 1 0 400px;
-   padding: 0 3px;
-  }
+  flex: 1 0 400px;
+  padding: 0 3px;
+}
 
 .content {
   &.mono {
-   font-family: $font-mono;
+    font-family: $font-mono;
   }
   &.serif {
     font-family: $font-serif;
     //letter-spacing: $serif-spacing;
   }
 }
+
 .footer {
     // flex: 1 0 auto;
     ::selection {
-      background-color: var(--active);
-      color: var(--alert-text);
+      @include color-scheme($footer-selection-scheme...);
     }
-    color: var(--alert-text);
+
+    @include color-scheme($footer-scheme...);
     font-family: $font-sans;
     font-size: 0.8em;
     padding: 0px 0 5px 0;
-    background-color: var(--color-1);
     text-align: center;
      h3 {
 	padding-top: .5em;
@@ -354,8 +353,9 @@ a.container-content, a.container-content:link, a.container, .container a, .conta
   text-align: center;
   max-width: $text-width;
   font: {
-      family: $font-sans;
-      weight: bold;}
+    family: $font-sans;
+    weight: bold;
+  }
   padding: 20px;
   color: var(--alert-text);
   margin: 0 0 ;
@@ -393,9 +393,9 @@ a.container-content, a.container-content:link, a.container, .container a, .conta
   cursor: pointer;
   transition: 0.3s;
   display: block;
-    &:hover {
-     color: var(--anti-alert-text);
-    }
+  &:hover {
+   color: var(--anti-alert-text);
+  }
 }
 
 // 5) Special classes
@@ -404,10 +404,10 @@ a.container-content, a.container-content:link, a.container, .container a, .conta
 }
 
 .img_center_no_pad {
-    text-align: center;
-    margin: 0 auto;
-    display: block;
-    }
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+}
 
 .img_center {
     @extend .img_center_no_pad;
@@ -430,53 +430,20 @@ a.container-content, a.container-content:link, a.container, .container a, .conta
   }
 }
 .img_floatleft {
-	@extend .img_center_no_pad;
-	float: left;
+  @extend .img_center_no_pad;
+  float: left;
 }
-
-.color-1 {
-	background-color: var(--color-1);
-	color: var(--alert-text);
-   &-text {
-	background-color: var(--alert-text);
-	color: var(--color-1)
-   }
-   &-dark {
-	background-color: var(--color-1-dark);
-	color: var(--alert-text)
-   }
-   &-dark-text {
-	background-color: var(--body-bg);
-	color: var(--color-1-dark)
-   }
-   &-light {
-	background-color: var(--color-1-light);
-   }
-   &-light-text {
-	background-color: var(--body-bg);
-	color: var(--color-1-light)
-   }
-}
-
-.color-active {
-	background-color: var(--active);
-	color: var(--alert-text);
-}
-
-.chair {color: var(--chair)}
-.heart {color: var(--heart)}
-.leaf {color: var(--leaf)}
 
 // 6) Align icons
 
 .down_a {
   &_bit {
      vertical-align: bottom;
-    &_more {
-        vertical-align: bottom;
-        position: relative;
-        bottom: -4px;
-    }
+     &_more {
+       vertical-align: bottom;
+       position: relative;
+       bottom: -4px;
+     }
   }
   &_tad {vertical-align:sub}
 }
@@ -559,6 +526,3 @@ a.container-content, a.container-content:link, a.container, .container a, .conta
     }
   }
 }
-
-
-
