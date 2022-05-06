@@ -18,8 +18,7 @@ Veuillez [nous contacter](/contact-fr) si vous avez besoin d'informations suppl�
 Pour plus d'informations sur l'accessibilité de chacun de nos sites physiques, consultez une des pages ci-dessous.
 * L’assemblée du dimanche au [Centre Greene](/coordonnées#accessibilité)
 * Groupe du mi-semaine au [Centre Newman](/mi-semaine#accessibilité)
-* Groupe de Québec à Lévis dans le [Café la Mosaïque](/québec#accessibilité)
-* Groupe des Laurentides à St-Hyppolyte dans [l'Annexe](/laurentides#accessibilité)
+* Groupe de Québec à Lévis dans le [Café la Mosaïque](/québec#accessibilité){% comment %}* Groupe des Laurentides à St-Hyppolyte dans [l'Annexe](/laurentides#accessibilité) {% end comment %}
 
 ## Remerciements
 Nous remercions l'équipe de [l'Agence SAT](https://agencesat.com/){: rel="noopener" target="_blank"} pour l'audit en accessibilité, qui a grandement amélioré ce site web.
