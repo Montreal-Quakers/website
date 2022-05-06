@@ -24,8 +24,7 @@ Nous regroupons des quakers de toutes tendances&nbsp;—&nbsp; des quakers athé
 
 Voici toutes les occasions de vous joindre à nous:
 * [Notre assemblée le dimanche](/coordonnées) à 11h sur Zoom et en personne au Centre Greene, près du métro Lionel-Groulx. Le dernier dimanche du mois est sur Zoom seulement.
-* Un groupe de [mi-semaine](/mi-semaine) a lieu le mercredi à 19h sur Zoom.
-* Un groupe aux [Laurentides](/laurentides) va recommencer au printemps 2022 à St-Hippolyte en personne, le dimanche à 10h30.
+* Un groupe de [mi-semaine](/mi-semaine) a lieu le mercredi à 19h sur Zoom.{% comment %} * Un groupe aux [Laurentides](/laurentides) va recommencer au printemps 2022 à St-Hippolyte en personne, le dimanche à 10h30. {% endcomment %}
 * Un groupe à [Québec](/quebec), en présentiel le premier dimanche du mois à 11h à Lévis.
 * Lorsque les conditions sanitaires le permet, nous espérons former un groupe sur la [Rive-Sud](/rive-sud), probablement à Saint-Lambert.
 
