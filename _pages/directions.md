@@ -34,14 +34,11 @@ Requirements for visitors:
 {% comment %}* For now, we require vaccine passports for all. 
   * Unvaccinated children under 12 are welcome on the first Sunday of the month.{% endcomment %}
 * Wearing a mask, covering nose and mouth, is mandatory at all times.
-* If you're experiencing COVID symptoms, please stay home.
-* Details for contact tracing will be collected by the greeter.
+* If you're experiencing COVID symptoms, please stay home.{% comment %}* Details for contact tracing will be collected by the greeter.{% endcomment %}
 * Disinfect hands at the entrance.
 
 Other precautions: 
-* The chairs will be amply distanced (we are a small group).
-* Neither drink nor food will be served.
-* Before and after meeting, the Greene Centre will disinfect surfaces.
+{% comment %}* The chairs will be amply distanced (we are a small group).  * Neither drink nor food will be served.  {% endcomment %}* Before and after meeting, the Greene Centre will disinfect surfaces.
 
 ## [Accessibility](/accessibility) <span class="stanchor"><a name="accessibility"></a></span>
 

@@ -36,14 +36,11 @@ Consignes pour nos visiteurs:
 {% comment %}* Le passeport vaccinal est requis pour l'instant.
   * Les jeunes non vaccinés en bas de 12 ans sont le bienvenus le premier dimanche du mois.{% endcomment %}
 * Port du masque couvrant le nez et la bouche obligatoire en tout temps.
-* Si vous expérimentez des symptômes de COVID-19, restez à la maison.
-* Quelques informations pourraient être retenues pour la recherche des contacts.
+* Si vous expérimentez des symptômes de COVID-19, restez à la maison.{% comment %}  * Quelques informations pourraient être retenues pour la recherche des contacts.{% endcomment %}
 * Désinfection des mains à l'entrée.
 
 Nos mesures:
-* Les chaises seront amplements distancées (nous sommes peu nombreux).
-* Aucun breuvage et aucune nouriture ne seront servis.
-* Le Centre Greene va désinfecter les surfaces avant et après notre usage.
+{% comment %}* Les chaises seront amplements distancées (nous sommes peu nombreux).  * Aucun breuvage et aucune nouriture ne seront servis.{% endcomment %}* Le Centre Greene va désinfecter les surfaces avant et après notre usage.
 
 ## [Accessibilité](/accessibilité) <span class="stanchor"><a name="accessibilité"></a></span>
 Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.
