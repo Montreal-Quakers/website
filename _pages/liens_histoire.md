@@ -19,7 +19,7 @@ So sad, Woodbrooke seems to have deleted this course -- post this again if they 
 * Voir aussi [cette liste de livres en français sur le quakerisme](/livres-en-français)
 
 ## Pour participer à la discussion
-* Majoritairement **en anglais**: [Le groupe de discussion Facebook des quakers au Canada](https://www.facebook.com/groups/532516183429702/){: rel="noopener" target="_blank"} sans oublier quelques autres groupes sur Facebook, de l'[informatif](https://www.facebook.com/groups/2207263944/){: rel="noopener" target="_blank"} au [loufoque](https://www.facebook.com/groups/assbadfriends/).
+* Majoritairement **en anglais**: [Le groupe de discussion Facebook des quakers au Canada](https://www.facebook.com/groups/532516183429702/){: rel="noopener" target="_blank"} sans oublier quelques autres groupes sur Facebook, de l'[informatif](https://www.facebook.com/groups/2207263944/){: rel="noopener" target="_blank"} au [loufoque](https://www.facebook.com/groups/442920559221629/){: rel="noopener" target="_blank"}.
 * Majoritairement **en français**: [Amis isolés de France et d'ailleurs sur Facebook](https://www.facebook.com/groups/1693742737383648/){: rel="noopener" target="_blank"} (plusieurs Québécois dans le groupe).
 
 ## Groupes quakers francophones non-programmés en dehors du Québec

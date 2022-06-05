@@ -14,10 +14,11 @@ translationID: links_history
 * An excellent overview of Quaker history can be found on [BBC-Religions](https://www.bbc.co.uk/religion/religions/christianity/subdivisions/quakers_1.shtml){: rel="noopener" target="_blank"}.
 * For a French-English Quaker glossary, see [FWCC's English-French Quaker glossary](https://glossary.summerhays.net){: rel="noopener" target="_blank"}.
 * [Quakerfinder.org](http://www.quakerfinder.org){: rel="noopener" target="_blank"} - this is a resource site for locating a Quaker Meeting in your area. (US/Canada only).
+* We curate a list of [podcasts and lectures](/new_attender/podcasts)
 
 ## Join the discussion
 * [Canadian Quaker Facebook discussion group](https://www.facebook.com/groups/532516183429702/){: rel="noopener" target="_blank"}. 
-* Other Quaker groups on Facebook are worth a look; some are [more informative](https://www.facebook.com/groups/2207263944/) whereas others are [strictly silly](https://www.facebook.com/groups/assbadfriends/){: rel="noopener" target="_blank"}.
+* Other Quaker groups on Facebook are worth a look; some are [more informative](https://www.facebook.com/groups/2207263944/) whereas others are [strictly silly](https://www.facebook.com/groups/442920559221629/){: rel="noopener" target="_blank"}.
 
 ## Quaker organizations & Quaker work
 * ✶ [Canadian Friends Service Committee](https://quakerservice.ca){: rel="noopener" target="_blank"}: Quakers in Canada actively working on peace, indigenous issues, and a more healing criminal justice system.
