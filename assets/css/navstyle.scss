@@ -483,18 +483,22 @@ $mob-pixels: {{ site.breakpoint }};
     }
 
   }
-  // 7) Scroll anchors are fixed in widemode where the sticky header blocks anchored page elements (e.g. /about#chair)
-  .scroll_anchor {
-    scroll-margin: 60px 0 0 0;
+  // 13) Scroll anchors are fixed in widemode where the sticky header blocks anchored page elements (e.g. /about#chair)
+  html {
+    // scroll-margin-top: 60px;
+    scroll-padding-top: 60px;
   }
-  .stanchor {
-    position: relative;
-    a {
-      position: absolute;
-      left: 0px;
-      top: -60px;
-    } 
-  }
+ //  .scroll_anchor {
+ //    scroll-margin: 60px 0 0 0;
+ //  }
+ //  .stanchor {
+ //    position: relative;
+ //    a {
+ //      position: absolute;
+ //      left: 0px;
+ //      top: -55px;
+ //    } 
+ //  }
 }
  
 

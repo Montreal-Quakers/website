@@ -4,8 +4,6 @@ title: Conseils et questions du Groupe Languedocien de l'Assemblée de France
 ---
 Cette page reproduit les [_Conseils et questions_ du Groupe Languedocien de l'Assemblée de France](https://quakersenfrance.org/images/experience-pratique/Conseils-Questions.pdf){: rel="noopener" target="_blank"} ([© 2018](/assets/PDF/Assemblée-de-France-Conseils-Questions-2022-04-28.pdf))
 
-## Table des matières
-
 * This markdown unordered list (```* ```) will be replaced with an automatically generated Table of Contents, excluding any headers above. The line below ```{% raw %}{:toc}{% endraw %}``` indicates that this unordered list will be replace by the ToC
 {:toc}
 
