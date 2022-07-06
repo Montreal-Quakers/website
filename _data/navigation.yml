@@ -16,7 +16,7 @@ en:
   icon: <i class='fas fa-map-marker-alt'></i>
   submenu:
     - subtitle: Sundays in Montreal
-      sublink: /directions
+      sublink: /greene-centre
     - subtitle: Midweek in Montreal
       subhovertitle: Midweek Meeting in Montreal
       sublink: /midweek
@@ -59,7 +59,7 @@ fr:
   icon: <i class='fas fa-map-marker-alt'></i>
   submenu:
     - subtitle: Dimanche à Montréal
-      sublink: /coordonnées
+      sublink: /centre-greene
     - subtitle: Mi-semaine à Montréal
       sublink: /mi-semaine
     - subtitle: À Québec

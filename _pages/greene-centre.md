@@ -1,7 +1,7 @@
 ---
 title: Sunday Meeting
 lang: en
-translationID: directions
+translationID: greene-centre
 ---
 {% include picture.html filename='mtl_homepage3.jpg' type='webp avif' alt='Holding banner Quakers for Peace' class='img_center100' %}
 
@@ -33,12 +33,16 @@ If this will be your first time at a Quaker Meeting, you may want to read [this 
 Requirements for visitors:
 {% comment %}* For now, we require vaccine passports for all. 
   * Unvaccinated children under 12 are welcome on the first Sunday of the month.{% endcomment %}
-* Wearing a mask, covering nose and mouth, is mandatory at all times.
+* Wearing a mask is strongly recommended at all times.
 * If you're experiencing COVID symptoms, please stay home.{% comment %}* Details for contact tracing will be collected by the greeter.{% endcomment %}
-* Disinfect hands at the entrance.
+* Please disinfect hands at the entrance.
 
 Other precautions: 
-{% comment %}* The chairs will be amply distanced (we are a small group).  * Neither drink nor food will be served.  {% endcomment %}* Before and after meeting, the Greene Centre will disinfect surfaces.
+* Along with the Greene Centre, we will ensure excellent ventilation via open windows and two air purifiers. 
+* If anyone has raises a COVID concern at meeting we agree to ask everyone to wear masks at the rise of meeting before socializing. 
+  * However, for folks with difficulty hearing, we ask that people remove their mask when speaking.
+* We have extra masks on hand for anyone that needs one.
+* Anyone with comments or concerns about our policy is encouraged to [contact us](/contact).
 
 ## [Accessibility](/accessibility) <span class="stanchor"><a name="accessibility"></a></span>
 

@@ -16,7 +16,7 @@ Veuillez [nous contacter](/contact-fr) si vous avez besoin d'informations suppl�
 
 ## Nos lieux de culte
 Pour plus d'informations sur l'accessibilité de chacun de nos sites physiques, consultez une des pages ci-dessous.
-* L’assemblée du dimanche au [Centre Greene](/coordonnées#accessibilité)
+* L’assemblée du dimanche au [Centre Greene](/centre-greene#accessibilité)
 * Groupe du mi-semaine au [Centre Newman](/mi-semaine#accessibilité)
 * Groupe de Québec à Lévis dans le [Café la Mosaïque](/québec#accessibilité){% comment %}* Groupe des Laurentides à St-Hyppolyte dans [l'Annexe](/laurentides#accessibilité) {% endcomment %}
 

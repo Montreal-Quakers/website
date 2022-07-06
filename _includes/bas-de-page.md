@@ -2,10 +2,10 @@
 
 ## {{ site.title-fr }} 
 
-Le dimanche à 11h au [Centre Greene](/coordonnées) <br>
+Le dimanche à 11h au [Centre Greene](/centre-greene) <br>
 {{ site.phone_link }}
 
-[{{ site.adresse }}](/coordonnées)
+[{{ site.adresse }}](/centre-greene)
 
 {% for each in site.data.navigation.footer-fr %}[{{ each.title }}]({{ each.link }}){% unless forloop.last == true %} &ensp;{% endunless %}{% endfor %}
 &nbsp;&nbsp; {% include toggle-dark-mode.html %}

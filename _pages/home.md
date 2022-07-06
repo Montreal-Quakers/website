@@ -20,10 +20,10 @@ The centre of the Quaker meeting is our quiet [meeting for worship](/about). We 
 We are Quakers of all kinds — Christian Quakers, nontheist Quakers, Buddhist Quakers, and more — gathered in a circle around our 400-year old practice and our common quest to better [live love](/intro).
 
 <br>
-## [<i class="fas fa-map-marker-alt fa-fw color-1-dark-text"></i> ](/directions){: class="linkoff" aria-label="Directions"}[Where we meet](/directions)
+## [<i class="fas fa-map-marker-alt fa-fw color-1-dark-text"></i> ](/greene-centre){: class="linkoff" aria-label="Greene Centre"}[Where we meet](/greene-centre)
 
 Here are our opportunities to join us: 
-* [Sunday Meeting](/directions) at 11 a.m. on Zoom ([contact us for the link](/contact)) **and** in person near Lionel-Groulx metro. Meets only on Zoom the last Sunday of the month.
+* [Sunday Meeting](/greene-centre) at 11 a.m. on Zoom ([contact us for the link](/contact)) **and** in person near Lionel-Groulx metro. Meets only on Zoom the last Sunday of the month.
 * [Midweek Meeting](/midweek), Wednesdays at 7PM on Zoom.
 * [Quebec City Worship Group](/quebec), first Sunday of the month at 11 AM in person in Lévis.{% comment %} * [Laurentian Worship Group](/laurentians), restarting in spring 2022: Sundays at 10:30 AM in Saint-Hippolyte in person.{% endcomment %}
 * [South Shore Worship Group](/south_shore) may form soon after the pandemic, likely in Saint-Lambert. [Contact us](/contact) for updates.

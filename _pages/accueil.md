@@ -20,12 +20,12 @@ Le cœur de l'assemblée quaker est notre [culte silencieux](/a_propos). Nous no
 Nous regroupons des quakers de toutes tendances&nbsp;—&nbsp; des quakers athées, des quakers chrétiens, des quakers bouddhistes&nbsp;—,&nbsp;unis en cercle autour de notre pratique traditionnelle du culte silencieux et notre quête de mettre [l'amour au centre de nos vies](/intro-fr).
 
 <br>
-## [<i class="fas fa-map-marker-alt fa-fw color-1-dark-text"></i> <u>Nous trouver</u>](/coordonnées){: class="linkoff" aria-label="Coordonnées"}
+## [<i class="fas fa-map-marker-alt fa-fw color-1-dark-text"></i> <u>Nous trouver</u>](/centre-greene){: class="linkoff" aria-label="Centre Greene"}
 
 Voici toutes les occasions de vous joindre à nous:
-* [Notre assemblée le dimanche](/coordonnées) à 11h sur Zoom et en personne au Centre Greene, près du métro Lionel-Groulx. Le dernier dimanche du mois est sur Zoom seulement.
+* [Notre assemblée le dimanche](/centre-greene) à 11h sur Zoom et en personne au Centre Greene, près du métro Lionel-Groulx. Le dernier dimanche du mois est sur Zoom seulement.
 * Un groupe de [mi-semaine](/mi-semaine) a lieu le mercredi à 19h sur Zoom.{% comment %} * Un groupe aux [Laurentides](/laurentides) va recommencer au printemps 2022 à St-Hippolyte en personne, le dimanche à 10h30. {% endcomment %}
 * Un groupe à [Québec](/quebec), en présentiel le premier dimanche du mois à 11h à Lévis.
 * Lorsque les conditions sanitaires le permet, nous espérons former un groupe sur la [Rive-Sud](/rive-sud), probablement à Saint-Lambert.
 
-Une fois par mois nous chantons et nous offrons des activités pour les jeunes la plupart de l’année. [Contactez-nous](/contact-fr) pour confirmer ou venez vous joindre à nous n'importe quel [dimanche](/coordonnées).
+Nous offrons des activités pour les jeunes la plupart de l’année. [Contactez-nous](/contact-fr) pour confirmer ou venez vous joindre à nous n'importe quel [dimanche](/centre-greene).

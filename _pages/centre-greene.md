@@ -1,7 +1,7 @@
 ---
 title: L'assemblée de dimanche
 lang: fr
-translationID: directions
+translationID: greene-centre
 ---
 {% include picture.html filename="mtl_homepage3.jpg" type="webp avif" alt="Bannière Quakers pour la Paix" class="img_center100" %}
 
@@ -33,14 +33,16 @@ Si c’est votre première assemblée quaker, [ce lien](/a_propos) donne une id�
 ### Précautions COVID <span class="stanchor"><a name="consignes"></a></span>
 
 Consignes pour nos visiteurs:
-{% comment %}* Le passeport vaccinal est requis pour l'instant.
-  * Les jeunes non vaccinés en bas de 12 ans sont le bienvenus le premier dimanche du mois.{% endcomment %}
-* Port du masque couvrant le nez et la bouche obligatoire en tout temps.
-* Si vous expérimentez des symptômes de COVID-19, restez à la maison.{% comment %}  * Quelques informations pourraient être retenues pour la recherche des contacts.{% endcomment %}
+* Port du masque est fortement recommandé.
+* Si vous expérimentez des symptômes de COVID-19, restez à la maison.
 * Désinfection des mains à l'entrée.
 
 Nos mesures:
-{% comment %}* Les chaises seront amplements distancées (nous sommes peu nombreux).  * Aucun breuvage et aucune nouriture ne seront servis.{% endcomment %}* Le Centre Greene va désinfecter les surfaces avant et après notre usage.
+* Avec le Centre Greene nous allons assurer la bonne ventilation par des fenêtres ouvertes et deux purificateurs d'air. 
+* Si quelqu'un a des soucis en lien avec le coronavirus, nous allons demander à tout le monde de porter un masque à la fin de l'assemblée.
+  * Cela dit, pour aider les personnes avec des difficultés auditives, on demande aux personnes qui parlent d'enlever leur masque.
+  * Nous avons des masques à offrir.
+* Si vous avez des commentaires ou questions sur notre politique nous vous encourageons à [nous contacter](/contact-fr).
 
 ## [Accessibilité](/accessibilité) <span class="stanchor"><a name="accessibilité"></a></span>
 Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.

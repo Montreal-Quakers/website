@@ -2,10 +2,10 @@
 
 ## {{ site.title }}
 
-Sundays, 11 AM, [Greene Centre](/directions) <br>
+Sundays, 11 AM, [Greene Centre](/greene-centre) <br>
 {{ site.phone_link }}
 
-[{{ site.address }}](/directions)
+[{{ site.address }}](/greene-centre)
 
 {% for each in site.data.navigation.footer-en %}[{{ each.title }}]({{ each.link }}){% unless forloop.last == true %} &ensp;{% endunless %}{% endfor %}&nbsp;&nbsp; {% include toggle-dark-mode.html %}
 <br><br>
