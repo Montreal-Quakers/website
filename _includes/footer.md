@@ -2,7 +2,7 @@
 
 ## {{ site.title }}
 
-Sundays, 11 AM, [Greene Centre](/greene-centre) <br>
+Sundays, 11 a.m., [Greene Centre](/greene-centre) <br>
 {{ site.phone_link }}
 
 [{{ site.address }}](/greene-centre)

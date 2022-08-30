@@ -6,13 +6,13 @@ translationID: midweek
 {% include picture.html filename="Ryan-library_books.jpg" type="webp avif" class="img_center100" alt="Library books" %}
 
 ## When
-Wednesdays at 7pm on Zoom. [Contact us for the link](/contact).
+Wednesdays at 7 p.m. on Zoom. [Contact us for the link](/contact).
 
-Bible study precedes midweek meeting at 6:15 pm the same link on Wednesdays.
+Bible study precedes midweek meeting at 6:15 p.m. the same link on Wednesdays.
 
 {% comment %}
 * During the academic year (**Sept-Nov, Jan-March**). Because the Newman Centre closes outside these months, [check for updates](#updates) as there may be significant location changes from April through August and in December. 
-* **Wednesdays** from 5:30 pm to 6:30 pm. We usually provide snacks after.
+* **Wednesdays** from 5:30 p.m. to 6:30 p.m. We usually provide snacks after.
 * We sometimes hold a **book club/Bible study** after. [Contact us](/contact) for details.
 {% endcomment %}
 

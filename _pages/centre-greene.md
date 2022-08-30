@@ -7,10 +7,10 @@ translationID: greene-centre
 
 ## Sur Zoom
 
-En plus de nos rencontres en personne, on se voit sur Zoom le dimanche à 11h. ([Contactez-nous pour le lien](/contact-fr).
+En plus de nos rencontres en personne, on se voit sur Zoom le dimanche à 11 h. ([Contactez-nous pour le lien](/contact-fr).
 
 ## En personne
-On se réunit le dimanche à 11h00 sauf le dernier dimanche du mois, qui est sur Zoom seulement.
+On se réunit le dimanche à 11 h 00 sauf le dernier dimanche du mois, qui est sur Zoom seulement.
 
 ### Coordonnées
 [Le centre Greene, 1090 Greene, Westmount, QC, H3Z 1Z9](https://www.google.com/maps/search/1090%20Greene,%20Westmount,%20QC,%20H3Z%201Z9){: rel="noopener" target="_blank"}
@@ -24,9 +24,9 @@ Notre assemblée a lieu au rez-de-chaussée (dans la « Sunroom »). Tout le mon
 
 ### Quand
 
-Les assemblées quaker ont lieu le dimanche de **11h à midi**.
+Les assemblées quaker ont lieu le dimanche de **11 h à midi**.
 
-Bien qu’il soit préférable d’arriver avant 11h, votre présence nous est plus importante que la ponctualité! La garde d’enfant est disponible mais il vaut mieux nous [prévenir](/contact-fr) d’avance, surtout l’été.
+Bien qu’il soit préférable d’arriver avant 11 h, votre présence nous est plus importante que la ponctualité! La garde d’enfant est disponible mais il vaut mieux nous [prévenir](/contact-fr) d’avance, surtout l’été.
 
 Si c’est votre première assemblée quaker, [ce lien](/a_propos) donne une idée de ce à quoi vous attendre.
 

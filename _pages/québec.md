@@ -19,7 +19,7 @@ Pour plus d’information sur le quakerisme, voir la page [Introduction](/intro-
 ## En Zoom
 [Le deuxième dimanche du mois](/coordonnées) est en français chez l'Assemblée de Montréal. Vous pouvez [nous contacter pour le lien](/contact-fr).
 
-Rencontres du mardi à 18h30 en français sur Zoom (2022). [Demander le lien](mailto:quebec@montreal.quaker.ca) si vous n'êtes pas déjà sur la liste d'envois du Groupe de Québec:
+Rencontres du mardi à 18 h 30 en français sur Zoom (2022). [Demander le lien](mailto:quebec@montreal.quaker.ca) si vous n'êtes pas déjà sur la liste d'envois du Groupe de Québec:
 
 22 février  
 22 mars  
@@ -35,7 +35,7 @@ Rencontres du mardi à 18h30 en français sur Zoom (2022). [Demander le lien](ma
 
 ## En personne
 ### Quand
-Le Groupe Quaker de Québec se rencontre chaque premier dimanche du mois **de 11h00 à midi**.
+Le Groupe Quaker de Québec se rencontre chaque premier dimanche du mois **de 11 h 00 à midi**.
 
 ### Où
 [Café la Mosaïque, 5727, rue Saint-Louis, Lévis, QC](https://goo.gl/maps/HYYEYV92bwR3Wujp6){: target="_blank" rel="noopener"}, salle de réunion. [Café la Mosaïque](http://cafelamosaique.org/){: rel="noopener" target="_blank"} est sur rue Saint-Louis au coin de Dorimène-Desjardins, à quelques mètres seulement de la Côte-du-Passage.

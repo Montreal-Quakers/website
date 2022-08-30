@@ -23,9 +23,9 @@ Nous regroupons des quakers de toutes tendances&nbsp;—&nbsp; des quakers athé
 ## [<i class="fas fa-map-marker-alt fa-fw color-1-dark-text"></i> <u>Nous trouver</u>](/centre-greene){: class="linkoff" aria-label="Centre Greene"}
 
 Voici toutes les occasions de vous joindre à nous:
-* [Notre assemblée le dimanche](/centre-greene) à 11h sur Zoom et en personne au Centre Greene, près du métro Lionel-Groulx. Le dernier dimanche du mois est sur Zoom seulement.
-* Un groupe de [mi-semaine](/mi-semaine) a lieu le mercredi à 19h sur Zoom.{% comment %} * Un groupe aux [Laurentides](/laurentides) va recommencer au printemps 2022 à St-Hippolyte en personne, le dimanche à 10h30. {% endcomment %}
-* Un groupe à [Québec](/quebec), en présentiel le premier dimanche du mois à 11h à Lévis.
+* [Notre assemblée le dimanche](/centre-greene) à 11 h sur Zoom et en personne au Centre Greene, près du métro Lionel-Groulx. Le dernier dimanche du mois est sur Zoom seulement.
+* Un groupe de [mi-semaine](/mi-semaine) a lieu le mercredi à 19 h sur Zoom.{% comment %} * Un groupe aux [Laurentides](/laurentides) va recommencer au printemps 2022 à St-Hippolyte en personne, le dimanche à 10 h 30. {% endcomment %}
+* Un groupe à [Québec](/quebec), en présentiel le premier dimanche du mois à 11 h à Lévis.
 * Lorsque les conditions sanitaires le permet, nous espérons former un groupe sur la [Rive-Sud](/rive-sud), probablement à Saint-Lambert.
 
 Nous offrons des activités pour les jeunes la plupart de l’année. [Contactez-nous](/contact-fr) pour confirmer ou venez vous joindre à nous n'importe quel [dimanche](/centre-greene).

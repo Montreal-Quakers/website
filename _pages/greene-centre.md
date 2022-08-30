@@ -6,7 +6,7 @@ translationID: greene-centre
 {% include picture.html filename='mtl_homepage3.jpg' type='webp avif' alt='Holding banner Quakers for Peace' class='img_center100' %}
 
 ## Zoom
-In addition to our in-person meetings, we meet on Zoom every Sunday at 11 am. ([Contact us for the link](/contact))
+In addition to our in-person meetings, we meet on Zoom every Sunday at 11 a.m. ([Contact us for the link](/contact))
 
 ## In person
 
