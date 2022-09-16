@@ -41,7 +41,6 @@ Free parking on Sunday on Saint-Louis street, in front of the café.
 ### COVID precautions <span class="stanchor"><a name="precautions"></a></span>
 
 Requirements for visitors:
-* Vaccine passports required (with ID) for everyone 12 years of age or older.  {% comment %}* Wearing a mask, covering nose and mouth, is mandatory at all times.{% endcomment %}
 * If you're experiencing COVID symptoms, please stay home.
 * Disinfect hands at the entrance.
 * Please disinfect surfaces before and after use.
