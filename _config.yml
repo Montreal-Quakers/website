@@ -26,9 +26,9 @@ webrick:
 media_pages:
   - translationID: home
     media: youtube/yt_embed.html
-  - translationID: directions
-    media: maps/street_directions.html
-      # media: maps/new_directions.html
+  - translationID: greene-centre
+    media: maps/street_greene-centre.html
+    # media: maps/new_directions.html
   - translationID: laurentians
     media: maps/street_atelier.html
       #  - translationID: midweek
@@ -88,7 +88,7 @@ bird_left:
   - animation: land_left_flip
     translationID: midweek
   - animation: land_left_flip
-    translationID: directions
+    translationID: greene-centre
   - animation: land_left_flip
     translationID: quebec
   - animation: land_left_flip
@@ -102,7 +102,7 @@ bird_left:
 
 bird_right:
   - animation: land_right
-    translationID: directions
+    translationID: greene-centre
   - animation: land_right
     translationID: midweek
   - animation: land_right
@@ -120,7 +120,7 @@ mobile_bird:
   - animation: roll_bird1
     translationID: links_history
   - animation: land_right
-    translationID: directions
+    translationID: greene-centre
   - animation: land_right
     translationID: midweek
   - animation: land_right
@@ -130,7 +130,7 @@ mobile_bird:
   - animation: land_right
     translationID: south_shore
   - animation: land_right
-    translationID: directions
+    translationID: greene-centre
   - animation: swing-in1
     translationID: home
 

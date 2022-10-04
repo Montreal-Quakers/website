@@ -28,4 +28,4 @@ See [how a meeting works](/about) for more about what worshiping with us is like
 
 Learn why we call [Quaker values](/testimonies) our testimonies.
 
-Feel free to [write or call](/contact) with questions, or to [sit with us](/directions) any Sunday.
+Feel free to [write or call](/contact) with questions, or to [sit with us](/greene-centre) any Sunday.

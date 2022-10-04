@@ -170,7 +170,7 @@ Otherwise, theme and site colors can be changed from [```_sass/_colors.scss```](
 
 Or see for instance the [```_drafts```](https://github.com/Montreal-Quakers/website/tree/master/_drafts) folder, where I keep updates that recur from year to year, such as the Greene Centre closing for Christmas.
 
-You can turn alerts on and off in this website. There's no need to code HTML to do so. Open [_config.yml](https://github.com/Montreal-Quakers/website/blob/master/_config.yml) and you will see ```alerts: ```, and instructions for how to change it. ```alerts: on``` turns on alerts for all pages. If you change this to ```alerts: off```, alerts will be turned off. ```alerts: some``` turns on alerts for the pages you specify. To turn on alerts only for the homepage and the page giving directions to the Sunday meeting, use this code: 
+You can turn alerts on and off in this website. There's no need to code HTML to do so. Open [_config.yml](https://github.com/Montreal-Quakers/website/blob/master/_config.yml) and you will see ```alerts: ```, and instructions for how to change it. ```alerts: on``` turns on alerts for all pages. If you change this to ```alerts: off```, alerts will be turned off. ```alerts: some``` turns on alerts for the pages you specify. To turn on alerts only for the homepage and the page giving directions to the Sunday meeting at the Greene Centre, use this code: 
 
 ```
 alerts: some
@@ -178,7 +178,7 @@ redalert_en-text: alert/en-covid.md
 redalert_fr-text: alert/fr-covid.md
 alert_pages:
   - translationID: home
-  - translationID: directions
+  - translationID: greene-centre
 ```
 
 (The ```page_trans``` code for every page can be found at the [site health page](https:/montreal.quaker.ca/_pages/health)).
@@ -278,7 +278,7 @@ Let's look at another example. Again these are fairly simple, but following the 
   hovertitle: Where We Meet
   children:
     - childtitle: Sundays in Montreal
-      childlink: /directions.html
+      childlink: /greene-centre.html
     - childtitle: Midweek Meeting
       childlink: /midweek.html
 - title: News
@@ -291,7 +291,7 @@ Let's break this down. We've already looked at what the first two lines do.
   subtitle: Where We Meet  (<--- Note there is no "link" line, so clicking on "Where We Meet" does not direct the browser)
   children:  (<---- this indicates that this menu has a submenu, a downward arrow will be automatically added)
     - childtitle: Sundays in Montreal (<---- Note how the childtitle and child link follow the same formatting, but with four spaces before them)
-      childlink: /directions.html (<---- the link for the submenu item)
+      childlink: /greene-centre.html (<---- the link for the submenu item)
     - childtitle: Midweek Meeting
       childhovertitle: Midweek Meeting in Montreal (<---- text when hovering over title)
       childlink: /midweek.html

@@ -10,7 +10,7 @@ translationID: quebec
 [Contact us](/contact) for details, or contact the worship group directly via email at [quebec@montreal.quaker.ca](mailto:quebec@montreal.quaker.ca){: rel="noopener" target="_blank"} or via [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}.
 
 ## On Zoom
-The second Sunday of every month is in French at the [Montreal Meeting Zoom](/directions).
+The second Sunday of every month is in French at the [Montreal Meeting Zoom](/greene-centre).
 
 Meetings on Tuesdays at 6:30 p.m. in French on Zoom in 2022. [Request the link](mailto:quebec@montreal.quaker.ca) if you're not already on the Quebec City Worship Group's mailing list:
 
