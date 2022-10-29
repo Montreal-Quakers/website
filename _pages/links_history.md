@@ -14,7 +14,7 @@ translationID: links_history
 * An excellent overview of Quaker history can be found on [BBC-Religions](https://www.bbc.co.uk/religion/religions/christianity/subdivisions/quakers_1.shtml){: rel="noopener" target="_blank"}.
 * For a French-English Quaker glossary, see [FWCC's English-French Quaker glossary](https://glossary.summerhays.net){: rel="noopener" target="_blank"}.
 * [Quakerfinder.org](http://www.quakerfinder.org){: rel="noopener" target="_blank"} - this is a resource site for locating a Quaker Meeting in your area. (US/Canada only).
-* We curate a list of [podcasts and lectures](/new_attender/podcasts)
+* We curate a list of [podcasts and lectures](/next_steps/podcasts)
 
 ## Join the discussion
 * [Canadian Quaker Facebook discussion group](https://www.facebook.com/groups/532516183429702/){: rel="noopener" target="_blank"}. 

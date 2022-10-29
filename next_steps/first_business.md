@@ -4,7 +4,7 @@ translationID: first_business
 lang: en
 og-title: First time at business meeting
 ---
-We're excited that you're considering coming to your first business meeting. Everyone is welcome to attend and even participate in Quaker business meetings, although if it's your first time, we suggest reading about [how Meeting for Business works](/new_attender/business) and focusing on listening.
+We're excited that you're considering coming to your first business meeting. Everyone is welcome to attend and even participate in Quaker business meetings, although if it's your first time, we suggest reading about [how Meeting for Business works](/next_steps/business) and focusing on listening.
 
 ## Why business meeting is important
 Business meeting is an exciting opportunity:
@@ -37,4 +37,4 @@ Quakers love questions. At moments, the business meeting may move a bit quickly.
   * Who is someone you'd like to know better?
 
 ## Learn more
-Do read about [how Meeting for Business works](/new_attender/business)
+Do read about [how Meeting for Business works](/next_steps/business)

@@ -9,4 +9,4 @@ Vous êtes les bienvenus aux:
 * [Assemblée annuelle canadienne](https://quaker.ca/what-we-do/gatherings/){: rel="noopener" target="_blank"} (site en anglais), un rassemblement presque exclusivement en anglais, mais avec plusieurs francophones et francophiles
 * [Friends General Conference](https://www.fgcquaker.org/connect/gathering){: rel="noopener" target="_blank"}, un rassemblement majoritairement états-unisien des quakers (des fois jusqu'à 1 000 personnes!)
 
-Lorsque vous voyagez, nous vous invitons à [voir notre page de conseils](/nouveau/voyage).
+Lorsque vous voyagez, nous vous invitons à [voir notre page de conseils](/etape_suivante/voyage).

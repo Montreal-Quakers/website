@@ -6,5 +6,5 @@ og-title: Meeting resources and info-sheets
 ---
 Feel free to [request](/contact) any of these non-public resources to integrate better into the meeting:
 * Meeting contact list
-* List of current members on meeting [committees](/new_attender/committees)* Meeting budget
-* Minutes from past [business meetings](/new_attender/business) 
+* List of current members on meeting [committees](/next_steps/committees)* Meeting budget
+* Minutes from past [business meetings](/next_steps/business) 

@@ -11,7 +11,7 @@ Le fonds discrétionnaire du Comité des veilleurs (Ministry & Counsel (M&C)) es
 * Chaque ménage peut recevoir un maximum de 250 $ par demande et faire un maximum de deux demandes par an.
 * La communauté quaker approuve un montant fixe (actuellement 1 000 $) pour chaque année.
   * Si le budget du fonds discrétionnaire est entièrement dépensé, le comité doit demander plus de financement avant de pouvoir faire plus de dons. Sinon, le fonds est fermé jusqu'à la prochaine année budgétaire.
-* Les candidats doivent expliquer par écrit à un [membre](/nouveau/info_assemblée) du comité (voir [formulaire](#demande) ci-dessous):
+* Les candidats doivent expliquer par écrit à un [membre](/etape_suivante/info_assemblée) du comité (voir [formulaire](#demande) ci-dessous):
   * le motif de la demande
   * la raison pour laquelle les ressources alternatives ne sont pas accessibles ou ne sont pas suffisantes.
 

@@ -7,7 +7,7 @@ author: Clerk
 Two announcements: 
 
 1. The Bible study & book club will now meet on Thursdays at 3:30 pm, on the normal zoom channel. [Contact us](/contact) for details.
-2. The next reading will always be posted on this [page](/new_attender/book_bible)
+2. The next reading will always be posted on this [page](/next_steps/book_bible)
 
 So come one, come all, and we'll hope to see you soon.
 

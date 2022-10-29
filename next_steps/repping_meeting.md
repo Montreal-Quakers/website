@@ -8,7 +8,7 @@ So, you're thinking of representing Montreal Quaker Meeting... or perhaps you're
 
 ## Prayer
 However you understand this word, prayer is your most important task as a Montreal Quaker Meeting representative. 
-* Quaker [business meetings](/new_attender/business) are first and foremost a spiritual exercise. 
+* Quaker [business meetings](/next_steps/business) are first and foremost a spiritual exercise. 
 * Perhaps use the time at business meeting to:
   * pray for folks at your local meeting
   * for Quakers in Canada or beyond

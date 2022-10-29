@@ -10,7 +10,7 @@ og-title: COVID-19 Updates
 * [**Quebec City**](/qc) worship group: at 11am, first Sundays of the month **in person** (a small group). See the [mandatory health precautions](#precautions) below.
 * [**Laurentian**](/laurentians) worship group: Closed for the winter.{% comment %}**Sundays at 10:30 am in person** but it is best to [call first](/laurentians#contact).{% endcomment %}
 * [**South Shore**](/south_shore) Worship Group: we're awaiting safer conditions before beginning this worship group.
-* [**Book and Bible study**](/new_attender/book_bible) we'll be meeting Wednesdays on Zoom (same link as midweek meeting) at 6:15 PM until further notice.
+* [**Book and Bible study**](/next_steps/book_bible) we'll be meeting Wednesdays on Zoom (same link as midweek meeting) at 6:15 PM until further notice.
 
 [Contact us](/contact.html) for details on joining us.
 

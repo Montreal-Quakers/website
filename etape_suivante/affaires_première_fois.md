@@ -4,7 +4,7 @@ translationID: first_business
 lang: fr
 og-title: Première fois à une réunion d'affaires
 ---
-Nous sommes ravis que vous envisagiez d'assister à votre première réunion d'affaires. Tout le monde est invité à assister et même à participer aux réunions d'affaires quaker, bien que si c'est votre première fois, nous vous suggérons de lire [comment fonctionne une réunion d'affaires](/nouveau/affaires) et d'écouter.
+Nous sommes ravis que vous envisagiez d'assister à votre première réunion d'affaires. Tout le monde est invité à assister et même à participer aux réunions d'affaires quaker, bien que si c'est votre première fois, nous vous suggérons de lire [comment fonctionne une réunion d'affaires](/etape_suivante/affaires) et d'écouter.
 
 ## Pourquoi la réunion d'affaires est importante
 La réunion d'affaires est une grande occasion:
@@ -37,4 +37,4 @@ Les quakers aiment les questions. Parfois, pendant la réunion d'affaires, les c
   * Qui est la personnes que vous aimeriez le mieux connaître?
 
 ## Apprendre encore plus
-En savoir plus sur [le fonctionnement de réunion d'affaires](/nouveau/affaires).
+En savoir plus sur [le fonctionnement de réunion d'affaires](/etape_suivante/affaires).

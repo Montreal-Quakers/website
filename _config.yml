@@ -173,17 +173,17 @@ defaults:
       layout: "default"
       permalink: "/:basename"
   - scope:
-      path: "new_attender" # an empty string here means all files in the project
+      path: "next_steps" # an empty string here means all files in the project
       type: "pages"
     values:
       layout: "default"
-      permalink: "/new_attender/:basename"
+      permalink: "/next_steps/:basename"
   - scope:
-      path: "nouveau" # an empty string here means all files in the project
+      path: "etape_suivante" # an empty string here means all files in the project
       type: "pages"
     values:
       layout: "default"
-      permalink: "/nouveau/:basename"
+      permalink: "/etape_suivante/:basename"
   - scope:
       path: "_posts" # an empty string here means all files in the project
       type: "posts"

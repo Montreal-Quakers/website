@@ -1,6 +1,6 @@
 ---
-redirect: /new_attender/
+redirect: /next_steps/
 layout: redirect
 lang: en
-permalink: /new_attender.html
+permalink: /next_steps.html
 ---

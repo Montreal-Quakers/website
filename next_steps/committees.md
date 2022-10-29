@@ -9,12 +9,12 @@ Quakers recognize and celebrate leadership, but minimize hierarchy. The purpose 
 If you see a role that you'd like to learn more about, please feel free to [contact us](/contact).
 
 ## Roles <i class="fas fa-theater-masks fa-fw color-1-text"></i>
-* [Clerk](/new_attender/business#clerk)
-* [Assistant clerk](/new_attender/business#the-assistant-clerk) (a great position to learn more)
-* [Recording clerk](/new_attender/business#the-recording-clerk)
+* [Clerk](/next_steps/business#clerk)
+* [Assistant clerk](/next_steps/business#the-assistant-clerk) (a great position to learn more)
+* [Recording clerk](/next_steps/business#the-recording-clerk)
 * Treasurer
-* [Representative](/new_attender/repping_meeting) for Representative Meeting in the fall and spring
-* [Representative](/new_attender/repping_meeting) at Canadian Yearly Meeting in August
+* [Representative](/next_steps/repping_meeting) for Representative Meeting in the fall and spring
+* [Representative](/next_steps/repping_meeting) at Canadian Yearly Meeting in August
 
 ## Committees <i class="fas fa-screwdriver fa-fw color-1-dark-text"></i>
 

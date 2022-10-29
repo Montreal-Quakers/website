@@ -33,7 +33,7 @@ en:
   icon: <i class='fas fa-rss'></i>
 - title: Next steps
   hovertitle: Information to better integrate into the meeting community
-  link: /new_attender/
+  link: /next_steps/
   icon: <i class="fas fa-arrow-circle-right fa-fw"></i>
 - title: Donate
   link: /donate
@@ -74,7 +74,7 @@ fr:
   icon: <i class='fas fa-rss'></i>
 - title: Étape suivante
   hovertitle: Des informations pour mieux s'intégrer dans notre communauté
-  link: /nouveau/
+  link: /etape_suivante/
   icon: <i class="fas fa-arrow-circle-right fa-fw"></i>
 - title: Donner
   link: /don
