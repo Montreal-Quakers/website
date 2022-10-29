@@ -17,7 +17,7 @@ Si c’est votre première assemblée quaker, [cette page](/à_propos) donne une
 Pour plus d’information sur le quakerisme, voir la page [Introduction](/intro-fr).
 
 ## En Zoom
-[Le deuxième dimanche du mois](/coordonnées) est en français chez l'Assemblée de Montréal. Vous pouvez [nous contacter pour le lien](/contact-fr).
+[Le deuxième dimanche du mois](/centre-greene) est en français chez l'Assemblée de Montréal. Vous pouvez [nous contacter pour le lien](/contact-fr).
 
 Rencontres du mardi à 18 h 30 en français sur Zoom (2022). [Demander le lien](mailto:quebec@montreal.quaker.ca) si vous n'êtes pas déjà sur la liste d'envois du Groupe de Québec:
 
