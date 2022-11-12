@@ -1,8 +1,6 @@
 ---
-layout: default
 lang: en
 translationID: home
-permalink: /home
 og-title: Home
 ---
 ## [About Quakers](/intro)
