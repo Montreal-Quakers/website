@@ -33,12 +33,12 @@ Si c’est votre première assemblée quaker, [ce lien](/a_propos) donne une id�
 ### Précautions COVID <span class="stanchor"><a name="consignes"></a></span>
 
 Consignes pour nos visiteurs:
-* Port du masque est fortement recommandé.
 * Si vous expérimentez des symptômes de COVID-19, restez à la maison.
 * Désinfection des mains à l'entrée.
+* Port du masque est fortement recommandé.
 
 Nos mesures:
-* Avec le Centre Greene nous allons assurer la bonne ventilation par des fenêtres ouvertes et deux purificateurs d'air. 
+* Avec le Centre Greene nous pouvons assurer la bonne ventilation par des fenêtres ouvertes et deux purificateurs d'air. 
 * Si quelqu'un a des soucis en lien avec le coronavirus, nous allons demander à tout le monde de porter un masque à la fin de l'assemblée.
   * Cela dit, pour aider les personnes avec des difficultés auditives, on demande aux personnes qui parlent d'enlever leur masque.
   * Nous avons des masques à offrir.
