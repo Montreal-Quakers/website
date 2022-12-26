@@ -12,20 +12,20 @@ translationID: quebec
 ## On Zoom
 The second Sunday of every month is in French at the [Montreal Meeting Zoom](/greene-centre).
 
-Meetings on Tuesdays at 6:30 p.m. in French on Zoom in 2022:
+Meetings on Tuesdays at 6:30 p.m. in French on Zoom in 2023:
 
-17 January, 2023
-21 February, 2023
-21 March, 2023
-18 Avpil, 2023
-16 May, 2023
-20 June, 2023
-18 July, 2023
-15 August, 2023
-19 September, 2023
-17 October, 2023
-21 November, 2023
-19 Décember, 2023
+17 January  
+21 February  
+21 March  
+18 Avpil  
+16 May  
+20 June  
+18 July  
+15 August  
+19 September  
+17 October  
+21 November  
+19 Décember  
 
 [Request the link](mailto:quebec@montreal.quaker.ca) if you're not already on the Quebec City Worship Group's mailing list.
 
