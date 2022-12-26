@@ -19,19 +19,22 @@ Pour plus d’information sur le quakerisme, voir la page [Introduction](/intro-
 ## En Zoom
 [Le deuxième dimanche du mois](/centre-greene) est en français chez l'Assemblée de Montréal. Vous pouvez [nous contacter pour le lien](/contact-fr).
 
-Rencontres du mardi à 18 h 30 en français sur Zoom (2022). [Demander le lien](mailto:quebec@montreal.quaker.ca) si vous n'êtes pas déjà sur la liste d'envois du Groupe de Québec:
+Rencontres du mardi à 18 h 30 en français sur Zoom (2022):
 
-22 février  
-22 mars  
-19 avril  
-17 mai  
-21 juin  
-19 juillet  
-23 août  
-20 septembre  
-18 octobre  
-22 novembre  
-20 décembre  
+17 janvier, 2023
+21 février, 2023
+21 mars, 2023
+18 avril, 2023
+16 mai, 2023
+20 juin, 2023
+18 juillet, 2023
+15 août, 2023
+19 septembre, 2023
+17 octobre, 2023
+21 novembre, 2023
+19 décembre, 2023
+
+[Demander le lien](mailto:quebec@montreal.quaker.ca) si vous n'êtes pas déjà sur la liste d'envois du Groupe de Québec.
 
 ## En personne
 ### Quand
