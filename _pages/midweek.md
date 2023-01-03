@@ -8,9 +8,9 @@ translationID: midweek
 ## When
 Wednesdays at 7 p.m. on Zoom. [Contact us for the link](/contact).
 
+{% comment %}
 Bible study precedes midweek meeting at 6:15 p.m. the same link on Wednesdays.
 
-{% comment %}
 * During the academic year (**Sept-Nov, Jan-March**). Because the Newman Centre closes outside these months, [check for updates](#updates) as there may be significant location changes from April through August and in December. 
 * **Wednesdays** from 5:30 p.m. to 6:30 p.m. We usually provide snacks after.
 * We sometimes hold a **book club/Bible study** after. [Contact us](/contact) for details.

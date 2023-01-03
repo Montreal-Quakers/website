@@ -8,9 +8,9 @@ translationID: midweek
 ## Quand
 Le mercredi à 19 h sur Zoom. [Contactez-nous pour le lien](/contact-fr).
 
+{% comment %}
 Le club de lecture et d'étude biblique se réunit au même lien à 18 h 15 le mercredi.
 
-{% comment %}
 * Pendant l’année universitaire (**de septembre à novembre, janvier à mars**). Puisque le Centre Newman ferme en décembre et entre avril et août, suivez nos [mises à jour](#misesàjour), car il se peut qu’il y ait beaucoup de changements de lieu.
 * Le **mercredi** de 17 h 30 à 18 h 30. D'habitude nous offrons des collations.
 * Parfois nous avons **un club de lecture ou une étude biblique** après. [Contactez-nous](/contact-fr) pour plus de détails.
