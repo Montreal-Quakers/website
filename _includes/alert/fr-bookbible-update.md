@@ -1,1 +1,1 @@
-Le club de lecture et l'étude biblique reprendra en 2022!
+Le club de lecture et l'étude biblique reprendra en 2023!
