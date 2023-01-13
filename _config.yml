@@ -14,7 +14,7 @@ fb_link: https://www.facebook.com/MontrealQuakers/
 # myurl: localhost:4000
 
 # This sets the point at which the website will switch from "desktop view" to "mobile/tablet view"
-breakpoint: 980px
+breakpoint: 1062px
 mediabreak: 800px
 
 webrick:
