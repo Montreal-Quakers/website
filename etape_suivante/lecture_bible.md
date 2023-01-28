@@ -17,7 +17,7 @@ og-title: Club de lecture & d'étude biblique
 À notre prochaine réunion, **{{ site.data.bookbible.verse.fr-date }}**, nous allons lire **{{ site.data.bookbible.verse.fr }}**.
 {% endcomment %}
 ## Notre prochaine réunion
-Notre club est en pause jusqu'en tôt janvier. Revenez à cette page!
+Notre club est en pause jusqu'en 2023. Revenez à cette page!
 
 ## Lectures à venir
 Au cours des prochains mois nous allons lire les extraits suivants:
