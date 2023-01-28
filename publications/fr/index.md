@@ -1,9 +1,9 @@
 ---
-title: <i class="far fa-newspaper color-1-dark-text"></i> &nbsp;Nouvelles
+title: <i class="far fa-newspaper color-1-dark-text"></i> &nbsp;Quoi de neuf?
 lang: fr
 translationID: news
 type: system_grid
-og-title: Nouvelles
+og-title: Quoi de neuf?
 layout: blog_page
 index: 1
 ---
