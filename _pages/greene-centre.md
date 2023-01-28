@@ -24,19 +24,19 @@ We meet in the sunroom on the Greene Centre's main floor. All are welcome.  Duri
 
 ### Time
 
-Quaker silent Meeting for Worship is every Sunday from **11:00 a.m. to noon**. We suggest arriving a few minutes beforehand but we much prefer your company to your absence! We joyfully welcome children — if possible please [do give us a few days notice](/contact).
+Every Sunday from **11:00 a.m. to noon**. We suggest arriving a few minutes beforehand but we much prefer your company to your absence! We joyfully welcome children — if possible please [do give us a few days notice](/contact).
 
 If this will be your first time at a Quaker Meeting, you may want to read [this information about what to expect](/about).
 
 ### COVID precautions <span class="stanchor"><a name="precautions"></a></span>
 
-Requirements for visitors:
+For visitors:
 * If you're experiencing COVID symptoms, please stay home.{% comment %}* Details for contact tracing will be collected by the greeter.{% endcomment %}
 * Please disinfect hands at the entrance.
 * Wearing a mask is strongly recommended at all times.
 
-Other precautions: 
-* Along with the Greene Centre, we can ensure excellent ventilation via open windows and two air purifiers. 
+Our precautions: 
+* Along with the Greene Centre, we can ensure excellent ventilation via open windows and two air purifiers. Please [contact us](/contact) to confirm this desire, and we can make it happen.
 * If anyone has raises a COVID concern at meeting we agree to ask everyone to wear masks at the rise of meeting before socializing. 
   * However, for folks with difficulty hearing, we ask that people remove their mask when speaking.
 * We have extra masks on hand for anyone that needs one.
