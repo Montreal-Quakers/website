@@ -68,7 +68,7 @@ fr:
       sublink: /rive-sud
     #- subtitle: Laurentides
     #  sublink: /laurentides
-- title: Nouvelles
+- title: Quoi de neuf
   hovertitle: Nos mises à jour
   link: /publications/fr/
   icon: <i class='fas fa-rss'></i>
