@@ -10,8 +10,8 @@ Le **mercredi** à 19 h sur Zoom. [Contactez-nous pour le lien](/contact-fr).
 
 ## En personne
 ### Quand
+* Le **jeudi** de 17 h 30 à 18 h 30, sauf le 2 et le 16 mars.
 * Pendant l’année universitaire (**de septembre à novembre, janvier à mars**). En décembre et entre avril et août, suivez nos [mises à jour](#misesàjour), car il se peut qu’il y ait beaucoup de changements de lieu.
-* Le **jeudi** de 17 h 30 à 18 h 30.
 * Nous offrons des collations lorsque possible.
 
 ### Où
