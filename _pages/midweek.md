@@ -22,7 +22,7 @@ Bible study precedes midweek meeting at 6:15 p.m. the same link on Wednesdays.
 
 At McGill University's MORSL meditation room.
 
-**Parking** may be available. Contact [MORSL](https://www.mcgill.ca/morsl/about/contact){: rel="noopener" target="_blank"}
+**Parking** is available for free for students and at [McGill for non-students](https://www.mcgill.ca/transport/parking/downtown/visitors){: rel="noopener" target="_blank"} near the MORSL building. Contact [MORSL](https://www.mcgill.ca/morsl/about/contact){: rel="noopener" target="_blank"}
 
 All are welcome!
 

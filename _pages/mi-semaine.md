@@ -19,7 +19,7 @@ Le **mercredi** à 19 h sur Zoom. [Contactez-nous pour le lien](/contact-fr).
 
 À l'Université McGill à la salle de méditation de MORSL. 
 
-Il est possible que le stationnement soit disponible. Contactez [MORSL](https://www.mcgill.ca/morsl/about/contact){: rel="noopener" target="_blank"}.
+Le stationnement est gratuit pour les étudiants de McGill et [disponible pour les visiteurs](https://www.mcgill.ca/campussafety/fr/stationnement){: rel="noopener" target="_blank"}. Contactez [MORSL](https://www.mcgill.ca/morsl/about/contact){: rel="noopener" target="_blank"}.
 
 Bienvenue à toutes et à tous !
 
