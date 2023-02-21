@@ -31,8 +31,8 @@ media_pages:
     # media: maps/new_directions.html
   - translationID: laurentians
     media: maps/street_atelier.html
-      #  - translationID: midweek
-      #    media: maps/street_ryan.html
+  - translationID: midweek
+    media: maps/street_morsl.html
   - translationID: quebec
     media: maps/street_vieux_qc.html
   - translationID: calendar
