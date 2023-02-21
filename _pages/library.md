@@ -9,7 +9,7 @@ og-title: Library
 
 ### Pamphlets
 {% for each in site.data.pamphlets %}
-* _{{ each.Full_Title }}_, {{ each.Author }}{% if each.Author  %},{% endif %} {{ each.Year }}  {{ each.Subject }}
+* _{{ each.Full_Title }}_, {{ each.Author }}{% if each.Author  %},{% endif %} {{ each.Year }}  {{ each.Subject }}. (Location: {{ each.Box }})
 {% endfor %}
 ### Films
 {% for each in site.data.films %}
