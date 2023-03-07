@@ -71,12 +71,15 @@ Table of contents:
 
   {% assign counter = counter | plus: 1 %}
   <li 
-    class="dropdown dropdown-{{ thislang }}{{ counter }}-container"
-    onclick="responsiveClick('{{ thislang }}{{ counter }}')" 
-    onkeypress="responsiveClick('{{ thislang }}{{ counter }}')" 
-    onmouseenter="responsiveClick('{{ thislang }}{{ counter }}','','hover')" 
-    onmouseleave="responsiveClick('{{ thislang }}{{ counter }}',1,'hover')"
-  >
+
+    class="dropdown dropdown-{{ thislang  }}{{ counter  }}-container"
+      ontouchstart= "responsiveClick('cancel','touch')" 
+      onclick=      "responsiveClick('{{ thislang  }}{{ counter  }}','click')" 
+      onkeypress=   "responsiveClick('{{ thislang  }}{{ counter  }}','keypress')" 
+      onmouseenter= "responsiveClick('{{ thislang  }}{{ counter  }}','mouse-enter','')" 
+      onmouseleave= "responsiveClick('{{ thislang  }}{{ counter  }}','mouse-enter',1)"
+    >
+
       <button 
 	 class="dropbtn" 
 	 {% if item.hovertitle %}

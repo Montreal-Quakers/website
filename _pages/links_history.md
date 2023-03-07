@@ -33,6 +33,7 @@ translationID: links_history
 * [A Look Backwards at Montreal Monthly Meeting, by Molly Walsh](/assets/PDF/MMM-History-CF.V100.05.13-14.pdf){: rel="noopener" target="_blank"}
 * [(In French) Petit à petit, l’oiseau fait son nid, par Chantal Fournier](/assets/PDF/MMM-History-CF.V100.05.15.pdf){: rel="noopener" target="_blank"}{% comment %}* [Women's Speaking](http://www.qhpress.org/texts/fell.html){: rel="noopener" target="_blank"} has some texts by notable Quaker women, for instance, one of the founders of Quakerism, Margaret Fell. {% endcomment %}
 * [History of Montreal Meeting (1929-1964) Lloyd Williams](/assets/PDF/MMM_history-Lloyd-Williams.pdf){: rel="noopener" target="_blank"}
-* See also this blog entry: [Suggestion pour une belle excursion sur l’histoire des Quakers au Québec](/2021/06/26/farnham-trip)
+* See also this blog entry: [Beautiful day-trip suggestion: the history of Quakers in Quebec (Farnham)](/2021/06/26/farnham-trip)
+* [Barclay in brief](/barclay-in-brief) is a summary of an early Quaker theologian, Robert Barclay
 
 {% include picture.html filename="1974_MaisW_1.jpg" type="webp avif" alt="Our previous meetinghouse on de Maisonneuve" class="img_center75" figcaption="Our previous meetinghouse on de Maisonneuve." %}

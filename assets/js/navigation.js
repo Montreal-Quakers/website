@@ -58,26 +58,44 @@ if (MediaQuery.matches) {
 
 //  3) Dropdown behaviour
 // When the user clicks on the button, toggle between hiding and showing the dropdown content
-function responsiveClick(id, cancel, hover) {
-  if (!MediaQuery.matches && hover === "hover") {return}
+function responsiveClick(id, type, cancel) {
+//  var mousemove = sessionStorage.getItem('mousemove');
+//  console.log("type: ",type,", mousemove: ",mousemove," huh_finally: ",huh_finally);
+//  if (mousemove == 1) {var huh_finally = 1}
+//  if (mousemove == 1 && type === "mouse-enter") {
+//    console.log("yay",huh_finally);
+//  }
+//  if (!MediaQuery.matches && type === "mouse-enter") {return}
+//  if (id === "cancel") {
+//    sessionStorage.setItem('mousemove', 1);
+//    return;
+//  }
+//  if (mousemove == 1 && type === "mouse-enter") {
+//    sessionStorage.setItem('mousemove', 0);
+//    return;
+//  }
+//  if (mousemove == 1 && type === "click") {
+//    sessionStorage.setItem('mousemove', 0);
+//    return;
+//  }
   var dropdownID = document.getElementById("dropdown_" + id);
   var dropdownID_height = document.getElementById("dropdown_" + id).scrollHeight;
- //     var dropdownIDChildren = dropdownID.children;
- // 	  console.log(dropdownIDChildren);
-     var caretID = document.getElementById("caret_" + id);
- 	  var i;
- 
-     if (dropdownID.style.maxHeight) {
-       dropdownID.style.maxHeight = null;
-       dropdownID.previousElementSibling.classList.remove("active");
-       caretID.style.transform = null;
-     } else {
-       if (cancel === 1) {return}
-       dropdownID.style.maxHeight = dropdownID_height + "px";
-       dropdownID.previousElementSibling.classList.add("active");
-       caretID.style.transform = "rotate(90deg)";
-     }
-   }
+  //    var dropdownIDChildren = dropdownID.children;
+  // 	  console.log(dropdownIDChildren);
+  var caretID = document.getElementById("caret_" + id);
+        var i;
+
+  if (dropdownID.style.maxHeight) {
+     dropdownID.style.maxHeight = null;
+     dropdownID.previousElementSibling.classList.remove("active");
+     caretID.style.transform = null;
+  } else {
+    if (cancel === 1) {return}
+    dropdownID.style.maxHeight = dropdownID_height + "px";
+    dropdownID.previousElementSibling.classList.add("active");
+    caretID.style.transform = "rotate(90deg)";
+  }
+}
 
 //  4) Language changer flip icon
 // This code flips the language changer icon 

@@ -1,5 +1,5 @@
 ---
-title: "Suggestion pour une belle excursion sur l’histoire des quakers au Québec"
+title: "Beautiful day-trip suggestion: the history of Quakers in Quebec (Farnham)"
 author: Jean-Louis Demers
 tags: 
 lang: fr
