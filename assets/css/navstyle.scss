@@ -65,11 +65,14 @@ html,body{overflow-x: hidden}
   span, span::before, span::after {
     display: block;
     background-color: var(--card-hover);
-    height: 2px;
     width: 30px;
+    height: 2px;
     border-radius: 2px;
     position: relative;
-    transition: transform 100ms ease-in-out;
+    transition: transform 200ms ease-in-out;
+  }
+
+  span {
   }
 
   span::before, span::after {
@@ -162,7 +165,7 @@ html,body{overflow-x: hidden}
   width: 100%;
   transform: scale(1, 0);
   transform-origin: top;
-  transition: transform 200ms ease-in-out;
+  transition: transform 300ms ease-in-out;
 
   i {
     transition: transform 100ms ease-in;
