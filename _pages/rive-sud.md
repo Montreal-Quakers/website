@@ -3,12 +3,6 @@ title: Quakers sur la Rive-Sud
 lang: fr
 translationID: south_shore
 ---
-## Où
-[L'église St. Barnabas, 95 av. Lorne, Saint-Lambert, QC](https://goo.gl/maps/BSGXnGXRBBchZZrz7){: rel="noopener" target="_blank"}.
-
-### Stationnement
-Si disponible le stationnement de l'église est gratuit (n'utilisez pas le parking du personnel). Le parking municipal situé de l'autre côté du parc est gratuit et il est généralement possible de se trouver dans la rue.
-
 ## Quand
 Le 10 mars et toutes les deux vendredis, de 19h30 à 20h30, jusqu'à la fin mai.
 ### Tous les deux vendredis
@@ -18,10 +12,16 @@ Le 10 mars et toutes les deux vendredis, de 19h30 à 20h30, jusqu'à la fin mai.
 5 mai  
 19 mai  
 
-### Important
-[Contactez-nous pour le code pour la porte](/contact-fr).
+## Où
+[L'église St. Barnabas, 95 av. Lorne, Saint-Lambert, QC](https://goo.gl/maps/BSGXnGXRBBchZZrz7){: rel="noopener" target="_blank"}.
 
-* Entrée par la porte latérale
+<i class="fas fa-exclamation-triangle"></i> [Contactez-nous pour recevoir le code d'accès](/contact-fr).
+### Stationnement
+Si disponible le stationnement de l'église est gratuit (n'utilisez pas le parking du personnel). Le parking municipal situé de l'autre côté du parc est gratuit et il est généralement possible de se trouver dans la rue.
+
+### Comment nous trouver
+
+* Entrez par la porte latérale
 * Descendez, tournez à droite, encore à droite vers un grand hall, allez à la bibliothèque.
 * Les personnes qui le souhaitent peuvent faire une contribution à l'église pour la remercier de nous prêter l'espace.
 

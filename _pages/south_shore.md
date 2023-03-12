@@ -3,12 +3,6 @@ title: Worship Group on the South Shore
 lang: en
 translationID: south_shore
 ---
-## Where
-[St. Barnabas Church, 95 Av. Lorne, Saint-Lambert, QC](https://goo.gl/maps/BSGXnGXRBBchZZrz7){: rel="noopener" target="_blank"}.
-
-### Parking
-If available, the church parking lot is free to use (please don't use the staff parking). Municipal parking lot across the park is free, and street parking is also usually available.
-
 ## When
 Every other Friday evening, 7:30-8:30 p.m., starting March 10, 2023.
 ## Every second Friday
@@ -18,8 +12,14 @@ Every other Friday evening, 7:30-8:30 p.m., starting March 10, 2023.
 5 May  
 19 May  
 
-## Important
-[Contact us for the door code](/contact).
+## Where
+[St. Barnabas Church, 95 Av. Lorne, Saint-Lambert, QC](https://goo.gl/maps/BSGXnGXRBBchZZrz7){: rel="noopener" target="_blank"}.
+
+<i class="fas fa-exclamation-triangle"></i> [Contact us for the door code](/contact).
+### Parking
+If available, the church parking lot is free to use (please don't use the staff parking). Municipal parking lot across the park is free, and street parking is also usually available.
+
+### How to find us
 
 * Entry by the side door. 
 * Go down, turn right, right again to the big hall, go to the library.  
