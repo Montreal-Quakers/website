@@ -33,10 +33,12 @@ $mob-pixels: {{ site.breakpoint }};
 // 
 //   III) Breadcrumb menu
 
+//   I) This CSS codes the narrow navigation (mobile)
 // These elements are for the wideheader only and so will be turned on with a media query
 .wideheader,#widehome,#search__spacer  {
    display: none;
 }
+html,body{overflow-x: hidden}
 
 // 1) The hamburger menu
 .nav-toggle {
@@ -344,6 +346,8 @@ $mob-pixels: {{ site.breakpoint }};
 @media screen and (min-width: $mob-pixels) {
 
   // 8) Turns off some narrow elements (These elements are for the wideheader only and so will be turned on with a media query)
+  html,body{overflow-x: initial}
+
   .wideheader,#widehome,#search__spacer {
      display: block;
      opacity: 1;
