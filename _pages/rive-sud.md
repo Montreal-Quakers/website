@@ -36,6 +36,7 @@ Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations suppl�
 * La porte latérale n'est plus automatique, mais la porte principale l'est.
 * Il y a un ascenseur (attendez quelques secondes pour qu'il s'active).
 * Il y a une salle de bain accessible dans l'église (au niveau de l'ascenseur).
+* Pour que quelqu'un ouvre la porte principale pour vous, le mieux c'est de [nous contacter d'avance](/contact-fr).
 
 ### Langue
-* Ce groupe est bilingue.
+* Ce groupe est bilingue et principalement francophone.

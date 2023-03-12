@@ -4,7 +4,7 @@ lang: en
 translationID: south_shore
 ---
 ## When
-Every other Friday evening, 7:30-8:30 p.m., starting March 10, 2023.
+Every other Friday evening, 7:30-8:30 p.m., starting March 10, 2023, until the end of May.
 ## Every second Friday
 24 March  
 7 April  
@@ -35,8 +35,9 @@ Please [let us know](/contact) if you require additional information or accommod
 
 ### Mobility
 * The side door is no longer automatic, however the main door is.
-* There is an elevator (wait a few seconds for it to activate).
+* There is an elevator (wait a few seconds for it to activate) via the main door.
 * There is an accessible bathroom in the church (elevator level).
+* To have someone open the main door for you, probably safest to [contact us in advance](/contact).
 
 ### Language
-* This group is bilingual.
+* This group is bilingual and predominantly francophone.
