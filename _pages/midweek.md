@@ -33,11 +33,14 @@ For announcements or last minute changes, join the [Midweek Meeting Facebook gro
 
 ## [Accessibility](/accessibility) <span class="stanchor"><a name="accessibility"></a></span>
 Please [let us know](/contact) if you require additional information or accommodations for accessibility.
+
 ### Mobility
-We meet on the third floor.
+* We meet on the third floor
 * There is an elevator
 * This space is wheelchair accessible via McTavish Street
+
 ### Language
+
 * Given the proximity to McGill, this group speaks primarily English
 * Whisper translation into French is available
 * Several members are bilingual and francophone
