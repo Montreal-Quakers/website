@@ -32,12 +32,7 @@ If this will be your first time at a Quaker Meeting, you may want to read [this 
 For announcements or last minute changes, join the [Midweek Meeting Facebook group](https://www.facebook.com/groups/mtlmidweek){: rel="noopener" target="_blank"}, check the [Facebook page](https://www.facebook.com/MontrealQuakers){: rel="noopener" target="_blank"} (no Facebook account required), or [contact us](/contact) with questions.
 
 ## [Accessibility](/accessibility) <span class="stanchor"><a name="accessibility"></a></span>
-Please [let us know](/contact) if you require additional information or accommodations for accessibility.
-
-### Mobility
-* We meet on the third floor
-* There is an elevator
-* This space is wheelchair accessible via McTavish Street
+MORSL's [accessibility page](https://www.mcgill.ca/morsl/about/contact/accessibility){: rel="noopener" target="_blank"} should answer most questions about the space. Please [let us know](/contact) if you require additional information or accommodations.
 
 ### Language
 

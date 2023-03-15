@@ -30,7 +30,7 @@ Pour plus d'informations, joignez-vous au [groupe Facebook](https://www.facebook
 Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.
 ### Mobilité
 Nous nous rencontrons au troisième étage.
-* Il y a un ascenseur
+* Il y a un ascenseur, mais la porte n'est pas automatique. Appellez MORSL pour de l'aide au besoin au [(514) 398-4104](tel:5143984104).
 * Cet espace est accessible aux personnes en fauteuil roulant
 Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodements pour l'accessibilité.
 
