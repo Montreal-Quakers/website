@@ -17,7 +17,7 @@ We meet at 11 a.m. every Sunday except the last Sunday of the month, which is on
 [The Greene Centre, 1090 Greene, Westmount, QC, H3Z 1Z9](https://www.google.com/maps/search/1090%20Greene,%20Westmount,%20QC,%20H3Z%201Z9){: rel="noopener" target="_blank"}
 
 * Near **Lionel-Groulx and Atwater metros** (Lionel-Groulx is slightly closer).
-* **Parking** available behind the Greene Centre.
+* **Free two-hour parking** available in the streets surrounding the Greene Centre (for instance on Greene or rue Prospect).
 * Please note that the Greene Centre is a **nut-free environment**. We are working toward becoming a **scent-reduced meeting**.
 
 We meet in the sunroom on the Greene Centre's main floor. All are welcome.  During warm weather we socialize after meeting in the park across the street around noon.

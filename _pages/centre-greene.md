@@ -16,7 +16,7 @@ On se réunit le dimanche à 11 h 00 sauf le dernier dimanche du mois, qui est s
 [Le centre Greene, 1090 Greene, Westmount, QC, H3Z 1Z9](https://www.google.com/maps/search/1090%20Greene,%20Westmount,%20QC,%20H3Z%201Z9){: rel="noopener" target="_blank"}
 
 * Près de la **station Lionel-Groulx et Atwater** (Lionel-Groulx est un peu plus proche)
-* Le **stationnement** est disponible derrière le Centre Greene
+* Le **stationnement** sur les rues autour le Centre Greene est gratuit pour deux heures (sur Greene ou rue Prospect par exemple).
 * Notez que le Centre Greene **décourage** les fragrances, les arachides et les noix
 * Le Centre Greene est **accessible** à partir des portes en avant et en arrière également
 
