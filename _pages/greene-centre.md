@@ -48,9 +48,9 @@ Please [let us know](/contact) if you require additional information or accommod
 
 ### Mobility
 Worship is on the main floor.
-* Wheelchair access via a ramp in the front and rear of the building
+* Wheelchair access via a ramp in the front of the building
 * Wheelchair accessible washrooms
-* Wheelchair accessible parking in the rear of the building
+* Wheelchair accessible parking in the rear of the building as well as a dedicated space out front (with sticker)
 * Other levels may not be accessible
 * Doors are not automatic
   * There is a bell at the rear door of the building.

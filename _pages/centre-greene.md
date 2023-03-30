@@ -49,9 +49,9 @@ Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations suppl�
 ### Mobilité
 Nous nous rencontrons au rez-de-chaussée.
 
-* Accès en fauteuil roulant par une rampe à l'avant et à l'arrière du Centre Greene.
+* Accès en fauteuil roulant par une rampe à l'avant du Centre Greene.
 * Toilettes accessibles aux fauteuils roulants.
-* Stationnement accessible aux fauteuils roulants à l'arrière du bâtiment.
+* Stationnement accessible aux fauteuils roulants à l'arrière du bâtiment, ainsi qu'un stationnement accessible en avant (avec étiquette).
 * D'autres niveaux peuvent ne pas être accessibles.
 * Les portes ne sont pas automatiques.
   * Il y a une cloche à la porte arrière du bâtiment.
