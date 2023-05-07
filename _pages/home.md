@@ -3,7 +3,7 @@ lang: en
 translationID: home
 og-title: Home
 ---
-## [About Quakers](/intro)
+## [About Quakers](/intro) 
 
 Quakers are a community of seekers with diverse beliefs. We seek meaningful life, an accepting community, and doing good in the world. 
 
@@ -22,7 +22,7 @@ We are Quakers of all kinds — Christian Quakers, nontheist Quakers, Buddhist Q
 
 Here are our opportunities to join us: 
 * [Sunday Meeting](/greene-centre) at 11 a.m. on Zoom ([contact us for the link](/contact)) **and** in person near Lionel-Groulx metro. Meets only on Zoom the last Sunday of the month.
-* [Midweek Meeting](/midweek), Wednesdays at 7 p.m. on Zoom and Thursdays at 5:30 near McGill. There's also a monthly Zoom in French on Tuesday at 7 pm.
+* [Midweek Meeting](/midweek), Wednesdays at 7 p.m. on Zoom and Thursdays at near McGill. There's also a [monthly Zoom in French](/qc#on-zoom) on Tuesday at 7 pm.
 * [Quebec City Worship Group](/quebec), first Sunday of the month at 11 a.m. in person in Lévis.{% comment %} * [Laurentian Worship Group](/laurentians), restarting in spring 2022: Sundays at 10:30 a.m. in Saint-Hippolyte in person.{% endcomment %}
 * [South Shore Worship Group](/south_shore) may form soon in Saint-Lambert. [Contact us](/contact) for updates.
 
