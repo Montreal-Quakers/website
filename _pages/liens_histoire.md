@@ -28,7 +28,7 @@ So sad, Woodbrooke seems to have deleted this course -- post this again if they 
 
 ## Pour promouvoir nos valeurs
 * [Réseau œcuménique justice et paix](http://www.justicepaix.org){: rel="noopener" target="_blank"}
-* ✶ [Canadian Friends Service Committee](https://quakerservice.ca){: rel="noopener" target="_blank"}: (en anglais) Les quakers au Canada travaillent pour la paix, la justice pour les peuples autochtones, et afin de réformer le système judiciaire.
+* ✶ [Canadian Friends Service Committee](https://quakerservice.ca){: rel="noopener" target="_blank"}: (en anglais) Les quakers au Canada travaillent pour la paix, la justice pour les peuples autochtones, et afin de réformer le [système](https://quakerservice.ca/wp-content/uploads/2023/04/1981-Minute-sur-labolition-des-prisons-context.pdf){: rel="noopener" target="_blank"} [judiciaire](https://quakerservice.ca/wp-content/uploads/2023/04/1981-minute-sur-labolition-des-prisons.pdf){: rel="noopener" target="_blank"}.
 * ✶ [Bureau Quaker auprès des Nations Unies](https://quno.org/){: rel="noopener" target="_blank"} (en anglais), travaille à New York et à Genève sur la paix, le changement climatique, les réfugiés, et une économie plus juste.
 * 🍁 [Canadian Yearly Meeting](https://quaker.ca/){: rel="noopener" target="_blank"} (en anglais), représente les quakers au Canada.
 
