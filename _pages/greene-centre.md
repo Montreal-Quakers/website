@@ -20,7 +20,7 @@ We meet at 11 a.m. every Sunday except the last Sunday of the month, which is on
 * **Free two-hour parking** available in the streets surrounding the Greene Centre (for instance on Greene or rue Prospect).
 * Please note that the Greene Centre is a **nut-free environment**. We are working toward becoming a **scent-reduced meeting**.
 
-We meet in the sunroom on the Greene Centre's main floor. All are welcome.  During warm weather we socialize after meeting in the park across the street around noon.
+We meet in the sunroom on the Greene Centre's main floor. All are welcome. Do stay after for tea, if you can.
 
 ### Time
 
