@@ -2,25 +2,6 @@ home:
 - icon: <i class="fas fa-home fa-lg"></i>
 
 en:
-- title: Podcasts
-  hovertitle: Suggested podcasts
-  link: /next_steps/podcasts
-  icon: <i class="fas fa-headphones-alt fa-fw"></i>
-- title: Request help
-  hovertitle: Request help from the meeting
-  link: /next_steps/request_help
-  icon: <i class="fas fa-hand-holding-heart fa-fw"></i>
-  submenu:
-    - subtitle: Discretionary Fund
-      sublink: /next_steps/discretionary_fund
-- title: Meeting info
-  hovertitle: Info-sheets and resources about the meeting
-  link: /next_steps/meeting_resources
-  icon: <i class="fas fa-list-alt fa-fw"></i>
-- title: Learn
-  hovertitle: Deepen knowledge about Quakerism
-  link: /next_steps/deepen
-  icon: <i class="fas fa-arrow-circle-right fa-fw"></i>
 - title: Make Friends
   hovertitle: Deepen relationships at meeting
   link: /next_steps/know_us
@@ -30,6 +11,25 @@ en:
       sublink: /next_steps/book_bible
     - subtitle: Singing Potluck
       sublink: /next_steps/singing_group
+- title: Request help
+  hovertitle: Request help from the meeting
+  link: /next_steps/request_help
+  icon: <i class="fas fa-hand-holding-heart fa-fw"></i>
+  submenu:
+    - subtitle: Discretionary Fund
+      sublink: /next_steps/discretionary_fund
+- title: Travel
+  hovertitle: Visiting Quakers in other places
+  link: /next_steps/travel
+  icon: <i class="fas fa-plane"></i>
+- title: Meeting info
+  hovertitle: Info-sheets and resources about the meeting
+  link: /next_steps/meeting_resources
+  icon: <i class="fas fa-list-alt fa-fw"></i>
+- title: Learn
+  hovertitle: Deepen knowledge about Quakerism
+  link: /next_steps/deepen
+  icon: <i class="fas fa-arrow-circle-right fa-fw"></i>
 - title: Structure
   hovertitle: Meeting roles and committees
   link: /next_steps/committees
@@ -48,20 +48,25 @@ en:
   hovertitle: Learn About Membership at Meeting
   link: /next_steps/membership
   icon: <i class="fas fa-hand-holding-medical fa-fw"></i>
+- title: Podcasts
+  hovertitle: Suggested podcasts
+  link: /next_steps/podcasts
+  icon: <i class="fas fa-headphones-alt fa-fw"></i>
 - title: Gatherings
   hovertitle: Larger Quaker gatherings
   link: /next_steps/gatherings
   icon: <i class="far fa-circle fa-fw"></i>
-- title: Travel
-  hovertitle: Visiting Quakers in other places
-  link: /next_steps/travel
-  icon: <i class="fas fa-plane"></i>
 
 fr:
-- title: Info Assemblée
-  hovertitle: Ressources et informations sur l'Assemblée de Montréal
-  link: /etape_suivante/info_assemblée
-  icon: <i class="fas fa-list-alt fa-fw"></i>
+- title: Se faire un.e Ami.e
+  hovertitle: Approfondir vos relations avec notre communauté
+  link: /etape_suivante/nous_connaître
+  icon: <i class="fas fa-user-friends fa-fw"></i>
+  submenu:
+    - subtitle: Club de lecture & étude biblique
+      sublink: /etape_suivante/lecture_bible
+    - subtitle: Groupe de chant
+      sublink: /etape_suivante/chant
 - title: Demandez de l'aide
   link: /etape_suivante/aide
   icon: <i class="fas fa-hand-holding-heart fa-fw"></i>
@@ -72,19 +77,6 @@ fr:
   hovertitle: Approfondir vos connaissances du Quakerism
   link: /etape_suivante/approfondir
   icon: <i class="fas fa-arrow-circle-right fa-fw"></i>
-- title: Se faire un.e Ami.e
-  hovertitle: Approfondir vos relations avec notre communauté
-  link: /etape_suivante/nous_connaître
-  icon: <i class="fas fa-user-friends fa-fw"></i>
-  submenu:
-    - subtitle: Club de lecture & étude biblique
-      sublink: /etape_suivante/lecture_bible
-    - subtitle: Groupe de chant
-      sublink: /etape_suivante/chant
-- title: Structure
-  hovertitle: Rôles et comités
-  link: /etape_suivante/comités
-  icon: <i class="fas fa-screwdriver fa-fw"></i>
 - title: Assemblée d'affaires
   hovertitle: Votre première fois à l'assemblée d'affaires
   link: /etape_suivante/affaires_première_fois
@@ -92,6 +84,18 @@ fr:
   submenu:
   - subtitle: Comment déroule l'assemblée d'affaires
     sublink: /etape_suivante/affaires
+- title: Voyager
+  hovertitle: La visite des Quakers lorsque vous voyagez
+  link: /etape_suivante/voyage
+  icon: <i class="fas fa-plane"></i>
+- title: Info Assemblée
+  hovertitle: Ressources et informations sur l'Assemblée de Montréal
+  link: /etape_suivante/info_assemblée
+  icon: <i class="fas fa-list-alt fa-fw"></i>
+- title: Structure
+  hovertitle: Rôles et comités
+  link: /etape_suivante/comités
+  icon: <i class="fas fa-screwdriver fa-fw"></i>
 - title: Devenir membre
   hovertitle: Le rôle et processus
   link: /etape_suivante/devenir_membre
@@ -104,7 +108,3 @@ fr:
   hovertitle: Des podcasts en anglais
   link: /etape_suivante/podcasts-fr
   icon: <i class="fas fa-headphones-alt fa-fw"></i>
-- title: Voyager
-  hovertitle: La visite des Quakers lorsque vous voyagez
-  link: /etape_suivante/voyage
-  icon: <i class="fas fa-plane"></i>
