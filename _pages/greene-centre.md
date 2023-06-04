@@ -31,9 +31,8 @@ If this will be your first time at a Quaker Meeting, you may want to read [this 
 ### COVID precautions <span class="stanchor"><a name="precautions"></a></span>
 
 For visitors:
-* If you're experiencing COVID symptoms, please stay home.{% comment %}* Details for contact tracing will be collected by the greeter.{% endcomment %}
-* Please disinfect hands at the entrance.
-* Wearing a mask is strongly recommended at all times.
+* If you're experiencing COVID symptoms, please stay home.
+* Hands may be disinfected at the entrance.{% comment %}* Wearing a mask is strongly recommended at all times.{% endcomment %}
 
 Our precautions: 
 * Along with the Greene Centre, we can ensure excellent ventilation via open windows and two air purifiers. Please [contact us](/contact) to confirm this desire, and we can make it happen.

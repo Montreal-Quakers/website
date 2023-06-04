@@ -34,8 +34,7 @@ Si c’est votre première assemblée quaker, [ce lien](/a_propos) donne une id�
 
 Consignes pour nos visiteurs:
 * Si vous expérimentez des symptômes de COVID-19, restez à la maison.
-* Désinfection des mains à l'entrée.
-* Port du masque est fortement recommandé.
+* Désinfection des mains est possible à l'entrée.{% comment %} * Port du masque est fortement recommandé.{% endcomment %}
 
 Nos mesures:
 * Avec le Centre Greene nous pouvons assurer la bonne ventilation par des fenêtres ouvertes et deux purificateurs d'air. 
