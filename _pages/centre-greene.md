@@ -30,15 +30,14 @@ Bien qu’il soit préférable d’arriver avant 11 h, votre présence nous est 
 
 Si c’est votre première assemblée quaker, [ce lien](/a_propos) donne une idée de ce à quoi vous attendre.
 
-### Précautions COVID <span class="stanchor"><a name="consignes"></a></span>
+### Précautions pour la santé <span class="stanchor"><a name="consignes"></a></span>
 
 Consignes pour nos visiteurs:
-* Si vous expérimentez des symptômes de COVID-19, restez à la maison.
-* Désinfection des mains est possible à l'entrée.{% comment %} * Port du masque est fortement recommandé.{% endcomment %}
+* Si vous expérimentez des symptômes (flu, gastro, COVID-19), il est plus prudent de différer votre venue.
 
 Nos mesures:
 * Avec le Centre Greene nous pouvons assurer la bonne ventilation par des fenêtres ouvertes et deux purificateurs d'air. 
-* Si quelqu'un a des soucis en lien avec le coronavirus, nous allons demander à tout le monde de porter un masque à la fin de l'assemblée.
+* Si quelqu'un a des soucis en lien avec la santé, nous allons demander à tout le monde de porter un masque à la fin de l'assemblée.
   * Cela dit, pour aider les personnes avec des difficultés auditives, on demande aux personnes qui parlent d'enlever leur masque.
   * Nous avons des masques à offrir.
 * Si vous avez des commentaires ou questions sur notre politique nous vous encourageons à [nous contacter](/contact-fr).

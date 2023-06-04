@@ -41,15 +41,9 @@ If this will be your first time at a Quaker Meeting, you may want to read [this 
 ### Parking
 Free parking on Sunday on Saint-Louis street, in front of the café.
 
-### COVID precautions <span class="stanchor"><a name="precautions"></a></span>
+### Health precautions <span class="stanchor"><a name="precautions"></a></span>
 
-Requirements for visitors:
-* If you're experiencing COVID symptoms, please stay home.
-* Disinfect hands at the entrance.
-* Please disinfect surfaces before and after use.
-
-Other precautions: 
-* The chairs will be amply distanced (we are a small group).
+If you're experiencing symptoms (COVID, flu, upset stomach), please visit us at a later time.
 
 ## [Accessibility](/accessibility) <span class="stanchor"><a name="accessibility"></a></span>
 Please [let us know](/contact) if you require additional information or accommodations for accessibility.

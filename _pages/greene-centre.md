@@ -28,15 +28,14 @@ Every Sunday from **11:00 a.m. to noon**. We suggest arriving a few minutes befo
 
 If this will be your first time at a Quaker Meeting, you may want to read [this information about what to expect](/about).
 
-### COVID precautions <span class="stanchor"><a name="precautions"></a></span>
+### Health precautions <span class="stanchor"><a name="precautions"></a></span>
 
 For visitors:
-* If you're experiencing COVID symptoms, please stay home.
-* Hands may be disinfected at the entrance.{% comment %}* Wearing a mask is strongly recommended at all times.{% endcomment %}
+* If you're experiencing symptoms (flu, COVID, upset stomach), please visit us at a later time.
 
 Our precautions: 
 * Along with the Greene Centre, we can ensure excellent ventilation via open windows and two air purifiers. Please [contact us](/contact) to confirm this desire, and we can make it happen.
-* If anyone has raises a COVID concern at meeting we agree to ask everyone to wear masks at the rise of meeting before socializing. 
+* If anyone has raises a health concern at meeting we agree to ask everyone to wear masks at the rise of meeting before socializing. 
   * However, for folks with difficulty hearing, we ask that people remove their mask when speaking.
 * We have extra masks on hand for anyone that needs one.
 * Anyone with comments or concerns about our policy is encouraged to [contact us](/contact).

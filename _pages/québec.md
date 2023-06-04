@@ -46,15 +46,9 @@ Le Groupe Quaker de Québec se rencontre chaque premier dimanche du mois **de 11
 ### Stationnement
 Stationnement gratuit le dimanche sur la rue Saint-Louis, en face du café, et accès aux personnes à mobilité réduite. 
 
-### Précautions COVID <span class="stanchor"><a name="consignes"></a></span>
+### Précautions pour la santé <span class="stanchor"><a name="consignes"></a></span>
 
-Consignes pour nos visiteurs:
-* Si vous expérimentez des symptômes de COVID-19, restez à la maison.
-* Désinfection des mains à l'entrée.
-* Désinfection des surfaces avant et après l'usage.
-
-Nos mesures:
-* Les chaises seront amplements distancées (nous sommes peu nombreux).
+Si vous croyez être atteint d'une infection contagieuse (grippe, gastro, covid, etc.) il est plus prudent de différer votre venue.
 
 ## [Accessibilité](/accessibilité) <span class="stanchor"><a name="accessibilité"></a></span>
 Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.
