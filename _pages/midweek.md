@@ -13,9 +13,9 @@ Bible study precedes midweek meeting at 6:15 p.m. the same link on Wednesdays.
 {% endcomment %}
 ## In person
 ### When
-* **Thursdays** from 5:30 p.m. to 6:30 p.m., except for March 2nd and 16th.
-* We follow the academic calendar (**Sept-Nov, Jan-March**). Outside these months, [check for updates](#updates) as there may be significant location changes from April through August and in December. 
-* We try to provide snacks after.
+* This summer: **Tuesdays** from noon-1 pm, except for June 27th and July 4th.
+{% comment %}* We follow the academic calendar (**Sept-Nov, Jan-March**). Outside these months, [check for updates](#updates) as there may be significant location changes from April through August and in December. 
+* We try to provide snacks after.{% endcomment %}
 
 ### Where
 [3610 Rue McTavish, Room 36-2, Montreal, QC H3A 1Y2](https://goo.gl/maps/6QyVQiftuDDFoDVZ9){: rel="noopener" target="_blank"}
@@ -38,6 +38,6 @@ MORSL's [accessibility page](https://www.mcgill.ca/morsl/about/contact/accessibi
 
 * Given the proximity to McGill, this group speaks primarily English
 * Whisper translation into French is available
-* Several members are bilingual and francophone
+* Several members are bilingual and/or francophone
 
 {% include picture.html filename="ClaudeRyanLibrary.jpg" type="webp avif" class="img_center" alt="Ryan Library" %}
