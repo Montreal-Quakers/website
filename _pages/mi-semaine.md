@@ -10,7 +10,7 @@ Le **mercredi** à 19 h sur Zoom. [Contactez-nous pour le lien](/contact-fr).
 
 ## En personne
 ### Quand
-* Le **mardi** de midi à 13 h 00, sauf le 27 juin et le 4 juillet.
+* Cet été : le **mardi** de midi à 13 h 00, sauf le 27 juin et le 4 juillet.
 {% comment %}* Pendant l’année universitaire (**de septembre à novembre, janvier à mars**). En décembre et entre avril et août, suivez nos [mises à jour](#misesàjour), car il se peut qu’il y ait beaucoup de changements de lieu.
 * Nous offrons des collations lorsque possible.{% endcomment %}
 
