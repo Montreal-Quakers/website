@@ -10,7 +10,7 @@ In addition to our in-person meetings, we meet on Zoom every Sunday at 11 a.m. (
 
 ## In person
 
-We meet at 11 a.m. every Sunday except the last Sunday of the month, which is on Zoom only.
+We meet at 11 a.m. every Sunday.
 
 ### Address
 

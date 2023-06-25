@@ -10,7 +10,7 @@ translationID: greene-centre
 En plus de nos rencontres en personne, on se voit sur Zoom le dimanche à 11 h. ([Contactez-nous pour le lien](/contact-fr).
 
 ## En personne
-On se réunit le dimanche à 11 h 00 sauf le dernier dimanche du mois, qui est sur Zoom seulement.
+On se réunit le dimanche à 11 h 00.
 
 ### Coordonnées
 [Le centre Greene, 1090 Greene, Westmount, QC, H3Z 1Z9](https://www.google.com/maps/search/1090%20Greene,%20Westmount,%20QC,%20H3Z%201Z9){: rel="noopener" target="_blank"}
