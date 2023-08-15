@@ -10,9 +10,8 @@ Le **mercredi** à 19 h sur Zoom. [Contactez-nous pour le lien](/contact-fr).
 
 ## En personne
 ### Quand
-* Cet été : le **mardi** de midi à 13 h 00, sauf le 27 juin et le 4 juillet.
-{% comment %}* Pendant l’année universitaire (**de septembre à novembre, janvier à mars**). En décembre et entre avril et août, suivez nos [mises à jour](#misesàjour), car il se peut qu’il y ait beaucoup de changements de lieu.
-* Nous offrons des collations lorsque possible.{% endcomment %}
+* À partir du 7 septembre : le **jeudi** de 17 h à 18 h 00.
+* Pendant l’année universitaire (**de septembre à novembre, janvier à mars**). En décembre et entre avril et août, suivez nos [mises à jour](#misesàjour), car il se peut qu’il y ait beaucoup de changements de lieu.
 
 ### Où
 [3610 Rue McTavish, Room 36-2, Montreal, QC H3A 1Y2](https://goo.gl/maps/6QyVQiftuDDFoDVZ9){: rel="noopener" target="_blank"}

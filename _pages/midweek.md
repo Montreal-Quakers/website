@@ -13,9 +13,8 @@ Bible study precedes midweek meeting at 6:15 p.m. the same link on Wednesdays.
 {% endcomment %}
 ## In person
 ### When
-* This summer: **Tuesdays** from noon-1 pm, except for June 27th and July 4th.
-{% comment %}* We follow the academic calendar (**Sept-Nov, Jan-March**). Outside these months, [check for updates](#updates) as there may be significant location changes from April through August and in December. 
-* We try to provide snacks after.{% endcomment %}
+* Starting September 7th: **Thursdays** from 5-6 pm.
+* We follow the academic calendar (**Sept-Nov, Jan-March**). Outside these months, [check for updates](#updates) as there may be significant location changes from April through August and in December. 
 
 ### Where
 [3610 Rue McTavish, Room 36-2, Montreal, QC H3A 1Y2](https://goo.gl/maps/6QyVQiftuDDFoDVZ9){: rel="noopener" target="_blank"}

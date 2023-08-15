@@ -5,7 +5,7 @@ translationID: testimonies
 ---
 Over countless generations, our encounter with Spirit has led us over and over to these six core values:
 
-<i class="far fa-circle fa-fw fa-2x color-1-dark-text down_a_bit_more"></i> &nbsp;<b>S</b>implicity. Simple living helps us focus on what matters most.
+<i class="fa-regular fa-circle fa-fw fa-2x color-1-dark-text down_a_bit_more"></i> &nbsp;<b>S</b>implicity. Simple living helps us focus on what matters most.
 
 <i class="fas fa-dove fa-fw fa-2x color-1-light-text down_a_bit_more"></i> &nbsp;<b>P</b>eace. Quakers have a long history of building peace. 
 

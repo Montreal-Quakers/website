@@ -15,7 +15,7 @@ Depuis d'innombrables générations, notre contact avec l'Esprit nous rappelle c
 
 <i class="fab fa-pagelines fa-fw fa-2x down_a_bit_more leaf"></i>  &nbsp;<b>É</b>co-responsabilité. Le respect et la gratitude pour tout ce qui nous est donné.
 
-<i class="far fa-circle fa-fw fa-2x color-1-text down_a_bit_more"></i> &nbsp;<b>S</b>implicité. Nous concentrer sur ce qui est important dans la vie.
+<i class="fa-regular fa-circle fa-fw fa-2x color-1-text down_a_bit_more"></i> &nbsp;<b>S</b>implicité. Nous concentrer sur ce qui est important dans la vie.
 <br>
 
 Ces valeurs ne sont pas des règles à imposer; elles doivent émerger de notre contact avec l'Esprit.

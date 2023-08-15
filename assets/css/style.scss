@@ -89,16 +89,16 @@ a {
 // Remove underline under links
 .linkoff,a.wideheader,.navbar a {
 	&,&:link,&:visited,&:hover {
-    text-decoration: none;
+    text-decoration: none !important;
     // background-color: inherit;
     }
 }
 
 // Styling PDF links and external links
 a[href$="\.pdf" i]::after {
-    font-family: "Font Awesome 5 Free";
+    font-family: "Font Awesome 6 Free";
     content: '\f1c1';
-    font-weight: 900;
+    font-weight: 400;
     // font-size: .6em;
     margin-left: .3em;
     text-decoration: none;
@@ -109,7 +109,7 @@ a[href$="\.pdf" i]::after {
 
 // Styling external links
 a[href^="http" i]::after {
-    font-family: "Font Awesome 5 Free";
+    font-family: "Font Awesome 6 Free";
     content: '\f35d';
     font-weight: 900;
     font-size: .6em;

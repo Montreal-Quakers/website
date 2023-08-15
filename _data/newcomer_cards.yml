@@ -55,7 +55,7 @@ en:
 - title: Gatherings
   hovertitle: Larger Quaker gatherings
   link: /next_steps/gatherings
-  icon: <i class="far fa-circle fa-fw"></i>
+  icon: <i class="fa-regular fa-circle"></i>
 
 fr:
 - title: Se faire un.e Ami.e
@@ -103,7 +103,7 @@ fr:
 - title: Rassemblements
   hovertitle: Rassemblements plus grands
   link: /etape_suivante/rassemblements
-  icon: <i class="far fa-circle fa-fw"></i>
+  icon: <i class="fa-regular fa-circle"></i> 
 - title: Podcasts (anglais)
   hovertitle: Des podcasts en anglais
   link: /etape_suivante/podcasts-fr

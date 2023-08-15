@@ -33,6 +33,7 @@
   <!-- Stylesheets -->
   <link rel="stylesheet" href="/assets/css/navstyle.css">
   <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/regular.css">
   {% comment %} Special stylesheets for a couple of pages {% endcomment %}
   {% if page.translationID == "next_steps" or page.translationID == "index-choose" or page.type == "system_grid" %}<link rel="stylesheet" href="/assets/css/grid.css">{% endif %}
   {% comment %} These headers are necessary for the search page to work {% endcomment %}
@@ -46,7 +47,10 @@
 {% endif %}
 
     <!-- Font awesome stylesheets -->
-  <link rel="stylesheet" href="/assets/css/fa-custom.css">
+    <!---<link rel="stylesheet" href="/assets/css/fa-custom.css">--->
+    <link rel="stylesheet" href="/assets/css/fontawesome.css">
+    <link rel="stylesheet" href="/assets/css/brands.css">
+    <link rel="stylesheet" href="/assets/css/solid.css">
   {% comment %}If you want to add FontAwesome 5 icons, comment out the line above by putting it between symbols <!-- --> like this "<!-- <link rel="stylesheet" href="/assets/css/fa-custom.css"> --> and uncomment the line the line below by removing those same symbols (<!-- and -->){% endcomment %}
   <!-- <link rel="stylesheet" href="/assets/css/all.css"> -->
   <!-- Normal meta -->
