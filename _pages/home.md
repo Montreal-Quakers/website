@@ -22,8 +22,8 @@ We are Quakers of all kinds — Christian Quakers, nontheist Quakers, Buddhist Q
 
 Here are our opportunities to join us: 
 * [Sunday Meeting](/greene-centre) at 11 a.m. on Zoom ([contact us for the link](/contact)) **and** in person near Lionel-Groulx metro.
-* [Midweek Meeting](/midweek), Wednesdays at 7 p.m. on Zoom and Tuesdays at noon at near McGill. There's also a [monthly Zoom in French](/qc#on-zoom) on Tuesday at 7 pm.
+* [Midweek Meeting](/midweek), Wednesdays at 7 p.m. on Zoom and, starting in September 2023, Thursdays at 5pm near McGill. There's also a [monthly Zoom in French](/qc#on-zoom) on Tuesday at 7 pm.
 * [Quebec City Worship Group](/quebec), first Sunday of the month at 11 a.m. in person in Lévis.{% comment %} * [Laurentian Worship Group](/laurentians), restarting in spring 2022: Sundays at 10:30 a.m. in Saint-Hippolyte in person.{% endcomment %}
-* [South Shore Worship Group](/south_shore) may form soon in Saint-Lambert. [Contact us](/contact) for updates.
+* [South Shore Worship Group](/south_shore) meets sporadically in Saint-Lambert. [Contact us](/contact) for updates.
 
 Our meeting joyfully welcomes children — please [contact us](/contact) to confirm the details. Please feel welcome to just show up to any of our events.
