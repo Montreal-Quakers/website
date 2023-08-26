@@ -1,1 +1,1 @@
-Le groupe du Québec se voit le 10 septembre, 2023, plutôt que le 3 septembre
+Exceptionnellement, le groupe du Québec se réunit le 10 septembre 2023, plutôt que le 3 septembre
