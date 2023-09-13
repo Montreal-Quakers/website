@@ -71,9 +71,9 @@ redalert_pages:
   - translationID: book_bible
     redalert_text-en: alert/en-bookbible-update.md
     redalert_text-fr: alert/fr-bookbible-update.md
-  - translationID: quebec
-    redalert_text-en: alert/en-qc-close.md
-    redalert_text-fr: alert/fr-qc-close.md
+      #  - translationID: quebec
+      #    redalert_text-en: alert/en-qc-close.md
+      #    redalert_text-fr: alert/fr-qc-close.md
 
 bluealerts: some
 bluealert_all_text-en: alert/en-covid.md
