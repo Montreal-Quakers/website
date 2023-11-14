@@ -29,3 +29,5 @@ Voici toutes les occasions de vous joindre à nous:
 * Le groupe sur la [Rive-Sud](/rive-sud) se soit à Saint-Lambert. [Contactez-nous](/contact-fr) pour plus de détails.
 
 Nous offrons des activités pour les jeunes la plupart de l’année. [Contactez-nous](/contact-fr) pour confirmer ou venez vous joindre à nous n'importe quel [dimanche](/centre-greene).
+
+On peut s'inscrire pour la [liste d'envoi pour notre infolettre](https://docs.google.com/forms/d/e/1FAIpQLSe4JtMzX8wT-dE1g77FQzmmMGJwABy1eMBSD56PVrCrVmLZpw/viewform){: rel="noopener" target="_blank"}.

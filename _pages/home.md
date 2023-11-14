@@ -27,3 +27,5 @@ Here are our opportunities to join us:
 * [South Shore Worship Group](/south_shore) meets sporadically in Saint-Lambert. [Contact us](/contact) for updates.
 
 Our meeting joyfully welcomes children — please [contact us](/contact) to confirm the details. Please feel welcome to just show up to any of our events.
+
+Feel free to sign up for our [newsletter mailing list](https://docs.google.com/forms/d/e/1FAIpQLSfTyu-Pj0Q-75ZWlX7GwQC6KFqEZU3StbWfS0kOEe94RidT0A/viewform){: rel="noopener" target="_blank"}.
