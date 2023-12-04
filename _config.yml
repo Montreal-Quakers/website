@@ -74,6 +74,13 @@ redalert_pages:
       #  - translationID: quebec
       #    redalert_text-en: alert/en-qc-close.md
       #    redalert_text-fr: alert/fr-qc-close.md
+      #    For holiday closings
+  - translationID: greene-centre
+    redalert_text-en: alert/en-xmas-closing.md
+    redalert_text-fr: alert/fr-xmas-closing.md
+  - translationID: home
+    redalert_text-en: alert/en-xmas-closing.md
+    redalert_text-fr: alert/fr-xmas-closing.md
 
 bluealerts: some
 bluealert_all_text-en: alert/en-covid.md

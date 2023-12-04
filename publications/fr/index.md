@@ -11,5 +11,6 @@ Cette page annonce des mises à jour et des événements majeurs de notre commun
 * Notre [page Facebook](https://fb.com/MontrealQuakers/){: rel="noopener" target="_blank"} (majoritairement en anglais) publie elle aussi nos mises à jour et nos événements majeurs
 * Consultez notre [calendrier d'événements](/calendrier).
 * Les nouvelles régulières plus mineures sont envoyées à une liste d'envoi. Pour vous y inscrire, il suffit de [nous contacter](/contact-fr).
+* On peut aussi s'inscrire pour la [liste d'envoi pour notre infolettre](https://docs.google.com/forms/d/e/1FAIpQLSe4JtMzX8wT-dE1g77FQzmmMGJwABy1eMBSD56PVrCrVmLZpw/viewform){: rel="noopener" target="_blank"}.
 
 ## Articles récents

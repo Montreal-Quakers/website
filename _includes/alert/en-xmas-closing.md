@@ -1,1 +1,1 @@
-The Greene Centre will closed December 25th, 2022 and January 1st and 8th, 2023, its only closure of the year. Please [contact us](/contact) for alternate arrangements.
+The Greene Centre will closed December 24th and December 31st, 2023. Watch this space for news about January 7th, 2024. We will meet on Zoom those dates. [Contact us](/contact) for the link.
