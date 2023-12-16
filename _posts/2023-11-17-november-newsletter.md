@@ -1,5 +1,5 @@
 ---
-title: Novembre 2023 Newsletter
+title: November 2023 Newsletter
 translationID: 20231117-newsletter
 lang: en
 usage: newsletter
