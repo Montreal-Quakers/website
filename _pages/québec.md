@@ -17,22 +17,20 @@ Si c’est votre première assemblée quaker, [cette page](/à_propos) donne une
 Pour plus d’information sur le quakerisme, voir la page [Introduction](/intro-fr).
 
 ## En Zoom
-[Le deuxième dimanche du mois](/centre-greene) est en français chez l'Assemblée de Montréal. Vous pouvez [nous contacter pour le lien](/contact-fr).
+Rencontres du mardi à 18 h 30 en français sur Zoom (2024):
 
-Rencontres du mardi à 18 h 30 en français sur Zoom (2023):
-
-17 janvier  
-21 février  
-21 mars  
-18 avril  
-16 mai  
-20 juin  
-18 juillet  
-15 août  
-19 septembre  
-17 octobre  
-21 novembre  
-19 décembre  
+16 janvier  
+20 février  
+19 mars  
+16 avril  
+21 mai  
+18 juin  
+16 juillet  
+20 août  
+17 septembre  
+15 octobre  
+19 novembre  
+17 décembre  
 
 [Demander le lien](mailto:quebec@montreal.quaker.ca) si vous n'êtes pas déjà sur la liste d'envois du Groupe de Québec.
 

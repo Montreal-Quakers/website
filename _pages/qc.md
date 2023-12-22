@@ -10,22 +10,20 @@ translationID: quebec
 [Contact us](/contact) for details, or contact the worship group directly via email at [quebec@montreal.quaker.ca](mailto:quebec@montreal.quaker.ca){: rel="noopener" target="_blank"} or via [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}.
 
 ## On Zoom
-The second Sunday of every month is in French at the [Montreal Meeting Zoom](/greene-centre).
+Meetings on Tuesdays at 6:30 p.m. in French on Zoom in 2024:
 
-Meetings on Tuesdays at 6:30 p.m. in French on Zoom in 2023:
-
-17 January  
-21 February  
-21 March  
-18 Avpil  
-16 May  
-20 June  
-18 July  
-15 August  
-19 September  
-17 October  
-21 November  
-19 Décember  
+16 January  
+20 February  
+19 March  
+16 April  
+21 May  
+18 June  
+16 July  
+20 August  
+17 September  
+15 October  
+19 November  
+17 Décember  
 
 [Request the link](mailto:quebec@montreal.quaker.ca) if you're not already on the Quebec City Worship Group's mailing list.
 
