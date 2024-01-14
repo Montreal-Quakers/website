@@ -1,1 +1,1 @@
-Book club & Bible study will resume in 2023!
+Book club & Bible study will resume in 2024!
