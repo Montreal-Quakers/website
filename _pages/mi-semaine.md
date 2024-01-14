@@ -10,7 +10,7 @@ Le **mercredi** à 19 h sur Zoom. [Contactez-nous pour le lien](/contact-fr).
 
 ## En personne
 ### Quand
-* À partir du 7 septembre : le **jeudi** de 17 h à 18 h 00.
+* À partir du 24 janvier : le **mercredi** de 16 h 30 à 17 h 30.
 * Pendant l’année universitaire (**de septembre à novembre, janvier à mars**). En décembre et entre avril et août, suivez nos [mises à jour](#misesàjour), car il se peut qu’il y ait beaucoup de changements de lieu.
 
 ### Où
