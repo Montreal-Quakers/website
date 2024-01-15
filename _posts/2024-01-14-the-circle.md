@@ -1,7 +1,9 @@
 ---
 lang: en
+translation-ID: 202401-the-circle
 title: "In the Beginning, the Circle"
 description: A Personal Portrait of Montreal Monthly Meeting in 2023
+author: Wendy Sturton
 ---
 ![Black circle](/assets/images/posts/black_circle.png){: height="150px" class="img_center"}
 
