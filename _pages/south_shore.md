@@ -4,13 +4,7 @@ lang: en
 translationID: south_shore
 ---
 ## When
-Every other Friday evening, 7:30-8:30 p.m., starting March 10, 2023, until the end of May.
-## Every second Friday
-24 March  
-7 April  
-21 April  
-5 May  
-19 May  
+On hold, awaiting 1-2 more interested people. If that's you, please do [contact us](/contact).
 
 ## Where
 [St. Barnabas Church, 95 Av. Lorne, Saint-Lambert, QC](https://goo.gl/maps/BSGXnGXRBBchZZrz7){: rel="noopener" target="_blank"}.

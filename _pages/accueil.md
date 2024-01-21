@@ -23,11 +23,11 @@ Nous regroupons des quakers de toutes tendances&nbsp;—&nbsp; des quakers athé
 ## [<i class="fas fa-map-marker-alt fa-fw color-1-dark-text"></i> <u>Nous trouver</u>](/centre-greene){: class="linkoff" aria-label="Centre Greene"}
 
 Voici toutes les occasions de vous joindre à nous:
-* [Notre assemblée le dimanche](/centre-greene) à 11 h sur Zoom et en personne au Centre Greene, près du métro Lionel-Groulx.
-* Un groupe de [mi-semaine](/mi-semaine) a lieu en présentiel le jeudi à 17 h à McGill à partir de septembre 2023 et sur Zoom le mercredi à 19 h. Il y aussi un [Zoom francophone mensuel](/qu%C3%A9bec#en-zoom) mardi à 19h.
+* [Notre assemblée le dimanche](/centre-greene) à 11&nbsp;h sur Zoom et en personne au Centre Greene, près du métro Lionel-Groulx.
+* Un groupe de [mi-semaine](/mi-semaine) a lieu en présentiel le mercredi à 16&nbsp;h&nbsp;30 à McGill et sur Zoom le mercredi à 19&nbsp;h. Il y aussi un [Zoom francophone mensuel](/qu%C3%A9bec#en-zoom) mardi à 19&nbsp;h.
 * Un groupe à [Québec](/quebec), en présentiel le premier dimanche du mois à 11 h à Lévis.
-* Le groupe sur la [Rive-Sud](/rive-sud) se soit à Saint-Lambert. [Contactez-nous](/contact-fr) pour plus de détails.
+* Le groupe sur la [Rive-Sud](/rive-sud) se voit à Saint-Lambert. [Contactez-nous](/contact-fr) pour plus de détails.
 
-Nous offrons des activités pour les jeunes la plupart de l’année. [Contactez-nous](/contact-fr) pour confirmer ou venez vous joindre à nous n'importe quel [dimanche](/centre-greene).
+Nous offrons des activités pour les jeunes la plupart de l’année, notamment un événement le 3e dimanche du mois. [Contactez-nous](/contact-fr) pour confirmer ou venez vous joindre à nous n'importe quel [dimanche](/centre-greene).
 
 On peut s'inscrire pour la [liste d'envoi pour notre infolettre](https://docs.google.com/forms/d/e/1FAIpQLSe4JtMzX8wT-dE1g77FQzmmMGJwABy1eMBSD56PVrCrVmLZpw/viewform){: rel="noopener" target="_blank"}.

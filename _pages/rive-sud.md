@@ -4,13 +4,7 @@ lang: fr
 translationID: south_shore
 ---
 ## Quand
-Le 10 mars et toutes les deux vendredis, de 19h30 à 20h30, jusqu'à la fin mai.
-### Tous les deux vendredis
-24 mars  
-7 avril  
-21 avril  
-5 mai  
-19 mai  
+On espère avoir 1-2 personnes d'intéressées de plus. Si 
 
 ## Où
 [L'église St. Barnabas, 95 av. Lorne, Saint-Lambert, QC](https://goo.gl/maps/BSGXnGXRBBchZZrz7){: rel="noopener" target="_blank"}.

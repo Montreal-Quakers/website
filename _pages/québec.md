@@ -57,3 +57,4 @@ Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations suppl�
 
 ### Langue
 * Le culte du groupe de Québec se déroule principalement en français.
+  * La plupart des membres sont bilingues.
