@@ -64,6 +64,7 @@ Worship is on the main floor.
 * We are working toward becoming a scent-reduced meeting.
 * We are conscious of allergens and dietary restrictions at potlucks.
 
+{% comment %}
 ### Language
 * Our Sunday meeting happens primarily in English.
   * Translation is available.
@@ -73,3 +74,4 @@ Worship is on the main floor.
   * Nearly everyone is passively bilingual.
   * A few speak only French.
   * However, we frequently have visitors from the US or Britain, or participants who have just moved to Montreal.
+{% endcomment %}
