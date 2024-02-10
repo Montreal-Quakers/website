@@ -5,6 +5,8 @@ lang: fr
 author: Jean-Louis Demers
 translationID: 202402-5-ans-qc
 ---
+![Cinq](/assets/images/posts/cinq_ans.png){: height="150px" class="img_center"}
+
 Il fallait être un peu fou en 2018 pour penser à démarrer une communauté spirituelle dans un contexte social réfractaire au religieux et à tout ce qui s’en approche. Doublement fou puisque cette communauté, les Quakers, parce qu’elle est d’origine fondamentalement anglophone, demeure à peu près inconnue au Québec. Et cela n’est pas sans générer un réflexe de prudence dans une société qui lutte pour sa survie face à la puissante hégémonie de la langue anglaise. Pourtant, cette petite communauté spirituelle fête ses 5 ans ce mois-ci, notre premier culte s’étant tenu le 3 février 2019.
 
 Au début cette assemblée était plus que modeste puisque nous n’étions souvent que deux participants, parfois un seul. Je me souviens de ce premier culte à la chapelle alors que des membres de l&#39;Assemblée de Montréal étaient venus nous soutenir. Il y avait du gâteau breton, de la joie  et une prière lue à l’ouverture. Qu’allait-il advenir de ce projet? Heureusement, la persévérance et la diffusion d’un cours en ligne et en français sur le quakerisme nous ont permis d&#39;accroître un peu notre nombre et de consolider nos relations. Merci David!

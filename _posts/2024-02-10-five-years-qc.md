@@ -5,6 +5,7 @@ lang: en
 author: Jean-Louis Demers
 translationID: 202402-5-ans-qc
 ---
+![Five](/assets/images/posts/cinq_ans.png){: height="150px" class="img_center"}
 
 You had to be a little crazy in 2018 to think about starting a spiritual community in a social context that is resistant to religion and everything connected to it. It was doubly crazy, because Quakers, the spiritual community in question, is fundamentally English in origin, with no roots or familiarity among francophones in Quebec. Moreover, such an introduction was likely to inspire great reservations in a society fighting for its survival against the powerful dominance of the English language. And yet, this small spiritual community celebrated its 5th anniversary this month, looking back to our first worship service held on February 3, 2019.
 
