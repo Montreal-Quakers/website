@@ -4,7 +4,7 @@ lang: fr
 translationID: privacy
 ---
 ## Qui nous sommes
-Nous sommes l'Assemblée Quaker de Montréal. L’adresse de notre site Web est la suivante: [https://montreal.quaker.ca](https://montreal.quaker.ca).
+Nous sommes l'Assemblée quaker de Montréal. L’adresse de notre site Web est la suivante: [https://montreal.quaker.ca](https://montreal.quaker.ca).
 
 ## Formulaires de contact
 Si vous remplissez un formulaire de contact, ces informations pourront être conservées indéfiniment dans notre courriel. Vous pouvez demander sa suppression.
