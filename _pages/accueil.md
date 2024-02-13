@@ -28,6 +28,6 @@ Voici toutes les occasions de vous joindre à nous:
 * Un groupe à [Québec](/quebec), en présentiel le premier dimanche du mois à 11 h à Lévis.
 * Le groupe sur la [Rive-Sud](/rive-sud) se voit à Saint-Lambert. [Contactez-nous](/contact-fr) pour plus de détails.
 
-Notre assemblée accueillent les [enfants](/enfants) avec joie, notamment par un événement le 3e dimanche du mois. [Contactez-nous](/contact-fr) pour plus de détails. Ou simplement venir vous joindre à nous n'importe quel [dimanche](/centre-greene).
+Notre assemblée accueille les [enfants](/enfants) avec joie, notamment par un événement le 3e dimanche du mois. [Contactez-nous](/contact-fr) pour plus de détails. Ou simplement venir vous joindre à nous n'importe quel [dimanche](/centre-greene).
 
 On peut s'inscrire pour la [liste d'envoi pour notre infolettre](https://docs.google.com/forms/d/e/1FAIpQLSe4JtMzX8wT-dE1g77FQzmmMGJwABy1eMBSD56PVrCrVmLZpw/viewform){: rel="noopener" target="_blank"}.
