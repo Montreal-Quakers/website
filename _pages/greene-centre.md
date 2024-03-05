@@ -24,21 +24,31 @@ We meet in the sunroom on the Greene Centre's main floor. All are welcome. Do st
 
 ### Time
 
-Every Sunday from **11:00 a.m. to noon**. We suggest arriving a few minutes beforehand but we much prefer your company to your absence! We joyfully welcome children — if possible please [do give us a few days notice](/contact).
+Every Sunday from **11:00 a.m. to noon**. We suggest arriving a few minutes beforehand but we much prefer your company to your absence! We joyfully welcome [children](/children) — we have a special event for children on the 3rd Sunday of the month. If possible please [do give us a few days notice](/contact).
 
 If this will be your first time at a Quaker Meeting, you may want to read [this information about what to expect](/about).
 
 ### Health precautions <span class="stanchor"><a name="precautions"></a></span>
 
 For visitors:
-* If you're experiencing symptoms (flu, COVID, upset stomach), please visit us at a later time.
+* If you're experiencing symptoms (flu, COVID, upset stomach, etc.), please visit us at a later time.
 
-Our precautions: 
-* Along with the Greene Centre, we can ensure excellent ventilation via open windows and two air purifiers. Please [contact us](/contact) to confirm this desire, and we can make it happen.
-* If anyone has raises a health concern at meeting we agree to ask everyone to wear masks at the rise of meeting before socializing. 
-  * However, for folks with difficulty hearing, we ask that people remove their mask when speaking.
-* We have extra masks on hand for anyone that needs one.
-* Anyone with comments or concerns about our policy is encouraged to [contact us](/contact).
+Our precautions that are always in effect: 
+
+* The two air purifiers in the sunroom will remain on at medium before, during and after worship. An attempt will be made to keep their fans functioning at a low noise level and yet at an effective speed.
+* Chairs will remain well spaced.
+* At least a couple of windows will be opened (a fraction in cold weather, temperature permitting, more in warm weather).
+* The meeting will obtain high quality (N95 or KN95) masks to give to anyone who wants to wear a mask, and will make it known that they are available.
+* We encourage attenders experiencing gastric or respiratory symptoms to visit us at a later time.
+
+Moreover, we encourage those still concerned about their safety after enactment of the above provisions, to [contact us](/contact) for assistance with the following:
+
+* To sit close to an air purifier
+* Assistance (both material and financial) in purchasing a superior quality mask which provides enhanced safety in conditions such as ours. The meeting will have information and advice available on this topic.
+
+Finally, note that we provide two online Zoom meetings weekly. The Sunday Zoom is connected to the in-presence meeting at the Greene Centre. People attend these meetings for various reasons, including a desire to minimize contact with others and prevent illness.
+
+Anyone with comments or concerns about our policy is encouraged to [contact us](/contact).
 
 ## [Accessibility](/accessibility) <span class="stanchor"><a name="accessibility"></a></span>
 
