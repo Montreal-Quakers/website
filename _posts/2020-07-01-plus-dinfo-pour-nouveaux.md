@@ -3,7 +3,7 @@ title: Plus d'informations pour des participants
 tags: [website]
 lang: fr
 translationID: new_attenders202007
-author: Modérateur
+author: Animateur
 ---
 Tel que promis [ici](/2020/06/12/nouveau-site-web), de nouvelles fonctionalités viennent juste de sortir sur le site web:
 * Un glossaire anglais-français de termes quaker!

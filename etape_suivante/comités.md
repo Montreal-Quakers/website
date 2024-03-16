@@ -9,8 +9,8 @@ Les quakers célèbrent les leaders dans leur communauté, mais accordent moins 
 Si vous voyez un rôle au sujet duquel vous aimeriez en savoir plus, n'hésitez pas à nous [contacter](/contact-fr)
 
 ## Rôles <i class="fas fa-theater-masks fa-fw color-1-text"></i>
-* [Modératrice ou modérateur](/etape_suivante/affaires#modératrice)
-* [Assistant.e à la modératrice ou au modérateur](/etape_suivante/affaires#assistante) (un rôle idéal pour apprendre)
+* [Animatrice ou animateur](/etape_suivante/affaires#animatrice)
+* [Assistant.e à la animatrice ou au animateur](/etape_suivante/affaires#assistante) (un rôle idéal pour apprendre)
 * [Secrétaire de séance](/etape_suivante/affaires#secrétaire)
 * Trésorier.e
 * [Représentant.e](/next_steps/repping_meeting) à l'Assemblée représentative de l'automne et au printemps (en anglais)

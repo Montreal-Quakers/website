@@ -3,7 +3,7 @@ title: Le nouveau site web est arrivé!
 tags: [website]
 lang: fr
 translationID: website202006
-author: Modérateur
+author: Animateur
 ---
 Notre nouveau site web est arrivé, et en style. Merci à tout le monde qui nous a aidé à l'améliorer!
 

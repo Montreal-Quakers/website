@@ -10,20 +10,20 @@ Nous nous rappelons souvent que le nom au complet de l'assemblée d'affaires est
 L’objectif de l’assemblée d’affaires est de se faire une idée sur la façon dont la communauté est guidée par l’Esprit dans ses actions. 
 
 * Par exemple, cela ne veut pas dire que parce que l’Esprit a en tête la couleur orange et que nous choisissons le jaune pour la couleur d’un tapis que nous sommes de mauvais quakers.
-* Arthur Larabee, longtemps modérateur au Philadelphia Yearly Meeting, parle de l’assemblée d’affaires comme ayant pour but de « trouver une issue aimante. »
+* Arthur Larabee, longtemps animateur au Philadelphia Yearly Meeting, parle de l’assemblée d’affaires comme ayant pour but de « trouver une issue aimante. »
   * Il existe plusieurs façons de trouver une issue aimante.
   * Aucune d’entre elles n’est connue avant le début de l’assemblée.
     * Le but de l'assemblée pour les affaires est d'en découvrir une.
   * Une issue aimante n’est pas nécessairement une action: ça peut-être tout simplement de continuer à se recueillir ensemble.
 
 ## Rôles <i class="fas fa-theater-masks fa-fw color-1-text"></i>
-### La modératrice ou le modérateur <span class="stanchor"><a name="modératrice"></a></span>
-La modératrice ou le modérateur (clerc) donne le ton, explique le sujet, ou demande à quelqu’un d’autre de le faire, et d’un sujet d’information, il amène ce sujet au stade de la clarification, de l’action, pour ensuite confier cette action aux personnes ou au comités désignés. Cette personne essaie de trouver le sens de l’assemblée et éventuellement trouver l’unité. Elle met à l’épreuve sa compréhension du sens de l’assemblée en la lui proposant et en lui demandant si cette compréhension est juste.
+### L'animatrice ou l'animateur <span class="stanchor"><a name="animatrice"></a></span>
+L'animatrice ou l'animateur (clerk) donne le ton, explique le sujet, ou demande à quelqu’un d’autre de le faire, et d’un sujet d’information, il amène ce sujet au stade de la clarification, de l’action, pour ensuite confier cette action aux personnes ou au comités désignés. Cette personne essaie de trouver le sens de l’assemblée et éventuellement trouver l’unité. Elle met à l’épreuve sa compréhension du sens de l’assemblée en la lui proposant et en lui demandant si cette compréhension est juste.
 
-Plus les participants pensent et agissent comme une modératrice, mieux déroule l'assemblée d'affaires
+Plus les participants pensent et agissent comme une animatrice, mieux déroule l'assemblée d'affaires
 
-### Assistant.e à la modératrice ou au modérateur <span class="stanchor"><a name="assistante"></a></span>
-L'assistante à la modératrice ou au modérateur anime l'assemblée d'affaires en cas d'absence et aide avec d'autres tâches telles que la correspondance et les annonces.
+### Assistant.e à l'animatrice ou l'animateur <span class="stanchor"><a name="assistante"></a></span>
+L'assistante à l'animatrice ou l'animateur anime l'assemblée d'affaires en cas d'absence et aide avec d'autres tâches telles que la correspondance et les annonces.
 
 ### Secrétaire de séance <span class="stanchor"><a name="secrétaire"></a></span>
 La ou le secrétaire de séance essaie d'articuler et écrire les décisions et le sens de l'assemblée
@@ -46,7 +46,7 @@ L’unité est généralement reconnue par l’unanimité. La plupart du temps n
 Si les participants croient que l’objection présentée détient un poids spirituel et pensent que le processus décisionnel doit être retardé, alors il n’y a pas d’unité. En présentant son objection, la personne « fait obstacle » mais ce n’est pas elle mais bien le groupe qui permet l’expression de cet obstacle. 
 
 Selon la taille du groupe une petite minorité ne peut pas retarder le processus décisionnel sans que les autres reconnaissent que leurs objections détiennent un certain poids spirituel. 
-* Par exemple si une personne à l’intérieur d’un groupe de trente ne peut pas se rallier et que toutes les autres avenues ont été essayées, en dernier essor, le [modérateur](#clerc) peut demander si le groupe considère que la valeur spirituelle des objections mérite que le processus décisionnel soit retardé.
+* Par exemple si une personne à l’intérieur d’un groupe de trente ne peut pas se rallier et que toutes les autres avenues ont été essayées, en dernier essor, l'[animateur](#animatrice) peut demander si le groupe considère que la valeur spirituelle des objections mérite que le processus décisionnel soit retardé.
   * Si personne ne voit de raison de retarder le processus décisionnel alors l’assemblée a atteint l’[unité](#unité).
 Dans le même ordre d’idée, l’assemblée d’affaires suppose des attentes au sujet du comportement des participants. 
 * Le plus important, il faut faire preuve d’ouverture d’esprit.
