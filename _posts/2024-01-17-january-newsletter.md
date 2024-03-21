@@ -4,4 +4,6 @@ translationID: 20240117-newsletter
 lang: en
 usage: newsletter
 ---
+![Newsletter image](/assets/images/email-icon.png){: height="150px" class="img_center"}
+
 [Our January newsletter](/assets/PDF/Newsletter-infolettre/2024-01 InfoLettre Newsletter Quaker.pdf){: target="_blank"} is now online.

@@ -24,8 +24,8 @@ Lorsque les quakers voyagent, souvent nous apportons les salutations de notre as
 * [France](https://www.quakersenfrance.org/){: rel="noopener" target="_blank"}
 * [Belgique et Luxembourg](https://quakers-belux.org/meetings-for-worship-where-and-when/){: rel="noopener" target="_blank"}
 * [Afrique](http://fwccafrica.org/){: rel="noopener" target="_blank"}
-* [Asie/Pacifique de l'ouest](http://fwccawps.org/){: rel="noopener" target="_blank"}
-* [Europe/le Moyen-Orient](http://www.fwccemes.org/fam/){: rel="noopener" target="_blank"}
+* [Asie/Pacifique de l'ouest](https://fwccawps.org/){: rel="noopener" target="_blank"}
+* [Europe/le Moyen-Orient](https://www.fwccemes.org/fam/){: rel="noopener" target="_blank"}
 
 ## [Définitions](https://www.fgcquaker.org/resources/explanation-letters-introduction-travel-minutes-and-endorsements){: rel="noopener" target="_blank"}
 ### Lettre d'introduction <span class="stanchor"><a name="introduction"> </a></span>

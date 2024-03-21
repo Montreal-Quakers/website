@@ -5,6 +5,7 @@ lang: en
 translationID: 202403-gender-letter
 ---
 ![Gender queer flag](/assets/images/posts/gender-queer.jpg)
+
 Montreal Monthly Meeting, responding to proposals from several of its members, invites members from other monthly meetings and worship groups across Canada to take part in a series of online discussions about gender queer concerns. Our goal is to develop a Canadian Quaker response to gender queer needs within our community.
 
 The term "Gender queer" covers issues of non-binary identity and gender fluidity as well as trans identity, and forms a continuum with, although distinct from, sexual orientation as expressed in the LGBTQ+ community.

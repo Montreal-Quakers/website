@@ -53,8 +53,8 @@ layout: default
     {% for post in filtered_posts limit:site.custom_paginate offset:OFFSET %}
 
       {% comment %}
-        All this code is just to assign
-        the date properly in French
+        All this code (until next comment)
+	is just to assign the date properly in French
         All text is captured, then it prints the day, month name
         and then the year.
       {% endcomment %}
@@ -87,7 +87,7 @@ layout: default
         {% assign final_date = date_capture %}
         
       {% else %} 
-        {% comment %} "Else" means in English {% endcomment %}
+        {% comment %} "else" means if the page is in English {% endcomment %}
         {% assign final_date = post.date | date: "%B %-d, %Y" %}
       {% endif %}
 
@@ -116,6 +116,9 @@ layout: default
           {% unless post.usage == "newsletter" %}
             {{ post.excerpt }}
           {% endunless %}
+          {% if post.usage == "newsletter" %}
+	  <img src="/assets/images/email-icon.png" height="110px" class="img_center" alt="{% if fr %}Image d'infolettre{% else %}Newsletter image{% endif %}">
+          {% endif %}
 
           <a 
             href="{{ post.url }}" 
