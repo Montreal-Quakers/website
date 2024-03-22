@@ -2,21 +2,21 @@
 lang: en
 translationID: what_i_do
 title: What I do in meeting
-exclude_from_search: true
 ---
 ## Janette
 
+{% comment %}
 Meeting for Worship begins when the first person enters the room.
 
 One thing all Quakers have in common is that they are all seekers. We do not claim to have found the answers. Meeting for Worship is a place to help us on our journey.
 
-When I enter the Meeting I sit quietly and look around me. I imagine a shaft of light connecting me to something greater than me. I call it The Light or God. Others may have another name for it. I try to connect with each person in the room by joining them to The Light also. 
+{% endcomment %}When I enter the Meeting I sit quietly and look around me. I imagine a shaft of light connecting me to something greater than me. I call it The Light or God. Others may have another name for it. I try to connect with each person in the room by joining them to The Light also. 
 
-I think about the week that has just passed and how it has been and any particularly significant moments. And I look forward to the week ahead. I try to bring these thoughts before God. I give thanks for good things that have happened. I ask for the strength to cope with challenges to come.
+I think about the week that has just passed and how it has been and any significant moments. I look forward to the week ahead. I try to bring these thoughts before God. I give thanks for good things that have happened. I ask for the strength to cope with challenges to come.
 
-A gathered Meeting is when all those present are connecting together and with The Light so I am trying to be part of that gatheredness. I try to centre down into this connectedness. Frequently my mind wanders and I have to gently bring my thoughts back to the centre. When someone gives vocal ministry it can be about something I have had on my mind. This is when I know I have connected. It is a profound experience. Sometimes something on my mind is so strong I feel the need to speak aloud. When this happens before standing to speak I consider carefully if the message is actually for the meeting as a whole or just for me. If it is for the Meeting it is very difficult not to stand and speak. I see that as the signal that I am meant to speak. Some Friends speak of being pushed to their feet.
+A gathered Meeting is when all those present are connecting together and with The Light so I am trying to be part of that gatheredness. I try to centre down into this connectedness. Frequently my mind wanders and I have to gently bring my thoughts back to the centre. When someone gives vocal ministry it can be about something I have had on my mind. This is when I know I have connected. It is a profound experience.{% comment %} Sometimes something on my mind is so strong I feel the need to speak aloud. When this happens before standing to speak I consider carefully if the message is actually for the meeting as a whole or just for me. If it is for the Meeting it is very difficult not to stand and speak. I see that as the signal that I am meant to speak. Some Friends speak of being pushed to their feet.
 
-I see Meeting for Worship as the end of one week and the beginning of the next. A time to give thanks and to look ahead.
+I see Meeting for Worship as the end of one week and the beginning of the next. A time to give thanks and to look ahead.{% endcomment %}
 
 ## Michael
 
@@ -35,8 +35,8 @@ At the beginning I was overwhelmed by awe at sitting in a group that wanted to w
 As time went on I found silent worship a place to bring sorrows and questions, set them forward and wait for insights. The result was not necessarily a specific answer, but invariably, greater peace. 
 
 My favorite mantra has been the Lord’s Prayer, pondering every phrase from daily bread to forgiving of trespasses to avoidance of testing or temptation. 
-
-And then, I began a questioning of whether I was being led to say something. I could usually tell when something wanted utterance because it became formed and irresistible. 
+{% comment %}
+And then, I began a questioning of whether I was being led to say something. I could usually tell when something wanted utterance because it became formed and irresistible. {% endcomment %}
 
 Now I listen more in the silence, and wait. The quality of that waiting is richer for me in a physically present group, and in the presence of some individuals whose silence seems most intense and poised. 
 
