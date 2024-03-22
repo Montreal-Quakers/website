@@ -1,6 +1,6 @@
 ---
-redirect:   /what_I_do
 layout:     redirect
-permalink: /what_i_do
+permalink: /what_I_do
+redirect:   /what_i_do
 lang: en
 ---
