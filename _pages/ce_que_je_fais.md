@@ -5,7 +5,7 @@ title: Ce que je fais dans l'assemblée quaker
 ---
 ## Janette
 
-Lorsque j'entre dans l'asseblée quaker, je m'assois tranquillement et je regarde autour de moi. J'imagine un faisceau de lumière qui me relie à quelque chose de plus grand que moi. Je l'appelle la Lumière ou Dieu. D'autres peuvent lui donner un autre nom. J'essaie de me connecter à chaque personne présente dans la salle en la reliant également à cette Lumière.
+Lorsque j'entre dans l'assemblée quaker, je m'assois tranquillement et je regarde tout autour. J'imagine un faisceau de lumière qui me relie à quelque chose de plus grand que moi. Je l'appelle la Lumière ou Dieu. D'autres peuvent lui donner un autre nom. J'essaie de me connecter à chaque personne présente dans la salle en la reliant également à cette Lumière.
 
 Je pense à la semaine qui vient de s'écouler, à son déroulement et aux moments importants. Je prévois la semaine à venir. J'essaie de présenter ces pensées à Dieu. Je me sens reconnaissante pour les bonnes choses qui se sont produites. Je demande la force de faire face aux défis à venir.
 
@@ -13,11 +13,11 @@ Une rencontre recueillie, c'est lorsque toutes les personnes présentes se conne
 
 ## Michael
 
-Pour moi, deux choses se produisent dans le silence d'une assemblée quaker : je suis rappelé à la communion et je suis rappelé à l'attente.
+Pour moi, deux choses se produisent dans le silence d'une assemblée quaker : je suis rappelé à la communion ainsi qu'à l'attente.
 
-En tant que quaker, je suis invité à communier avec Dieu partout, mais j'avoue volontiers que cette communion peut être difficile à maintenir après avoir manqué un métro ou lorsque je casse quelque chose en faisant la vaisselle. Le silence de l'assemblée m'offre un espace, certes pas plus sacré que le quotidien, dans lequel j'ai pris l'habitude de me rappeler que je place mon cœur sur Dieu, que « il y en a un, Christ Jésus lui-même, qui peut parler à ta condition, » et que même si le monde peut parfois sembler sombre, on nous promet qu'un grand jour arrive.
+En tant que quaker, je suis invité à communier avec Dieu partout, mais j'avoue volontiers que cette communion peut être difficile à maintenir après avoir manqué un métro ou lorsque je casse quelque chose en faisant la vaisselle. Le silence de l'assemblée m'offre un espace, certes pas plus sacré que le quotidien, dans lequel j'ai pris l'habitude de me rappeler que je place mon attention sur Dieu, qu' « il y en a un, Christ Jésus lui-même, qui peut parler à ta condition, » et que même si le monde peut parfois sembler sombre, on nous promet qu'un grand jour arrivera.
 
-Je ne connais pas d'expression plus puissante pour expliquer le génie unique d'une assemblée silencieuse que celle de l'attente. Les Amis assistent à l'assemblée quaker très conscients qu'ils ne possèdent pas toutes les réponses (ou peut-être aucune réponse) aux grandes questions de la vie, mais avec la confiance que si nous sommes patients, l'Esprit nous conduira jusqu'à elles. Cette attitude de foi et d'humilité me rappelle que je dois être à l'écoute de la parole vivante de Dieu, certaine qu'elle a des choses puissantes, et parfois inattendues, à me dire.
+Je ne connais pas d'expression plus puissante pour expliquer le génie unique d'une assemblée silencieuse que celle de l'attente. Les Amis assistent à l'assemblée quaker très conscients qu'ils ne possèdent pas toutes les réponses (ou peut-être aucune réponse) aux grandes questions de la vie, mais avec la confiance que si nous sommes patients, l'Esprit nous conduira jusqu'à elles. Cette attitude de foi et d'humilité me rappelle que je dois être à l'écoute de la parole vivante de Dieu, avec certitude qu'elle a des messages puissants, et parfois inattendus, à me partager.
 
 ## Wendy
 

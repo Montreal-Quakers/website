@@ -10,7 +10,7 @@ Meeting for Worship begins when the first person enters the room.
 
 One thing all Quakers have in common is that they are all seekers. We do not claim to have found the answers. Meeting for Worship is a place to help us on our journey.
 
-{% endcomment %}When I enter the Meeting I sit quietly and look around me. I imagine a shaft of light connecting me to something greater than me. I call it The Light or God. Others may have another name for it. I try to connect with each person in the room by joining them to The Light also. 
+{% endcomment %}When I enter the Meeting I sit quietly and look around. I imagine a shaft of light connecting me to something greater than me. I call it The Light or God. Others may have another name for it. I try to connect with each person in the room by joining them to The Light also. 
 
 I think about the week that has just passed and how it has been and any significant moments. I look forward to the week ahead. I try to bring these thoughts before God. I give thanks for good things that have happened. I ask for the strength to cope with challenges to come.
 
