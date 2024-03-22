@@ -22,6 +22,7 @@ When Quakers travel, we often bring greetings from our home meeting to other mee
 * [Latin America](https://fwccamericas.org/visitation/find-friends.aspx){: rel="noopener" target="_blank"}
 * [The UK and Ireland](https://www.quaker.org.uk/meetings){: rel="noopener" target="_blank"}
 * [France](https://www.quakersenfrance.org/){: rel="noopener" target="_blank"}
+* [Switzerland](https://swiss-quakers.ch/en/start/){: rel="noopener" target="_blank"}
 * [Belgium and Luxembourg](https://quakers-belux.org/meetings-for-worship-where-and-when/){: rel="noopener" target="_blank"}
 * [Africa](http://fwccafrica.org/){: rel="noopener" target="_blank"}
 * [Asia/West Pacific](https://fwccawps.org/){: rel="noopener" target="_blank"}

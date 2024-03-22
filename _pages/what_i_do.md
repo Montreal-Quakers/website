@@ -22,7 +22,7 @@ I see Meeting for Worship as the end of one week and the beginning of the next. 
 
 For me two things happen in a meeting’s silence: I am recalled into communion, and I am recalled into expectant waiting.
 
-As a Quaker, I am invited into communion with God everywhere, but I readily confess this communion can be difficult to maintain after missing a metro or when I break something while doing the dishes. The silence of meeting offers me a space, admittedly no more sacred than the everyday, in which I have made it a discipline to remember that I set my heart upon God, that there is one, even Christ Jesus, who can speak to my condition, and that though the world can sometimes seem bleak, we are promised that a great day is coming.
+As a Quaker, I am invited into communion with God everywhere, but I readily confess this communion can be difficult to maintain after missing a metro or when I break something while doing the dishes. The silence of meeting offers me a space, admittedly no more sacred than the everyday, in which I have made it a discipline to remember that I set my heart upon God, that "there is one, even Christ Jesus, who can speak to my condition," and that though the world can sometimes seem bleak, we are promised that a great day is coming.
 
 I can think of no phrase more powerful to explain the unique genius of a silent meeting than that of expectant waiting. Friends attend meeting perpetually aware that they don’t have all the answers (or perhaps any of them), but with the confidence that if we are patient the Spirit will lead us to them. In this posture of faith and of humility I am reminded to listen for God’s living word, certain that it has powerful, and sometimes unexpected, things to say to me.
 

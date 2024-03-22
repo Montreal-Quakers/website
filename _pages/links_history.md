@@ -25,7 +25,7 @@ translationID: links_history
 * ✶ [Quaker United Nations Office](https://quno.org/), working in New York City and Geneva on peacebuilding, climate change, refugees, and a just economy.
 * 🍁 [Canadian Yearly Meeting](https://www.quaker.ca){: rel="noopener" target="_blank"}, the national organization of the Canadian Quakers (of which we are a part), and their [Organization and Procedure](https://quaker.ca/resources/organization-and-procedure/){: rel="noopener" target="_blank"} 
 * [The Canadian Friend](https://quaker.ca/resources/the-canadian-friend/){: rel="noopener" target="_blank"} - the magazine of Canadian Yearly Meeting, available online. 
-* [Canadian Young Friends Yearly Meeting](http://yf.quaker.ca){: rel="noopener" target="_blank"}, focused on Young Friends (13-18) and Young Adult Friends (18-35). 
+* [Canadian Young Friends Yearly Meeting](https://quaker.ca/cyfym/){: rel="noopener" target="_blank"}, focused on Young Friends (13-18) and Young Adult Friends (18-35). 
 * [Kairos](https://www.kairoscanada.org/){: rel="noopener" target="_blank"}, interfaith action focused on a number of areas such as ecology and Indigenous and migrant rights. 
 * [Quaker Earthcare Witness](https://www.quakerearthcare.org/){: rel="noopener" target="_blank"} ([video](https://www.youtube.com/watch?v=5GBZUEeX1M0){: rel="noopener" target="_blank"})
 

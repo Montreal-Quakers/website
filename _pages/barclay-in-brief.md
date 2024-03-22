@@ -1,7 +1,7 @@
 ---
 title: Barclay in (very) brief
 ---
-Condensed from **Barclay in Brief**, ed. by Eleanor Price Mather (Pendle Hill, 1942), which itself is a condensed version of An Apology for the True Christian Divinity, by Robert Barclay (Latin, 1676; English, 1678). [Full online version (Quaker Heritage Press)](http://www.ghpress.org/texts/barclay/apology/)
+Condensed from **Barclay in Brief**, ed. by Eleanor Price Mather (Pendle Hill, 1942), which itself is a condensed version of An Apology for the True Christian Divinity, by Robert Barclay (Latin, 1676; English, 1678). [Full online version (Quaker Heritage Press)](http://www.qhpress.org/texts/barclay/apology/)
 
 * This markdown unordered list (```* ```) will be replaced with an automatically generated Table of Contents, excluding any headers above. The line below ```{% raw %}{:toc}{% endraw %}``` indicates that this unordered list will be replace by the ToC
 {:toc}

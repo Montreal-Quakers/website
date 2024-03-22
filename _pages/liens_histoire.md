@@ -8,7 +8,7 @@ translationID: links_history
 ## Sur les quakers
 * [Un cours en ligne sur la voie quaker](https://quaker.ca/publication/introduction-aux-quakers-et-a-leur-culte-non-programme/){: rel="noopener" target="_blank"}
   * Ce cours sera organisé par vidéoconférence de temps en temps. [Contactez-nous](/contact-fr) pour plus de détails, mais vous pouvez consulter le matériel en tout temps.
-{% comment %}* [Un cours en ligne sur les quakers](http://moodle.woodbrooke.org.uk/course/view.php?id=60#section-0){:  rel="noopener" target="_blank"}
+{% comment %}* [Un cours en ligne sur les quakers](https://moodle.woodbrooke.org.uk/course/view.php?id=60#section-0){:  rel="noopener" target="_blank"}
 So sad, Woodbrooke seems to have deleted this course -- post this again if they ever put it back! As for the following link, it is just too old and beat up and dusty.
 * [Un résumé du quakerisme en français](http://quaker.chez-alice.fr/){: rel="noopener" target="_blank"}
 {% endcomment %}* Un résumé du quakerisme [« S'attendre à Dieu »](/assets/PDF/EDommen-SAttendreADieu2.pdf), par quaker suisse Ed Dommen.
@@ -23,11 +23,11 @@ So sad, Woodbrooke seems to have deleted this course -- post this again if they 
 * Majoritairement **en français**: [Amis isolés de France et d'ailleurs sur Facebook](https://www.facebook.com/groups/1693742737383648/){: rel="noopener" target="_blank"} (plusieurs Québécois dans le groupe).
 
 ## Groupes quakers francophones non-programmés en dehors du Québec
-* [Quakers en France](http://www.quakersenfrance.org/faq), par exemple, [la Centre Quaker de Congénies](https://www.maison-quaker-congenies.org/){: rel="noopener" target="_blank"} ou [à Paris](https://www.facebook.com/CentreQuakerParis/){: rel="noopener" target="_blank"}
+* [Quakers en France](https://www.quakersenfrance.org/), par exemple, [la Centre Quaker de Congénies](https://www.maison-quaker-congenies.org/){: rel="noopener" target="_blank"} ou [à Paris](https://www.facebook.com/CentreQuakerParis/){: rel="noopener" target="_blank"}
 * [Quakers en suisse](https://swiss-quakers.ch/fr/accueil/){: rel="noopener" target="_blank"}
 
 ## Pour promouvoir nos valeurs
-* [Réseau œcuménique justice et paix](http://www.justicepaix.org){: rel="noopener" target="_blank"}
+* [Réseau œcuménique justice et paix](https://www.justicepaix.org){: rel="noopener" target="_blank"}
 * ✶ [Canadian Friends Service Committee](https://quakerservice.ca){: rel="noopener" target="_blank"}: (en anglais) Les quakers au Canada travaillent pour la paix, la justice pour les peuples autochtones, et afin de réformer le [système](https://quakerservice.ca/wp-content/uploads/2023/04/1981-Minute-sur-labolition-des-prisons-context.pdf){: rel="noopener" target="_blank"} [judiciaire](https://quakerservice.ca/wp-content/uploads/2023/04/1981-minute-sur-labolition-des-prisons.pdf){: rel="noopener" target="_blank"}.
 * ✶ [Bureau Quaker auprès des Nations Unies](https://quno.org/){: rel="noopener" target="_blank"} (en anglais), travaille à New York et à Genève sur la paix, le changement climatique, les réfugiés, et une économie plus juste.
 * 🍁 [Canadian Yearly Meeting](https://quaker.ca/){: rel="noopener" target="_blank"} (en anglais), représente les quakers au Canada.

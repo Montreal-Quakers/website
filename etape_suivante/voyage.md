@@ -22,6 +22,7 @@ Lorsque les quakers voyagent, souvent nous apportons les salutations de notre as
 * [Amérique Latine](https://fwccamericas.org/visitation/find-friends.aspx){: rel="noopener" target="_blank"}
 * [Le Royaume-Uni et l'Ireland](https://www.quaker.org.uk/meetings){: rel="noopener" target="_blank"}
 * [France](https://www.quakersenfrance.org/){: rel="noopener" target="_blank"}
+* [Suisse](https://swiss-quakers.ch/fr/accueil/){: rel="noopener" target="_blank"}
 * [Belgique et Luxembourg](https://quakers-belux.org/meetings-for-worship-where-and-when/){: rel="noopener" target="_blank"}
 * [Afrique](http://fwccafrica.org/){: rel="noopener" target="_blank"}
 * [Asie/Pacifique de l'ouest](https://fwccawps.org/){: rel="noopener" target="_blank"}

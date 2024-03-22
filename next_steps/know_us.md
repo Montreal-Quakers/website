@@ -6,7 +6,7 @@ og-title: Building deeper relationships at meeting
 ---
 If you'd like to be more involved but you're not sure how, perhaps the best thing to do is to express this feeling to the clerk, nominations committee, Ministry & Counsel member, or just ask around. Sometimes we are simply unaware of your wish. Here are a couple of other suggestions:
 * [Inquire](/contact) about our [book club/Bible study](/next_steps/book_bible) or [singing group](/next_steps/singing_group).
-* Add our [meeting calendar](https://calendar.google.com/calendar/embed?src=clerk%40montreal.quaker.ca&ctz=America%2FToronto){:  rel="noopener" target="_blank"} to your calendar ([instructions](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en){:  rel="noopener" target="_blank"}).
+* Add our [meeting calendar](https://calendar.google.com/calendar/u/0/embed?wkst=1&bgcolor=%23ffffff&ctz=America/Toronto&src=clerk@stlawrence.quaker.ca&src=david@montreal.quaker.ca&color=%2301579B&showNav=1&showTabs=0&mode=MONTH&amp;showTitle=1){:  rel="noopener" target="_blank"} to your calendar ([instructions](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en){:  rel="noopener" target="_blank"}).
 * Often after meeting we stay and chat and go out for lunch. Join us, or invite someone you like for coffee.
 * Volunteer with us. Some of our members have been volunteering at:
   * Homeless shelters

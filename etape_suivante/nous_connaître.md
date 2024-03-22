@@ -9,7 +9,7 @@ Si vous souhaitez participer davantage dans la vie de notre communauté mais ne 
   * Faites-en part auprès de l'animateur ou l'animatrice, un membre du Comité des veilleurs (Ministry & Counsel), ou bien un autre membre. Nous ferons de notre mieux pour vous aider.
   * Parfois nous ne sommes tout simplement pas au courant de vos souhaits.
 * [Renseignez-vous](/contact-fr) au sujet de notre [club de lecture / groupe d'étude biblique](/etape_suivante/lecture_bible) ou bien notre [groupe de chant](/etape_suivante/chant).
-* Ajoutez notre [agenda](https://calendar.google.com/calendar/embed?src=clerk%40montreal.quaker.ca&ctz=America%2FToronto){:  rel="noopener" target="_blank"} au vôtre ([instructions](https://support.google.com/calendar/answer/37100?hl=fr){:  rel="noopener" target="_blank"}).
+* Ajoutez notre [agenda](https://calendar.google.com/calendar/u/0/embed?wkst=1&bgcolor=%23ffffff&ctz=America/Toronto&src=clerk@stlawrence.quaker.ca&src=david@montreal.quaker.ca&color=%2301579B&showNav=1&showTabs=0&mode=MONTH&amp;showTitle=1){: rel="noopener" target="_blank"} au vôtre ([instructions](https://support.google.com/calendar/answer/37100?hl=fr){:  rel="noopener" target="_blank"}).
 * Souvent, nous sortons dîner après le culte du dimanche. Venez ou bien invitez quelqu’un au café.
 * Faire du bénévolat avec nous. Quelques-uns de nos membres participent aux activités suivantes:
   * Abris pour les itinérants
