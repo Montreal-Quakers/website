@@ -10,7 +10,7 @@ Le **mercredi** à 19 h sur Zoom. [Contactez-nous pour le lien](/contact-fr).
 
 ## En personne
 ### Quand
-* À partir du 24 janvier : le **mercredi** de 16 h 30 à 17 h 30.
+* À partir du 24 janvier, 2024 : le **mercredi** de 16 h 30 à 17 h 30 jusqu'au 10 avril. Les 17 et 24 avril, le grouope de mi-semaine aura lieu de 16 h à 17 h.
 * Pendant l’année universitaire (**de septembre à novembre, janvier à mars**). En décembre et entre avril et août, suivez nos [mises à jour](#misesàjour), car il se peut qu’il y ait beaucoup de changements de lieu.
 
 ### Où
