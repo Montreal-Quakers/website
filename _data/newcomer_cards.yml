@@ -11,6 +11,8 @@ en:
       sublink: /next_steps/book_bible
     - subtitle: Singing Potluck
       sublink: /next_steps/singing_group
+    - subtitle: Crafts
+      sublink: /next_steps/crafts
 - title: Request help
   hovertitle: Request help from the meeting
   link: /next_steps/request_help
@@ -63,8 +65,8 @@ fr:
   link: /etape_suivante/nous_connaître
   icon: <i class="fas fa-user-friends fa-fw"></i>
   submenu:
-    - subtitle: Club de lecture & étude biblique
-      sublink: /etape_suivante/lecture_bible
+    #- subtitle: Club de lecture & étude biblique
+    #  sublink: /etape_suivante/lecture_bible
     - subtitle: Groupe de chant
       sublink: /etape_suivante/chant
 - title: Demandez de l'aide

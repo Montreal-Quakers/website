@@ -25,4 +25,3 @@ We will be reading from these books:
 * {{ each.reading }}{% endfor %}
 
 Feel free to [contact us](/contact) with suggestions or requests.
-

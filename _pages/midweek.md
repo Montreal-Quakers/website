@@ -13,7 +13,7 @@ Bible study precedes midweek meeting at 6:15 p.m. the same link on Wednesdays.
 {% endcomment %}
 ## In person
 ### When
-* Starting January 24th, 2024: **Wednesdays** from 4:30-5:30 pm until April 10th. On April 17th and 24th, midweek will take place from 4-5pm.
+* On April 17th and 24th, midweek will take place from 4-5pm.
 * We follow the academic calendar (**Sept-Nov, Jan-March**). Outside these months, [check for updates](#updates) as there may be significant location changes from April through August and in December. 
 
 ### Where
