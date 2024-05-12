@@ -23,14 +23,14 @@ Rencontres du mardi à 18 h 30 en français sur Zoom (2024):
 20 février  
 19 mars  
 16 avril  
-21 mai  
-18 juin  
-16 juillet  
-20 août  
-17 septembre  
-15 octobre  
-19 novembre  
-17 décembre  
+20 mai  
+17 juin  
+15 juillet  
+19 août  
+16 septembre  
+14 octobre  
+18 novembre  
+16 décembre  
 
 [Demander le lien](mailto:quebec@montreal.quaker.ca) si vous n'êtes pas déjà sur la liste d'envois du Groupe de Québec.
 

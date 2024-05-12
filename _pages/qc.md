@@ -10,20 +10,20 @@ translationID: quebec
 [Contact us](/contact) for details, or contact the worship group directly via email at [quebec@montreal.quaker.ca](mailto:quebec@montreal.quaker.ca){: rel="noopener" target="_blank"} or via [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}.
 
 ## On Zoom
-Meetings on Tuesdays at 6:30 p.m. in French on Zoom in 2024:
+Meetings on Mondays at 6:30 p.m. in French on Zoom in 2024:
 
 16 January  
 20 February  
 19 March  
 16 April  
-21 May  
-18 June  
-16 July  
-20 August  
-17 September  
-15 October  
-19 November  
-17 Décember  
+20 May  
+17 June  
+15 July  
+19 August  
+18 September  
+14 October  
+18 November  
+16 Décember  
 
 [Request the link](mailto:quebec@montreal.quaker.ca) if you're not already on the Quebec City Worship Group's mailing list.
 
