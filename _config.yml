@@ -20,6 +20,8 @@ mediabreak: 800px
 webrick:
   headers:
     Cache-Control: max-age=31536000
+    Content-Security-Policy-Report-Only: default-src 'self' montreal.quaker.ca *.montreal.quaker.ca https://www.youtube.com https://www.google.com https://maps.googleapis.com https://www.canadahelps.org; worker-src https://google.com
+
 
 # Certain types of media can be assigned to specific pages using this list. Everything in "media" is in the _include folder.
 
