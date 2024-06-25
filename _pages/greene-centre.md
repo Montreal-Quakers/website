@@ -39,9 +39,8 @@ Our precautions that are always in effect:
 * Chairs will remain well spaced.
 * At least a couple of windows will be opened (a fraction in cold weather, temperature permitting, more in warm weather).
 * The meeting will obtain high quality (N95 or KN95) masks to give to anyone who wants to wear a mask, and will make it known that they are available.
-* We encourage attenders experiencing gastric or respiratory symptoms to visit us at a later time.
 
-Moreover, we encourage those still concerned about their safety after enactment of the above provisions, to [contact us](/contact) for assistance with the following:
+Moreover, we encourage those still concerned about their safety, even with the above provisions, to [contact us](/contact) for assistance with the following:
 
 * To sit close to an air purifier
 * Assistance (both material and financial) in purchasing a superior quality mask which provides enhanced safety in conditions such as ours. The meeting will have information and advice available on this topic.
@@ -76,9 +75,8 @@ Worship is on the main floor.
 
 {% comment %}
 ### Language
-* Our Sunday meeting happens primarily in English.
-  * Translation is available.
-  * With guests who speak only one language, we can and do translate for them.
+* We strive to be a bilingual meeting.
+  * Announcements and instructions, as well as resources, are available in English and in French.
 * We have several francophone members and attenders.
   * Most of the meeting is actively bilingual.
   * Nearly everyone is passively bilingual.

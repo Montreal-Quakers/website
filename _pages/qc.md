@@ -32,12 +32,12 @@ Meetings on Mondays at 6:30 p.m. in French on Zoom in 2024:
 In person every first Sunday of the month, **from 11 a.m. to noon**.
 
 ### How to find us
-[Café la Mosaïque, 5727, rue Saint-Louis, Lévis, QC](https://goo.gl/maps/HYYEYV92bwR3Wujp6){: rel="noopener" target="_blank"}, in the meeting room. [Café la Mosaïque](http://cafelamosaique.org/){: rel="noopener" target="_blank"} is on Saint-Louis street, at the corner of Dorimène-Desjardins, only a few meters from Côte-du-Passage.
+[Café la Mosaïque, 5727, rue Saint-Louis, Lévis, QC](https://goo.gl/maps/HYYEYV92bwR3Wujp6){: rel="noopener" target="_blank"}, in the meeting room. [Café la Mosaïque](http://cafelamosaique.org/){: rel="noopener" target="_blank"} is on rue Saint-Louis, at the corner of Dorimène-Desjardins, only a few meters from Côte du Passage.
 
 If this will be your first time at a Quaker Meeting, you may want to read [this information](/about) about what to expect.
 
 ### Parking
-Free parking on Sunday on Saint-Louis street, in front of the café.
+Free parking on Sunday on rue Saint-Louis, in front of the café.
 
 ### Health precautions <span class="stanchor"><a name="precautions"></a></span>
 

@@ -10,8 +10,7 @@ Le **mercredi** à 19 h sur Zoom. [Contactez-nous pour le lien](/contact-fr).
 
 ## En personne
 ### Quand
-* Les 17 et 24 avril, le grouope de mi-semaine aura lieu de 16 h à 17 h.
-* Pendant l’année universitaire (**de septembre à novembre, janvier à mars**). En décembre et entre avril et août, suivez nos [mises à jour](#misesàjour), car il se peut qu’il y ait beaucoup de changements de lieu.
+* Pendant l’année universitaire (**de septembre à novembre, janvier à mars**). Entre avril et août et entre décembre et début janvier, suivez nos [mises à jour](#misesàjour), car il se peut qu’il y ait beaucoup de changements.
 
 ### Où
 [3610 Rue McTavish, Room 36-2, Montreal, QC H3A 1Y2](https://goo.gl/maps/6QyVQiftuDDFoDVZ9){: rel="noopener" target="_blank"}
