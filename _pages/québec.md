@@ -17,7 +17,7 @@ Si c’est votre première assemblée quaker, [cette page](/à_propos) donne une
 Pour plus d’information sur le quakerisme, voir la page [Introduction](/intro-fr).
 
 ## En Zoom
-Rencontres du mardi à 18 h 30 en français sur Zoom (2024):
+Rencontres du lundi à 18 h 30 en français sur Zoom (2024):
 
 16 janvier  
 20 février  
