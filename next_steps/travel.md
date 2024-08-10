@@ -31,7 +31,12 @@ When Quakers travel, we often bring greetings from our home meeting to other mee
 ## [Definitions](https://www.fgcquaker.org/resources/explanation-letters-introduction-travel-minutes-and-endorsements){: rel="noopener" target="_blank"}
 ### Letters of Introduction <span class="stanchor"><a name="introduction"> </a></span>
 
-A “letter of introduction” is a communication signed by the clerk of a monthly meeting that identifies the person who is traveling as a member or regular attender in good standing. This can be useful when visiting or moving somewhere.
+A letter of introduction is a communication signed by the clerk that identifies the person who is traveling as a member or regular attender in good standing. This can be useful when visiting or moving somewhere.
+
 ### Minutes of Travel <span class="stanchor"><a name="travel"> </a></span>
 
-A “travel minute” is usually for a trip concerning Quaker business, for instance, someone who travels to many meetings to listen or teach. A travel minute is a formal document from a local meeting on behalf of a member or attender introducing the Friend and the reason for the trip. Unlike a letter of introduction, a minute of travel from the clerk must have approval of the meeting. If the Friend is traveling extensively outside of Canada, it is also appropriate for the letter to be approved by the yearly meeting and signed by its clerk.
+Distinct from a [letter of introduction](#introduction), a travel minute is usually for a trip concerning Quaker business, for instance, someone who travels to many meetings to listen or teach. A travel minute is a formal document from a meeting on behalf of a member or attender introducing the Friend and the reason for the trip. Unlike a letter of introduction, a minute of travel from the clerk must have approval of the meeting. If the Friend is traveling extensively outside of Canada, it is also appropriate for the letter to be approved by the yearly meeting and signed by its clerk.
+
+### Monthly meeting <span class="stanchor"><a name="monthly"> </a></span>
+
+Quakers have a tradition of referring to a Quaker body by how often business meeting happens. A yearly meeting holds its business sessions annually whereas a monthly meeting has business once a month. But most monthly meetings hold meeting for worship once per week.

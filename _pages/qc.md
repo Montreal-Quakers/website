@@ -20,7 +20,7 @@ Meetings on Mondays at 6:30 p.m. in French on Zoom in 2024:
 17 June  
 15 July  
 19 August  
-18 September  
+16 September  
 14 October  
 18 November  
 16 Décember  

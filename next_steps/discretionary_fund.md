@@ -10,7 +10,7 @@ The Ministry & Counsel (M&C) discretionary fund is intended to be a source of te
 * Funding should be for one-time or temporary urgent needs
 * An urgent need is defined as one that directly affects the wellbeing of the applicant or of their dependent(s) 
 * Each household can receive a maximum of $250 per request, and make a maximum of two requests per year
-* The Monthly Meeting will approve a set amount (currently $1000) each fiscal year for the fund’s budget
+* The Meeting will approve a set amount (currently $1000) each fiscal year for the fund’s budget
   * If the M&C discretionary fund budget is fully spent, the M&C committee must request more funding from the monthly meeting before more donations can be made. Otherwise the fund is closed until the next budget year
 * Applicants should explain in writing to a [member](/next_steps/meeting_resources) of the M&C committee (see [Application Questions](#application) below):
   * the reason for the request
