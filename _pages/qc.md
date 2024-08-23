@@ -10,7 +10,7 @@ translationID: quebec
 [Contact us](/contact) for details, or contact the worship group directly via email at [quebec@montreal.quaker.ca](mailto:quebec@montreal.quaker.ca){: rel="noopener" target="_blank"} or via [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}.
 
 ## On Zoom
-Meetings on Mondays at 6:30 p.m. in French on Zoom in 2024:
+Meetings on Mondays at 7 p.m. in French on Zoom in 2024:
 
 16 January  
 20 February  
@@ -21,7 +21,7 @@ Meetings on Mondays at 6:30 p.m. in French on Zoom in 2024:
 15 July  
 19 August  
 16 September  
-14 October  
+21 October  
 18 November  
 16 Décember  
 
