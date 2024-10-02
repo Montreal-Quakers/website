@@ -14,9 +14,9 @@ Le mercredi à 16&nbsp;h&nbsp;30 à partir du 5 septembre, 2024.
 * Pendant l’année universitaire (**de septembre à novembre, janvier à mars**). Entre avril et août et entre décembre et début janvier, suivez nos [mises à jour](#misesàjour), car il se peut qu’il y ait beaucoup de changements.
 
 ### Où
-S'il fait beau on va être dehors en face de l'édifice de l'Éducation (voir le [Google Map](https://maps.app.goo.gl/neNkWMb1wUbfcgBz9){: rel="noopener" target="_blank"}).
+{% comment %}S'il fait beau on va être dehors en face de l'édifice de l'Éducation (voir le [Google Map](https://maps.app.goo.gl/neNkWMb1wUbfcgBz9){: rel="noopener" target="_blank"}).
 
-S'il pleut ou s'il fait froid, on se voit à l'intérieur dans la salle de méditation de MORSL de l'Université McGill. 
+S'il pleut ou s'il fait froid, on se voit à l'intérieur dans la salle de méditation de MORSL de l'Université McGill.{% endcomment %}
 [3610 Rue McTavish, Room 36-2, Montreal, QC H3A 1Y2](https://goo.gl/maps/6QyVQiftuDDFoDVZ9){: rel="noopener" target="_blank"}
 
 Le stationnement est gratuit pour les étudiants de McGill et [disponible pour les visiteurs](https://www.mcgill.ca/campussafety/fr/stationnement){: rel="noopener" target="_blank"}. Contactez [MORSL](https://www.mcgill.ca/morsl/about/contact){: rel="noopener" target="_blank"}.
