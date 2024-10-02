@@ -18,14 +18,14 @@ Wednesdays at 4:30 p.m, starting September 5th, 2024.
 * We follow the academic calendar (**Sept-Nov, Jan-March**). Outside these months, [check for updates](#updates) as there may be significant changes from April through August and also in December through early January.
 
 ### Where
-If it's nice out, we'll meet outside in front of the Education building (see the Google map) (https://maps.app.goo.gl/neNkWMb1wUbfcgBz9){: rel="noopener" target="_blank"}.
+If it's nice out, we'll meet outside in front of the Education building (see the [Google map](https://maps.app.goo.gl/neNkWMb1wUbfcgBz9){: rel="noopener" target="_blank"}) .
 
 If it's chilly or raining, we'll meet inside at the MORSL meditation room at McGill University.
 [3610 Rue McTavish, Room 36-2, Montreal, QC H3A 1Y2](https://goo.gl/maps/6QyVQiftuDDFoDVZ9){: rel="noopener" target="_blank"}
 
 **Parking** is available for free for students and for a fee [for non-students](https://www.mcgill.ca/transport/parking/downtown/visitors){: rel="noopener" target="_blank"} near the MORSL building. Contact [MORSL](https://www.mcgill.ca/morsl/about/contact){: rel="noopener" target="_blank"}
 
-All are welcome!
+All are welcome (many non-students attend)!
 
 If this will be your first time at a Quaker Meeting, you may want to read [this information](/about) about what to expect.
 
