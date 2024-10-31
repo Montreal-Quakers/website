@@ -4,7 +4,7 @@ lang: fr
 translationID: about
 permalink: /à_propos
 ---
-1. [![](/assets/images/no-tie_color.png){: img_left height="35px" class="down_a_bit_more"} &nbsp;&nbsp;Soyez les bienvenu.e.s, habillez-vous à votre goût (une cravate ça va aussi).](#cravate){: class="linkoff"}<span class="stanchor"><a id="cravate-base"></a></span>
+1. [![](/assets/images/no-tie_color.avif){: img_left height="35px" class="down_a_bit_more"} &nbsp;&nbsp;Soyez les bienvenu.e.s, habillez-vous à votre goût (une cravate ça va aussi).](#cravate){: class="linkoff"}<span class="stanchor"><a id="cravate-base"></a></span>
   
 1. [<i class="fas fa-chair fa-fw fa-2x down_a_bit_more chair"></i> Prenez n'importe quel siège.](#chaise){: class="linkoff"}<span class="stanchor"><a id="chaise-base"></a></span>
   
@@ -20,7 +20,7 @@ permalink: /à_propos
 
 Les quakers prennent un moment de recul face aux distractions de la vie quotidienne.
 
-[![](/assets/images/no-tie_color.png){: img_left height="20px" style="vertical-align:middle"}](#cravate-base){: class=linkoff}<span class="stanchor"><a id="cravate"> </a></span> &nbsp;Lors d'une assemblée quaker aucune tenue vestimentaire particulière n'est prescrite.
+[![](/assets/images/no-tie_color.avif){: img_left height="20px" style="vertical-align:middle"}](#cravate-base){: class=linkoff}<span class="stanchor"><a id="cravate"> </a></span> &nbsp;Lors d'une assemblée quaker aucune tenue vestimentaire particulière n'est prescrite.
 
 [<i class="fas fa-chair chair"></i>](#chaise-base){: class=linkoff}<span class="stanchor"><a id="chaise"> </a></span> &nbsp;Prenez n'importe quel siège. L’assemblée débute au moment où nous nous assoyons en silence; elle dure jusqu’au moment où les responsables font un signe de conclusion, comme se donner la main. Bien qu’il soit préférable d’arriver quelques minutes à l'avance, votre présence nous est plus importante que votre ponctualité.
 

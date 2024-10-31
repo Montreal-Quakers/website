@@ -24,7 +24,7 @@ Ces valeurs ne sont pas des règles à imposer; elles doivent émerger de notre 
 
 <i class="fas fa-heart fa-fw fa-2x down_a_bit_more heart"></i> &nbsp;Le plus grand don, c'est l'amour. Les incitations de l’amour sont au fond de notre engagement au niveau des droits humains, de la justice sociale, de la réforme des prisons, du développement durable et de la paix.
   
-![](/assets/images/Rainbow-Flag.jpg){: img_left height="25"} &nbsp;Notre communauté est ouverte à toutes et à tous.
+![](/assets/images/Rainbow-Flag.avif){: img_left height="25"} &nbsp;Notre communauté est ouverte à toutes et à tous.
 
 En lire plus sur [comment fonctionne une assemblée quaker](/a_propos).
 

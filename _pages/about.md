@@ -3,7 +3,7 @@ title: Your First Quaker Meeting in Six Steps
 lang: en
 translationID: about
 ---
-1. &nbsp;[![](/assets/images/no-tie_color.png){: img_left height="35px" class="down_a_bit_more"} &nbsp;You're welcome as you are. Dress comfortably (ties are fine too).](#notie){: class="linkoff"} <span class="stanchor"><a id="notie-home"></a></span>
+1. &nbsp;[![](/assets/images/no-tie_color.avif){: img_left height="35px" class="down_a_bit_more"} &nbsp;You're welcome as you are. Dress comfortably (ties are fine too).](#notie){: class="linkoff"} <span class="stanchor"><a id="notie-home"></a></span>
  <br>
 
 2. [<i class="fas fa-chair fa-fw fa-2x down_a_bit_more chair"></i> Sit anywhere you like.](#chair){: class="linkoff" }<span class="stanchor"><a id="chair-home"></a></span>
@@ -21,7 +21,7 @@ translationID: about
 
 A Quaker Meeting is based on silence, marking a pause from the distractions of everyday life.
 
-[![](/assets/images/no-tie_color.png){: img_left height="16"}](#notie-home){: class=linkoff}<span class="stanchor"><a id="notie"> </a></span> &nbsp;There is no dress code so come as you are and feel free to wear whatever makes you feel your best.
+[![](/assets/images/no-tie_color.avif){: img_left height="16"}](#notie-home){: class=linkoff}<span class="stanchor"><a id="notie"> </a></span> &nbsp;There is no dress code so come as you are and feel free to wear whatever makes you feel your best.
 
 [<i class="fas fa-chair chair"></i>](#chair-home){: class=linkoff}<span class="stanchor"><a id="chair"></a></span> &nbsp;Go in as soon as you are ready; sit anywhere you like. Meeting for Worship starts as soon as the first person sits down; it ends after about an hour when the appointed person marks the conclusion of worship, for instance by shaking hands. It is preferable to arrive a few minutes early, but punctuality is much less important than your company.
 
