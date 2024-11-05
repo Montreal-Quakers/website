@@ -19,7 +19,7 @@ Le mercredi à 16&nbsp;h&nbsp;30 à partir du 5 septembre, 2024.
 S'il pleut ou s'il fait froid, on se voit à l'intérieur dans la salle de méditation de MORSL de l'Université McGill.{% endcomment %}
 [3610 Rue McTavish, Room 36-2, Montreal, QC H3A 1Y2](https://goo.gl/maps/6QyVQiftuDDFoDVZ9){: rel="noopener" target="_blank"}
 
-Le stationnement est gratuit pour les étudiants de McGill et [disponible pour les visiteurs](https://www.mcgill.ca/campussafety/fr/stationnement){: rel="noopener" target="_blank"}. Contactez [MORSL](https://www.mcgill.ca/morsl/about/contact){: rel="noopener" target="_blank"}.
+Le stationnement est gratuit pour les étudiants de McGill et [disponible pour les visiteurs](https://www.mcgill.ca/campussafety/fr/stationnement){: rel="noopener" target="_blank"}. Contactez [MORSL](https://www.mcgill.ca/morsl/contact){: rel="noopener" target="_blank"}.
 
 Bienvenue à toutes et à tous (plusieurs personnes qui ne sont pas étudiantes assistent)!
 

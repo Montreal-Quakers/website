@@ -23,7 +23,7 @@ Wednesdays at 4:30 p.m, starting September 5th, 2024.
 If it's chilly or raining, we'll meet inside at the MORSL meditation room at McGill University.{% endcomment %}
 [3610 Rue McTavish, Room 36-2, Montreal, QC H3A 1Y2](https://goo.gl/maps/6QyVQiftuDDFoDVZ9){: rel="noopener" target="_blank"}
 
-**Parking** is available for free for students and for a fee [for non-students](https://www.mcgill.ca/transport/parking/downtown/visitors){: rel="noopener" target="_blank"} near the MORSL building. Contact [MORSL](https://www.mcgill.ca/morsl/about/contact){: rel="noopener" target="_blank"}
+**Parking** is available for free for students and for a fee [for non-students](https://www.mcgill.ca/transport/parking/downtown/visitors){: rel="noopener" target="_blank"} near the MORSL building. Contact [MORSL](https://www.mcgill.ca/morsl/contact){: rel="noopener" target="_blank"}
 
 All are welcome (many non-students attend)!
 
@@ -33,7 +33,7 @@ If this will be your first time at a Quaker Meeting, you may want to read [this 
 For announcements or last minute changes, join the [Midweek Meeting Facebook group](https://www.facebook.com/groups/mtlmidweek){: rel="noopener" target="_blank"}, check the [Facebook page](https://www.facebook.com/MontrealQuakers){: rel="noopener" target="_blank"} (no Facebook account required), or [contact us](/contact) with questions.
 
 ## [Accessibility](/accessibility) <span class="stanchor"><a name="accessibility"></a></span>
-MORSL's [accessibility page](https://www.mcgill.ca/morsl/about/contact/accessibility){: rel="noopener" target="_blank"} should answer most questions about the space. Please [let us know](/contact) if you require additional information or accommodations.
+MORSL's [accessibility page](https://www.mcgill.ca/morsl/contact#){: rel="noopener" target="_blank"} should answer most questions about the space. Please [let us know](/contact) if you require additional information or accommodations.
 
 ### Language
 
