@@ -1,1 +1,1 @@
-Le Centre Greene sera fermé le 24 et le 31 décembre 2023 ainsi que le 7 janvier 2024. Nos réunions poursuivront sur Zoom. [Contactez-nous](/contact-fr) pour le lien.
+Le Centre Greene sera fermé le 22 et le 29 décembre 2024 ainsi que le 5 janvier 2025. Nos réunions poursuivront sur Zoom. [Contactez-nous](/contact-fr) pour le lien. Nous serons de retour au Centre Greene le 12 janvier 2025.
