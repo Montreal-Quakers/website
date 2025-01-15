@@ -15,20 +15,20 @@ Si c’est votre première assemblée quaker, [cette page](/à_propos) donne une
 Pour plus d’information sur le quakerisme, voir la page [Introduction](/intro-fr).
 
 ## En Zoom
-Rencontres du lundi à 19&nbsp;h en français sur Zoom (2024):
+Rencontres du lundi à 19&nbsp;h en français sur Zoom (2025):
 
-16 janvier  
-20 février  
-19 mars  
-16 avril  
-20 mai  
-17 juin  
-15 juillet  
-19 août  
-16 septembre  
-21 octobre  
-18 novembre  
-16 décembre  
+20 janvier
+17 février
+17 mars
+21 avril
+19 mai
+16 juin
+21 juillet
+18 août
+15 septembre
+20 octobre
+17 novembre
+15 décembre
 
 [Demander le lien](mailto:quebec@montreal.quaker.ca) si vous n'êtes pas déjà sur la liste d'envois du Groupe de Québec.
 
