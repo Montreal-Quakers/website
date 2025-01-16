@@ -9,7 +9,7 @@ translationID: quebec
 [Contact us](/contact) for details, or contact the worship group directly via email at [quebec@montreal.quaker.ca](mailto:quebec@montreal.quaker.ca){: rel="noopener" target="_blank"} or via [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}.
 
 ## On Zoom
-Meetings on Mondays at 7 p.m. in French on Zoom in 2025:
+Monthly meetings on Mondays (generally the 3rd Monday of the month) at 7 p.m. in French on Zoom in 2025:
 
 20 January  
 17 February  
@@ -38,7 +38,7 @@ We alternate meeting in Lévis (January, March, May, July, September, and Novemb
 
 If this will be your first time at a Quaker Meeting, you may want to read [this information](/about) about what to expect.
 #### Old Québec
-All Saints Chapel située au [31 rue des Jardins dans le vieux Québec](https://maps.app.goo.gl/NNHaVfcmDpb2o5oo6){: rel="noopener" target="_blank"} (the building in the courtyard of the Holy Trinity Anglican Cathedral in Old Québec).
+All Saints Chapel located at [31 rue des Jardins dans le vieux Québec](https://maps.app.goo.gl/NNHaVfcmDpb2o5oo6){: rel="noopener" target="_blank"} (the building in the courtyard of the Holy Trinity Anglican Cathedral in Old Québec).
 
 ![Chapel door](/assets/images/QC_chapel_door.avif)
 

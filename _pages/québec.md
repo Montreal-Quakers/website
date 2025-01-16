@@ -15,7 +15,7 @@ Si c’est votre première assemblée quaker, [cette page](/à_propos) donne une
 Pour plus d’information sur le quakerisme, voir la page [Introduction](/intro-fr).
 
 ## En Zoom
-Rencontres du lundi à 19&nbsp;h en français sur Zoom (2025):
+Rencontres mensuels le lundi (généralement le 3e lundi du mois) à 19&nbsp;h en français sur Zoom (2025):
 
 20 janvier
 17 février
