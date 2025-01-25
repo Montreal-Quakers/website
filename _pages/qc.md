@@ -6,7 +6,7 @@ translationID: quebec
 {% include picture.html filename="qc3.png" type="webp avif" alt="The chapel" class="img_center100" %}
 
 ## Contact
-[Contact us](/contact) for details, or contact the worship group directly via email at [quebec@montreal.quaker.ca](mailto:quebec@montreal.quaker.ca){: rel="noopener" target="_blank"}, via [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}, or via the new [BlueSky page](https://bsky.app/profile/quakers-qc-fr.bsky.social){: rel="noopener" target="_blank".
+[Contact us](/contact) for details, or contact the worship group directly via email at [quebec@montreal.quaker.ca](mailto:quebec@montreal.quaker.ca){: rel="noopener" target="_blank"}, via [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}, or via the new [BlueSky page](https://bsky.app/profile/quakers-qc-fr.bsky.social){: rel="noopener" target="_blank"}.
 
 ## On Zoom
 Monthly meetings on Mondays (generally the 3rd Monday of the month) at 7 p.m. in French on Zoom in 2025:
