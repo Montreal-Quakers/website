@@ -9,6 +9,8 @@ translationID: quebec
 
 [Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}
 
+[BlueSky](https://bsky.app/profile/quakers-qc-fr.bsky.social){: rel="noopener" target="_blank"}
+
 ## Déroulement
 Si c’est votre première assemblée quaker, [cette page](/à_propos) donne une idée de ce à quoi vous attendre.
 

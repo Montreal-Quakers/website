@@ -17,6 +17,8 @@ fb_link: https://www.facebook.com/MontrealQuakers/
 breakpoint: 1062px
 mediabreak: 800px
 
+exclude: [node_modules]
+
 webrick:
   headers:
     Cache-Control: max-age=31536000
