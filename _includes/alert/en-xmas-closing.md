@@ -1,1 +1,1 @@
-The Greene Centre will closed the 22nd and 29th of December, 2024 and January 5th, 2025. We will meet on Zoom those dates. [Contact us](/contact) for the link. We're back in the Greene Centre on January 12th, 2025.
+The Greene Centre will be closed the 22nd and 29th of December, 2024 and January 5th, 2025. We will meet on Zoom those dates. [Contact us](/contact) for the link. We're back in the Greene Centre on January 12th, 2025.
