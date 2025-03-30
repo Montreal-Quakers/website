@@ -7,8 +7,8 @@ translationID: quebec
 ## [Contact](/contact-fr)
 [quebec@montreal.quaker.ca](mailto:quebec@montreal.quaker.ca){: rel="noopener" target="_blank"}
 
-[Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}
-
+{% comment %}[Facebook](https://www.facebook.com/QuakersQuebecCanada/){: rel="noopener" target="_blank"}
+{% endcomment %}
 [BlueSky](https://bsky.app/profile/quakers-qc-fr.bsky.social){: rel="noopener" target="_blank"}
 
 ## Déroulement
