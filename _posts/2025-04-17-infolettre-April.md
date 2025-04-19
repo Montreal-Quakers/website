@@ -6,4 +6,4 @@ usage: newsletter
 ---
 ![Image d'infolettre](/assets/images/email-icon.avif){: height="150px" class="img_center"}
 
-[The April 2024 Newsletter](/assets/PDF/Newsletter-infolettre/2025-04 InfoLettre Newsletter Quaker.pdf){: target="_blank"} is now online.
+[The April 2025 Newsletter](/assets/PDF/Newsletter-infolettre/2025-04 InfoLettre Newsletter Quaker.pdf){: target="_blank"} is now online.
