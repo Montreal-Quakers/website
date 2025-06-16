@@ -25,8 +25,8 @@ Nous regroupons des quakers de toutes tendances&nbsp;—&nbsp; des quakers athé
 Voici toutes les occasions de vous joindre à nous:
 * [Notre assemblée le dimanche](/centre-greene) à 11&nbsp;h sur Zoom et en personne [près du métro Lionel-Groulx](/centre-greene).
 * Un groupe de [mi-semaine](/mi-semaine) a lieu en présentiel le mercredi à 16&nbsp;h&nbsp;30 à McGill et sur Zoom le mercredi à 19&nbsp;h. Il y aussi un [Zoom francophone mensuel](/qu%C3%A9bec#en-zoom) lundi à 19&nbsp;h.
-* Un groupe à [Québec](/quebec), en présentiel le premier dimanche du mois à 11&nbsp;h à Lévis.
-* Le groupe sur la [Rive-Sud](/rive-sud) se voit à Saint-Lambert. [Contactez-nous](/contact-fr) pour plus de détails.
+* Un groupe à [Québec](/quebec), en présentiel le premier dimanche du mois à 11&nbsp;h à Québec et Lévis.
+* Un groupe sur la [Rive-Sud](/rive-sud) souhaite se former à Saint-Lambert. [Contactez-nous](/contact-fr) pour plus de détails.
 
 Notre assemblée accueille les [enfants](/enfants) avec joie, notamment par un événement le 3e dimanche du mois. [Contactez-nous](/contact-fr) pour plus de détails. Ou simplement venir vous joindre à nous n'importe quel [dimanche](/centre-greene).
 

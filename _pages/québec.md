@@ -19,18 +19,18 @@ Pour plus d’information sur le quakerisme, voir la page [Introduction](/intro-
 ## En Zoom
 Rencontres mensuels le lundi (généralement le 3e lundi du mois) à 19&nbsp;h en français sur Zoom (2025):
 
-20 janvier
-17 février
-17 mars
-21 avril
-19 mai
-16 juin
-21 juillet
-18 août
-15 septembre
-20 octobre
-17 novembre
-15 décembre
+20 janvier  
+17 février  
+17 mars  
+21 avril  
+19 mai  
+16 juin  
+21 juillet  
+18 août  
+15 septembre  
+20 octobre  
+17 novembre  
+15 décembre  
 
 [Demander le lien](mailto:quebec@montreal.quaker.ca) si vous n'êtes pas déjà sur la liste d'envois du Groupe de Québec.
 

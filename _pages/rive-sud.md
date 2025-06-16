@@ -4,7 +4,7 @@ lang: fr
 translationID: south_shore
 ---
 ## Quand
-On espère avoir 1-2 personnes d'intéressées de plus. Si 
+On espère avoir 1-2 personnes d'intéressées de plus. Si vous êtes intéressé, [contactez-nous](/contact-fr).
 
 ## Où
 [L'église St. Barnabas, 95 av. Lorne, Saint-Lambert, QC](https://goo.gl/maps/BSGXnGXRBBchZZrz7){: rel="noopener" target="_blank"}.

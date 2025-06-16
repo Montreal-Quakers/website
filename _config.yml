@@ -196,11 +196,11 @@ defaults:
       layout: "default"
       permalink: "/next_steps/:basename"
   - scope:
-      path: "etape_suivante" # an empty string here means all files in the project
+      path: "étape_suivante" # an empty string here means all files in the project
       type: "pages"
     values:
       layout: "default"
-      permalink: "/etape_suivante/:basename"
+      permalink: "/étape_suivante/:basename"
   - scope:
       path: "_posts" # an empty string here means all files in the project
       type: "posts"

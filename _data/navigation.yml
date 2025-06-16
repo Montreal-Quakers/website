@@ -74,7 +74,7 @@ fr:
   icon: <i class='fas fa-rss'></i>
 - title: Étape suivante
   hovertitle: Des informations pour mieux s'intégrer dans notre communauté
-  link: /etape_suivante/
+  link: /étape_suivante/
   icon: <i class="fas fa-arrow-circle-right fa-fw"></i>
 - title: Donner
   link: /don

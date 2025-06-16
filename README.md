@@ -39,22 +39,22 @@ In order to create a new post, follow these steps.
 5. Copy and paste the front matter below. This front matter is explained in detail in this README, but all you need to do is copy and paste this at the tippy top of your file:
 ```
 --- 
-title: Introduction to Quakers Event
-description: Monthly Events Introducing Quakers
+title: "Introduction to Quakers Event"
+description: "Monthly Events Introducing Quakers"
 tags: [introduction, learning]
 lang: en
 translationID: intro2us
-author: clerk
+author: "clerk"
 ---
 Write your post here!
 ```
 5. In the "front matter" (the text separated by three dashes ```---```)
   * Change:
-     * The title (for instance to ```title: Hello World```)
-     * Description (for instance to ```description: My first post```, or leave it blank)
+     * The title (for instance to ```title: "Hello World"```)
+     * Description (for instance to ```description: "My first post"```, or leave it blank)
      * Tags (for instance to ```tags: [announcements, testing]```)
      * The ```lang``` -- this tells the system which language to display a page in, either in English (```lang: en```) or in French (```lang: fr```). Default is English so you can leave this blank)
-     * Author (to your name, for instance ```author: Shelly```)
+     * Author (to your name, for instance ```author: "Shelly"```)
      * If you do not have a translated version of the post, you don't need to worry about the ```translationID``` line. You can 1) delete it, 2) leave it blank, or 3) put in a random value. If you do have a translated version of the post, choose a unique code for ```translationID``` (for instance, ```translationID: helloworld```), and the website will automatically link between English and French pages that have the same ```translationID``` code.  
         * If you're not 100% sure if your translation code (```translationID```) is unique, you can search for it on this [page](https://montreal.quaker.ca/_pages/health).
 6. Write your blog post after the second three dashes (```---```) the way you would write an email. GitHub will translate this into HTML.
@@ -62,12 +62,12 @@ Write your post here!
 The full sample blog post would look like this (```_posts/2020-05-24-hello-world.md```):
 ```
 ---
-title: Hello World!
-description: My first post
+title: "Hello World!"
+description: "My first post"
 tags: [announcements, testing]
 lang: en
 translationID: hello-world
-author: Shelly
+author: "Shelly"
 ---
 Hello world!
 This is my first blog post.
@@ -85,12 +85,12 @@ Most of the pages and posts on this website are just plain text, just like Wordp
 So you could make that sample post above a bit more fancy by adding a bit of formatting: 
 ```
 ---
-title: Hello World!
-description: My first post
+title: "Hello World!"
+description: "My first post"
 tags: [announcements, testing]
 lang: en
 translationID: hello-world
-author: Shelly
+author: "Shelly"
 ---
 # Hello world!
 This is my _first_ blog post.
@@ -137,7 +137,7 @@ Moreover, you'll see that as you try to save changes to a Github file, it asks y
 Create a new ```.md``` file in the [```_pages```](https://github.com/Montreal-Quakers/website/tree/master/_pages) directory, write your content, and insert the "front matter" as explained here. For instance, for the COVID outbreak, I needed to create [```covid-19.md```](https://github.com/Montreal-Quakers/website/blob/master/_pages/covid-19.md) and [```covid-19-fr.md```](https://github.com/Montreal-Quakers/website/blob/master/_pages/covid-19-fr.md) (feel free to open these files as you read along (hint: view the [raw covid-19](https://raw.githubusercontent.com/Montreal-Quakers/website/master/_pages/covid-19.md) and [raw covid-19-fr.md](https://raw.githubusercontent.com/Montreal-Quakers/website/master/_pages/covid-19-fr.md) files.). I created a new file at  [```covid-19.md```](https://github.com/Montreal-Quakers/website/blob/master/_pages/covid-19.md) and then I wrote some text. Then I made a translated version here [```covid-19-fr.md```](https://github.com/Montreal-Quakers/website/blob/master/_pages/covid-19-fr.md). Finally, in both files I set the "front matter". This is the most advanced part, but it should be accessible, and once you master it, you're good. I'll show you the code and then I'll tell you how it works. To the top of the file, above the text I'd written, I added:
 ```
 ---
-title: COVID-19 Updates
+title: "COVID-19 Updates"
 lang: en
 translationID: covid
 ---
@@ -146,7 +146,7 @@ As a COVID-19 prevention measure, the Sunday Quaker meeting, the Quebec City gro
 For the French translation ([```covid-19-fr.md```](https://github.com/Montreal-Quakers/website/blob/master/_pages/covid-19-fr.md)) I added:
 ```
 ---
-title: Mises à jour COVID-19
+title: "Mises à jour COVID-19"
 lang: fr
 translationID: covid
 ---
@@ -155,7 +155,7 @@ Comme mesure préventive contre la COVID-19, les assemblées Quaker de dimanche,
 Here's what all this means:
 ```
 --- (<--- this is required, it just means that the "front matter", a bit of code that instructs how to build the page, is beginning)
-title: COVID-19 Updates (<--- This is a title that will appear at the top and isn't required)
+title: "COVID-19 Updates" (<--- This is a title that will appear at the top and isn't required)
 description: (<--- this would be a subtitle at the top of the page and is not required either)
 lang: en   (<--- This tells the system which language you're writing in, ```en``` for English and ```fr``` for French, so the correct headers and footers appear on the page)
 translationID: covid   (<--- This a codeword that helps the system find a translation for this page, if one exists. If you didn't translate the page, don't bother with this.)
@@ -233,8 +233,8 @@ The images and descriptions for the image carousel are in ```_data/slideshow.yml
 
 ```
 slideshow1:
-- title: Our historic meetinghouse on de Maisonneuve
-  titre-fr: Notre chez nous sur la rue Maisonneuve pendant les années 1970
+- title: "Our historic meetinghouse on de Maisonneuve"
+  titre-fr: "Notre chez nous sur la rue Maisonneuve pendant les années 1970"
   file: 1974 MaisW (1).JPG
 ```
 
@@ -259,14 +259,14 @@ You can also see all the images available in [```assets/images```](https://githu
 In order to change how the site navigation works, it should be enough to add or subtract pages within the ```_data/navigation.yml``` file. I'll show the code and then explain it:
 
 ```
-- title: News
-  subtitle: The Latest Updates
+- title: "News"
+  subtitle: "The Latest Updates"
   link: /posts.html
 ```
 Here's what all that means:
 ```
-- title: News (<--- This is the name of the link that will appear on the site)
-  hovertitle: The Latest Updates  (<--- This the text that appears if you hover over the title)
+- title: "News" (<--- This is the name of the link that will appear on the site)
+  hovertitle: "The Latest Updates"  (<--- This the text that appears if you hover over the title)
   link: /posts.html  (<--- This is the link, where the link directs the browser to go to)
 ```
 The exact formatting is important to observe. Note how the first line has ```- title: ``` and the other items don't have a dash before them. Note the way the spacing aligns as well.
@@ -274,29 +274,29 @@ The exact formatting is important to observe. Note how the first line has ```- t
 Let's look at another example. Again these are fairly simple, but following the format is important, or else it could break the site:
 
 ```
-- title: Where We Meet
-  hovertitle: Where We Meet
+- title: "Where We Meet"
+  hovertitle: "Where We Meet"
   children:
-    - childtitle: Sundays in Montreal
+    - childtitle: "Sundays in Montreal"
       childlink: /greene-centre.html
-    - childtitle: Midweek Meeting
+    - childtitle: "Midweek Meeting"
       childlink: /midweek.html
-- title: News
-  subtitle: The Latest Updates
+- title: "News"
+  subtitle: "The Latest Updates"
   link: /posts.html
 ```
 Let's break this down. We've already looked at what the first two lines do.
 ```
-- title: Where We Meet
-  subtitle: Where We Meet  (<--- Note there is no "link" line, so clicking on "Where We Meet" does not direct the browser)
+- title: "Where We Meet"
+  subtitle: "Where We Meet"  (<--- Note there is no "link" line, so clicking on "Where We Meet" does not direct the browser)
   children:  (<---- this indicates that this menu has a submenu, a downward arrow will be automatically added)
-    - childtitle: Sundays in Montreal (<---- Note how the childtitle and child link follow the same formatting, but with four spaces before them)
+    - childtitle: "Sundays in Montreal" (<---- Note how the childtitle and child link follow the same formatting, but with four spaces before them)
       childlink: /greene-centre.html (<---- the link for the submenu item)
-    - childtitle: Midweek Meeting
-      childhovertitle: Midweek Meeting in Montreal (<---- text when hovering over title)
+    - childtitle: "Midweek Meeting"
+      childhovertitle: "Midweek Meeting in Montreal" (<---- text when hovering over title)
       childlink: /midweek.html
-- title: News  (<---- to end the submenu just go back to the normal way of laying out items)
-  subtitle: The Latest Updates
+- title: "News"  (<---- to end the submenu just go back to the normal way of laying out items)
+  subtitle: "The Latest Updates"
   link: /posts.html
 ```
 

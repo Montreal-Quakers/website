@@ -62,53 +62,53 @@ en:
 fr:
 - title: Se faire un.e Ami.e
   hovertitle: Approfondir vos relations avec notre communauté
-  link: /etape_suivante/nous_connaître
+  link: /étape_suivante/nous_connaître
   icon: <i class="fas fa-user-friends fa-fw"></i>
   submenu:
     - subtitle: Club de lecture & étude biblique
-      sublink: /etape_suivante/lecture_bible
+      sublink: /étape_suivante/lecture_bible
     - subtitle: Groupe de chant
-      sublink: /etape_suivante/chant
+      sublink: /étape_suivante/chant
     - subtitle: Artisanat
-      sublink: /etape_suivante/artisanat
+      sublink: /étape_suivante/artisanat
 - title: Demandez de l'aide
-  link: /etape_suivante/aide
+  link: /étape_suivante/aide
   icon: <i class="fas fa-hand-holding-heart fa-fw"></i>
   submenu:
     - subtitle: Fonds d'aide
-      sublink: /etape_suivante/fonds_daide
+      sublink: /étape_suivante/fonds_daide
 - title: Apprendre
   hovertitle: Approfondir vos connaissances du Quakerism
-  link: /etape_suivante/approfondir
+  link: /étape_suivante/approfondir
   icon: <i class="fas fa-arrow-circle-right fa-fw"></i>
 - title: Assemblée d'affaires
   hovertitle: Votre première fois à l'assemblée d'affaires
-  link: /etape_suivante/affaires_première_fois
+  link: /étape_suivante/affaires_première_fois
   icon: <i class="fas fa-pencil-alt fa-fw"></i>
   submenu:
   - subtitle: Comment déroule l'assemblée d'affaires
-    sublink: /etape_suivante/affaires
+    sublink: /étape_suivante/affaires
 - title: Voyager
   hovertitle: La visite des Quakers lorsque vous voyagez
-  link: /etape_suivante/voyage
+  link: /étape_suivante/voyage
   icon: <i class="fas fa-plane"></i>
 - title: Info Assemblée
   hovertitle: Ressources et informations sur l'Assemblée de Montréal
-  link: /etape_suivante/info_assemblée
+  link: /étape_suivante/info_assemblée
   icon: <i class="fas fa-list-alt fa-fw"></i>
 - title: Structure
   hovertitle: Rôles et comités
-  link: /etape_suivante/comités
+  link: /étape_suivante/comités
   icon: <i class="fas fa-screwdriver fa-fw"></i>
 - title: Devenir membre
   hovertitle: Le rôle et processus
-  link: /etape_suivante/devenir_membre
+  link: /étape_suivante/devenir_membre
   icon: <i class="fas fa-hand-holding-medical fa-fw"></i>
 - title: Rassemblements
   hovertitle: Rassemblements plus grands
-  link: /etape_suivante/rassemblements
+  link: /étape_suivante/rassemblements
   icon: <i class="fa-regular fa-circle"></i> 
 - title: Podcasts (anglais)
   hovertitle: Des podcasts en anglais
-  link: /etape_suivante/podcasts-fr
+  link: /étape_suivante/podcasts-fr
   icon: <i class="fas fa-headphones-alt fa-fw"></i>
