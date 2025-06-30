@@ -6,6 +6,4 @@ usage: newsletter
 ---
 ![Image d'infolettre](/assets/images/email-icon.avif){: height="150px" class="img_center"}
 
-[Notre infolettre de décembre](/assets/PDF/Newsletter-infolettre/2024-12 InfoLettre Newsletter Quaker.pdf){: target="_blank"} est maintenant en ligne.
-
-
+[Notre infolettre de décembre](/assets/PDF/Newsletter-infolettre/2024-12 Infolettre Newsletter Quaker.pdf){: target="_blank"} est maintenant en ligne.

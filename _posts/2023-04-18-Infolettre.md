@@ -4,4 +4,4 @@ translationID: 20230418-newsletter
 lang: fr
 usage: newsletter
 ---
-[Notre infolettre d'avril 2023](/assets/PDF/Newsletter April 2023 Final Version.pdf) est maintenant en ligne.
+[Notre infolettre d'avril 2023](/assets/PDF/Newsletter-infolettre/2023-04 Infolettre Newsletter Quaker.pdf) est maintenant en ligne.
