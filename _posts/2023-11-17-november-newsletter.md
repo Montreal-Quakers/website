@@ -6,4 +6,4 @@ usage: newsletter
 ---
 ![Newsletter image](/assets/images/email-icon.png){: height="150px" class="img_center"}
 
-[Our November newsletter](/assets/PDF/2023-11 november quaker newsletter.final.pdf) is now online.
+[Our November newsletter](/assets/PDF/Newsletter-infolettre/2023-11 Infolettre Newsletter Quaker.pdf) is now online.
