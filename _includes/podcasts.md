@@ -6,7 +6,7 @@
   * There is a [podcast version](http://quakerspeak.com/podcast/){: rel="noopener" target="_blank"} but the videos are always more up to date.
 * Check out some Canadian Quaker [audio](https://quaker.ca/resources/audio-and-video/){: rel="noopener" target="_blank"}, usually from yearly meetings.
   * For instance, [Making room for spirit](https://drive.google.com/file/d/10OmZ6gDfSeaIJ8JlyxK-tA6QSY3z-ULL/preview){: rel="noopener" target="_blank"} by the excellent Arthur Larrabee of Philadelphia.
-* [Quaker Take](https://www.quaker.org.uk/our-work/podcast#heading-1){: rel="noopener" target="_blank"} (used to be called Q:Witness) is a podcast from Quakers in Britain featuring people talking about ideas, faith and activism. 
+* [Quaker Take](https://www.quaker.org.uk/action/resources/podcast){: rel="noopener" target="_blank"} (used to be called Q:Witness) is a podcast from Quakers in Britain featuring people talking about ideas, faith and activism. 
   * It's very Britain focused and also very much activism focused. 
 * [On Being](https://onbeing.org/){: rel="noopener" target="_blank"} is an excellent non-Quaker-specific podcast on religion and spirituality that often speaks to and about Quaker faith. Host Krista Tippett talks to Friends such as:
   * [Katy Payne](https://onbeing.org/programs/katy-payne-in-the-presence-of-elephants-and-whales/){: rel="noopener" target="_blank"}
