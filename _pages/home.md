@@ -21,11 +21,11 @@ We are Quakers of all kinds — Christian Quakers, nontheist Quakers, Buddhist Q
 ## [<i class="fas fa-map-marker-alt fa-fw color-1-dark-text"></i> ](/greene-centre){: class="linkoff" aria-label="Greene Centre"}[Where we meet](/greene-centre)
 
 Here are our opportunities to join us: 
-* [Sunday Meeting](/greene-centre) at 11 a.m. on Zoom ([contact us for the link](/contact)) **and** in person [near Lionel-Groulx metro](/greene-centre).
+* [Sunday Meeting](/greene-centre) at 11 a.m. on Zoom ([contact us for the link](/contact)) **and** in person [near Lionel-Groulx metro](/greene-centre#address).
 * [Midweek Meeting](/midweek), Wednesdays at 7 p.m. on Zoom and in person Wednesdays at 4:30pm near McGill. There's also a [monthly Zoom in French](/qc#on-zoom) on Mondays at 7 pm.
 * [Quebec City Worship Group](/quebec), first Sunday of the month at 11 a.m. in person in Québec City and Lévis.
 * [South Shore Worship Group](/south_shore) would like to meet in Saint-Lambert. [Contact us](/contact) for details.
 
-Our meeting joyfully welcomes [children](/children) — please [contact us](/contact) to confirm the details. We have a special event for children the 3rd Sunday of the month. Please feel welcome to just show up at the Greene Centre.
+Our meeting joyfully welcomes [children](/children) — please [contact us](/contact) to confirm the details. We have a special event for children the 3rd Sunday of the month. Please feel welcome to just show up at the [Greene Centre](/greene-centre).
 
 Feel free to sign up for our [newsletter mailing list](https://docs.google.com/forms/d/e/1FAIpQLSfTyu-Pj0Q-75ZWlX7GwQC6KFqEZU3StbWfS0kOEe94RidT0A/viewform){: rel="noopener" target="_blank"}.

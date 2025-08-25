@@ -30,7 +30,7 @@ All are welcome (many non-students attend)!
 If this will be your first time at a Quaker Meeting, you may want to read [this information](/about) about what to expect.
 
 ## To get updates <span class="stanchor"><a name="updates"></a></span>
-For announcements or last minute changes, join the [Midweek Meeting Facebook group](https://www.facebook.com/groups/mtlmidweek){: rel="noopener" target="_blank"}, check the [Facebook page](https://www.facebook.com/MontrealQuakers){: rel="noopener" target="_blank"} (no Facebook account required), or [contact us](/contact) with questions.
+For announcements and last minute changes, [contact us](/contact) to join the Midweek Meeting WhatsApp announcement thread. More sporadic updates on our [Facebook page](https://www.facebook.com/MontrealQuakers){: rel="noopener" target="_blank"} (no Facebook account required).
 
 ## [Accessibility](/accessibility) <span class="stanchor"><a name="accessibility"></a></span>
 MORSL's [accessibility page](https://www.mcgill.ca/morsl/contact#){: rel="noopener" target="_blank"} should answer most questions about the space. Please [let us know](/contact) if you require additional information or accommodations.
@@ -40,5 +40,3 @@ MORSL's [accessibility page](https://www.mcgill.ca/morsl/contact#){: rel="noopen
 * Given the proximity to McGill, this group speaks primarily English
 * Whisper translation into French is available
 * Several members are bilingual and/or francophone
-
-{% include picture.html filename="ClaudeRyanLibrary.jpg" type="webp avif" class="img_center" alt="Ryan Library" %}

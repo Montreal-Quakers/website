@@ -24,10 +24,14 @@ Le stationnement est gratuit pour les étudiants de McGill et [disponible pour l
 Bienvenue à toutes et à tous (plusieurs personnes qui ne sont pas étudiantes assistent)!
 
 Si c’est votre première assemblée quaker, [ce lien](/a_propos) donne une idée de ce à quoi vous attendre.
+
 ## Mises à jour <span class="stanchor"><a name="misesàjour"></a></span>
-Pour plus d'informations, joignez-vous au [groupe Facebook](https://www.facebook.com/groups/mtlmidweek/){: rel="noopener" target="_blank"}, consultez la [page Facebook](https://www.facebook.com/MontrealQuakers/){: rel="noopener" target="_blank"} (pas besoin d’être membre de Facebook, majoritairement en anglais) ou [contactez-nous](/contact-fr) pour toute autre question.
+
+Pour plus d'informations, [contactez-nous](/contact-fr) pour un lien à notre groupe WhatsApp. Nous publions de manière plus sporadique sur notre [page Facebook](https://www.facebook.com/MontrealQuakers/){: rel="noopener" target="_blank"} (pas besoin d’être membre de Facebook). [Contactez-nous](/contact-fr) pour toute autre question.
+
 ## [Accessibilité](/accessibilité) <span class="stanchor"><a name="accessibilité"></a></span>
 Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.
+
 ### Mobilité
 Nous nous rencontrons au troisième étage.
 * Il y a un ascenseur, mais la porte n'est pas automatique. Appellez MORSL pour de l'aide au besoin au [(514) 398-4104](tel:5143984104).
@@ -39,4 +43,3 @@ Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations suppl�
 * Vu sa proximité de McGill, ce groupe parle principalement anglais
 * La traduction chuchotée est disponible
 * Plusieurs membres sont bilingues et francophones
-{% include picture.html filename="ClaudeRyanLibrary.jpg" type="webp avif" class="img_center" alt="Bibliothèque Ryan" %}
