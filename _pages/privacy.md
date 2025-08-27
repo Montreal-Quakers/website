@@ -11,7 +11,7 @@ Montreal Quaker Meeting, the Religious Society of Friends. Our website address i
 If you fill out a contact form, this information may be stored indefinitely on our email server. You may request that it be deleted. We use Formspree for our contact (we don't archive emails there) and Google Workspace for our data.
 
 ### Cookies
-Our site stores one cookie in your browser to track which language you prefer and whether you prefer searches with an exact match; we collect none of this information.
+Our site stores a cookie in your browser to track your preferences with respect to language, exact match searches, and website theme; we collect none of this information.
 
 ### Embedded content from other websites
 Articles on this site may include embedded content (e.g. videos, images, articles, donation form, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.

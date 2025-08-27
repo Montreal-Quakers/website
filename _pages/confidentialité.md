@@ -7,10 +7,10 @@ translationID: privacy
 Nous sommes l'Assemblée quaker de Montréal. L’adresse de notre site Web est la suivante: [https://montreal.quaker.ca](https://montreal.quaker.ca).
 
 ## Formulaires de contact
-Si vous remplissez un formulaire de contact, ces informations pourront être conservées indéfiniment dans notre courriel. Vous pouvez demander sa suppression.
+Si vous remplissez un formulaire de contact, ces informations pourront être conservées indéfiniment dans notre courriel. Vous pouvez demander sa suppression. Nous utilisons Formspree et Google Workspace.
 
 ## Témoins (cookies)
-Les témoins de navigation peuvent enregistrer votre langue préférée et d’autres préférences.
+Les témoins de navigation peuvent enregistrer votre langue préférée, thème du site et vos préférences de recherche. Nous n'avons pas accès à ces informations.
 
 ## Contenu incorporé provenant d’autres sites Web
 Les articles sur ce site peuvent inclure du contenu incorporé (par exemple des vidéos, des images, des articles, etc.). Le contenu incorporé provenant d’autres sites Web se comporte exactement comme si le visiteur avait visité l’autre site Web.
