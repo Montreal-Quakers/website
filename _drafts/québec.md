@@ -39,19 +39,21 @@ Rencontres mensuels le lundi (généralement le 3e lundi du mois) à 19&nbsp;h e
 Le Groupe Quaker de Québec se rencontre chaque premier dimanche du mois **de 11 h 00 à midi**.
 
 ### Où
-{% comment %}Nous alternons nos rencontres entre Lévis (janvier, mars, mai, juillet, septembre et novembre) et Québec (février, avril, juin, août, octobre et décembre).
+Nous alternons nos rencontres entre Lévis (janvier, mars, mai, juillet, septembre et novembre) et Québec (février, avril, juin, août, octobre et décembre).
 
 #### Lévis
 [Café la Mosaïque, 5727, rue Saint-Louis, Lévis, QC](https://goo.gl/maps/HYYEYV92bwR3Wujp6){: target="_blank" rel="noopener"}, salle de réunion. [Café la Mosaïque](http://cafelamosaique.org/){: rel="noopener" target="_blank"} est sur rue Saint-Louis au coin de Dorimène-Desjardins, à quelques mètres seulement de la Côte du Passage.
-#### Vieux-Québec {% endcomment %}
+
+#### Vieux-Québec
 All Saints Chapel située au [31 rue des Jardins dans le vieux Québec](https://maps.app.goo.gl/NNHaVfcmDpb2o5oo6){: rel="noopener" target="_blank"}, ce bâtiment étant situé dans la cour de la cathédrale anglicane Holy Trinity à Vieux-Québec.
 
 ![Chapel door](/assets/images/QC_chapel_door.avif)
 
 ### Stationnement
-{% comment %} #### Lévis
+#### Lévis
 Stationnement gratuit le dimanche sur la rue Saint-Louis, en face du café, et accès aux personnes à mobilité réduite. 
-#### Vieux-Québec {% endcomment %}
+
+#### Vieux-Québec
 Il y a un stationnement gratuit mais cela ne garantit pas qu'il y aura de la place. En général ça va.
 
 ### Précautions pour la santé <span class="stanchor"><a name="consignes"></a></span>
@@ -61,11 +63,12 @@ Si vous croyez être atteint d'une infection contagieuse (grippe, gastro, covid,
 ## [Accessibilité](/accessibilité) <span class="stanchor"><a name="accessibilité"></a></span>
 Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.
 ### Mobilité
-{% comment %}#### Lévis
+#### Lévis
 * Un parking accessible est disponible (le trottoir est au niveau de la rue).
 * Le groupe se réunit au rez-de-chaussée. Il n'y a aucune marche ni dans l'entrée ni pour la salle de bain.
 * Les portes ne sont pas automatiques.
-#### Vieux-Québec {% endcomment %}
+
+#### Vieux-Québec
 * Un parking accessible est disponible.
 * Le groupe se réunit au rez-de-chaussée, mais en montant quatre marches.
   * L’espace n’est donc **pas** accessible aux personnes en fauteuil roulant.
