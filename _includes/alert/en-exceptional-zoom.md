@@ -1,1 +1,1 @@
-Exceptionally, on April 9th, Sunday meeting meets on Zoom only. [Contact us for the link](/contact). Back in person on April 16th.
+Exceptionally, on October 28th and November 2nd, 2025, Sunday meeting meets on Zoom only because of the municipal elections. [Contact us for the link](/contact). Back in person at the Greene Centre on November 12th.
