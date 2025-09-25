@@ -76,12 +76,12 @@ redalert_pages:
   #   redalert_text-en: alert/en-easter-closing.md
   #   redalert_text-fr: alert/fr-easter-closing.md
   ### EXCEPTIONAL
-  - translationID: home
-    redalert_text-en: alert/en-exceptional-zoom.md
-    redalert_text-fr: alert/fr-exceptional-zoom.md
-  - translationID: greene-centre
-    redalert_text-en: alert/en-exceptional-zoom.md
-    redalert_text-fr: alert/fr-exceptional-zoom.md
+  # - translationID: home
+  #   redalert_text-en: alert/en-exceptional-zoom.md
+  #   redalert_text-fr: alert/fr-exceptional-zoom.md
+  # - translationID: greene-centre
+  #   redalert_text-en: alert/en-exceptional-zoom.md
+  #   redalert_text-fr: alert/fr-exceptional-zoom.md
   #   redalert_text-en: alert/en-construction-work-greene.md
   #   redalert_text-fr: alert/fr-construction-work-greene.md
   - translationID: laurentians
