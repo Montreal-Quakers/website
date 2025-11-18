@@ -62,12 +62,12 @@ redalert_pages:
   #   redalert_text-en: alert/bienvenue-welcome-covid.md
   #    For holiday closings
   ### XMAS
-  # - translationID: home
-  #   redalert_text-en: alert/en-xmas-closing.md
-  #   redalert_text-fr: alert/fr-xmas-closing.md
-  # - translationID: greene-centre
-  #   redalert_text-en: alert/en-xmas-closing.md
-  #   redalert_text-fr: alert/fr-xmas-closing.md
+  - translationID: home
+    redalert_text-en: alert/en-xmas-closing.md
+    redalert_text-fr: alert/fr-xmas-closing.md
+  - translationID: greene-centre
+    redalert_text-en: alert/en-xmas-closing.md
+    redalert_text-fr: alert/fr-xmas-closing.md
   ### EASTER
   # - translationID: home
   #   redalert_text-en: alert/en-easter-closing.md
@@ -87,9 +87,9 @@ redalert_pages:
   - translationID: laurentians
     redalert_text-en: alert/en-laurentians_closing.md
     redalert_text-fr: alert/fr-laurentians_closing.md
-  - translationID: book_bible
-    redalert_text-en: alert/en-bookbible-update.md
-    redalert_text-fr: alert/fr-bookbible-update.md
+  #  - translationID: book_bible
+  #    redalert_text-en: alert/en-bookbible-update.md
+  #    redalert_text-fr: alert/fr-bookbible-update.md
   #  - translationID: quebec
   #    redalert_text-en: alert/en-qc-close.md
   #    redalert_text-fr: alert/fr-qc-close.md
