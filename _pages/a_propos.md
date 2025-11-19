@@ -36,4 +36,4 @@ Les quakers prennent un moment de recul face aux distractions de la vie quotidie
 
 Nous vous souhaitons la bienvenue!
 
-![](/assets/images/benches.jpg){:class="img_center"}
+{% include picture.html filename="new_circle_group_crop2.jpeg" type="webp avif" alt="Nouveau photo de groupe" class="img_center100" %}

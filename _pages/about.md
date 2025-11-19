@@ -35,4 +35,4 @@ A Quaker Meeting is based on silence, marking a pause from the distractions of e
 
 <i class="fas fa-book-reader color-1-text"></i> Literature is usually available, and books can often be borrowed from the library about Quaker [values](/intro), [work](/testimonies), and [history](/links_history).
 
-![](/assets/images/benches.jpg){:class="img_center"}
+{% include picture.html filename="new_circle_group_crop2.jpeg" type="webp avif" alt="Newer group photo" class="img_center100" %}

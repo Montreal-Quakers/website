@@ -29,3 +29,5 @@ Voir [le déroulement d'une assemblée quaker](/a_propos) pour plus d'informatio
 Voir [les valeurs quakers](/témoignages) pour apprendre plus sur nos témoignages.
 
 N'hésitez pas à nous [écrire ou appeler](/contact-fr) si vous avez des questions.
+
+![](/assets/images/benches.jpg){:class="img_center"}
