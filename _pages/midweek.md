@@ -38,5 +38,4 @@ MORSL's [accessibility page](https://www.mcgill.ca/morsl/contact#){: rel="noopen
 ### Language
 
 * Given the proximity to McGill, this group speaks primarily English
-* Whisper translation into French is available
-* Several members are bilingual and/or francophone
+* Announcements are given in English and in French

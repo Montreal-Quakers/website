@@ -73,13 +73,5 @@ Worship is on the main floor.
 * We are working toward becoming a scent-reduced meeting.
 * We are conscious of allergens and dietary restrictions at potlucks.
 
-{% comment %}
 ### Language
-* We strive to be a bilingual meeting.
-  * Announcements and instructions, as well as resources, are available in English and in French.
-* We have several francophone members and attenders.
-  * Most of the meeting is actively bilingual.
-  * Nearly everyone is passively bilingual.
-  * A few speak only French.
-  * However, we frequently have visitors from the US or Britain, or participants who have just moved to Montreal.
-{% endcomment %}
+* All announcements are made both in English and in French

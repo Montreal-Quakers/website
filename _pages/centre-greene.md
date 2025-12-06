@@ -57,15 +57,9 @@ Nous nous rencontrons au rez-de-chaussée.
 * La station Lionel-Groulx (et non pas la station Atwater) est accessible aux personnes en fauteuil roulant.
   * Si on part de la station Lionel-Groulx, il y a une petite côte à monter pour aller au Centre Greene.
 
-{% comment %}
 ### Langue
-* Cette assemblée a lieu principalement en anglais.
-  * La traduction est disponible.
-  * Lorsque quelqu'un ne parle qu'une langue, nous pouvons faire une traduction chuchotée.
-  * La plupart des gens sont bilingues.
-* Nous avons plusieurs membres francophones.
-  * Quelques membres ne parlent que français ou anglais.
-{% endcomment %}
+* Toutes nos annonces se font en anglais et en français
+
 ### Audition
 * Notre assemblée a une participante fréquente qui est un interprète en langue des signes ASL.
 * Nous disposons d’un système auditif auxiliaire.

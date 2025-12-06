@@ -41,5 +41,4 @@ Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations suppl�
 
 ### Langue
 * Vu sa proximité de McGill, ce groupe parle principalement anglais
-* La traduction chuchotée est disponible
-* Plusieurs membres sont bilingues et francophones
+* Les annonces se font en français et en anglais
