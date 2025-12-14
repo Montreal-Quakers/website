@@ -64,7 +64,8 @@ html,body{overflow-x: hidden}
 
   span, span::before, span::after {
     display: block;
-    background-color: var(--card-hover);
+    // background-color: var(--card-hover);
+    background-color: var(--wideheader-text);
     width: 30px;
     height: 2px;
     border-radius: 2px;
