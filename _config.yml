@@ -62,12 +62,12 @@ redalert_pages:
   #   redalert_text-en: alert/bienvenue-welcome-covid.md
   #    For holiday closings
   ### XMAS
-  - translationID: home
-    redalert_text-en: alert/en-xmas-closing.md
-    redalert_text-fr: alert/fr-xmas-closing.md
-  - translationID: greene-centre
-    redalert_text-en: alert/en-xmas-closing.md
-    redalert_text-fr: alert/fr-xmas-closing.md
+  # - translationID: home
+  #   redalert_text-en: alert/en-xmas-closing.md
+  #   redalert_text-fr: alert/fr-xmas-closing.md
+  # - translationID: greene-centre
+  #   redalert_text-en: alert/en-xmas-closing.md
+  #   redalert_text-fr: alert/fr-xmas-closing.md
   ### EASTER
   # - translationID: home
   #   redalert_text-en: alert/en-easter-closing.md
