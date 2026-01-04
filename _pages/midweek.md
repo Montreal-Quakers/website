@@ -13,9 +13,20 @@ Bible study precedes midweek meeting at 6:15 p.m. the same link on Wednesdays.
 {% endcomment %}
 ## In person
 ### When
-Wednesdays at 4:30 p.m, starting September 5th, 2024. 
+Every other Wednesday at 4:30 p.m, starting January 14, 2026, so:
 
-* We follow the academic calendar (**Sept-Nov, Jan-March**). Outside these months, [check for updates](#updates) as there may be significant changes from April through August and also in December through early January.
+* January 14
+* January 28
+* February 11
+* February 25
+* March 11
+* March 25
+* April 8
+* April 22 will be a last minute decision (see the [updates section](#updates))
+
+In general:
+* We follow the academic calendar (**Sept-Nov, Jan-March**). 
+  * Outside these months, [check for updates](#updates) as there may be significant changes from April through early September and also in December through early January.
 
 ### Where
 {% comment %}If it's nice out, we'll meet outside in front of the Education building (see the [Google map](https://maps.app.goo.gl/neNkWMb1wUbfcgBz9){: rel="noopener" target="_blank"}).
@@ -37,5 +48,5 @@ MORSL's [accessibility page](https://www.mcgill.ca/morsl/contact#){: rel="noopen
 
 ### Language
 
-* Given the proximity to McGill, this group speaks primarily English
+* Given the proximity to McGill, this group speaks primarily English however francophones and francophiles do attend
 * Announcements are given in English and in French

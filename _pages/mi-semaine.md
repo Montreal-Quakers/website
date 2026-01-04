@@ -10,8 +10,20 @@ Le **mercredi** à 19 h sur Zoom. [Contactez-nous pour le lien](/contact-fr).
 
 ## En personne
 ### Quand
-Le mercredi à 16&nbsp;h&nbsp;30 à partir du 5 septembre, 2024. 
-* Pendant l’année universitaire (**de septembre à novembre, janvier à mars**). Entre avril et août et entre décembre et début janvier, suivez nos [mises à jour](#misesàjour), car il se peut qu’il y ait beaucoup de changements.
+Tous les deux mercredis à 16&nbsp;h&nbsp;30 à partir du 14 janvier, 2026, soit le:
+
+* 14 janvier
+* 28 janvier
+* 11 février
+* 25 février
+* 11 mars
+* 25 mars
+* 8 avril 
+* 22 avril sera une décision plutôt dernière minute (voir la [section mises à jour](#misesàjour)).
+
+En général:
+* On suit l’année universitaire (**de septembre à novembre, janvier à mars**).
+  * Entre avril et début septembre et entre décembre et début janvier, suivez nos [mises à jour](#misesàjour), car il peut y avoir des changements.
 
 ### Où
 {% comment %}S'il fait beau on va être dehors en face de l'édifice de l'Éducation (voir le [Google Map](https://maps.app.goo.gl/neNkWMb1wUbfcgBz9){: rel="noopener" target="_blank"}).
@@ -23,7 +35,7 @@ Le stationnement est gratuit pour les étudiants de McGill et [disponible pour l
 
 Bienvenue à toutes et à tous (plusieurs personnes qui ne sont pas étudiantes assistent)!
 
-Si c’est votre première assemblée quaker, [ce lien](/a_propos) donne une idée de ce à quoi vous attendre.
+Si c’est votre première assemblée quaker, [ce lien](/à_propos) donne une idée de ce à quoi vous attendre.
 
 ## Mises à jour <span class="stanchor"><a name="misesàjour"></a></span>
 
@@ -40,5 +52,5 @@ Nous nous rencontrons au troisième étage.
 Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodements pour l'accessibilité.
 
 ### Langue
-* Vu sa proximité de McGill, ce groupe parle principalement anglais
+* Vu sa proximité de McGill, ce groupe parle principalement anglais. Mais des francophones et francophiles assistent à notre groupe.
 * Les annonces se font en français et en anglais
