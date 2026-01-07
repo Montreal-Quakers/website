@@ -1,1 +1,1 @@
-The Laurentian worship group will not be meeting this winter, 2021-2022.
+ARCHIVE: The Laurentian worship group no longer exists.

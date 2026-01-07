@@ -24,9 +24,6 @@ en:
       sublink: /qc
     - subtitle: South Shore
       sublink: /south_shore
-    #- subtitle: Laurentians
-    #  subhovertitle: Laurentian Worship Group
-    #  sublink: /laurentians
 - title: Updates
   hovertitle: The Latest Events & News
   link: /publications/en/

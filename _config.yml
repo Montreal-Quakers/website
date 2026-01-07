@@ -33,8 +33,6 @@ media_pages:
   - translationID: greene-centre
     media: maps/street_greene-centre.html
     # media: maps/new_directions.html
-  - translationID: laurentians
-    media: maps/street_atelier.html
   - translationID: midweek
     media: maps/street_morsl.html
   - translationID: quebec
