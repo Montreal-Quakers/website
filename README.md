@@ -223,23 +223,6 @@ media_pages:
 ```
 This means that on the homepage ([/home](https://montreal.quaker.ca/home)), yt_embed.html will appear full-width next to it. 
 
-Note too that there is an image carousel in the sandbox page. That can be inserted in any page the same way as the YouTube videos. For instance, if we want it on the ```about``` page, just add these lines to [```config.yml```](https://github.com/Montreal-Quakers/website/blob/master/_config.yml) under ```media_pages:```:
-```
-  - translationID: about
-   media: slideshow.html
-```
-
-The images and descriptions for the image carousel are in ```_data/slideshow.yml``` and it should be fairly straightforward to change the images and descriptions through that document. For instance the first lines are:
-
-```
-slideshow1:
-- title: "Our historic meetinghouse on de Maisonneuve"
-  titre-fr: "Notre chez nous sur la rue Maisonneuve pendant les années 1970"
-  file: 1974 MaisW (1).JPG
-```
-
-```title``` and ```titre-fr``` means the image description that appears below the image in the slideshow. ```file``` refers to which image in [```assets/images```](https://github.com/Montreal-Quakers/website/tree/master/assets/images) that should appear in the slideshow.
-
 ## Inserting images
 
 As mentioned in the markdown, images can be inserted via ```![](/link/to/image.jpg)```. That said, by default, images will appear on the left, and generally you will want to size and center them. The very, very advanced way to do this is to write your own CSS in ```/assets/css/style.css```, but I might as well mention the shortcuts I generated in making this site, namely a few classes you can add to the image. I'll show you an example.

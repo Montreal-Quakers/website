@@ -24,7 +24,7 @@ So sad, Woodbrooke seems to have deleted this course -- post this again if they 
 
 ## Groupes quakers francophones non-programmés en dehors du Québec
 * [Quakers en France](https://www.quakersenfrance.org/), par exemple, [la Centre Quaker de Congénies](https://www.maison-quaker-congenies.org/){: rel="noopener" target="_blank"} ou [à Paris](https://www.facebook.com/CentreQuakerParis/){: rel="noopener" target="_blank"}
-* [Quakers en suisse](https://swiss-quakers.ch/fr/accueil/){: rel="noopener" target="_blank"}
+* [Quakers en suisse](https://swiss-quakers.ch/){: rel="noopener" target="_blank"}
 * Voir notre page « [Voyager de façon quaker](/étape_suivante/voyage){: rel="noopener" target="_blank"} » pour plus d'informations.
 
 ## Pour promouvoir nos valeurs

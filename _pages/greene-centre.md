@@ -33,7 +33,7 @@ If this will be your first time at a Quaker Meeting, you may want to read [this 
 For visitors:
 * If you're experiencing symptoms (flu, COVID, upset stomach, etc.), please visit us at a later time.
 
-Our precautions that are always in effect: 
+{% comment %}Our precautions that are always in effect: 
 
 * The two air purifiers in the sunroom will remain on at medium before, during and after worship. An attempt will be made to keep their fans functioning at a low noise level and yet at an effective speed.
 * Chairs will remain well spaced.
@@ -48,6 +48,7 @@ Moreover, we encourage those still concerned about their safety, even with the a
 Finally, note that we provide two online Zoom meetings weekly. The Sunday Zoom is connected to the in-presence meeting at the Greene Centre. People attend these meetings for various reasons, including a desire to minimize contact with others and prevent illness.
 
 Anyone with comments or concerns about our policy is encouraged to [contact us](/contact).
+{% endcomment %}
 
 ## [Accessibility](/accessibility) <span class="stanchor"><a name="accessibility"></a></span>
 
@@ -56,12 +57,12 @@ Please [let us know](/contact) if you require additional information or accommod
 ### Mobility
 Worship is on the main floor.
 * Wheelchair access via a ramp in the front of the building
-* Wheelchair accessible washrooms
+* Wheelchair accessible washrooms (as well as one that is gender neutral)
 * Wheelchair accessible parking in the rear of the building as well as a dedicated space out front (with sticker)
 * Other levels may not be accessible
-* Doors are not automatic
+* The front door can be opened with a button
+  * An attendant is nearly always available to help.
   * There is a bell at the rear door of the building.
-  * In the front, an attendant is nearly always available to help.
 
 ### Hearing
 * Our meeting has an auxiliary hearing aid system that we set up upon [request](/contact).
@@ -71,7 +72,6 @@ Worship is on the main floor.
 ### Scents and allergies
 * The Greene Centre is a nut-free environment.
 * We are working toward becoming a scent-reduced meeting.
-* We are conscious of allergens and dietary restrictions at potlucks.
 
 ### Language
 * All announcements are made both in English and in French

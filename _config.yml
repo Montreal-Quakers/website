@@ -40,8 +40,6 @@ media_pages:
   - translationID: calendar
     media: calendar.html
     media2: calendar2.html
-  - translationID: sandbox
-    media: slideshow.html
   - translationID: south_shore
     media: maps/street_barnabas.html
 

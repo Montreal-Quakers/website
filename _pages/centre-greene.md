@@ -35,12 +35,13 @@ Si c’est votre première assemblée quaker, [ce lien](/a_propos) donne une id�
 Consignes pour nos visiteurs:
 * Si vous expérimentez des symptômes (flu, gastro, COVID-19), il est plus prudent de différer votre venue.
 
-Nos mesures:
+{% comment %}Nos mesures:
 * Avec le Centre Greene nous pouvons assurer la bonne ventilation par des fenêtres ouvertes et deux purificateurs d'air. 
 * Si quelqu'un a des soucis en lien avec la santé, nous allons demander à tout le monde de porter un masque à la fin de l'assemblée.
   * Cela dit, pour aider les personnes avec des difficultés auditives, on demande aux personnes qui parlent d'enlever leur masque.
   * Nous avons des masques à offrir.
 * Si vous avez des commentaires ou questions sur notre politique nous vous encourageons à [nous contacter](/contact-fr).
+{% endcomment %}
 
 ## [Accessibilité](/accessibilité) <span class="stanchor"><a name="accessibilité"></a></span>
 Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.
@@ -48,12 +49,12 @@ Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations suppl�
 Nous nous rencontrons au rez-de-chaussée.
 
 * Accès en fauteuil roulant par une rampe à l'avant du Centre Greene.
-* Toilettes accessibles aux fauteuils roulants.
+* Toilettes accessibles aux fauteuils roulants (dont une qui est non genrée).
 * Stationnement accessible aux fauteuils roulants à l'arrière du bâtiment, ainsi qu'un stationnement accessible en avant (avec étiquette).
 * D'autres niveaux peuvent ne pas être accessibles.
-* Les portes ne sont pas automatiques.
+* La porte à l'avant du Centre Greene s'ouvre à l'aide d'un bouton.
+  * Un préposé est presque toujours disponible pour aider.
   * Il y a une cloche à la porte arrière du bâtiment.
-  * À l'avant, un préposé est presque toujours disponible pour aider.
 * La station Lionel-Groulx (et non pas la station Atwater) est accessible aux personnes en fauteuil roulant.
   * Si on part de la station Lionel-Groulx, il y a une petite côte à monter pour aller au Centre Greene.
 
@@ -66,6 +67,5 @@ Nous nous rencontrons au rez-de-chaussée.
   * Veuillez [nous contactez](/contact-fr) pour plus d'informations.
 
 ### Parfums et allergies
-* Le Greene Center est un environnement sans noix.
+* Le Centre Greene est un environnement sans noix.
 * Nous travaillons à devenir une réunion à parfum réduit.
-* Nous sommes conscients des allergènes et des restrictions alimentaires lors des repas-partage.

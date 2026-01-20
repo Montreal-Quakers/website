@@ -4,7 +4,7 @@
 * Also recommended, [QuakerSpeak](https://quakerspeak.com/recent/){: rel="noopener" target="_blank"} speaks to Quakers about their Faith. 
   * QuakerSpeak is a Quaker YouTube channel where Jon interviews Friends of all different backgrounds and ask them the core questions of our faith. 
   * There is a [podcast version](http://quakerspeak.com/podcast/){: rel="noopener" target="_blank"} but the videos are always more up to date.
-* Check out some Canadian Quaker [audio](https://quaker.ca/resources/audio-and-video/){: rel="noopener" target="_blank"}, usually from yearly meetings.
+* Check out some Canadian Quaker [audio](https://quaker.ca/resource-library/){: rel="noopener" target="_blank"}, usually from yearly meetings.
   * For instance, [Making room for spirit](https://drive.google.com/file/d/10OmZ6gDfSeaIJ8JlyxK-tA6QSY3z-ULL/preview){: rel="noopener" target="_blank"} by the excellent Arthur Larrabee of Philadelphia.
 * [Quaker Take](https://www.quaker.org.uk/action/resources/podcast){: rel="noopener" target="_blank"} (used to be called Q:Witness) is a podcast from Quakers in Britain featuring people talking about ideas, faith and activism. 
   * It's very Britain focused and also very much activism focused. 
