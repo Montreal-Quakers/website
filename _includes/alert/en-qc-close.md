@@ -1,1 +1,1 @@
-The Quebec City worship group will not be meeting at the Anglican Church on April 5th, 2026 due to Easter. Please [contact us](/contact) for updates as we make alternate arrangements.
+Due to Easter, the Quebec City worship group will meet at the Anglican Church on Sunday, April 12th, rather than April 5th, 2026, at the usual time (11 am). Please [contact us](/contact) with any questions.
