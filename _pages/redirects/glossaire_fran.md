@@ -1,5 +1,5 @@
 ---
-redirect:  https://glossary.summerhays.net/fr/glossaire/fr-ang
+redirect:  https://glossaire.summerhays.net/
 layout:    redirect
 permalink: /étape_suivante/glossaire_fran
 ---

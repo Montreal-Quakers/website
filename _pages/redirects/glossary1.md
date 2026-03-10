@@ -1,5 +1,5 @@
 ---
 redirect:  https://glossary.summerhays.net/
 layout:    redirect
-permalink: /next_steps/glossary
+permalink: /new_attender/glossary
 ---
