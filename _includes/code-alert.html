@@ -2,122 +2,124 @@
 
 <div class="container-alert">
 
-   {% comment %}If redalerts are set in _config.yml{% endcomment %}
+  {% comment %}If redalerts are set in _config.yml{% endcomment %}
 
-{% if site.redalerts == "all" %}
-  <div class="stickystart redalert">
-    <div></div>
-      <div class="alert">
-        {% if fr %}
-          {% capture alerte %}
-            <i class="fas fa-exclamation-circle fa-fw fa-lg"></i> &nbsp;
-              {% include {{ site.redalert_all_text-fr }} %}
-          {% endcapture %}
-
+  {% if site.redalerts == "all" %}
+    <div class="stickystart redalert">
+      <div></div>
+        <div class="alert">
+          {% if fr %}
+            {% capture alerte %}
+              <i class="fas fa-exclamation-circle fa-fw fa-lg"></i> &nbsp;
+                {% include {{ site.redalert_all_text-fr }} %}
+            {% endcapture %}
+  
           {{ alerte | markdownify }}
-
-        {% else %} {% comment %} If the page is in English or the lang is undefined {% endcomment %}
-
-        {% capture alert %}<i class="fas fa-exclamation-circle fa-fw fa-lg"></i> &nbsp;{% include {{ site.redalert_all_text-en }} %}{% endcapture %}
-
-        {{ alert | markdownify }}
-
-        {% endif %}
-      </div>
+  
+          {% else %} {% comment %} If the page is in English or the lang is undefined {% endcomment %}
+  
+            {% capture alert %}<i class="fas fa-exclamation-circle fa-fw fa-lg"></i> &nbsp;{% include {{ site.redalert_all_text-en }} %}{% endcapture %}
+  
+          {{ alert | markdownify }}
+  
+          {% endif %}
+        </div>
       {% include alert/closebtn.html %}
-  </div>
+    </div>
   {% endif %}
-
-{% if site.redalerts == "some" %}
-   {% for each in site.redalert_pages %}
-     {% if page.translationID == each.translationID %}
+  
+  {% if site.redalerts == "some" %}
+    {% for each in site.redalert_pages %}
+      {% if page.translationID == each.translationID %}
         <div class="stickystart redalert">
-         <div></div>
-           <div class="alert">
-             {% if fr %}
-	       
-	     {% comment %} The <i> tags aren't spaced like the rest of the text, because if spaces are put before it, Jekyll interprets this as a code block and puts <pre> tags {% endcomment %}
-             {% capture alerte %}
-
+          <div></div>
+          <div class="alert">
+            {% if fr %}
+  	      
+                {% comment %} The <i> tags aren't spaced like the rest of the text, because if spaces are put before it, 
+                Jekyll interprets this as a code block and puts <pre> tags 
+                {% endcomment %}
+              {% capture alerte %}
+  
 <i class="fas fa-exclamation-circle fa-fw fa-lg"></i> &nbsp;
-                {% include {{ each.redalert_text-fr }} %}
-
-             {% endcapture %}
-
-             {{ alerte | strip_newlines | markdownify }}
-
-	     {% elsif page.translationID == each.translationID %}
-	       {% capture alert %}
-<i class="fas fa-exclamation-circle fa-fw fa-lg"></i> &nbsp;
-                 {% include {{ each.redalert_text-en }} %}{% endcapture %}
-
-	       {{ alert | markdownify }}
-
-	     {% endif %}
-	   </div>
-
-	   {% include alert/closebtn.html %}
-
-	 </div>
-	 {% endif %}
-   {% endfor %}
-   {% endif %}
-
-       {% comment %}Blue alerts now{% endcomment %}
-
-   {% if site.bluealerts == "all" %}
-
-     <div class="stickystart bluealert">
-	<div></div>
-	  <div class="alert">
-  	    {% if fr %}
-	      {% capture alerte %}<i class="fas fa-info-circle fa-fw fa-lg"></i> &nbsp;
-                {% include {{ site.bluealert_all_text-fr }} %}
-	      {% endcapture %}
-
-	    {{ alerte | markdownify }}
-
-            {% else %}
-		{% capture alert %}<i class="fas fa-info-circle fa-fw fa-lg"></i> &nbsp;
-                  {% include {{ site.bluealert_all_text-en }} %}
+                 {% include {{ each.redalert_text-fr }} %}
+  
                 {% endcapture %}
-
-	    {{ alert | markdownify }}
-
-            {% endif %}
-	</div>
-
-        {% include alert/closebtn.html %}
-      </div>
+  
+              {{ alerte | strip_newlines | markdownify }}
+  
+              {% elsif page.translationID == each.translationID %}
+                {% capture alert %}
+<i class="fas fa-exclamation-circle fa-fw fa-lg"></i> &nbsp;
+                   {% include {{ each.redalert_text-en }} %}{% endcapture %}
+  
+                {{ alert | markdownify }}
+  
+              {% endif %}
+          </div>
+  
+          {% include alert/closebtn.html %}
+  
+        </div>
       {% endif %}
-
-   {% if site.bluealerts == "some" %}
-
-     {% for each in site.bluealert_pages %}
-
-       {% if page.translationID == each.translationID %}
-         <div class="stickystart bluealert">
-           <div></div>
-             <div class="alert">
-               {% if fr %}
-                 {% capture alerte %}<i class="fas fa-info-circle fa-fw fa-lg"></i> &nbsp;
-                   {% include {{ each.bluealert_text-fr }} %}
-                 {% endcapture %}
-
-                 {{ alerte | markdownify }}
-
-          	{% else %}
-
-          	{% capture alert %}<i class="fas fa-info-circle fa-fw fa-lg"></i> &nbsp;
-                    {% include {{ each.bluealert_text-en }} %}
-                  {% endcapture %}
-
-                  {{ alert | markdownify }}
-                {% endif %}
-              </div>
-           {% include alert/closebtn.html %}
-           </div>
-       {% endif %}
-     {% endfor %}
-   {% endif %}
+    {% endfor %}
+  {% endif %}
+  
+         {% comment %}Blue alerts now{% endcomment %}
+  
+  {% if site.bluealerts == "all" %}
+  
+    <div class="stickystart bluealert">
+      <div></div>
+      <div class="alert">
+    	  {% if fr %}
+          {% capture alerte %}<i class="fas fa-info-circle fa-fw fa-lg"></i> &nbsp;
+            {% include {{ site.bluealert_all_text-fr }} %}
+          {% endcapture %}
+  
+  	      {{ alerte | markdownify }}
+  
+          {% else %}
+  		      {% capture alert %}<i class="fas fa-info-circle fa-fw fa-lg"></i> &nbsp;
+              {% include {{ site.bluealert_all_text-en }} %}
+            {% endcapture %}
+  
+          {{ alert | markdownify }}
+  
+          {% endif %}
+      </div>
+  
+      {% include alert/closebtn.html %}
+    </div>
+  {% endif %}
+  
+  {% if site.bluealerts == "some" %}
+  
+    {% for each in site.bluealert_pages %}
+  
+      {% if page.translationID == each.translationID %}
+        <div class="stickystart bluealert">
+          <div></div>
+          <div class="alert">
+            {% if fr %}
+              {% capture alerte %}<i class="fas fa-info-circle fa-fw fa-lg"></i> &nbsp;
+                {% include {{ each.bluealert_text-fr }} %}
+              {% endcapture %}
+  
+              {{ alerte | markdownify }}
+  
+         	  {% else %}
+  
+         	    {% capture alert %}<i class="fas fa-info-circle fa-fw fa-lg"></i> &nbsp;
+                {% include {{ each.bluealert_text-en }} %}
+              {% endcapture %}
+  
+              {{ alert | markdownify }}
+            {% endif %}
+          </div>
+          {% include alert/closebtn.html %}
+        </div>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
 </div>
