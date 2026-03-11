@@ -5,7 +5,7 @@ translationID: book_bible
 og-title: Book club & Bible study
 ---
 ## Practical details
-* For fall 2025, this groups meets on **Fridays from 7-8 pm** on Zoom.
+* As of winter 2026, this group continues to meet on **Fridays from 7-8 pm** on Zoom.
 * **No need to read in advance**, the text is read aloud, followed by discussion.
 * All are welcome, whether you are an avid Bible reader or have never opened it!
 

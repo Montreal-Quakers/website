@@ -5,7 +5,7 @@ translationID: book_bible
 og-title: Club de lecture & d'étude biblique
 ---
 ## Détails pratiques
-* L'automne 2025, ce groupe se réunit le **vendredi de 19 h à 20 h**.
+* À partir de l'hiver 2026, ce groupe se réunit le **vendredi de 19 h à 20 h**.
 * **Il n'est pas nécessaire de lire en avance**, car on lit à haute voix et puis on discute.
 * Tout le monde est le bienvenu, que vous lisez souvent la Bible ou que vous ne l'ayez jamais ouverte !
 
