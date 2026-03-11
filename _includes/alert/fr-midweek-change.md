@@ -1,1 +1,1 @@
-Le groupe de mi-semaine est annulé aujourd'hui (le 11 mars, 2026) en raison de la fermeture de MORSL, bien que le Zoom à 7h aura toujours lieu. De retour le 25 mars. N'hésitez pas à [nous contacter](/contact-fr) avec toute question.
+Le groupe de mi-semaine en présentiel est annulé aujourd'hui (le 11 mars, 2026) en raison de la fermeture de MORSL, bien que le Zoom à 7h aura toujours lieu. On sera de retour le 25 mars. N'hésitez pas à [nous contacter](/contact-fr) avec toute question.
