@@ -36,7 +36,7 @@ Rencontres mensuels le lundi (généralement le 3e lundi du mois) à 19&nbsp;h e
 
 ## En personne
 ### Quand
-Le Groupe Quaker de Québec se rencontre chaque premier dimanche du mois **de 11 h 00 à midi**.
+Le Groupe Quaker de Québec se rencontre chaque premier dimanche du mois **de 11&nbsp;h&nbsp;00 à midi**.
 
 ### Où
 Nous alternons nos rencontres entre Lévis (janvier, mars, mai, juillet, septembre et novembre) et Québec (février, avril, juin, août, octobre et décembre).

@@ -6,7 +6,7 @@ translationID: midweek
 {% include picture.html filename="Ryan-library_books.jpg" type="webp avif" class="img_center100" alt="Livres" %}
 
 ## Sur Zoom
-Le **mercredi** à 19 h sur Zoom. [Contactez-nous pour le lien](/contact-fr).
+Le **mercredi** à 19&nbsp;h sur Zoom. [Contactez-nous pour le lien](/contact-fr).
 
 ## En personne
 ### Quand
