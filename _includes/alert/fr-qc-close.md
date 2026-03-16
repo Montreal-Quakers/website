@@ -1,1 +1,1 @@
-En raison de Pâques, le groupe du Québec se verra à l'église anglicane le 12 avril, plutôt que le 5 avril, 2026, à l'heure habituelle (11&nbsp;h). Si vous avez des questions, [veuillez nous contacter](/contact-fr).
+En raison de Pâques, le groupe de Québec se réunira à l'église anglicane le 12 avril à 11&nbsp;h, plutôt que le 5 avril 2026. Si vous avez des questions, [veuillez nous contacter](/contact-fr).

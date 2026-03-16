@@ -1,0 +1,1 @@
+Le Centre Greene sera fermé le 5 avril 2026 en raison de Pâques. Notre réunion se tiendra sur Zoom. [Contactez-nous](/contact-fr) pour recevoir le lien. Nous serons de retour au Centre Greene le 12 avril 2026.
