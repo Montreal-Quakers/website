@@ -1,9 +1,9 @@
 title: Montreal Quaker Meeting
 title-fr: Assemblée Quaker de Montréal
-keywords: quaker, montreal, quebec, friends, religious, society, religion, meditation 
+keywords: quaker, montreal, quebec, friends, religious, society, religion, meditation
 short_title: Montreal Quakers
 short_title-fr: Quakers de Montréal
-email: 
+email:
 address: 1090 Greene Ave., Westmount
 adresse: 1090 ave. Greene, Westmount
 phone: (514) 307-0820
@@ -17,13 +17,10 @@ fb_link: https://www.facebook.com/MontrealQuakers/
 breakpoint: 1062px
 mediabreak: 800px
 
-exclude: [node_modules]
-
 webrick:
   headers:
     Cache-Control: max-age=31536000
     Content-Security-Policy-Report-Only: default-src 'self' montreal.quaker.ca *.montreal.quaker.ca https://www.youtube.com https://www.google.com https://maps.googleapis.com https://www.canadahelps.org; worker-src https://google.com
-
 
 # Certain types of media can be assigned to specific pages using this list. Everything in "media" is in the _include folder.
 
@@ -43,10 +40,10 @@ media_pages:
   - translationID: south_shore
     media: maps/street_barnabas.html
 
-    # Turn alerts on and off using this variable below. 
+    # Turn alerts on and off using this variable below.
     # If you want alerts on all pages on the website, set 'alerts: all'.
-    # If you want alerts on only certain pages, (the ones listed under "alert_pages"), set "alerts: some" 
-      # Then put "- translationID:" for each page an alert should appear under
+    # If you want alerts on only certain pages, (the ones listed under "alert_pages"), set "alerts: some"
+    # Then put "- translationID:" for each page an alert should appear under
     # Anything else, like '"alerton = "off"' and alerts will be off.
     # Change alert colour in the _sass/_colors.scss, $alert-color
 
@@ -101,8 +98,8 @@ bluealert_pages:
   #   bluealert_text-en: alert/en-construction-work-greene.md
   #   bluealert_text-fr: alert/fr-construction-work-greene.md
   - translationID: home
-    bluealert_text-en: alert/en-easter-closing-greene.md
-    bluealert_text-fr: alert/fr-easter-closing-greene.md
+    bluealert_text-en: alert/en-easter-closing-greene-and-qc.md
+    bluealert_text-fr: alert/fr-easter-closing-greene-and-qc.md
   - translationID: greene-centre
     bluealert_text-en: alert/en-easter-closing-greene.md
     bluealert_text-fr: alert/fr-easter-closing-greene.md
@@ -119,8 +116,8 @@ bluealert_pages:
   #    bluealert_text-en: alert/en-covid.md
   #    bluealert_text-fr: alert/fr-covid.md
 
-    #This section allows you to easily control which pages will have which bird and text animation
-bird_left: 
+  #This section allows you to easily control which pages will have which bird and text animation
+bird_left:
   - animation: land_left_flip
     translationID: midweek
   - animation: land_left_flip
@@ -152,7 +149,7 @@ bird_right:
   - animation: swing-in1
     translationID: home
 
-mobile_bird: 
+mobile_bird:
   - animation: roll_bird1
     translationID: links_history
   - animation: land_right
@@ -183,8 +180,20 @@ mobile_header_animation:
     translationID: contribution
 
 markdown: kramdown
-include: ['_pages']
-exclude: ["backup","notes","Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"] 
+include: ["_pages"]
+exclude:
+  [
+    "backup",
+    "notes",
+    "Gemfile",
+    "Gemfile.lock",
+    "node_modules",
+    "vendor/bundle/",
+    "vendor/cache/",
+    "vendor/gems/",
+    "vendor/ruby/",
+  ]
+
 sass:
   sass_dir: ./_sass
   style: compressed
@@ -192,7 +201,7 @@ tipue_search:
   include:
     pages: true
   exclude:
-    files: [search.html,search-fr.html]
+    files: [search.html, search-fr.html]
 defaults:
   - scope:
       path: "assets/images"
