@@ -98,11 +98,13 @@ bluealert_pages:
   #   bluealert_text-en: alert/en-construction-work-greene.md
   #   bluealert_text-fr: alert/fr-construction-work-greene.md
   - translationID: home
-    bluealert_text-en: alert/en-easter-closing-greene-and-qc.md
-    bluealert_text-fr: alert/fr-easter-closing-greene-and-qc.md
-  - translationID: greene-centre
-    bluealert_text-en: alert/en-easter-closing-greene.md
-    bluealert_text-fr: alert/fr-easter-closing-greene.md
+    bluealert_text-en: alert/en-qc-close.md
+    bluealert_text-fr: alert/fr-qc-close.md
+  #   bluealert_text-en: alert/en-easter-closing-greene-and-qc.md
+  #   bluealert_text-fr: alert/fr-easter-closing-greene-and-qc.md
+  # - translationID: greene-centre
+  #   bluealert_text-en: alert/en-easter-closing-greene.md
+  #   bluealert_text-fr: alert/fr-easter-closing-greene.md
   #  - translationID: greene-centre
   #    bluealert_text-en: alert/en-xmas-closing-greene.md
   #    bluealert_text-fr: alert/fr-xmas-closing-greene.md
