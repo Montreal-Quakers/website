@@ -1,5 +1,5 @@
 ---
-title: "Friends in the Eastern Townships"
+title: "Part 2: Friends in the Eastern Townships"
 author: "S. A. Zielinski"
 lang: en
 ---
@@ -58,5 +58,28 @@ There is no moral to this story, but there is a sequel. If one visits the site o
 
 The Farnham Meeting goes on.
 
-Continue to article 3: [What a Meetinghouse Means to Us](/what-a-meetinghouse-means)  \
-Or go back to article 1: [History of Montreal Monthly Meeting](/MMM_history-Lloyd-Williams)
+<p class=center>
+  <a
+    href="/MMM_history-Lloyd-Williams"
+    class="w3-button color-1-dark linkoff"
+    title="A History of Montreal Monthly Meeting"
+  >
+    <i class="fas fa-angle-left"></i>&nbsp;
+
+    Part 1
+
+  </a>
+
+  <span>&nbsp; | &nbsp;</span>
+
+  <a
+  href="/what-a-meetinghouse-means"
+  class="w3-button color-1-dark linkoff"
+  title="What a Meetinghouse Means to Us"
+  >
+
+  Part 3
+
+  &nbsp; <i class="fas fa-angle-right"></i>
+  </a>
+</p>

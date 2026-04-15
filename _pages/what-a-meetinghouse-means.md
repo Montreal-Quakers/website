@@ -1,5 +1,5 @@
 ---
-title: "What a Quaker Meeting House Means to Us"
+title: "Part 3: What a Quaker Meeting House Means to Us"
 author: "André Rossinger"
 lang: en
 ---
@@ -52,4 +52,15 @@ We believe that religion well understood is a dynamic lever of inner growth, tra
 
 We are worthy of the name Quaker only if we are seekers, for only seekers become also never-ending finders. Having and developing this, or other related visions, and working for their implementation in our Quaker Centre means not only planting seeds by us gardeners, but also growing. In reality, everyone of us is simultaneously seed and gardener. Every Quaker Meeting House, Centre, or Home is potentially a pilot project for the City of God.
 
-Go back to article 2: [Friends in the Eastern Townships](/friends-in-the-Eastern-Townships)
+<p class=center>
+  <a
+    href="/friends-in-the-Eastern-Townships"
+    class="w3-button color-1-dark linkoff"
+    title="A History of Montreal Monthly Meeting"
+  >
+    <i class="fas fa-angle-left"></i>&nbsp;
+
+    Part 2: Friends in the Eastern Townships
+
+  </a>
+</p>

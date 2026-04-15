@@ -1,5 +1,5 @@
 ---
-title: "History of Montreal Meeting, 1929-1964"
+title: "Part 1: History of Montreal Meeting, 1929-1964"
 author: "W. Lloyd G. Williams"
 lang: en
 ---
@@ -87,4 +87,15 @@ Some of those who have left us but whom we remember with affection are:
 
 We have not only survived, but have laid a foundation which will, we hope, ensure the survival of our Meeting into the indefinite future. Our history is really in the future, rather than in the past.
 
-Continue to article 2: [Friends in the Eastern Townships](/friends-in-the-Eastern-Townships)
+<p class=center>
+  <a
+  href="/friends-in-the-Eastern-Townships"
+  class="w3-button color-1-dark linkoff"
+  title="{{ next.title }}"
+  >
+
+  Part 2: Friends in the Eastern Townships
+
+  &nbsp; <i class="fas fa-angle-right"></i>
+  </a>
+</p>
