@@ -1,18 +1,33 @@
----
----
-@import 'font';
+--- --- @import 'font';
 // @import 'variables';
 $height: 8rem;
-$mob-pixels: {{ site.breakpoint }};
+
+$mob-pixels: {
+    {
+    site.breakpoint
+  }
+}
+
+;
 
 .container-content {
-	flex-direction: column;
-        max-width:$text-width;
-	box-sizing: border-box;
+  flex-direction: column;
+  max-width: $text-width;
+  box-sizing: border-box;
 }
-.content{max-width:$text-width;flex: 0 1 auto}
-.cards,.posts {padding:1rem}
-.cards > ul, .posts > ul {
+
+.content {
+  max-width: $text-width;
+  flex: 0 1 auto
+}
+
+.cards,
+.posts {
+  padding: 1rem
+}
+
+.cards>ul,
+.posts>ul {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
   // grid-template-rows: repeat(auto-fit, minmax($height,1fr));
@@ -23,21 +38,11 @@ $mob-pixels: {{ site.breakpoint }};
   margin: auto;
   padding: 0;
 }
+
 // Index and newcomer cards
-.cards > ul > li {
-	// Used to create left-to-right colors on these cards
-    // border-radius: .5rem;
-    // position: relative;
-    // //z-index: -10;
-    // &::before {
-    //   content: '';
-    //   position: absolute;
-    //   border-radius: .5rem;
-    //   inset: 0;
-    //   background-color: var(--card-color);
-    //   z-index: -2;
-    //   }
-    &> a:first-child {
+.cards>ul>li {
+
+  &>a:first-child {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -49,101 +54,81 @@ $mob-pixels: {{ site.breakpoint }};
     cursor: pointer;
     height: $height;
     overflow: hidden;
-    box-shadow: 0px 2px 3px 0 rgba(0,0,0,var(--card-shadow));
+    box-shadow: 0px 2px 3px 0 rgba(0, 0, 0, var(--card-shadow));
     margin: auto;
     padding: 10px;
-    // background-color: transparent;
     background-color: var(--card-color);
-    transition: box-shadow 0.3s, background 0.3s;
-    // &::before {
-    //   content: '';
-    //   position: absolute;
-    //   background-color: var(--card-hover);
-    //   inset: 0;
-    //   // top: 0;
-    //   // bottom: 0;
-    //   // left: 0;
-    //   // right: 0;
-    //   z-index: -1;
-    //   transform: translateX(-100%);
-    //   transition: transform 0.7s ease;
-    //   }
+    transition: box-shadow 0.2s, background 0.2s;
+
     &:hover {
-      box-shadow: 1px 3px 8px 0 rgba(0,0,0,var(--card-hover-shadow));
+      box-shadow: 1px 3px 8px 0 rgba(0, 0, 0, var(--card-hover-shadow));
       background-color: var(--card-hover);
-    //   &::before {
-    //     transform: translateX(0);
-    //     }
     }
-   }
+  }
 }
 
-.cards_index > ul > li > a:first-child {
-//  display: inline-block;
-  //transition: background 0.5s;
+.cards_index>ul>li>a:first-child {
   font-style: italic;
   font-size: 2.0em;
-   //  &:hover {
-   //         background-color: var(--card-hover)
-   //  }
-     &:hover span {padding-right: 15px;}
-     &:hover span:after {
-        opacity: 1;
-        right: 0;
-     }
-   span {transition: 0.5s;}
-   span:after {
-     content: '\00bb';
-     opacity: 0;
-     top: 0;
-     right: -20px;
-     transition: 0.5s;
-   }
+
+  &:hover span {
+    padding-right: 15px;
+  }
+
+  &:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+  span {
+    transition: 0.2s;
+  }
+
+  span:after {
+    content: '\00bb';
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.2s;
+  }
 }
 
-.posts > ul > li {
+.posts>ul>li {
   position: relative;
   border-radius: .5rem;
   cursor: pointer;
   overflow: hidden;
-  box-shadow: 0px 2px 2px rgba(0,0,0,var(--card-shadow));
-  // margin: auto;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, var(--card-shadow));
   color: var(--body-text);
-  // background-color: var(--card-color);
-  // transition: box-shadow .3s ease-in;
-  // > a:first-child {
-  //   //display: inline;
-  //   padding: 110px;
-  //   text-decoration: none;
-  //   color: blue;
-  // }
-  // &:hover h3 {
-  //   background-color: var(--card-hover);
-  // }
+
   &:hover {
-	  box-shadow: 1px 3px 7px rgba(0,0,0,var(--card-shadow));
+    box-shadow: 1px 3px 7px rgba(0, 0, 0, var(--card-shadow));
   }
+
   &::before {
-      content: '';
-      position: absolute;
-      inset: 0;
-      z-index: -3;
-      background-color: var(--card-color);
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: -3;
+    background-color: var(--card-color);
   }
-   &:hover .post-card h3::before {
-     transform: translateX(0);
-   }
+
+  &:hover .post-card h3::before {
+    transform: translateX(0);
+  }
 }
 
 .post-card {
   position: relative;
+
   &::before {
     content: '';
     position: absolute;
     inset: 0;
     z-index: -1;
     background-color: var(--card-header);
-    }
+  }
+
   h3 {
     position: relative;
     font-family: $font-serif;
@@ -152,6 +137,7 @@ $mob-pixels: {{ site.breakpoint }};
     text-align: center;
     margin: 0;
     padding: 15px;
+
     &::before {
       content: '';
       position: absolute;
@@ -164,8 +150,9 @@ $mob-pixels: {{ site.breakpoint }};
   }
 }
 
-.post-container { 
+.post-container {
   width: 100%;
+
   h5 {
     font-family: $font-serif;
     margin: 0;
@@ -173,39 +160,65 @@ $mob-pixels: {{ site.breakpoint }};
     text-indent: 5px;
     transition: background .3s;
   }
-  p:first-child {margin: 0;text-indent:0px}
-  padding: 15px;
-   p,a,span {
-  text-decoration: none;
+
+  p:first-child {
+    margin: 0;
+    text-indent: 0px
   }
+
+  padding: 15px;
+
+  p,
+  a,
+  span {
+    text-decoration: none;
+  }
+
   .decorate_link {
     text-decoration: underline var(--color-1);
   }
 }
 
-//.fade {
-//	transition: opacity 0.3s ease-in;
-//}
+.fadeOutRight {
+  opacity: 0;
+}
 
-.fadeOutRight { opacity: 0; }
-.fadeOutLeft { opacity: 0; }
+.fadeOutLeft {
+  opacity: 0;
+}
 
 .fadeInLeft {
   animation-name: moveInLeft;
-  animation-duration: 0.3s;
-//  transform: translate(1em,0)
+  animation-duration: 0.2s;
+  //  transform: translate(1em,0)
 }
+
 .fadeInRight {
   animation-name: moveInRight;
-  animation-duration: 0.3s;
-//  transform: translate(-1em,0)
+  animation-duration: 0.2s;
+  //  transform: translate(-1em,0)
 }
 
 @keyframes moveInRight {
-	0% {opacity: 0.25; transform: translate(4em);}
-	100% {opacity: 1; left: 0;}
+  0% {
+    opacity: 0.25;
+    transform: translate(4em);
+  }
+
+  100% {
+    opacity: 1;
+    left: 0;
+  }
 }
+
 @keyframes moveInLeft {
-	0% {opacity: 0.25; transform: translate(-4em);}
-	100% {opacity: 1; left: 0;}
+  0% {
+    opacity: 0.25;
+    transform: translate(-4em);
+  }
+
+  100% {
+    opacity: 1;
+    left: 0;
+  }
 }

@@ -1,23 +1,18 @@
---- --- // This variable, set in _config.yml, determines at what width the screen will shift from widescreen layout to mobile (narrow) screen layout.
-
-$mob-pixels: {
-    {
-    site.breakpoint
-  }
-}
-
-;
+--- 
+---
+// This variable, set in _config.yml, determines at what width the screen will shift from widescreen layout to mobile (narrow) screen layout.
+$mob-pixels: {{ site.breakpoint }};
 @import 'font';
 @import "colors";
 @import "animations";
 
 
 //   Table of contents:
-// 
+//
 //   I) This CSS codes the narrow navigation (mobile)
 //     i) It turns off widescreen headers and other elements
 //   Then it styles:
-// 
+//
 //   1) The hamburger menu (nav-toggle)
 //   2) Mobile bird logo
 //   3) The navigation and its links in mobile
@@ -25,7 +20,7 @@ $mob-pixels: {
 //   4) Styles the search bar in mobile
 //   5) Dropdown menu styling
 //   6) Intersectional observer that triggers the return to top button and the change of style in widescreen when scrolling.
-// 
+//
 //   II) Wide header:
 //   7) Starting with a media query
 //   8) Turns off some narrow elements
@@ -35,21 +30,15 @@ $mob-pixels: {
 //   11) Styles the search bar in wide mode
 //   12) Dropdown menu styling
 //   13) Scroll anchors are fixed in widemode where the sticky header blocks anchored page elements (e.g. /about#chair)
-// 
+//
 //   III) Breadcrumb menu
 
 //   I) This CSS codes the narrow navigation (mobile)
 // These elements are for the wideheader only and so will be turned on with a media query
-.wideheader,
-#widehome,
-#search__spacer {
-  display: none;
+.wideheader,#widehome,#search__spacer  {
+   display: none;
 }
-
-html,
-body {
-  overflow-x: hidden
-}
+html,body{overflow-x: hidden}
 
 // 1) The hamburger menu
 .nav-toggle {
@@ -57,7 +46,7 @@ body {
   top: -9999px !important;
   left: -9999px !important;
 
-  &:focus~.nav-toggle-label {
+  &:focus ~ .nav-toggle-label {
     outline: none;
   }
 }
@@ -69,14 +58,11 @@ body {
   cursor: pointer;
   position: relative;
   height: 55px;
-
   &:hover {
     background-color: var(--active);
   }
 
-  span,
-  span::before,
-  span::after {
+  span, span::before, span::after {
     display: block;
     // background-color: var(--card-hover);
     background-color: var(--alert-text);
@@ -87,10 +73,10 @@ body {
     transition: transform 200ms ease-in-out;
   }
 
-  span {}
+  span {
+  }
 
-  span::before,
-  span::after {
+  span::before, span::after {
     content: '';
     position: absolute;
   }
@@ -104,42 +90,41 @@ body {
   }
 }
 
-.nav-toggle:checked~.navbar {
-  transform: scale(1, 1);
+.nav-toggle:checked ~ .navbar {
+  transform: scale(1,1);
   transition: transform 400ms ease-in-out;
 
-  a,
-  button {
+  a,button {
     opacity: 1;
     transition: opacity 250ms ease-in-out 250ms;
   }
 }
 
 // Hamburger to X animation
-.nav-toggle:checked~div .nav-toggle-label {
+.nav-toggle:checked ~ div .nav-toggle-label {
   padding: 10px 17.5px;
-
   span {
     transform: rotate(45deg);
     // height: 3px;
-    width: 15px;
-    background-color: var(--alert-text);
+      width: 15px;
+      background-color: var(--alert-text);
 
     &::before {
-      transform: translateY(6px) rotate(-90deg);
+      transform: translateY(6px)
+                 rotate(-90deg);
       width: 15px;
       background-color: var(--alert-text);
     }
-
     &::after {
-      transform: translateY(-6px) rotate(-90deg);
+      transform: translateY(-6px)
+                 rotate(-90deg);
       width: 15px;
       background-color: var(--alert-text);
     }
   }
 }
 
-// 2) Mobile bird logo
+  // 2) Mobile bird logo
 .logo {
   &__mobile {
     // padding: 10px;
@@ -147,11 +132,9 @@ body {
     align-items: center;
     height: 55px;
     padding: 0 10px;
-
     &:hover {
       background-color: var(--active);
     }
-
     img {
       vertical-align: text-bottom;
     }
@@ -159,17 +142,14 @@ body {
 }
 
 // 3) The navigation and its links in mobile
-.navbar,
-.navbar input {
+.navbar,.navbar input {
   -moz-appearance: none;
   -webkit-appearance: none;
   border-radius: 0;
-
   font: {
     size: $nav-font-size;
     family: $font-sans;
   }
-
   text-align: left;
 }
 
@@ -197,7 +177,6 @@ body {
   ul {
     padding-left: 0;
     background-color: inherit;
-
     // text-indent: 5px;
     li {
       display: inline;
@@ -208,9 +187,7 @@ body {
       background-color: inherit;
     }
   }
-
-  a,
-  button {
+  a,button {
     display: inline-block;
     opacity: 0;
     color: var(--alert-text);
@@ -228,10 +205,7 @@ body {
     background-color: inherit
   }
 
-  a:hover,
-  .active,
-  ul .dropdown .active,
-  .dropdown ul li a:hover {
+  a:hover,.active,ul .dropdown .active, .dropdown ul li a:hover {
     background-color: var(--active);
   }
 
@@ -243,7 +217,6 @@ body {
       position: relative;
       padding: 0 8px 0 5px;
     }
-
     &__input {
       //padding: 16px 10px;
       flex: 1 1 100%;
@@ -253,24 +226,20 @@ body {
       background-color: var(--body-bg);
       color: var(--body-text);
     }
-
     &__submit {
       flex: 0 1 2.5rem;
       height: 54px;
       background-color: var(--color-1-light);
       cursor: pointer;
-
       // padding: 0;
       &:hover {
         background-color: var(--active);
       }
-
       i {
         vertical-align: initial;
       }
     }
   }
-
   #languageChanger {
     cursor: pointer;
   }
@@ -278,105 +247,43 @@ body {
 
 // 5) Dropdown menu styling
 .dropbtn {
-  * {
-    pointer-events: none;
-  }
-
+  * {pointer-events: none;}
   &:focus {
     outline: none;
   }
 }
 
 // This code makes dropdown menus that are easy to open and close
-  {
-  % assign langs="en, fr" | split: ", " %
-}
-
-  {
-  % for currentLang in langs %
-}
-
-  {
-  % assign counter=0 %
-}
-
-  {
-  % if currentLang=="en" %
-}
-
-  {
-  % assign doclist=site.data.navigation.en %
-}
-
-  {
-  % endif %
-}
-
-  {
-  % if currentLang=="fr" %
-}
-
-  {
-  % assign doclist=site.data.navigation.fr %
-}
-
-  {
-  % endif %
-}
-
-  {
-  % for item in doclist %
-}
-
-  {
-  % if item.submenu %
-}
-
-  {
-  % assign counter=counter | plus: 1 %
-}
-
-#dropdown_ {
-    {
-    currentLang
-  }
-}
-
-  {
-    {
-    counter
-  }
-}
-
-  {
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height .2s ease-out;
-}
-
-  {
-  % endif %
-}
-
-  {
-  % endfor %
-}
-
-  {
-  % endfor %
-}
+{% assign langs = "en, fr" | split: ", " %}
+{% for currentLang in langs %}
+  {% assign counter = 0 %}
+  {% if currentLang == "en" %}
+    {% assign doclist = site.data.navigation.en %}
+  {% endif %}
+  {% if currentLang == "fr" %}
+    {% assign doclist = site.data.navigation.fr %}
+  {% endif %}
+  {% for item in doclist %}
+    {% if item.submenu %}
+      {% assign counter = counter | plus: 1 %}
+        #dropdown_{{ currentLang }}{{ counter }} {
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height .2s ease-out;
+      }
+    {% endif %}
+  {% endfor %}
+{% endfor %}
 
 .dropdown-content {
-
   // box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  a {
+  a  {
     color: var(--alert-text);
     display: block;
     // padding: 12px 14px;
     text-align: left;
     text-indent: 35px;
     background-color: var(--color-1);
-
     &:hover {
       background-color: var(--active);
     }
@@ -394,11 +301,10 @@ body {
   // color: var(--alert-text);
   text-decoration: none;
   text-align: center;
-
   // height: 55px;
   font: {
-    size: $mobile-header-font-size;
-    family: $font-serif;
+     size: $mobile-header-font-size;
+     family: $font-serif;
   }
 
   // letter-spacing: $serif-spacing;
@@ -447,24 +353,15 @@ body {
 @media screen and (min-width: $mob-pixels) {
 
   // 8) Turns off some narrow elements (These elements are for the wideheader only and so will be turned on with a media query)
-  html,
-  body {
-    overflow-x: initial
+  html,body{overflow-x: initial}
+
+  .wideheader,#widehome,#search__spacer {
+     display: block;
+     opacity: 1;
   }
 
-  .wideheader,
-  #widehome,
-  #search__spacer {
-    display: block;
-    opacity: 1;
-  }
-
-  #narrowhome,
-  .nav-toggle-label,
-  #narrowheader,
-  .logo__mobile,
-  #nav-toggle {
-    display: none;
+  #narrowhome,.nav-toggle-label,#narrowheader,.logo__mobile,#nav-toggle {
+      display: none;
   }
 
   //   9) Styles the wideheader
@@ -476,23 +373,14 @@ body {
     @include color-scheme($wideheader-scheme...);
     // overflow-y: hidden;
     animation: hide-scroll 1.2s backwards;
-
     @keyframes hide-scroll {
-
-      from,
-      to {
-        overflow-x: hidden;
-      }
+      from, to { overflow-x: hidden; }
     }
-
     &__text {
       white-space: nowrap;
-
       font: {
         family: $font-serif;
-        size: $header-font-size;
-      }
-
+        size: $header-font-size;}
       padding:20px 70px;
     }
   }
@@ -505,18 +393,15 @@ body {
     position: -o-sticky;
     position: -webkit-sticky;
     position: sticky;
-    transform: scale(1, 1);
+    transform: scale(1,1);
     top: 0;
-    will-change: background-color;
     background-color: var(--color-1);
     transition: background 150ms linear;
-
     // This changes the widescreen navbar color on scroll
     &.change_nav_color {
       transition: background 400ms linear;
       background-color: var(--color-1-dark);
     }
-
     // II 10 i) Its ul, li, and then a and buttons
     ul {
       display: flex;
@@ -525,14 +410,11 @@ body {
       align-items: center;
       margin: 0;
     }
-
     ul li {
       width: initial;
       display: inline-block;
     }
-
-    a,
-    button {
+    a,button {
       opacity: 1;
       width: initial;
       height: 55px;
@@ -543,13 +425,11 @@ body {
       display: flex;
       width: 100%;
       height: 55px;
-
       // overflow-x: hidden;
       &__spacer {
         width: 100%;
         flex: 1 1 auto;
       }
-
       &__input {
         position: absolute;
         // position: relative;
@@ -562,18 +442,15 @@ body {
         height: 55px;
         z-index: 4;
         transition: left 450ms ease,
-          width 450ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+                    width 450ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
       }
-
       &__submit {
         transition: color .3s ease, background .3s ease;
         height: 55px;
         z-index: 3;
       }
-
       &__form {
         padding: initial;
-
         &:hover #search__submit {
           color: var(--anti-alert-text);
           background-color: var(--active);
@@ -582,18 +459,15 @@ body {
 
       &:focus-within {
         outline: none;
-
         #search__input {
           z-index: 2;
           opacity: 1;
           width: 240px;
-
           &:focus {
             outline: none;
           }
         }
       }
-
       &:not(:focus-within) {
         #search__input {
           transition: width 200ms ease, opacity 0ms linear .2s, z-index 0ms linear .2s;
@@ -602,45 +476,40 @@ body {
     }
 
     // 6) Dropdown menu styling
-    .dropdown>ul {
+    .dropdown > ul {
       display: block;
       position: absolute;
       top: 55px;
       background-color: inherit;
-
       li a {
         background-color: inherit;
       }
     }
-
     .dropdown-content {
       max-height: initial;
       display: block;
-
       a {
         text-indent: 0px;
       }
     }
 
   }
-
   // 13) Scroll anchors are fixed in widemode where the sticky header blocks anchored page elements (e.g. /about#chair)
   html {
     // scroll-margin-top: 60px;
     scroll-padding-top: 60px;
   }
-
-  //  .scroll_anchor {
-  //    scroll-margin: 60px 0 0 0;
-  //  }
-  //  .stanchor {
-  //    position: relative;
-  //    a {
-  //      position: absolute;
-  //      left: 0px;
-  //      top: -55px;
-  //    } 
-  //  }
+ //  .scroll_anchor {
+ //    scroll-margin: 60px 0 0 0;
+ //  }
+ //  .stanchor {
+ //    position: relative;
+ //    a {
+ //      position: absolute;
+ //      left: 0px;
+ //      top: -55px;
+ //    }
+ //  }
 }
 
 
@@ -651,14 +520,12 @@ ul.breadcrumb {
   list-style: none;
   background-color: var(--card-hover);
   margin: 0;
-
   li {
     display: inline;
     //font-size: $body-font-size;
     font-family: $font-sans;
     font-size: $nav-font-size;
     font-weight: bold;
-
     &+li::before {
       padding: 8px;
       content: "/\00a0";
