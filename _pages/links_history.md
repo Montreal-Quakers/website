@@ -6,8 +6,9 @@ translationID: links_history
 {% include picture.html filename="benches.jpg" type="webp avif" alt="Benches with light" class="img_center" %}
 
 ## For newcomers, about Quakers
+
 * [QuakerSpeak videos](https://quakerspeak.com/){: rel="noopener" target="_blank"}, for instance [this one](https://www.youtube.com/watch?time_continue=1&v=I63xA-VZGXw&feature=emb_title){: rel="noopener" target="_blank"}, are an excellent resource.
-* Letters to a fellow seeker by Steve Chase, 
+* Letters to a fellow seeker by Steve Chase,
   * [Chapter 1](https://drive.google.com/file/d/0B8iS545He0DEcmV2NFhHb1J2ak0/view){: rel="noopener" target="_blank"}
   * [Chapter 2](https://drive.google.com/file/d/0B8iS545He0DEVnRLRWdlM1ZZdFk/view){: rel="noopener" target="_blank"}
   * [Chapter 3](https://drive.google.com/file/d/0B8iS545He0DESzJPMEx0aTlPbEk/view){: rel="noopener" target="_blank"}
@@ -17,22 +18,28 @@ translationID: links_history
 * We curate a list of [podcasts and lectures](/next_steps/podcasts)
 
 ## Join the discussion
-* [Canadian Quaker Facebook discussion group](https://www.facebook.com/groups/532516183429702/){: rel="noopener" target="_blank"}. 
+
+* [Canadian Quaker Facebook discussion group](https://www.facebook.com/groups/532516183429702/){: rel="noopener" target="_blank"}.
 * Other Quaker groups on Facebook are worth a look; some are [more informative](https://www.facebook.com/groups/2207263944/) whereas others are [strictly silly](https://www.facebook.com/groups/442920559221629/){: rel="noopener" target="_blank"}.
 
 ## Quaker organizations & Quaker work
+
 * ✶ [Canadian Friends Service Committee](https://quakerservice.ca){: rel="noopener" target="_blank"}: Quakers in Canada actively working on peace, indigenous issues, and a more healing criminal justice system.
 * ✶ [Quaker United Nations Office](https://quno.org/), working in New York City and Geneva on peacebuilding, climate change, refugees, and a just economy.
-* 🍁 [Canadian Yearly Meeting](https://www.quaker.ca){: rel="noopener" target="_blank"}, the national organization of the Canadian Quakers (of which we are a part), and their [Organization and Procedure](https://quaker.ca/resources/organization-and-procedure/){: rel="noopener" target="_blank"} 
-* [The Canadian Friend](https://quaker.ca/resources/the-canadian-friend/){: rel="noopener" target="_blank"} - the magazine of Canadian Yearly Meeting, available online. 
-* [Canadian Young Friends Yearly Meeting](https://quaker.ca/cyfym/){: rel="noopener" target="_blank"}, focused on Young Friends (13-18) and Young Adult Friends (18-35). 
-* [Kairos](https://www.kairoscanada.org/){: rel="noopener" target="_blank"}, interfaith action focused on a number of areas such as ecology and Indigenous and migrant rights. 
+* 🍁 [Canadian Yearly Meeting](https://www.quaker.ca){: rel="noopener" target="_blank"}, the national organization of the Canadian Quakers (of which we are a part), and their [Organization and Procedure](https://quaker.ca/resources/organization-and-procedure/){: rel="noopener" target="_blank"}
+* [The Canadian Friend](https://quaker.ca/resources/the-canadian-friend/){: rel="noopener" target="_blank"} - the magazine of Canadian Yearly Meeting, available online.
+* [Canadian Young Friends Yearly Meeting](https://quaker.ca/cyfym/){: rel="noopener" target="_blank"}, focused on Young Friends (13-18) and Young Adult Friends (18-35).
+* [Kairos](https://www.kairoscanada.org/){: rel="noopener" target="_blank"}, interfaith action focused on a number of areas such as ecology and Indigenous and migrant rights.
 * [Quaker Earthcare Witness](https://www.quakerearthcare.org/){: rel="noopener" target="_blank"} ([video](https://www.youtube.com/watch?v=5GBZUEeX1M0){: rel="noopener" target="_blank"})
 
 ## History of Quakers in Montreal and Quebec ⚜
+
 * [A Look Backwards at Montreal Monthly Meeting, by Molly Walsh](/assets/PDF/MMM-History-CF.V100.05.13-14.pdf){: rel="noopener" target="_blank"}
 * [(In French) Petit à petit, l’oiseau fait son nid, par Chantal Fournier](/assets/PDF/MMM-History-CF.V100.05.15.pdf){: rel="noopener" target="_blank"}{% comment %}* [Women's Speaking](http://www.qhpress.org/texts/fell.html){: rel="noopener" target="_blank"} has some texts by notable Quaker women, for instance, one of the founders of Quakerism, Margaret Fell. {% endcomment %}
-* [History of Montreal Meeting (1929-1964) Lloyd Williams](/assets/PDF/MMM_history-Lloyd-Williams.pdf){: rel="noopener" target="_blank"}
+* Montreal meeting history
+  * [Part 1: History of Montreal Meeting](/MMM_history-Lloyd-Williams) from the 1929-1964 text by [Lloyd Williams](/assets/PDF/MMM_history-Lloyd-Williams.pdf)
+  * [Part 2: Friends in the Eastern Townships](/friends-in-the-Eastern-Townships)
+  * [Part 3: What a Quaker Meeting House Means to Us](/what-a-meetinghouse-means)
 * See also this blog entry: [Beautiful day-trip suggestion: the history of Quakers in Quebec (Farnham)](/2021/06/26/farnham-trip)
 * [Barclay in brief](/barclay-in-brief) is a summary of an early Quaker theologian, Robert Barclay
 
