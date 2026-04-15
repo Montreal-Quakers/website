@@ -1,44 +1,34 @@
---- --- // Already imported but needs to be imported for every file
+---
+---
+// Already imported but needs to be imported for every file
 @import "font";
 @import "colors";
+$mob-pixels: {{ site.breakpoint }};
+$media-pixels: {{ site.mediabreak }};
 
-$mob-pixels: {
-    {
-    site.breakpoint
-  }
-}
+{% comment %}
 
-;
+  Table of contents
 
-$media-pixels: {
-    {
-    site.mediabreak
-  }
-}
+  1) General styling
+    a) html body
+    b) Components: img, a, button
+  2) Headers
+  3) Content and footer styling
+  4) Alert styling
+  5) Special classes
+  6) Align icons
+    a) Special classes stolen from w3schools
+  7) Styling scroll to top button topBtn svg
 
-;
-
-  {
-  % comment %
-}
-
-Table of contents 1) General styling a) html body b) Components: img,
-a,
-button 2) Headers 3) Content and footer styling 4) Alert styling 5) Special classes 6) Align icons a) Special classes stolen from w3schools 7) Styling scroll to top button topBtn svg {
-  % endcomment %
-}
+{% endcomment %}
 
 // 1) General styling
 
-*,
-*:before,
-*:after {
-  box-sizing: border-box;
-  margin-top: 0
-}
+*,*:before,*:after{box-sizing:border-box; margin-top: 0}
 
 html {
-  height: 100%;
+	height: 100%;
 }
 
 @media screen and (prefers-reduced-motion: no-preference) {
@@ -48,34 +38,32 @@ html {
 }
 
 // 1a) 
-html,
-body {
-  line-height: 1.5;
-  // scroll-behavior: smooth;
+html,body {
+    line-height: 1.5;
+    // scroll-behavior: smooth;
 }
 
 // The body is flex to allow media columns on the right in widescreen
 // that move down in mobile.
 // Flex also makes it easy to keep the footer on the bottom.
 body {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  margin: 0px;
-  border: 0px;
-  padding: 0px;
-  font-size: $body-font-size;
-  @include color-scheme($body-scheme...);
-  min-height: 100vh;
-  max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0px; 
+    border: 0px; 
+    padding: 0px; 
+    font-size: $body-font-size;
+    @include color-scheme($body-scheme...);
+    min-height: 100vh;
+    max-width: 100%;
 }
 
 main {
-  flex: 1 0 auto; // If the spacing is weird, try turning this off.
-  min-height: auto;
-  height: 100%;
+   flex: 1 0 auto; // If the spacing is weird, try turning this off.
+   min-height: auto;
+   height: 100%;
 }
-
 // Styling general components
 img {
   max-width: 100%;
@@ -89,9 +77,8 @@ hr {
 }
 
 a {
-  background-color: transparent;
-  color: inherit;
-
+  background-color:transparent;
+  color:inherit;
   &:hover {
     /*outline-width:0;*/
     text-decoration: none !important;
@@ -100,54 +87,46 @@ a {
 }
 
 // Remove underline under links
-.linkoff,
-a.wideheader,
-.navbar a {
-
-  &,
-  &:link,
-  &:visited,
-  &:hover {
+.linkoff,a.wideheader,.navbar a {
+	&,&:link,&:visited,&:hover {
     text-decoration: none !important;
     // background-color: inherit;
-  }
+    }
 }
 
 // Styling PDF links and external links
 a[href$="\.pdf" i]::after {
-  font-family: "Font Awesome 6 Free";
-  content: '\f1c1';
-  font-weight: 400;
-  // font-size: .6em;
-  margin-left: .3em;
-  text-decoration: none;
-  background-color: inherit;
-  color: var(--color-1-dark);
-  display: inline-block;
+    font-family: "Font Awesome 6 Free";
+    content: '\f1c1';
+    font-weight: 400;
+    // font-size: .6em;
+    margin-left: .3em;
+    text-decoration: none;
+    background-color: inherit;
+    color: var(--color-1-dark);
+    display: inline-block;
 }
 
 // Styling external links
 a[href^="http" i]::after {
-  font-family: "Font Awesome 6 Free";
-  content: '\f35d';
-  font-weight: 900;
-  font-size: .6em;
-  margin: 0 0 .05em .4em;
-  color: var(--color-1);
-  text-decoration: none;
-  background-color: transparent;
-  display: inline-block;
+    font-family: "Font Awesome 6 Free";
+    content: '\f35d';
+    font-weight: 900;
+    font-size: .6em;
+    margin: 0 0 .05em .4em;
+    color: var(--color-1);
+    text-decoration: none;
+    background-color: transparent;
+    display: inline-block;
 }
 
 button {
-  text-transform: none;
-  -webkit-appearance: button;
-
-  &,
-  input {
-    overflow: visible;
-    font: inherit;
-    margin: 0;
+	text-transform: none;
+	-webkit-appearance: button;
+  &,input {
+	overflow: visible;
+	font:inherit;
+	margin: 0;
   }
 }
 
@@ -185,11 +164,9 @@ body::-webkit-scrollbar-thumb {
   opacity: 70%;
   border-radius: 100vw;
   transition: background .3s;
-
   &:hover {
     background-color: var(--color-1);
   }
-
   &:active {
     background-color: var(--color-1-dark);
   }
@@ -198,56 +175,25 @@ body::-webkit-scrollbar-thumb {
 
 @supports (scrollbar-color: red blue) {
   * {
-    scrollbar-color: var(--scrollbar-thumb) var(--scrollbar-back);
+    scrollbar-color: var(--scrollbar-thumb) var(--scrollbar-back) ;
   }
 }
 
 // 2) Headers
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-weight: 400;
-  margin: 10px 0;
-  font-family: $font-serif;
-  //letter-spacing: $serif-spacing;
+h1,h2,h3,h4,h5,h6 {
+	font-weight: 400;
+	margin: 10px 0;
+	font-family: $font-serif;
+	//letter-spacing: $serif-spacing;
 }
+h1 {font-size: 1.9rem}
+h2 {font-size: 1.5rem}
+h3 {font-size: 1.3rem;margin-left: 20px;}
+h4 {font-size: 1.2rem;margin-left: 40px;}
+h5 {font-size: 1.1rem;margin-left: 60px;}
+h6 {font-size: .9rem;;margin-left: 80px;}
 
-h1 {
-  font-size: 1.9rem
-}
-
-h2 {
-  font-size: 1.5rem
-}
-
-h3 {
-  font-size: 1.3rem;
-  margin-left: 20px;
-}
-
-h4 {
-  font-size: 1.2rem;
-  margin-left: 40px;
-}
-
-h5 {
-  font-size: 1.1rem;
-  margin-left: 60px;
-}
-
-h6 {
-  font-size: .9rem;
-  ;
-  margin-left: 80px;
-}
-
-h1,
-h2,
-h3,
-h4 {
+h1,h2,h3,h4 {
   &.header {
     font-family: $font-serif;
     text-align: center;
@@ -258,47 +204,40 @@ h4 {
 
 // 3) Content and footer styling
 .container-content {
-  width: 100%;
-  margin: 0 auto 0;
-  height: 100%;
-  display: flex;
-  justify-content: space-around;
-  //word-spacing: 0.05ch;
+   width: 100%;
+   margin: 0 auto 0;
+   height: 100%;
+   display: flex;
+   justify-content: space-around;
+   //word-spacing: 0.05ch;
 }
 
-a.container-content,
-a.container-content:link,
-a.container,
-.container a,
-.container-content a {
-  // This code below makes a gradient underline link
-  // text-decoration: none;
-  // background-color: linear-gradient(to right, var(--color-1-light), var(--color-1-dark)); //var(--color-1)
-  // background-position: 0 100%;
-  // background-size: 100% 1px;
-  // background-repeat: repeat-x;
-  text-decoration: underline var(--color-1);
-  -webkit-text-decoration-line: underline;
-  -webkit-text-decoration-color: var(--color-1);
-
-  // -webkit-text-decoration-style: solid !important;
-  // -webkit-text-decoration-thickness: 2px !important;
-  &:hover {
-    // Needed only with the gradient underline link
-    //background-color: initial;
-    text-decoration: none;
-  }
+a.container-content, a.container-content:link, a.container, .container a, .container-content a {
+	// This code below makes a gradient underline link
+   // text-decoration: none;
+   // background-color: linear-gradient(to right, var(--color-1-light), var(--color-1-dark)); //var(--color-1)
+   // background-position: 0 100%;
+   // background-size: 100% 1px;
+   // background-repeat: repeat-x;
+   text-decoration: underline var(--color-1);
+   -webkit-text-decoration-line: underline;
+   -webkit-text-decoration-color: var(--color-1);
+   // -webkit-text-decoration-style: solid !important;
+   // -webkit-text-decoration-thickness: 2px !important;
+   &:hover {
+	// Needed only with the gradient underline link
+     //background-color: initial;
+     text-decoration: none;
+   }
 }
 
-.content {
-  // always on the left if there's media
+.content {  // always on the left if there's media
   padding: 0 66px;
-  font-family: $font-sans;
-  font-size: 1em;
-  text-align: left;
+  font-family: $font-sans; 
+  font-size:1em;
+  text-align:left;
   margin-bottom: 0;
 }
-
 .media {
   flex: 1 0 400px;
   padding: 0 3px;
@@ -308,7 +247,6 @@ a.container,
   &.mono {
     font-family: $font-mono;
   }
-
   &.serif {
     font-family: $font-serif;
     //letter-spacing: $serif-spacing;
@@ -316,32 +254,28 @@ a.container,
 }
 
 .footer {
+    // flex: 1 0 auto;
+    ::selection {
+      @include color-scheme($footer-selection-scheme...);
+    }
 
-  // flex: 1 0 auto;
-  ::selection {
-    @include color-scheme($footer-selection-scheme...);
-  }
-
-  @include color-scheme($footer-scheme...);
-  font-family: $font-sans;
-  font-size: 0.8em;
-  padding: 0px 0 5px 0;
-  text-align: center;
-
-  h3 {
-    padding-top: .5em;
-    font-family: $font-serif;
-    //letter-spacing: $serif-spacing;
-    font-size: 2em;
-  }
-
-  h6 {
+    @include color-scheme($footer-scheme...);
     font-family: $font-sans;
-  }
-
-  &.smaller {
-    font-size: 0.75em;
-  }
+    font-size: 0.8em;
+    padding: 0px 0 5px 0;
+    text-align: center;
+     h3 {
+	padding-top: .5em;
+        font-family: $font-serif;
+	//letter-spacing: $serif-spacing;
+	font-size: 2em;
+     }
+     h6 {
+	font-family: $font-sans;
+     }
+     &.smaller {
+	font-size: 0.75em;
+     }
 }
 
 @media screen and (min-width: $mob-pixels) {
@@ -352,106 +286,95 @@ a.container,
 
 @media screen and (max-width: $mob-pixels - 1) {
   .content {
-    flex: 0 1 auto;
+     flex: 0 1 auto;
   }
 }
 
 // Media & Container responsiveness
 // These are mostly for Google Maps and Calendar iframes
 @media screen and (max-width: $media-pixels) {
-  .container-content {
+  .container-content {   
     flex-direction: column;
   }
 
   .embed-container2 {
-    display: none
+	  display: none
   }
-
   .embed-container1 {
-    display: initial;
+	  display: initial;
   }
-
   .media {
-    padding: 3px;
+	  padding: 3px;
   }
-
   .content {
-    padding: 20px;
+	  padding: 20px;
   }
-
   .widespace {
-    display: none;
+	  display: none;
   }
 }
 
 // @include media(">800px") {
 @media screen and (min-width: $media-pixels + 1) {
   .embed-container2 {
-    display: block;
+	  display: block;
   }
-
   .embed-container1 {
-    display: none;
+	  display: none;
   }
-
-  .media {
-    position: sticky;
-    align-self: flex-start;
-    right: 0;
-    top: 100px;
-    max-width: 100%;
-  }
+ .media {
+	 position: sticky;
+         align-self: flex-start;
+         right: 0;
+         top: 100px;
+         max-width: 100%;
+ }
 }
 
 // 4) Alert styling
 
 // Sets the whole alert area as flex
-.stickystart {
-  // Ends at alert.html
+.stickystart { // Ends at alert.html
   display: flex;
   justify-content: space-between;
   align-content: center;
 }
 
 .container-alert {
-  width: 100%;
-  margin: 0 auto;
-  background-color: var(--body-bg);
-  position: relative;
-  margin-bottom: 0;
-  height: 100%;
+   width: 100%;
+   margin: 0 auto;
+   background-color: var(--body-bg);
+   position: relative;
+   margin-bottom: 0;
+   height: 100%;
 }
 
 .alert {
   text-align: center;
   max-width: $text-width;
-
   font: {
     family: $font-sans;
     weight: bold;
   }
-
   padding: 20px;
   color: var(--alert-text);
-  margin: 0 0;
+  margin: 0 0 ;
   opacity: 1;
-  transition: opacity 0.2s;
-
+  transition: opacity 0.6s;
   a {
     color: var(--alert-text);
     font-weight: 800;
     font-family: $font-sans;
   }
-
   p {
     margin: 0;
   }
 }
 
-.redalert {
+ .redalert {
   background-color: var(--redalert);
 }
-
+ 
 .bluealert {
   background-color: var(--bluealert);
 }
@@ -468,17 +391,16 @@ a.container,
   font-size: 1em;
   line-height: 20px;
   cursor: pointer;
-  transition: 0.2s;
+  transition: 0.3s;
   display: block;
-
   &:hover {
-    color: var(--anti-alert-text);
+   color: var(--anti-alert-text);
   }
 }
 
 // 5) Special classes
 .center {
-  text-align: center;
+	text-align: center;
 }
 
 .img_center_no_pad {
@@ -488,30 +410,25 @@ a.container,
 }
 
 .img_center {
-  @extend .img_center_no_pad;
-  padding: 15px 0;
-
+    @extend .img_center_no_pad;
+    padding: 15px 0;
   &25 {
     @extend .img_center;
     width: 25%;
   }
-
   &50 {
     @extend .img_center;
     width: 50%;
   }
-
   &75 {
     @extend .img_center;
     width: 75%;
   }
-
   &100 {
     @extend .img_center;
     width: 100%;
   }
 }
-
 .img_floatleft {
   @extend .img_center_no_pad;
   float: left;
@@ -521,91 +438,44 @@ a.container,
 
 .down_a {
   &_bit {
-    vertical-align: bottom;
-
-    &_more {
-      vertical-align: bottom;
-      position: relative;
-      bottom: -4px;
-    }
+     vertical-align: bottom;
+     &_more {
+       vertical-align: bottom;
+       position: relative;
+       bottom: -4px;
+     }
   }
-
-  &_tad {
-    vertical-align: sub
-  }
+  &_tad {vertical-align:sub}
 }
 
-.bit_left {
-  margin: 0 0 0 -3px
-}
+.bit_left {margin: 0 0 0 -3px}
 
-.embed-container,
-.embed-container2,
-.embed-container-map {
-  position: relative;
+.embed-container, .embed-container2, .embed-container-map {
+  position: relative; 
   border: 0;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-}
+  padding-bottom: 56.25%; 
+  height: 0; 
+  overflow: hidden; 
+  max-width: 100%; 
+} 
 
-.embed-container,
-.embed-container2,
-.embed-container-map {
-
-  iframe,
-  object,
-  embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
+.embed-container, .embed-container2, .embed-container-map {
+	iframe,object,embed {
+           position: absolute;
+           top: 0;
+           left: 0;
+           width: 100%;
+           height: 100%;
+	}
 }
 
 // 6a) Special classes stolen from w3schools
-.w3-input {
-  padding: 8px;
-  display: block;
-  border: none;
-  border-bottom: 1px solid #ccc;
-  width: 100%;
-  background-color: var(--body-bg);
-  color: var(--body-text)
-}
-
-.w3-border {
-  border: 1px solid #ccc
-}
-
-.w3-animate-input {
-  width: 50%;
-  transition: width 0.2s ease-in-out
-}
-
-.w3-animate-input:focus {
-  width: 100%
-}
-
-.w3-button {
-  border: none;
-  display: inline-block;
-  padding: 8px 13px;
-  vertical-align: middle;
-  overflow: hidden;
-  text-decoration: none;
-  text-align: center;
-  cursor: pointer;
-  white-space: nowrap;
-  -webkit-touch-callout: none;
-  transition: background-color .3s
-}
-
-.w3-button:hover {
-  background-color: var(--color-1)
-}
+.w3-input{padding:8px;display:block;border:none;border-bottom:1px solid #ccc;width:100%;background-color:var(--body-bg);color:var(--body-text)}
+.w3-border{border:1px solid #ccc}
+.w3-animate-input{width:50%;transition:width 0.4s ease-in-out}
+.w3-animate-input:focus{width:100%}
+.w3-button{border:none;display:inline-block;padding:8px 13px;vertical-align:middle;overflow:hidden;text-decoration:none;text-align:center;cursor:pointer;white-space:nowrap;-webkit-touch-callout:none;transition:background-color .3s}
+.w3-button:hover{background-color:var(--color-1)}
 
 
 // 7) Styling scroll to top button topBtn svg
@@ -613,7 +483,6 @@ a.container,
   fill: transparent;
   stroke: var(--alert-text);
 }
-
 .svg-circle {
   fill: var(--color-1-dark);
   stroke: var(--color-1-dark);
@@ -634,10 +503,9 @@ a.container,
   cursor: pointer;
   margin: 0;
   padding: 0;
-  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
   transition: opacity 100ms ease-in;
-  border-radius: 50%;
-
+  border-radius:50%;
   & svg {
     background-color: transparent
   }
@@ -651,7 +519,7 @@ a.container,
   &:hover {
     opacity: 1 !important;
     // transform: scale(1.1);
-
+  
     .svg-circle {
       fill: var(--color-1-light);
       stroke: var(--color-1-light);

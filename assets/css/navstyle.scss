@@ -1,4 +1,4 @@
---- 
+---
 ---
 // This variable, set in _config.yml, determines at what width the screen will shift from widescreen layout to mobile (narrow) screen layout.
 $mob-pixels: {{ site.breakpoint }};
@@ -8,11 +8,11 @@ $mob-pixels: {{ site.breakpoint }};
 
 
 //   Table of contents:
-//
+// 
 //   I) This CSS codes the narrow navigation (mobile)
 //     i) It turns off widescreen headers and other elements
 //   Then it styles:
-//
+// 
 //   1) The hamburger menu (nav-toggle)
 //   2) Mobile bird logo
 //   3) The navigation and its links in mobile
@@ -20,7 +20,7 @@ $mob-pixels: {{ site.breakpoint }};
 //   4) Styles the search bar in mobile
 //   5) Dropdown menu styling
 //   6) Intersectional observer that triggers the return to top button and the change of style in widescreen when scrolling.
-//
+// 
 //   II) Wide header:
 //   7) Starting with a media query
 //   8) Turns off some narrow elements
@@ -30,7 +30,7 @@ $mob-pixels: {{ site.breakpoint }};
 //   11) Styles the search bar in wide mode
 //   12) Dropdown menu styling
 //   13) Scroll anchors are fixed in widemode where the sticky header blocks anchored page elements (e.g. /about#chair)
-//
+// 
 //   III) Breadcrumb menu
 
 //   I) This CSS codes the narrow navigation (mobile)
@@ -159,7 +159,7 @@ html,body{overflow-x: hidden}
   // background-color: var(--color-1-dark);
   z-index: 1;
   position: absolute;
-  font-weight: bold;
+  font-weight: bold; 
   text-align: left;
   top: 55px;
   left: 0;
@@ -285,7 +285,7 @@ html,body{overflow-x: hidden}
     text-indent: 35px;
     background-color: var(--color-1);
     &:hover {
-      background-color: var(--active);
+      background-color: var(--active); 
     }
   }
 }
@@ -323,7 +323,7 @@ html,body{overflow-x: hidden}
   height: 120vh;
   max-height: 400px;
   width: 0;
-}
+} 
 
 .dark-mode-toggle {
   //position: absolute;
@@ -374,7 +374,7 @@ html,body{overflow-x: hidden}
     // overflow-y: hidden;
     animation: hide-scroll 1.2s backwards;
     @keyframes hide-scroll {
-      from, to { overflow-x: hidden; }
+      from, to { overflow-x: hidden; } 
     }
     &__text {
       white-space: nowrap;
@@ -467,14 +467,14 @@ html,body{overflow-x: hidden}
             outline: none;
           }
         }
-      }
+      } 
       &:not(:focus-within) {
         #search__input {
           transition: width 200ms ease, opacity 0ms linear .2s, z-index 0ms linear .2s;
         }
       }
     }
-
+      
     // 6) Dropdown menu styling
     .dropdown > ul {
       display: block;
@@ -508,10 +508,10 @@ html,body{overflow-x: hidden}
  //      position: absolute;
  //      left: 0px;
  //      top: -55px;
- //    }
+ //    } 
  //  }
 }
-
+ 
 
 // III) Breadcrumb menu
 

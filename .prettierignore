@@ -1,0 +1,3 @@
+# Ignore all SCSS files containing Jekyll/Liquid tags. Prettier does not do well with them!
+assets/css/**/*.scss
+_sass/**/*.scss
