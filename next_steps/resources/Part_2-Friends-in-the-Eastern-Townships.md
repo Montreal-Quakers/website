@@ -5,7 +5,7 @@ lang: en
 series: history
 ---
 
-### Condensation of an article by S. A. Zielinski in The Bulletin of the Friends Historical Association, Autumn 1961)
+### Condensation of an article by S. A. Zielinski in The Bulletin of the Friends Historical Association, Autumn 1961
 
 The name Farnham Meeting comes from the township of East Farnham, Brome County, in the Eastern Townships of Quebec. This Meeting is unique in some respects. It was isolated from other Meetings; it started in a wilderness and lasted for more than a century; at the peak of its development it had more than a hundred members.
 
