@@ -2,6 +2,7 @@
 title: "Part 1: History of Montreal Meeting, 1929-1964"
 author: "W. Lloyd G. Williams"
 lang: en
+series: history
 ---
 ### by {{ page.author }}
 
@@ -89,7 +90,7 @@ We have not only survived, but have laid a foundation which will, we hope, ensur
 
 <p class=center>
   <a
-  href="/friends-in-the-Eastern-Townships"
+  href="/next_steps/Part_2-Friends-in-the-Eastern-Townships"
   class="w3-button color-1-dark linkoff"
   title="{{ next.title }}"
   >

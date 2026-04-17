@@ -2,6 +2,7 @@
 title: "Part 3: What a Quaker Meeting House Means to Us"
 author: "André Rossinger"
 lang: en
+series: history
 ---
 ### by {{ page.author }}
 
@@ -54,7 +55,7 @@ We are worthy of the name Quaker only if we are seekers, for only seekers become
 
 <p class=center>
   <a
-    href="/friends-in-the-Eastern-Townships"
+    href="/next_steps/Part_2-Friends-in-the-Eastern-Townships"
     class="w3-button color-1-dark linkoff"
     title="A History of Montreal Monthly Meeting"
   >

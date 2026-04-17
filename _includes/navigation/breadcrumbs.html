@@ -32,7 +32,7 @@
 
   </li>
 
-{% elsif page.translationID == "livres-français" %}
+{% elsif page.translationID == "livres-français" or page.series == "history" %}
 
   <li>
     <a href="/{% if fr %}liens_histoire{% else %}links_history{% endif %}"
@@ -46,11 +46,19 @@
   </li>
 
   <li>
-    {% if fr %}
-      Sélection de livres en français
-    {% else %}
-      Selection of books in French
+    {% if page.translationID == "livres-français" %}
+      {% if fr %}
+        Sélection de livres en français
+      {% else %}
+        Selection of books in French
+      {% endif %}
+    {% elsif page.series == "history" %}
+      {% if fr %}
+        Histoire des quakers au Québec
+      {% else %}
+        History of Quakers in Québec
     {% endif %}
+  {% endif %}
   </li>
 
     {% else %}

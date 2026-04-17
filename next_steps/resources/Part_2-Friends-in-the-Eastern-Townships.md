@@ -2,6 +2,7 @@
 title: "Part 2: Friends in the Eastern Townships"
 author: "S. A. Zielinski"
 lang: en
+series: history
 ---
 
 ### Condensation of an article by S. A. Zielinski in The Bulletin of the Friends Historical Association, Autumn 1961)
@@ -60,7 +61,7 @@ The Farnham Meeting goes on.
 
 <p class=center>
   <a
-    href="/MMM_history-Lloyd-Williams"
+    href="/next_steps/Part_1-MMM_history-Lloyd-Williams"
     class="w3-button color-1-dark linkoff"
     title="A History of Montreal Monthly Meeting"
   >
@@ -73,7 +74,7 @@ The Farnham Meeting goes on.
   <span>&nbsp; | &nbsp;</span>
 
   <a
-  href="/what-a-meetinghouse-means"
+  href="/next_steps/Part_3-What-a-meetinghouse-means"
   class="w3-button color-1-dark linkoff"
   title="What a Meetinghouse Means to Us"
   >
