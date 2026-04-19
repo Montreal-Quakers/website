@@ -38,7 +38,7 @@ translationID: links_history
 * [(In French) Petit à petit, l’oiseau fait son nid, par Chantal Fournier](/assets/PDF/MMM-History-CF.V100.05.15.pdf){: rel="noopener" target="_blank"}{% comment %}* [Women's Speaking](http://www.qhpress.org/texts/fell.html){: rel="noopener" target="_blank"} has some texts by notable Quaker women, for instance, one of the founders of Quakerism, Margaret Fell. {% endcomment %}
 * Montreal meeting history
   * [Part 1: History of Montreal Meeting](/next_steps/Part_1-MMM_history-Lloyd-Williams) from the 1929-1964 text by [Lloyd Williams](/assets/PDF/MMM_history-Lloyd-Williams.pdf)
-  * [Part 2: Friends in the Eastern Townships](/next_steps/Part_2-friends-in-the-Eastern-Townships)
+  * [Part 2: Friends in the Eastern Townships](/next_steps/Part_2-Friends-in-the-Eastern-Townships)
   * [Part 3: What a Quaker Meeting House Means to Us](/next_steps/Part_3-What-a-meetinghouse-means)
 * See also this blog entry: [Beautiful day-trip suggestion: the history of Quakers in Quebec (Farnham)](/2021/06/26/farnham-trip)
 * [Barclay in brief](/resources/barclay-in-brief) is a summary of an early Quaker theologian, Robert Barclay
