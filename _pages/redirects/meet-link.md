@@ -7,3 +7,8 @@ exclude_from_search: true
 [https://montreal.quaker.ca/meet](/meet)
 
 [.-.](/midweek-meet-link)
+
+ID: 846 5828 0579 \
+Identifier: none (just press #)
+Phone: [+1 (438) 809-7799](tel:+14388097799) (Montréal)
+Code: In the invite link

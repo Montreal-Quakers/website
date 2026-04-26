@@ -8,6 +8,9 @@ New: [https://us02web.zoom.us/j/84658280579?pwd=WU4ydmg0eTh1Q3RZL0Y1RmRDWEJydz09
 
 [.-.](/meet-link)
 
-
-
 Previous link: [https://us02web.zoom.us/j/85472418591?pwd=a2ZFSWlmRCt2RXZZTDVsNWU2N0xCQT09](https://us02web.zoom.us/j/85472418591?pwd=a2ZFSWlmRCt2RXZZTDVsNWU2N0xCQT09){: rel="noopener" target="_blank"}
+
+ID: 846 5828 0579  \
+Identifier: none (just press #)
+Phone: [+1 (438) 809-7799](tel:+14388097799) (Montréal)
+Code: In the invite link
