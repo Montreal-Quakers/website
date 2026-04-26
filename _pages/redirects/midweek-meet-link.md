@@ -13,4 +13,4 @@ Previous link: [https://us02web.zoom.us/j/85472418591?pwd=a2ZFSWlmRCt2RXZZTDVsNW
 ID: 846 5828 0579  \
 Identifier: none (just press #)  \
 Phone: [+1 (438) 809-7799](tel:+14388097799) (Montréal)  \
-Code: In the invite link  \
+Code: In the invite link (under participants within the Zoom call)
