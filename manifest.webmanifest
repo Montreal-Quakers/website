@@ -8,12 +8,12 @@
     {
       "src": "/favicon.ico",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "256x256"
     }
   ],
   "start_url": "{{ site.myurl }}/?source=pwa",
-  "background_color": "#01579b",
+  "background_color": "#677fe9",
   "display": "standalone",
   "scope": "/",
-  "theme_color": "#002f6c"
+  "theme_color": "#3f51b6"
 }
