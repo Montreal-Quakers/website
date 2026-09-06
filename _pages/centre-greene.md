@@ -7,7 +7,7 @@ translationID: greene-centre
 
 ## Sur Zoom
 
-En plus de nos rencontres en personne, on se voit sur Zoom le dimanche à 11&nbsp;h. ([Contactez-nous pour le lien](/contact-fr).
+En plus de nos rencontres en personne, on se voit sur Zoom le dimanche à 11&nbsp;h. ([Contactez-nous pour le lien](/contact-fr). Le dernier dimanche du mois notre Zoom est séparé de notre assemblée en présentiel. 
 
 ## En personne
 On se réunit le dimanche à 11&nbsp;h&nbsp;00.
