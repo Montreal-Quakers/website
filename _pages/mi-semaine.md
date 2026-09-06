@@ -6,26 +6,22 @@ translationID: midweek
 {% include picture.html filename="Ryan-library_books.jpg" type="webp avif" class="img_center100" alt="Livres" %}
 
 ## Sur Zoom
+
 Le **mercredi** à 19&nbsp;h sur Zoom. [Contactez-nous pour le lien](/contact-fr).
 
 ## En personne
-### Quand
-Tous les deux mercredis à 16&nbsp;h&nbsp;30 à partir du 14 janvier, 2026, soit le:
 
-* 14 janvier
-* 28 janvier
-* 11 février
-* 25 février
-* 11 mars
-* 25 mars
-* 8 avril 
-* 22 avril sera une décision plutôt dernière minute (voir la [section mises à jour](#misesàjour)).
+### Quand
+
+Le jeudi à 16&nbsp;h&nbsp;30 à partir du 10 septembre, 2026, soit le:
 
 En général:
+
 * On suit l’année universitaire (**de septembre à novembre, janvier à mars**).
   * Entre avril et début septembre et entre décembre et début janvier, suivez nos [mises à jour](#misesàjour), car il peut y avoir des changements.
 
 ### Où
+
 {% comment %}S'il fait beau on va être dehors en face de l'édifice de l'Éducation (voir le [Google Map](https://maps.app.goo.gl/neNkWMb1wUbfcgBz9){: rel="noopener" target="_blank"}).
 
 S'il pleut ou s'il fait froid, on se voit à l'intérieur dans la salle de méditation de MORSL de l'Université McGill.{% endcomment %}
@@ -42,15 +38,10 @@ Si c’est votre première assemblée quaker, [ce lien](/à_propos) donne une id
 Pour plus d'informations, [contactez-nous](/contact-fr) pour un lien à notre groupe WhatsApp. Nous publions de manière plus sporadique sur notre [page Facebook](https://www.facebook.com/MontrealQuakers/){: rel="noopener" target="_blank"} (pas besoin d’être membre de Facebook). [Contactez-nous](/contact-fr) pour toute autre question.
 
 ## [Accessibilité](/accessibilité) <span class="stanchor"><a name="accessibilité"></a></span>
-Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.
 
-### Mobilité
-Nous nous rencontrons au troisième étage.
-* Il y a un ascenseur, mais la porte n'est pas automatique. Appellez MORSL pour de l'aide au besoin au [(514) 398-4104](tel:5143984104).
-* Cet espace est accessible aux personnes en fauteuil roulant
-
-Veuillez [nous contactez](/contact-fr) si vous avez besoin d'informations supplémentaires ou d’accommodements pour l'accessibilité.
+La page de MORSL sur [l'accessibilité](https://www.mcgill.ca/morsl/fr/propos-de-nous){: rel="noopener" target="_blank"} devrait répondre à la plupart des questions sur l'accessibilité de l'espace à McGill. Veuillez [nous contactez](/contact-fr) ou [contactez MORSL](https://www.mcgill.ca/morsl/fr/propos-de-nous){: rel="noopener" target="_blank"} si vous avez besoin d'informations supplémentaires ou d’accommodement pour l'accessibilité.
 
 ### Langue
+
 * Vu sa proximité de McGill, ce groupe parle principalement anglais. Mais des francophones et francophiles assistent à notre groupe.
 * Les annonces se font en français et en anglais

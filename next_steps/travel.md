@@ -24,11 +24,12 @@ When Quakers travel, we often bring greetings from our home meeting to other mee
 * [France](https://www.quakersenfrance.org/){: rel="noopener" target="_blank"}
 * [Switzerland](https://swiss-quakers.ch/){: rel="noopener" target="_blank"}
 * [Belgium and Luxembourg](https://quakers-belux.org/meetings-for-worship-where-and-when/){: rel="noopener" target="_blank"}
-* [Africa](http://fwccafrica.org/){: rel="noopener" target="_blank"}
+* [Africa](http://www.fwcc.africa/){: rel="noopener" target="_blank"}
 * [Asia/West Pacific](https://fwccawps.org/){: rel="noopener" target="_blank"}, which includes [Australia](https://www.quakersaustralia.info/organisation/local-meetings){: rel="noopener" target="_blank"} and [New Zealand](https://quakers.nz/){: rel="noopener" target="_blank"}.
 * [Europe/Middle East](https://www.fwccemes.org/fam/){: rel="noopener" target="_blank"}
 
 ## [Definitions](https://www.fgcquaker.org/fgcresources/quaker-practices/letters-introduction-travel-minutes-and-endorsements/){: rel="noopener" target="_blank"}
+
 ### Letters of Introduction <span class="stanchor"><a name="introduction"> </a></span>
 
 A letter of introduction is a communication signed by the clerk that identifies the person who is traveling as a member or regular attender in good standing. This can be useful when visiting or moving somewhere.
