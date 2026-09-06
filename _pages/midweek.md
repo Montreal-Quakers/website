@@ -13,7 +13,7 @@ Wednesdays at 7 p.m. [Contact us for the link](/contact).
 
 ### When
 
-Thursdays at 4:30 p.m, starting September 10, 2026, so:
+Thursdays at 4:30 p.m, starting September 10, 2026.
 
 In general:
 

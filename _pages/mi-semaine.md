@@ -13,7 +13,7 @@ Le **mercredi** à 19&nbsp;h sur Zoom. [Contactez-nous pour le lien](/contact-fr
 
 ### Quand
 
-Le jeudi à 16&nbsp;h&nbsp;30 à partir du 10 septembre, 2026, soit le:
+Le jeudi à 16&nbsp;h&nbsp;30 à partir du 10 septembre, 2026.
 
 En général:
 
