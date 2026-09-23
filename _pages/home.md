@@ -3,9 +3,9 @@ lang: en
 translationID: home
 og-title: Home
 ---
-## [About Quakers](/intro) 
+## [About Quakers](/intro)
 
-Quakers are a community of seekers with diverse beliefs. We seek meaningful life, an accepting community, and doing good in the world. 
+Quakers are a community of seekers with diverse beliefs. We seek meaningful life, an accepting community, and doing good in the world.
 
 Quakers cherish humanity, perceiving an Inner Light or “that of God” in every human being. Love is the source of [Quaker values](/testimonies) and our peace-building work.
 
@@ -20,9 +20,10 @@ We are Quakers of all kinds — Christian Quakers, nontheist Quakers, Buddhist Q
 <br>
 ## [<i class="fas fa-map-marker-alt fa-fw color-1-dark-text"></i> ](/greene-centre){: class="linkoff" aria-label="Greene Centre"}[Where we meet](/greene-centre)
 
-Here are our opportunities to join us: 
+Here are our opportunities to join us:
+
 * [Sunday Meeting](/greene-centre) at 11 a.m. on Zoom ([contact us for the link](/contact)) **and** in person [near Lionel-Groulx metro](/greene-centre#in-person).
-* [Midweek Meeting](/midweek), Wednesdays at 7 p.m. on Zoom and in person every other Wednesday at 4:30pm near McGill. There's also a [monthly Zoom in French](/qc#on-zoom) on Mondays at 7 pm.
+* [Midweek Meeting](/midweek), Wednesdays at 7 p.m. on Zoom and in person every Thursday at 4:30pm near McGill. There's also a [monthly Zoom in French](/qc#on-zoom) on Mondays at 7 pm.
 * [Quebec City Worship Group](/quebec), first Sunday of the month at 11 a.m. in person in Québec City and Lévis.
 * [South Shore Worship Group](/south_shore) would like to meet in Saint-Lambert. [Contact us](/contact) for details.
 
